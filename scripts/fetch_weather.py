@@ -35,7 +35,12 @@ import time
 import urllib.parse
 import urllib.request
 from collections import Counter
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+
+# **시계는 반드시 한국이다.** 굽는 기계가 어디 있든(깃허브 러너는 UTC) 기상청
+# 예보도, 앱이 「오늘」인지 판정하는 기준도 한국 날짜다. UTC 로 구우면 06:00 KST
+# 실행분이 전날로 찍혀 앱에서 줄이 통째로 사라진다 — 2026-09-03 에 겪었다.
+KST = timezone(timedelta(hours=9))
 
 for _s in (sys.stdout, sys.stderr):
     try:
@@ -170,7 +175,7 @@ def main() -> int:
     ap.add_argument("--out", default=OUT)
     out_path = ap.parse_args().out
 
-    now = datetime.now()
+    now = datetime.now(KST)
     today = now.strftime("%Y%m%d")
     try:
         out = digest(fetch(now), today)

@@ -33,7 +33,14 @@ import os
 import ssl
 import sys
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
+
+# 고시일은 한국 영업일 기준이다. UTC 로 계산하면 하루 앞을 찾는다.
+KST = timezone(timedelta(hours=9))
+
+
+def today_kst() -> date:
+    return datetime.now(KST).date()
 
 # 윈도우 콘솔은 기본이 cp949라 한글·em대시에서 죽는다. 출력만 UTF-8로 돌린다.
 for _s in (sys.stdout, sys.stderr):
@@ -112,7 +119,7 @@ def main() -> int:
 
     # 주말·공휴일·오전 고시 전에는 빈 배열이 온다. 최대 5일 거슬러 올라간다.
     for back in range(5):
-        d = date.today() - timedelta(days=back)
+        d = today_kst() - timedelta(days=back)
         ymd = d.strftime("%Y%m%d")
         rows = fetch(args.key, ymd)
 
