@@ -31,6 +31,7 @@ import io
 import json
 import os
 import sys
+import time
 import urllib.parse
 import urllib.request
 from collections import Counter
@@ -79,7 +80,19 @@ def fetch(now: datetime) -> list[dict]:
          "base_date": bd, "base_time": bt, "nx": NX, "ny": NY}
     url = (f"{API}?serviceKey={key()}&"
            + "&".join(f"{k}={urllib.parse.quote(str(v))}" for k, v in q.items()))
-    raw = urllib.request.urlopen(url, timeout=30).read().decode("utf-8")
+    raw = None
+    last = None
+    for attempt in range(1, 4):
+        try:
+            raw = urllib.request.urlopen(url, timeout=45).read().decode("utf-8")
+            break
+        except Exception as e:  # 타임아웃·일시적 5xx
+            last = e
+            print(f"  기상청 호출 {attempt}/3 실패: {e}", flush=True)
+            if attempt < 3:
+                time.sleep(10)
+    if raw is None:
+        raise RuntimeError(f"기상청 3회 모두 실패: {last}")
     j = json.loads(raw)
     header = (j.get("response") or {}).get("header") or {}
     if header.get("resultCode") not in ("00", "0000"):
@@ -130,6 +143,25 @@ def digest(items: list[dict], today: str) -> dict:
     }
 
 
+def _probe() -> None:
+    """실패 원인을 로그에 남긴다. 해외에서 도는 러너에서는 통째로 막히기도 한다."""
+    import socket
+    import time as _t
+    host = urllib.parse.urlparse(API).hostname or ""
+    try:
+        ip = socket.gethostbyname(host)
+        print(f"  진단: {host} -> {ip} (DNS 정상)", flush=True)
+    except Exception as e:
+        print(f"  진단: DNS 실패 {host}: {e}", flush=True)
+        return
+    t0 = _t.time()
+    try:
+        with socket.create_connection((ip, 443), timeout=20):
+            print(f"  진단: 443 연결 성공 ({_t.time()-t0:.1f}s) — 막힌 게 아니라 느린 것", flush=True)
+    except Exception as e:
+        print(f"  진단: 443 연결 실패 ({_t.time()-t0:.1f}s): {e} — 해외 IP 차단 가능성", flush=True)
+
+
 def main() -> int:
     import argparse
 
@@ -140,7 +172,14 @@ def main() -> int:
 
     now = datetime.now()
     today = now.strftime("%Y%m%d")
-    out = digest(fetch(now), today)
+    try:
+        out = digest(fetch(now), today)
+    except Exception as e:
+        # 굽기 실패는 사고가 아니다. 앱은 어제 파일을 계속 읽고, 날짜가 지나면
+        # 스스로 줄을 감춘다. 여기서 1 을 뱉으면 뒤 단계(환율·커밋)까지 막힌다.
+        print(f"날씨 굽기 실패 — 기존 파일 유지: {e}", flush=True)
+        _probe()
+        return 0
     out["fetched_at"] = now.strftime("%Y-%m-%dT%H:%M")
     if os.path.dirname(out_path):
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
