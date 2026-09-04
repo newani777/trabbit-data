@@ -148,6 +148,27 @@ def digest(items: list[dict], today: str) -> dict:
     }
 
 
+def digest_days(items: list[dict], start: datetime, count: int = 3) -> list[dict]:
+    """오늘부터 며칠치를 담는다.
+
+    ## 왜 하루치로 안 되나 (2026-09-04)
+
+    앱은 「오늘 날짜인 파일만 참」으로 본다. 그런데 굽는 일은 06:00 KST 에 한
+    번뿐이라, **자정부터 06시까지는 파일이 어제 날짜**다. 그 사이 날씨 줄이
+    통째로 사라졌다(광호님 새벽 제보). 굽는 시각을 늘리는 건 워크플로 권한이
+    필요해서, 대신 **내일치를 미리 담는다.** 새벽에 앱이 어제 파일을 받아도
+    그 안에서 오늘 날짜를 찾아 쓴다.
+    """
+    out = []
+    for n in range(count):
+        d = (start + timedelta(days=n)).strftime("%Y%m%d")
+        try:
+            out.append(digest(items, d))
+        except RuntimeError:
+            break  # 예보가 닿는 데까지만
+    return out
+
+
 def _probe() -> None:
     """실패 원인을 로그에 남긴다. 해외에서 도는 러너에서는 통째로 막히기도 한다."""
     import socket
@@ -178,7 +199,11 @@ def main() -> int:
     now = datetime.now(KST)
     today = now.strftime("%Y%m%d")
     try:
-        out = digest(fetch(now), today)
+        got = fetch(now)
+        out = digest(got, today)
+        # 내일(+모레)까지 같이 담는다 — 새벽 공백을 메우는 장치. 자세한 이유는
+        # digest_days 주석.
+        out["days"] = digest_days(got, now)
     except Exception as e:
         # 굽기 실패는 사고가 아니다. 앱은 어제 파일을 계속 읽고, 날짜가 지나면
         # 스스로 줄을 감춘다. 여기서 1 을 뱉으면 뒤 단계(환율·커밋)까지 막힌다.
