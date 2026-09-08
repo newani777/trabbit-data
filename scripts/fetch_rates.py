@@ -31,6 +31,7 @@ import io
 import json
 import os
 import ssl
+import time
 import sys
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
@@ -78,18 +79,37 @@ WANTED = {
 OUT = os.path.join("assets", "data", "rates.json")
 
 
+def _get(url: str, ctx=None, timeout: int = 30):
+    with urllib.request.urlopen(url, timeout=timeout, context=ctx) as r:
+        return json.loads(r.read().decode("utf-8"))
+
+
 def fetch(key: str, ymd: str):
+    """한 날짜의 고시를 받아온다. 못 받으면 예외.
+
+    깃허브 액션에서 이 서버가 **응답 없이 끊기는 일이 잦다**(2026-09-08 실패:
+    urlopen error timed out). 예전엔 첫 시도에서 그대로 죽어 그날 환율이
+    통째로 안 실렸다. 15초 한 번 → 30초씩 세 번으로 늘리고 사이를 띄운다.
+    """
     url = f"{API}?authkey={key}&searchdate={ymd}&data=AP01"
-    # 이 서버는 인증서 체인이 종종 불완전하다. 값 자체는 공개 정보라
-    # 검증 실패 시에도 받아오되, 그 사실을 로그로 남긴다.
-    try:
-        with urllib.request.urlopen(url, timeout=15) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except ssl.SSLError as e:
-        print(f"  [경고] TLS 검증 실패({e}) — 검증 없이 재시도", file=sys.stderr)
-        ctx = ssl._create_unverified_context()
-        with urllib.request.urlopen(url, timeout=15, context=ctx) as r:
-            return json.loads(r.read().decode("utf-8"))
+    last = None
+    for attempt in range(3):
+        try:
+            # 이 서버는 인증서 체인이 종종 불완전하다. 값 자체는 공개 정보라
+            # 검증 실패 시에도 받아오되, 그 사실을 로그로 남긴다.
+            try:
+                return _get(url)
+            except ssl.SSLError as e:
+                print(f"  [경고] TLS 검증 실패({e}) — 검증 없이 재시도",
+                      file=sys.stderr)
+                return _get(url, ctx=ssl._create_unverified_context())
+        except Exception as e:  # noqa: BLE001 — 시간초과·연결끊김 모두 여기로
+            last = e
+            print(f"  [경고] {ymd} 받기 실패 {attempt + 1}/3: {e}",
+                  file=sys.stderr)
+            if attempt < 2:
+                time.sleep(5 * (attempt + 1))
+    raise last
 
 
 def main() -> int:
