@@ -4,6 +4,7 @@ name: bake
 on:
   schedule:
     - cron: '0 21 * * *'
+    - cron: '0 4 * * *'
   workflow_dispatch:        # 손으로도 돌릴 수 있게
 # 결과를 이 저장소에 커밋해야 하므로 쓰기 권한이 필요하다.
 permissions:
