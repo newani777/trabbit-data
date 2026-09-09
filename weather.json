@@ -1,43 +1,43 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-10",
   "city": "Seoul",
-  "tmin": 18,
-  "tmax": 30,
-  "sky": "clear",
+  "tmin": 16,
+  "tmax": 25,
+  "sky": "cloudy",
   "rain": "none",
-  "pop": 0,
+  "pop": 20,
   "source": "KMA",
   "days": [
-    {
-      "date": "2026-09-08",
-      "city": "Seoul",
-      "tmin": 18,
-      "tmax": 30,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0,
-      "source": "KMA"
-    },
-    {
-      "date": "2026-09-09",
-      "city": "Seoul",
-      "tmin": 20,
-      "tmax": 27,
-      "sky": "cloudy",
-      "rain": "none",
-      "pop": 30,
-      "source": "KMA"
-    },
     {
       "date": "2026-09-10",
       "city": "Seoul",
       "tmin": 16,
-      "tmax": 26,
-      "sky": "clear",
+      "tmax": 25,
+      "sky": "cloudy",
       "rain": "none",
-      "pop": 0,
+      "pop": 20,
+      "source": "KMA"
+    },
+    {
+      "date": "2026-09-11",
+      "city": "Seoul",
+      "tmin": 15,
+      "tmax": 28,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20,
+      "source": "KMA"
+    },
+    {
+      "date": "2026-09-12",
+      "city": "Seoul",
+      "tmin": 17,
+      "tmax": 27,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20,
       "source": "KMA"
     }
   ],
-  "fetched_at": "2026-09-08T19:49"
+  "fetched_at": "2026-09-10T07:49"
 }
