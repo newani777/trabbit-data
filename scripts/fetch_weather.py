@@ -24,6 +24,18 @@
 둘 다 들어 있는 가장 이른 판). 05:15 이전이면 전날 23:00 판을 쓴다.
 
 인증키는 공공데이터포털 것(관광공사 TourAPI 와 같은 키)이다.
+
+## 시간대별과 미세먼지 (2026-09-11, 광호님)
+
+날씨 알약을 누르고 들어오면 오늘 하루 한 줄만 있었다. 두 칸을 더 굽는다.
+
+- `hourly` — 지금부터 36시간, 1시간 간격(기온·하늘·비·강수확률). 하루 요약은
+  05:00 판을 쓰지만 시간대별은 **가장 최근 발표 판**을 쓴다(13시 굽기면 11:00 판).
+- `air` — 에어코리아 미세먼지 예보(PM10·PM2.5, 서울, 오늘·내일). **같은 키**를
+  쓰지만 공공데이터포털에서 「한국환경공단_에어코리아_대기오염정보」 활용신청이
+  따로 필요하다. 승인 전에는 조용히 건너뛰고 앱은 그 칸을 안 그린다.
+
+둘 다 예보라 아침에 구워도 그날 저녁까지 맞는다. 옛 앱은 모르는 키를 무시한다.
 """
 from __future__ import annotations
 
@@ -79,31 +91,132 @@ def base_of(now: datetime):
     return y.strftime("%Y%m%d"), "2300"
 
 
-def fetch(now: datetime) -> list[dict]:
-    bd, bt = base_of(now)
-    q = {"dataType": "JSON", "numOfRows": 1000, "pageNo": 1,
-         "base_date": bd, "base_time": bt, "nx": NX, "ny": NY}
-    url = (f"{API}?serviceKey={key()}&"
-           + "&".join(f"{k}={urllib.parse.quote(str(v))}" for k, v in q.items()))
-    raw = None
+BASES = ["0200", "0500", "0800", "1100", "1400", "1700", "2000", "2300"]
+
+
+def _get(url: str) -> str:
     last = None
     for attempt in range(1, 4):
         try:
-            raw = urllib.request.urlopen(url, timeout=45).read().decode("utf-8")
-            break
+            return urllib.request.urlopen(url, timeout=45).read().decode("utf-8")
         except Exception as e:  # 타임아웃·일시적 5xx
             last = e
             print(f"  기상청 호출 {attempt}/3 실패: {e}", flush=True)
             if attempt < 3:
                 time.sleep(10)
-    if raw is None:
-        raise RuntimeError(f"기상청 3회 모두 실패: {last}")
-    j = json.loads(raw)
-    header = (j.get("response") or {}).get("header") or {}
-    if header.get("resultCode") not in ("00", "0000"):
-        raise RuntimeError(f"기상청 응답 오류: {header}")
-    items = ((j["response"].get("body") or {}).get("items") or {}).get("item")
-    return items or []
+    raise RuntimeError(f"기상청 3회 모두 실패: {last}")
+
+
+def fetch_base(bd: str, bt: str) -> list[dict]:
+    """한 발표 판을 통째로. 한 쪽 1000줄을 넘으면 다음 쪽까지 받는다."""
+    out: list[dict] = []
+    page = 1
+    while True:
+        q = {"dataType": "JSON", "numOfRows": 1000, "pageNo": page,
+             "base_date": bd, "base_time": bt, "nx": NX, "ny": NY}
+        url = (f"{API}?serviceKey={key()}&"
+               + "&".join(f"{k}={urllib.parse.quote(str(v))}" for k, v in q.items()))
+        j = json.loads(_get(url))
+        header = (j.get("response") or {}).get("header") or {}
+        if header.get("resultCode") not in ("00", "0000"):
+            raise RuntimeError(f"기상청 응답 오류: {header}")
+        body = j["response"].get("body") or {}
+        items = (body.get("items") or {}).get("item") or []
+        out.extend(items)
+        total = int(body.get("totalCount") or 0)
+        if not items or page * 1000 >= total:
+            return out
+        page += 1
+
+
+def fetch(now: datetime) -> list[dict]:
+    """하루 요약용 판(05:00, 이르면 전날 23:00)."""
+    return fetch_base(*base_of(now))
+
+
+def latest_base(now: datetime):
+    """지금 받을 수 있는 가장 최근 발표 판. 발표 10분 뒤부터 나오니 15분 여유를 둔다."""
+    t = now - timedelta(minutes=15)
+    hhmm = t.strftime("%H%M")
+    done = [b for b in BASES if b <= hhmm]
+    if done:
+        return t.strftime("%Y%m%d"), done[-1]
+    y = t - timedelta(days=1)
+    return y.strftime("%Y%m%d"), "2300"
+
+
+def hourly(items: list[dict], now: datetime, hours: int = 36) -> list[dict]:
+    """지금 시부터 [hours] 시간, 1시간 간격. 시각은 서울 시각 'YYYY-MM-DDTHH:00'."""
+    start = now.replace(minute=0, second=0, microsecond=0)
+    end = start + timedelta(hours=hours)
+    by: dict[datetime, dict] = {}
+    for i in items:
+        d, t = i.get("fcstDate"), i.get("fcstTime")
+        if not d or not t:
+            continue
+        try:
+            at = datetime.strptime(d + t, "%Y%m%d%H%M").replace(tzinfo=KST)
+        except ValueError:
+            continue
+        if at < start or at > end:
+            continue
+        by.setdefault(at, {})[i.get("category")] = i.get("fcstValue")
+    out = []
+    for at in sorted(by):
+        m = by[at]
+        try:
+            tmp = round(float(m["TMP"]))
+        except (KeyError, TypeError, ValueError):
+            continue
+        pop = m.get("POP")
+        out.append({
+            "t": at.strftime("%Y-%m-%dT%H:00"),
+            "tmp": tmp,
+            "sky": SKY.get(str(m.get("SKY", ""))),
+            "rain": PTY.get(str(m.get("PTY", "0")), "none"),
+            "pop": int(pop) if str(pop or "").isdigit() else None,
+        })
+    return out
+
+
+AIR_API = ("https://apis.data.go.kr/B552584/ArpltnInforInqireSvc"
+           "/getMinuDustFrcstDspth")
+GRADE = {"좋음": "good", "보통": "moderate", "나쁨": "bad", "매우나쁨": "very_bad"}
+
+
+def air(now: datetime) -> dict | None:
+    """에어코리아 미세먼지 예보 — 서울, 오늘·내일(발표가 닿는 데까지).
+
+    같은 날짜에 발표가 여러 번 있다(05·11·17·23시). 가장 늦은 발표를 쓴다.
+    informGrade 는 '서울 : 보통,제주 : 좋음,…' 꼴이다.
+    """
+    today = now.strftime("%Y-%m-%d")
+    per_day: dict[str, dict] = {}
+    for code, field in (("PM10", "pm10"), ("PM25", "pm25")):
+        q = {"returnType": "json", "numOfRows": 100, "pageNo": 1,
+             "searchDate": today, "InformCode": code}
+        url = (f"{AIR_API}?serviceKey={key()}&"
+               + "&".join(f"{k}={urllib.parse.quote(str(v))}" for k, v in q.items()))
+        j = json.loads(urllib.request.urlopen(url, timeout=30).read().decode("utf-8"))
+        body = (j.get("response") or {}).get("body") or {}
+        latest: dict[str, tuple[str, str]] = {}
+        for it in body.get("items") or []:
+            if it.get("informCode") != code:
+                continue
+            day, when = it.get("informData"), it.get("dataTime") or ""
+            grade = None
+            for part in (it.get("informGrade") or "").split(","):
+                name, _, g = part.partition(":")
+                if name.strip() == "서울":
+                    grade = GRADE.get(g.strip().replace(" ", ""))
+            if not day or not grade:
+                continue
+            if day not in latest or when > latest[day][0]:
+                latest[day] = (when, grade)
+        for day, (_, g) in latest.items():
+            per_day.setdefault(day, {"date": day})[field] = g
+    days = [per_day[d] for d in sorted(per_day) if d >= today]
+    return {"source": "AirKorea", "days": days} if days else None
 
 
 def digest(items: list[dict], today: str) -> dict:
@@ -210,6 +323,25 @@ def main() -> int:
         print(f"날씨 굽기 실패 — 기존 파일 유지: {e}", flush=True)
         _probe()
         return 0
+    # 시간대별 — 가장 최근 발표 판. 실패하면 하루 요약 판에서라도 뽑는다.
+    try:
+        lb = latest_base(now)
+        items_h = got if lb == base_of(now) else fetch_base(*lb)
+        out["hourly"] = hourly(items_h, now)
+        out["hourly_base"] = "".join(lb)
+    except Exception as e:
+        print(f"시간대별 굽기 실패 — 요약 판으로 대신: {e}", flush=True)
+        try:
+            out["hourly"] = hourly(got, now)
+        except Exception:
+            pass
+    # 미세먼지 — 활용신청 전이면 403 이 온다. 그 칸만 빼고 나머지는 굽는다.
+    try:
+        a = air(now)
+        if a:
+            out["air"] = a
+    except Exception as e:
+        print(f"미세먼지 굽기 건너뜀: {e}", flush=True)
     out["fetched_at"] = now.strftime("%Y-%m-%dT%H:%M")
     if os.path.dirname(out_path):
         os.makedirs(os.path.dirname(out_path), exist_ok=True)

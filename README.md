@@ -24,3 +24,14 @@ https://newani777.github.io/trabbit-data/rates.json
 ```
 
 데이터는 기상청·한국수출입은행의 공개 정보이며, 각 기관의 이용약관을 따릅니다.
+
+## 2026-09-11 추가
+
+- `weather.json` 에 `hourly`(지금부터 36시간, 1시간 간격)와 `air`(에어코리아 미세먼지
+  예보, 서울 오늘·내일)가 붙는다. 옛 앱은 모르는 키를 무시한다. `air` 는 공공데이터포털
+  「한국환경공단_에어코리아_대기오염정보」 활용신청이 승인돼야 생긴다(같은 키).
+- `kpop_shows.json` — 이번 달·다음 달 서울 대중음악 공연. 저장소 비밀값 `KOPIS_KEY` 가
+  있을 때만 굽는다.
+- `weekly_feed/manifest.json` + 회차 폴더 — 앱 「이번 주 한국」(가칭) 카드. 손으로 올리지
+  않는다: 트래빗 저장소의 `scripts/publish_weekly_feed.py --id <회차>` 를 쓴다.
+
