@@ -1,8 +1,8 @@
 {
   "date": "2026-09-11",
   "city": "Seoul",
-  "tmin": 14,
-  "tmax": 28,
+  "tmin": 15,
+  "tmax": 27,
   "sky": "cloudy",
   "rain": "none",
   "pop": 20,
@@ -11,8 +11,8 @@
     {
       "date": "2026-09-11",
       "city": "Seoul",
-      "tmin": 14,
-      "tmax": 28,
+      "tmin": 15,
+      "tmax": 27,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20,
@@ -22,7 +22,7 @@
       "date": "2026-09-12",
       "city": "Seoul",
       "tmin": 17,
-      "tmax": 27,
+      "tmax": 28,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20,
@@ -32,42 +32,14 @@
       "date": "2026-09-13",
       "city": "Seoul",
       "tmin": 19,
-      "tmax": 26,
+      "tmax": 25,
       "sky": "cloudy",
       "rain": "none",
-      "pop": 20,
+      "pop": 30,
       "source": "KMA"
     }
   ],
   "hourly": [
-    {
-      "t": "2026-09-11T03:00",
-      "tmp": 16,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-09-11T04:00",
-      "tmp": 16,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-09-11T05:00",
-      "tmp": 16,
-      "sky": "cloudy",
-      "rain": "none",
-      "pop": 20
-    },
-    {
-      "t": "2026-09-11T06:00",
-      "tmp": 15,
-      "sky": "cloudy",
-      "rain": "none",
-      "pop": 20
-    },
     {
       "t": "2026-09-11T07:00",
       "tmp": 16,
@@ -77,7 +49,7 @@
     },
     {
       "t": "2026-09-11T08:00",
-      "tmp": 18,
+      "tmp": 17,
       "sky": "clear",
       "rain": "none",
       "pop": 0
@@ -105,7 +77,7 @@
     },
     {
       "t": "2026-09-11T12:00",
-      "tmp": 25,
+      "tmp": 24,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
@@ -119,7 +91,7 @@
     },
     {
       "t": "2026-09-11T14:00",
-      "tmp": 27,
+      "tmp": 26,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
@@ -133,14 +105,14 @@
     },
     {
       "t": "2026-09-11T16:00",
-      "tmp": 27,
+      "tmp": 26,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
     },
     {
       "t": "2026-09-11T17:00",
-      "tmp": 26,
+      "tmp": 25,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
@@ -189,7 +161,7 @@
     },
     {
       "t": "2026-09-12T00:00",
-      "tmp": 20,
+      "tmp": 19,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
@@ -224,7 +196,7 @@
     },
     {
       "t": "2026-09-12T05:00",
-      "tmp": 18,
+      "tmp": 17,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
@@ -252,7 +224,7 @@
     },
     {
       "t": "2026-09-12T09:00",
-      "tmp": 20,
+      "tmp": 21,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
@@ -273,33 +245,61 @@
     },
     {
       "t": "2026-09-12T12:00",
-      "tmp": 25,
-      "sky": "cloudy",
-      "rain": "none",
-      "pop": 20
-    },
-    {
-      "t": "2026-09-12T13:00",
       "tmp": 26,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
     },
     {
-      "t": "2026-09-12T14:00",
+      "t": "2026-09-12T13:00",
       "tmp": 27,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
     },
     {
+      "t": "2026-09-12T14:00",
+      "tmp": 28,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
       "t": "2026-09-12T15:00",
+      "tmp": 28,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-09-12T16:00",
+      "tmp": 28,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-09-12T17:00",
       "tmp": 27,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-09-12T18:00",
+      "tmp": 26,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-09-12T19:00",
+      "tmp": 24,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
     }
   ],
-  "hourly_base": "202609110200",
-  "fetched_at": "2026-09-11T03:26"
+  "hourly_base": "202609110500",
+  "fetched_at": "2026-09-11T07:50"
 }
