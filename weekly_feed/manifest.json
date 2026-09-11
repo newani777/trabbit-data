@@ -3,6 +3,53 @@
   "updated": "2026-09-11",
   "issues": [
     {
+      "id": "set10_autumn_foliage",
+      "no": 4,
+      "series": "Korea, Explained",
+      "title": "When the Leaves Turn, 2026",
+      "summary": "Colour moves from the northern mountains down to the south. This year's forecast runs a little late.",
+      "published": "2026-09-11",
+      "footer": "Forecast: WeatherEye, Sep 5 2026 · Photos: KTO",
+      "cards": [
+        {
+          "file": "set10_autumn_foliage/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 298278,
+          "alt": "When the Leaves Turn, 2026"
+        },
+        {
+          "file": "set10_autumn_foliage/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 295192,
+          "alt": "The mountains go first"
+        },
+        {
+          "file": "set10_autumn_foliage/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 298416,
+          "alt": "The city follows"
+        },
+        {
+          "file": "set10_autumn_foliage/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 257742,
+          "alt": "The south finishes last"
+        },
+        {
+          "file": "set10_autumn_foliage/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 50276,
+          "alt": "A forecast, not a promise"
+        }
+      ],
+      "bytes_total": 1199904
+    },
+    {
       "id": "set9_autumn_festivals",
       "no": 3,
       "series": "Korea, Explained",
