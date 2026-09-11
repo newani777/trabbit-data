@@ -3,6 +3,53 @@
   "updated": "2026-09-11",
   "issues": [
     {
+      "id": "set8_getting_around",
+      "no": 2,
+      "series": "Korea, Explained",
+      "title": "Getting Around Seoul, Explained",
+      "summary": "Three things that decide whether the day goes smoothly: the number, the colour, and the tap on the way out.",
+      "published": "2026-09-10",
+      "footer": "Fact-checked · Photos: Korea Tourism Organization",
+      "cards": [
+        {
+          "file": "set8_getting_around/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 95212,
+          "alt": "Getting Around Seoul, Explained"
+        },
+        {
+          "file": "set8_getting_around/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 81590,
+          "alt": "You never have to read a station name"
+        },
+        {
+          "file": "set8_getting_around/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 154564,
+          "alt": "The colour tells you where it is going"
+        },
+        {
+          "file": "set8_getting_around/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 125410,
+          "alt": "Calling one beats waving at one"
+        },
+        {
+          "file": "set8_getting_around/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 42910,
+          "alt": "Tap on. Tap off."
+        }
+      ],
+      "bytes_total": 499686
+    },
+    {
       "id": "set7_kpop_explained",
       "no": 1,
       "series": "Korea, Explained",
