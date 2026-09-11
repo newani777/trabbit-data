@@ -3,6 +3,53 @@
   "updated": "2026-09-11",
   "issues": [
     {
+      "id": "set9_autumn_festivals",
+      "no": 3,
+      "series": "Korea, Explained",
+      "title": "Three Autumn Festivals, Free",
+      "summary": "The biggest ones this October cost nothing to walk into. Here is where and when.",
+      "published": "2026-09-11",
+      "footer": "Dates: Korea Tourism Organization · Photos: KTO",
+      "cards": [
+        {
+          "file": "set9_autumn_festivals/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 126570,
+          "alt": "Three Autumn Festivals, Free"
+        },
+        {
+          "file": "set9_autumn_festivals/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 175606,
+          "alt": "A royal procession leaves Gwanghwamun"
+        },
+        {
+          "file": "set9_autumn_festivals/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 183532,
+          "alt": "Masks, and the dancing behind them"
+        },
+        {
+          "file": "set9_autumn_festivals/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 148558,
+          "alt": "Lanterns floated on a river"
+        },
+        {
+          "file": "set9_autumn_festivals/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 50716,
+          "alt": "Free to enter. Check before you go."
+        }
+      ],
+      "bytes_total": 684982
+    },
+    {
       "id": "set8_getting_around",
       "no": 2,
       "series": "Korea, Explained",
