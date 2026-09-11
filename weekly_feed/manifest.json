@@ -1,5 +1,53 @@
 {
   "version": 1,
   "updated": "2026-09-11",
-  "issues": []
+  "issues": [
+    {
+      "id": "set7_kpop_explained",
+      "no": 1,
+      "series": "Korea, Explained",
+      "title": "K-pop in Seoul, Explained",
+      "summary": "Three things a visiting fan sorts out first: which venue, where the goods are, and what you can actually see at an agency.",
+      "published": "2026-09-10",
+      "footer": "Fact-checked · Photos: Korea Tourism Organization",
+      "cards": [
+        {
+          "file": "set7_kpop_explained/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 190168,
+          "alt": "K-pop in Seoul, Explained"
+        },
+        {
+          "file": "set7_kpop_explained/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 147750,
+          "alt": "The name on the ticket tells you the trip"
+        },
+        {
+          "file": "set7_kpop_explained/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 120816,
+          "alt": "Shops, album stores, and pop-ups"
+        },
+        {
+          "file": "set7_kpop_explained/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 157690,
+          "alt": "Look from the street. That is the visit."
+        },
+        {
+          "file": "set7_kpop_explained/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 46582,
+          "alt": "One more thing before you buy"
+        }
+      ],
+      "bytes_total": 663006
+    }
+  ]
 }
