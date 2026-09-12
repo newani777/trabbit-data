@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-11",
+  "updated": "2026-09-13",
   "issues": [
     {
       "id": "set10_autumn_foliage",
@@ -184,11 +184,11 @@
           "file": "set7_kpop_explained/card5.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 46582,
+          "bytes": 46206,
           "alt": "One more thing before you buy"
         }
       ],
-      "bytes_total": 663006
+      "bytes_total": 662630
     }
   ]
 }
