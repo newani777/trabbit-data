@@ -3,6 +3,57 @@
   "updated": "2026-09-14",
   "issues": [
     {
+      "id": "set13_chuseok_week",
+      "no": 7,
+      "series": "Korea, Explained",
+      "title": "Chuseok Week, Explained",
+      "summary": "The autumn holiday lands on September 24 to 26. Three things to know first.",
+      "published": "2026-09-14",
+      "footer": "Sources: Korea Heritage Service, KTO · Photos: KTO",
+      "cards": [
+        {
+          "file": "set13_chuseok_week/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 138848,
+          "alt": "Chuseok Week, Explained"
+        },
+        {
+          "file": "set13_chuseok_week/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 106624,
+          "alt": "Thursday to Saturday, then Sunday"
+        },
+        {
+          "file": "set13_chuseok_week/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 233292,
+          "alt": "A banquet after dark"
+        },
+        {
+          "file": "set13_chuseok_week/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 246022,
+          "alt": "Watch for the free-entry notice"
+        },
+        {
+          "file": "set13_chuseok_week/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 48246,
+          "alt": "Plan around the holiday"
+        }
+      ],
+      "bytes_total": 773032,
+      "weekly": {
+        "no": 1,
+        "week": "Week of September 14, 2026"
+      }
+    },
+    {
       "id": "set12_street_arts",
       "no": 6,
       "series": "Korea, Explained",
