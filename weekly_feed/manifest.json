@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "issues": [
+    {
+      "id": "set11_gyeongju_night",
+      "no": 5,
+      "series": "Korea, Explained",
+      "title": "Gyeongju After Dark",
+      "summary": "The old Silla capital is at its best after sunset this month: not hot, not cold, and the ruins lit up a short walk apart.",
+      "published": "2026-09-14",
+      "footer": "Hours: KTO, Gyeongju City · Photos: KTO",
+      "cards": [
+        {
+          "file": "set11_gyeongju_night/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 112802,
+          "alt": "Gyeongju After Dark"
+        },
+        {
+          "file": "set11_gyeongju_night/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 104254,
+          "alt": "Start at the bridge as the sun goes"
+        },
+        {
+          "file": "set11_gyeongju_night/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 199046,
+          "alt": "The pond everyone comes for"
+        },
+        {
+          "file": "set11_gyeongju_night/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 132102,
+          "alt": "Finish at the star tower"
+        },
+        {
+          "file": "set11_gyeongju_night/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 45394,
+          "alt": "Three stops, one evening"
+        }
+      ],
+      "bytes_total": 593598,
+      "weekly": {
+        "no": 1,
+        "week": "Week of September 14, 2026"
+      }
+    },
     {
       "id": "set10_autumn_foliage",
       "no": 4,
