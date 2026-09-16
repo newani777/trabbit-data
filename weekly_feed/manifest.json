@@ -1,7 +1,262 @@
 {
   "version": 1,
-  "updated": "2026-09-14",
+  "updated": "2026-09-17",
   "issues": [
+    {
+      "id": "set20_naver_map",
+      "no": 12,
+      "series": "TRABBIT WEEKLY",
+      "title": "Naver Map Beats Google in Korea",
+      "summary": "Google Maps goes fuzzy on Korean addresses and transit. Naver Map is what locals use — and it has a full English mode.",
+      "published": "2026-09-17",
+      "footer": "Source: Trabbit CONNECT guide · Photos: KTO",
+      "cards": [
+        {
+          "file": "set20_naver_map/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 108182,
+          "alt": "Naver Map Beats Google in Korea"
+        },
+        {
+          "file": "set20_naver_map/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 105152,
+          "alt": "Google misses Korean detail"
+        },
+        {
+          "file": "set20_naver_map/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 149684,
+          "alt": "Flip the app to English"
+        },
+        {
+          "file": "set20_naver_map/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 222486,
+          "alt": "Subway exits and bus numbers"
+        },
+        {
+          "file": "set20_naver_map/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 48818,
+          "alt": "Use both, trust Naver"
+        }
+      ],
+      "bytes_total": 634322,
+      "weekly": {
+        "no": 2,
+        "week": "Week of September 21, 2026"
+      }
+    },
+    {
+      "id": "set19_andong_masks",
+      "no": 11,
+      "series": "Korea, Explained",
+      "title": "Masks Take Over Andong",
+      "summary": "Korea's best-known international mask dance festival returns to Andong for eleven days. Entry is free.",
+      "published": "2026-09-17",
+      "footer": "Source: festival listing via KTO · Photos: KTO",
+      "cards": [
+        {
+          "file": "set19_andong_masks/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 94898,
+          "alt": "Masks Take Over Andong"
+        },
+        {
+          "file": "set19_andong_masks/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 122456,
+          "alt": "A UNESCO village as the stage"
+        },
+        {
+          "file": "set19_andong_masks/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 235772,
+          "alt": "Most of it is free"
+        },
+        {
+          "file": "set19_andong_masks/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 279882,
+          "alt": "Eleven days from September 24"
+        },
+        {
+          "file": "set19_andong_masks/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 46918,
+          "alt": "Go for the masks"
+        }
+      ],
+      "bytes_total": 779926,
+      "weekly": {
+        "no": 2,
+        "week": "Week of September 21, 2026"
+      }
+    },
+    {
+      "id": "set18_ulju_mountain_film",
+      "no": 10,
+      "series": "TRABBIT WEEKLY",
+      "title": "Mountain Films in Ulju",
+      "summary": "Asia’s dedicated mountain-and-outdoor film festival returns for five days in Ulju county, outside central Ulsan. Entry is partially paid.",
+      "published": "2026-09-17",
+      "footer": "Source: KTO festival listing · Photos: KTO / UMFF",
+      "cards": [
+        {
+          "file": "set18_ulju_mountain_film/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 71538,
+          "alt": "Mountain Films in Ulju"
+        },
+        {
+          "file": "set18_ulju_mountain_film/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 72802,
+          "alt": "Ulju county, not downtown Ulsan"
+        },
+        {
+          "file": "set18_ulju_mountain_film/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 70022,
+          "alt": "Five days from September 18"
+        },
+        {
+          "file": "set18_ulju_mountain_film/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 218914,
+          "alt": "Partial paid — not all free"
+        },
+        {
+          "file": "set18_ulju_mountain_film/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 51808,
+          "alt": "Check the pass type"
+        }
+      ],
+      "bytes_total": 485084,
+      "weekly": {
+        "no": 2,
+        "week": "Week of September 21, 2026"
+      }
+    },
+    {
+      "id": "set17_bicof",
+      "no": 9,
+      "series": "TRABBIT WEEKLY",
+      "title": "BICOF Fills Bucheon",
+      "summary": "Korea’s biggest international comics and animation festival is a subway day trip from Seoul. Tickets are paid.",
+      "published": "2026-09-17",
+      "footer": "Source: KTO festival listing · Photos: KTO",
+      "cards": [
+        {
+          "file": "set17_bicof/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 186144,
+          "alt": "BICOF Fills Bucheon"
+        },
+        {
+          "file": "set17_bicof/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 198860,
+          "alt": "Korea Manhwa Museum area"
+        },
+        {
+          "file": "set17_bicof/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 151304,
+          "alt": "Three days, mid-September"
+        },
+        {
+          "file": "set17_bicof/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 78454,
+          "alt": "Paid entry — not a free walk-in"
+        },
+        {
+          "file": "set17_bicof/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 47572,
+          "alt": "Pack a day bag"
+        }
+      ],
+      "bytes_total": 662334,
+      "weekly": {
+        "no": 2,
+        "week": "Week of September 21, 2026"
+      }
+    },
+    {
+      "id": "set16_suwon_media_art",
+      "no": 8,
+      "series": "TRABBIT WEEKLY",
+      "title": "Suwon Fortress Lights Up",
+      "summary": "UNESCO Hwaseong gets a free night media-art run. Gates and a park become light stages after dark.",
+      "published": "2026-09-17",
+      "footer": "Source: Suwon Cultural Foundation · Photos: KTO",
+      "cards": [
+        {
+          "file": "set16_suwon_media_art/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 105172,
+          "alt": "Suwon Fortress Lights Up"
+        },
+        {
+          "file": "set16_suwon_media_art/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 153824,
+          "alt": "Three spots, one fortress"
+        },
+        {
+          "file": "set16_suwon_media_art/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 118834,
+          "alt": "6pm to 10pm, nights only"
+        },
+        {
+          "file": "set16_suwon_media_art/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 149988,
+          "alt": "Free to walk the light trail"
+        },
+        {
+          "file": "set16_suwon_media_art/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 44222,
+          "alt": "Go after dark"
+        }
+      ],
+      "bytes_total": 572040,
+      "weekly": {
+        "no": 2,
+        "week": "Week of September 21, 2026"
+      }
+    },
     {
       "id": "set13_chuseok_week",
       "no": 7,
@@ -248,53 +503,6 @@
         }
       ],
       "bytes_total": 686708
-    },
-    {
-      "id": "set8_getting_around",
-      "no": 2,
-      "series": "Korea, Explained",
-      "title": "Getting Around Seoul, Explained",
-      "summary": "Three things that decide whether the day goes smoothly: the number, the colour, and the tap on the way out.",
-      "published": "2026-09-10",
-      "footer": "Fact-checked · Photos: Korea Tourism Organization",
-      "cards": [
-        {
-          "file": "set8_getting_around/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 95212,
-          "alt": "Getting Around Seoul, Explained"
-        },
-        {
-          "file": "set8_getting_around/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 81590,
-          "alt": "You never have to read a station name"
-        },
-        {
-          "file": "set8_getting_around/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 154564,
-          "alt": "The colour tells you where it is going"
-        },
-        {
-          "file": "set8_getting_around/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 125410,
-          "alt": "Calling one beats waving at one"
-        },
-        {
-          "file": "set8_getting_around/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 42298,
-          "alt": "Tap on. Tap off."
-        }
-      ],
-      "bytes_total": 499074
     }
   ]
 }
