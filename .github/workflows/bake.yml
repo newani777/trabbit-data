@@ -12,12 +12,17 @@ permissions:
 jobs:
   bake:
     runs-on: ubuntu-latest
+    # K-pop 은 KOPIS 인증키가 비밀값에 있을 때만 돈다. 없으면 그 단계만 건너뛴다.
+    env:
+      KOPIS_KEY: ${{ secrets.KOPIS_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       # 인증키는 저장소 비밀값에만 있다. 로그에 찍히지 않는다.
+      # 하루 요약 + 시간대별(36시간) + 미세먼지 예보(에어코리아). 미세먼지는
+      # 공공데이터포털 활용신청 전이면 그 칸만 건너뛴다(2026-09-11).
       - name: 날씨 (기상청 단기예보)
         env:
           OPENDATA_API_KEY: ${{ secrets.OPENDATA_API_KEY }}
@@ -29,11 +34,18 @@ jobs:
         env:
           EXIM_KEY: ${{ secrets.EXIM_KEY }}
         run: python scripts/fetch_rates.py --out rates.json
+      # 이번 달·다음 달 서울 대중음악 공연(1,000석 이상). 월말에도 다음 달이
+      # 보여야 계획을 세운다(2026-09-11). 실패해도 어제 파일을 그대로 둔다.
+      - name: K-pop 공연 (KOPIS)
+        if: ${{ env.KOPIS_KEY != '' }}
+        continue-on-error: true
+        run: python scripts/fetch_kpop_shows.py --out kpop_shows.json
       - name: 바뀐 것만 커밋
         run: |
           git config user.name  'trabbit-bot'
           git config user.email 'noreply@github.com'
           git add weather.json rates.json
+          git add kpop_shows.json scripts/venue_scale.json 2>/dev/null || true
           git diff --cached --quiet && echo '바뀐 것 없음' && exit 0
           git commit -m "bake $(date -u +%Y-%m-%d)"
           git push
