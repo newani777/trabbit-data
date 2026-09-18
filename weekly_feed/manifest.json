@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-17",
+  "updated": "2026-09-19",
   "issues": [
     {
       "id": "set20_naver_map",
@@ -270,39 +270,39 @@
           "file": "set13_chuseok_week/card1.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 138848,
+          "bytes": 142406,
           "alt": "Chuseok Week, Explained"
         },
         {
           "file": "set13_chuseok_week/card2.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 106624,
+          "bytes": 100282,
           "alt": "Thursday to Saturday, then Sunday"
         },
         {
           "file": "set13_chuseok_week/card3.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 233292,
+          "bytes": 234530,
           "alt": "A banquet after dark"
         },
         {
           "file": "set13_chuseok_week/card4.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 246022,
-          "alt": "Watch for the free-entry notice"
+          "bytes": 239738,
+          "alt": "Free entry, September 24-27"
         },
         {
           "file": "set13_chuseok_week/card5.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 48246,
+          "bytes": 54282,
           "alt": "Plan around the holiday"
         }
       ],
-      "bytes_total": 773032,
+      "bytes_total": 771238,
       "weekly": {
         "no": 1,
         "week": "Week of September 14, 2026"
