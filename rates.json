@@ -1,87 +1,87 @@
 {
-  "date": "20260917",
+  "date": "20260918",
   "source": "koreaexim",
   "note": "deal_bas_r (매매기준율). 100단위 통화는 1단위로 환산됨.",
   "rates": [
     {
       "code": "USD",
       "name": "US Dollar",
-      "krw": 1368.3
+      "krw": 1380.3
     },
     {
       "code": "JPY",
       "name": "Japanese Yen",
-      "krw": 8.7596
+      "krw": 8.8529
     },
     {
       "code": "CNH",
       "name": "Chinese Yuan",
-      "krw": 204.14
+      "krw": 205.49
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "krw": 1569.17
+      "krw": 1584.31
     },
     {
       "code": "GBP",
       "name": "British Pound",
-      "krw": 1830.92
+      "krw": 1844.08
     },
     {
       "code": "HKD",
       "name": "Hong Kong Dollar",
-      "krw": 174.43
+      "krw": 175.92
     },
     {
       "code": "SGD",
       "name": "Singapore Dollar",
-      "krw": 1070.74
+      "krw": 1082.04
     },
     {
       "code": "THB",
       "name": "Thai Baht",
-      "krw": 40.95
+      "krw": 41.49
     },
     {
       "code": "MYR",
       "name": "Malaysian Ringgit",
-      "krw": 334.79
+      "krw": 336.74
     },
     {
       "code": "IDR",
       "name": "Indonesian Rupiah",
-      "krw": 0.0774
+      "krw": 0.0778
     },
     {
       "code": "AUD",
       "name": "Australian Dollar",
-      "krw": 970.12
+      "krw": 981.53
     },
     {
       "code": "NZD",
       "name": "New Zealand Dollar",
-      "krw": 783.28
+      "krw": 791.05
     },
     {
       "code": "CAD",
       "name": "Canadian Dollar",
-      "krw": 978.06
+      "krw": 986.7
     },
     {
       "code": "CHF",
       "name": "Swiss Franc",
-      "krw": 1656.84
+      "krw": 1674.21
     },
     {
       "code": "SAR",
       "name": "Saudi Riyal",
-      "krw": 364.29
+      "krw": 367.44
     },
     {
       "code": "AED",
       "name": "UAE Dirham",
-      "krw": 372.57
+      "krw": 375.82
     }
   ]
 }
