@@ -212,46 +212,46 @@
       "series": "TRABBIT WEEKLY",
       "title": "Suwon Fortress Lights Up",
       "summary": "UNESCO Hwaseong gets a free night media-art run. Gates and a park become light stages after dark.",
-      "published": "2026-09-17",
+      "published": "2026-09-21",
       "footer": "Source: Suwon Cultural Foundation · Photos: KTO",
       "cards": [
         {
           "file": "set16_suwon_media_art/card1.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 105172,
+          "bytes": 105862,
           "alt": "Suwon Fortress Lights Up"
         },
         {
           "file": "set16_suwon_media_art/card2.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 153824,
+          "bytes": 155376,
           "alt": "Three spots, one fortress"
         },
         {
           "file": "set16_suwon_media_art/card3.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 118834,
+          "bytes": 120140,
           "alt": "6pm to 10pm, nights only"
         },
         {
           "file": "set16_suwon_media_art/card4.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 149988,
+          "bytes": 151528,
           "alt": "Free to walk the light trail"
         },
         {
           "file": "set16_suwon_media_art/card5.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 44222,
+          "bytes": 46104,
           "alt": "Go after dark"
         }
       ],
-      "bytes_total": 572040,
+      "bytes_total": 579010,
       "weekly": {
         "no": 2,
         "week": "Week of September 21, 2026"
