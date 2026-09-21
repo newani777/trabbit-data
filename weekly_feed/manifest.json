@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "issues": [
     {
       "id": "set20_naver_map",
@@ -15,39 +15,39 @@
           "file": "set20_naver_map/card1.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 108182,
+          "bytes": 107312,
           "alt": "Naver Map Beats Google in Korea"
         },
         {
           "file": "set20_naver_map/card2.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 105152,
+          "bytes": 104338,
           "alt": "Google misses Korean detail"
         },
         {
           "file": "set20_naver_map/card3.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 149684,
+          "bytes": 152872,
           "alt": "Flip the app to English"
         },
         {
           "file": "set20_naver_map/card4.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 222486,
+          "bytes": 221670,
           "alt": "Subway exits and bus numbers"
         },
         {
           "file": "set20_naver_map/card5.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 48818,
+          "bytes": 53010,
           "alt": "Use both, trust Naver"
         }
       ],
-      "bytes_total": 634322,
+      "bytes_total": 639202,
       "weekly": {
         "no": 2,
         "week": "Week of September 21, 2026"
@@ -66,44 +66,43 @@
           "file": "set19_andong_masks/card1.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 94898,
+          "bytes": 97528,
           "alt": "Masks Take Over Andong"
         },
         {
           "file": "set19_andong_masks/card2.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 122456,
+          "bytes": 122310,
           "alt": "A UNESCO village as the stage"
         },
         {
           "file": "set19_andong_masks/card3.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 235772,
+          "bytes": 241340,
           "alt": "Most of it is free"
         },
         {
           "file": "set19_andong_masks/card4.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 279882,
+          "bytes": 281298,
           "alt": "Eleven days from September 24"
         },
         {
           "file": "set19_andong_masks/card5.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 46918,
+          "bytes": 53706,
           "alt": "Go for the masks"
         }
       ],
-      "bytes_total": 779926,
+      "bytes_total": 796182,
       "weekly": {
         "no": 2,
         "week": "Week of September 21, 2026"
-      },
-      "ends": "2026-10-04"
+      }
     },
     {
       "id": "set16_suwon_media_art",
