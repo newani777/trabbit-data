@@ -102,7 +102,8 @@
       "weekly": {
         "no": 2,
         "week": "Week of September 21, 2026"
-      }
+      },
+      "ends": "2026-10-04"
     },
     {
       "id": "set16_suwon_media_art",
@@ -153,7 +154,8 @@
       "weekly": {
         "no": 2,
         "week": "Week of September 21, 2026"
-      }
+      },
+      "ends": "2026-10-06"
     },
     {
       "id": "set13_chuseok_week",
@@ -204,58 +206,8 @@
       "weekly": {
         "no": 1,
         "week": "Week of September 14, 2026"
-      }
-    },
-    {
-      "id": "set12_street_arts",
-      "no": 6,
-      "series": "Korea, Explained",
-      "title": "A Free Street Arts Weekend",
-      "summary": "Seoul Street Arts Festival takes over a riverside park and a forest for one weekend. Twenty shows, all free.",
-      "published": "2026-09-14",
-      "footer": "Source: festival listing via KTO · Photos: KTO",
-      "cards": [
-        {
-          "file": "set12_street_arts/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 139250,
-          "alt": "A Free Street Arts Weekend"
-        },
-        {
-          "file": "set12_street_arts/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 151374,
-          "alt": "20 shows, 5 countries"
-        },
-        {
-          "file": "set12_street_arts/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 257712,
-          "alt": "The river and the forest"
-        },
-        {
-          "file": "set12_street_arts/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 91700,
-          "alt": "10am to 9pm, both days"
-        },
-        {
-          "file": "set12_street_arts/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 43630,
-          "alt": "Free to wander"
-        }
-      ],
-      "bytes_total": 683666,
-      "weekly": {
-        "no": 1,
-        "week": "Week of September 14, 2026"
-      }
+      },
+      "ends": "2026-09-27"
     },
     {
       "id": "set11_gyeongju_night",
@@ -400,7 +352,8 @@
           "alt": "Free to enter. Check before you go."
         }
       ],
-      "bytes_total": 686708
+      "bytes_total": 686708,
+      "ends": "2026-10-18"
     }
   ]
 }
