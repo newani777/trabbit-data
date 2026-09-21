@@ -40,12 +40,19 @@ jobs:
         if: ${{ env.KOPIS_KEY != '' }}
         continue-on-error: true
         run: python scripts/fetch_kpop_shows.py --out kpop_shows.json
+      # 「이번 주 한국」 지난 정보 정리 — 끝난 행사(ends 다음 날)와 4주 지난 회차를
+      # manifest 에서 내린다. 예전 버전 앱에서도 사라지게 하려면 여기서 지워야 한다
+      # (광호님 2026-09-21). 규칙은 trabbit_app lib/data/card_feed.dart 와 같다.
+      - name: 주간 카드 정리
+        continue-on-error: true
+        run: python scripts/prune_weekly_feed.py
       - name: 바뀐 것만 커밋
         run: |
           git config user.name  'trabbit-bot'
           git config user.email 'noreply@github.com'
           git add weather.json rates.json
           git add kpop_shows.json scripts/venue_scale.json 2>/dev/null || true
+          git add -A weekly_feed
           git diff --cached --quiet && echo '바뀐 것 없음' && exit 0
           git commit -m "bake $(date -u +%Y-%m-%d)"
           git push
