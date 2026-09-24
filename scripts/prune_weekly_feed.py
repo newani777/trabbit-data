@@ -102,6 +102,54 @@ def prune(feed_dir=FEED, dry=False, today=None):
     return log
 
 
+def broken_cards(feed_dir=FEED):
+    """manifest 에 걸린 카드 중 없거나 0바이트인 파일 (경로는 weekly_feed 기준)."""
+    mpath = os.path.join(feed_dir, "manifest.json")
+    if not os.path.exists(mpath):
+        return []
+    m = json.load(io.open(mpath, encoding="utf-8"))
+    out = []
+    for i in m.get("issues", []):
+        for c in i.get("cards", []):
+            f = os.path.join(feed_dir, c["file"])
+            if not os.path.exists(f) or os.path.getsize(f) == 0:
+                out.append(c["file"])
+    return out
+
+
+def heal(feed_dir=FEED):
+    """빈 카드를 git 기록에서 마지막으로 멀쩡했던 판으로 되살린다(2026-09-24).
+    9/21 에 set9·set10 카드 10장이 0바이트로 덮여 사흘 동안 앱에 빈 칸으로 떴다."""
+    import subprocess
+    repo = os.path.join(feed_dir, "..")
+    fixed, still = [], []
+    for rel in broken_cards(feed_dir):
+        path = f"weekly_feed/{rel}"
+        revs = subprocess.run(["git", "-C", repo, "log", "--format=%H", "--", path],
+                              capture_output=True, text=True).stdout.split()
+        ok = False
+        for h in revs:
+            size = subprocess.run(["git", "-C", repo, "cat-file", "-s", f"{h}:{path}"],
+                                  capture_output=True, text=True).stdout.strip()
+            if size.isdigit() and int(size) > 0:
+                data = subprocess.run(["git", "-C", repo, "show", f"{h}:{path}"], capture_output=True).stdout
+                os.makedirs(os.path.dirname(os.path.join(feed_dir, rel)), exist_ok=True)
+                open(os.path.join(feed_dir, rel), "wb").write(data)
+                fixed.append(rel)
+                ok = True
+                break
+        if not ok:
+            still.append(rel)
+    return fixed, still
+
+
 if __name__ == "__main__":
     log = prune(dry="--dry" in sys.argv)
     print("\n".join(log) if log else "내릴 것 없음")
+    if "--dry" not in sys.argv:
+        fixed, still = heal()
+        for f in fixed:
+            print(f"복구  {f} (git 기록에서)")
+        if still:
+            print("[경고] 복구 못 한 빈 카드: " + ", ".join(still))
+            sys.exit(2)
