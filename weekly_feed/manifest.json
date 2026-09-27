@@ -1,7 +1,184 @@
 {
   "version": 1,
-  "updated": "2026-09-22",
+  "updated": "2026-09-28",
   "issues": [
+    {
+      "id": "set29_long_weekend_trains",
+      "no": 15,
+      "series": "TRABBIT WEEKLY",
+      "title": "Long Weekend, Busy Trains",
+      "summary": "Korea gets a three-day weekend, October 3 to 5. If you are riding the KTX, book early and check your station.",
+      "published": "2026-09-28",
+      "footer": "Source: Trabbit trains guide (Korail) · Photos: KTO",
+      "cards": [
+        {
+          "file": "set29_long_weekend_trains/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 119618,
+          "alt": "Long Weekend, Busy Trains"
+        },
+        {
+          "file": "set29_long_weekend_trains/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 190662,
+          "alt": "Three days off"
+        },
+        {
+          "file": "set29_long_weekend_trains/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 114640,
+          "alt": "KTX and SRT merged"
+        },
+        {
+          "file": "set29_long_weekend_trains/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 127310,
+          "alt": "Sales open at 07:00"
+        },
+        {
+          "file": "set29_long_weekend_trains/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 121420,
+          "alt": "Check your station"
+        },
+        {
+          "file": "set29_long_weekend_trains/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 55532,
+          "alt": "Book first, plan second"
+        }
+      ],
+      "bytes_total": 729182,
+      "weekly": {
+        "no": 3,
+        "week": "Week of September 28, 2026"
+      },
+      "ends": "2026-10-05"
+    },
+    {
+      "id": "set28_jinju_lanterns",
+      "no": 14,
+      "series": "TRABBIT WEEKLY",
+      "title": "Lanterns on the Namgang",
+      "summary": "Jinju floats thousands of lanterns on its river for sixteen nights. Entry is free.",
+      "published": "2026-09-28",
+      "footer": "Sources: Jinju City, KTO · Photos: KTO",
+      "cards": [
+        {
+          "file": "set28_jinju_lanterns/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 98388,
+          "alt": "Lanterns on the Namgang"
+        },
+        {
+          "file": "set28_jinju_lanterns/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 118876,
+          "alt": "Below Jinju Fortress"
+        },
+        {
+          "file": "set28_jinju_lanterns/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 130562,
+          "alt": "Lit 6pm to midnight"
+        },
+        {
+          "file": "set28_jinju_lanterns/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 74394,
+          "alt": "Free to walk in"
+        },
+        {
+          "file": "set28_jinju_lanterns/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 117162,
+          "alt": "A signal from 1592"
+        },
+        {
+          "file": "set28_jinju_lanterns/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 58706,
+          "alt": "Stay for the night"
+        }
+      ],
+      "bytes_total": 598088,
+      "weekly": {
+        "no": 3,
+        "week": "Week of September 28, 2026"
+      },
+      "ends": "2026-10-18"
+    },
+    {
+      "id": "set27_palaces_till_9",
+      "no": 13,
+      "series": "TRABBIT WEEKLY",
+      "title": "Two Palaces Open Till 9pm",
+      "summary": "Deoksugung and Changgyeonggung stay open every evening. No booking, KRW 1,000 at the gate.",
+      "published": "2026-09-28",
+      "footer": "Source: Royal Palaces and Tombs Center, Sep 2026 · Photos: KTO",
+      "cards": [
+        {
+          "file": "set27_palaces_till_9/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 169758,
+          "alt": "Two Palaces Open Till 9pm"
+        },
+        {
+          "file": "set27_palaces_till_9/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 112612,
+          "alt": "A stone hall, lit at dusk"
+        },
+        {
+          "file": "set27_palaces_till_9/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 147720,
+          "alt": "A palace glasshouse"
+        },
+        {
+          "file": "set27_palaces_till_9/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 230682,
+          "alt": "KRW 1,000, or free"
+        },
+        {
+          "file": "set27_palaces_till_9/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 258976,
+          "alt": "Open on Monday, Oct 5"
+        },
+        {
+          "file": "set27_palaces_till_9/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 62268,
+          "alt": "Go after dinner"
+        }
+      ],
+      "bytes_total": 982016,
+      "weekly": {
+        "no": 3,
+        "week": "Week of September 28, 2026"
+      },
+      "ends": "2026-10-06"
+    },
     {
       "id": "set20_naver_map",
       "no": 12,
@@ -156,58 +333,6 @@
         "week": "Week of September 21, 2026"
       },
       "ends": "2026-10-06"
-    },
-    {
-      "id": "set13_chuseok_week",
-      "no": 7,
-      "series": "Korea, Explained",
-      "title": "Chuseok Week, Explained",
-      "summary": "The autumn holiday lands on September 24 to 26. Three things to know first.",
-      "published": "2026-09-14",
-      "footer": "Sources: Korea Heritage Service, KTO · Photos: KTO",
-      "cards": [
-        {
-          "file": "set13_chuseok_week/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 142406,
-          "alt": "Chuseok Week, Explained"
-        },
-        {
-          "file": "set13_chuseok_week/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 100282,
-          "alt": "Thursday to Saturday, then Sunday"
-        },
-        {
-          "file": "set13_chuseok_week/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 234530,
-          "alt": "A banquet after dark"
-        },
-        {
-          "file": "set13_chuseok_week/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 239738,
-          "alt": "Free entry, September 24-27"
-        },
-        {
-          "file": "set13_chuseok_week/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 54282,
-          "alt": "Plan around the holiday"
-        }
-      ],
-      "bytes_total": 771238,
-      "weekly": {
-        "no": 1,
-        "week": "Week of September 14, 2026"
-      },
-      "ends": "2026-09-27"
     },
     {
       "id": "set11_gyeongju_night",
