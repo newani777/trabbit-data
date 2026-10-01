@@ -197,7 +197,18 @@ def air(now: datetime) -> dict | None:
              "searchDate": today, "InformCode": code}
         url = (f"{AIR_API}?serviceKey={key()}&"
                + "&".join(f"{k}={urllib.parse.quote(str(v))}" for k, v in q.items()))
-        j = json.loads(urllib.request.urlopen(url, timeout=30).read().decode("utf-8"))
+        # 에어코리아 서버는 자주 늦거나 504 를 준다(10-01 첫 굽기가 이걸로 빠졌다).
+        # 세 번까지 다시 묻고, 그래도 안 되면 그 지표만 빼고 나머지는 싣는다.
+        j = None
+        for attempt in range(3):
+            try:
+                j = json.loads(urllib.request.urlopen(url, timeout=20).read().decode("utf-8"))
+                break
+            except Exception as e:
+                print(f"미세먼지 {code} {attempt + 1}회 실패: {e}", flush=True)
+                time.sleep(5)
+        if j is None:
+            continue
         body = (j.get("response") or {}).get("body") or {}
         latest: dict[str, tuple[str, str]] = {}
         for it in body.get("items") or []:
