@@ -54,9 +54,10 @@ API = "https://oapi.koreaexim.go.kr/site/program/financial/exchangeJSON"
 
 # 앱에 노출할 통화. 트래빗이 지원하는 언어권 + 방한객 상위 국가 기준으로
 # 골랐고, **은행 API가 실제로 주는 코드만** 넣었다.
-# 없어서 못 넣은 것: TWD(대만), VND(베트남), PHP(필리핀), INR(인도).
-#   → zh_tw·vi 사용자에게는 이 화면이 반쪽이다. 대안 출처를 찾기 전까지는
-#     직접 입력 계산기로 쓰게 두는 게 낫다(엉뚱한 환율을 보여주는 것보다).
+# 은행 API에 없는 TWD(대만)·PHP(필리핀)·VND(베트남)·INR(인도)는 한국은행
+# ECOS 「주요국 통화의 대원화환율」(731Y001, 영업일 일별)로 채운다(2026-10-02 광호님).
+# 이 넷은 미국 달러를 거친 재정환율이다 — 여행자 가늠용으로 충분하다.
+# ECOS 키가 없거나 실패하면 그 넷만 빠지고 나머지 16종은 그대로 나간다.
 WANTED = {
     "USD": "US Dollar",
     "JPY(100)": "Japanese Yen",
@@ -76,7 +77,53 @@ WANTED = {
     "AED": "UAE Dirham",
 }
 
+# ECOS 항목코드 → (통화코드, 이름, 고시 단위). 731Y001 항목표는 StatisticItemList 로 확인(2026-10-02).
+ECOS = {
+    "0000031": ("TWD", "Taiwan Dollar", 1),
+    "0000034": ("PHP", "Philippine Peso", 1),
+    "0000035": ("VND", "Vietnamese Dong", 100),
+    "0000037": ("INR", "Indian Rupee", 1),
+}
+ECOS_API = "https://ecos.bok.or.kr/api/StatisticSearch"
+# 시세판에 놓는 순서 — 방한객이 실제로 들고 오는 순서. 여기 없는 코드는 뒤에 붙는다.
+ORDER = ["USD", "JPY", "CNH", "TWD", "HKD", "EUR", "GBP", "SGD", "THB", "PHP", "VND",
+         "MYR", "IDR", "AUD", "NZD", "CAD", "CHF", "INR", "SAR", "AED"]
+
 OUT = os.path.join("assets", "data", "rates.json")
+
+
+def fetch_ecos(key: str) -> tuple[list, str | None]:
+    """ECOS 에서 넷을 받는다. 최근 10일 중 마지막 고시값. 실패하면 빈 목록."""
+    end = today_kst()
+    start = end - timedelta(days=10)
+    out, latest = [], None
+    for item, (code, name, unit) in ECOS.items():
+        url = (f"{ECOS_API}/{key}/json/kr/1/10/731Y001/D/"
+               f"{start:%Y%m%d}/{end:%Y%m%d}/{item}")
+        try:
+            with urllib.request.urlopen(url, timeout=20) as r:
+                j = json.loads(r.read().decode("utf-8"))
+        except Exception as e:
+            print(f"  [ECOS] {code} 받기 실패: {e}", file=sys.stderr)
+            continue
+        rows = (j.get("StatisticSearch") or {}).get("row") or []
+        if not rows:
+            # 키 오류·한도는 RESULT 로 온다(키 값은 찍지 않는다).
+            print(f"  [ECOS] {code} 값 없음: {(j.get('RESULT') or {}).get('MESSAGE', '')}",
+                  file=sys.stderr)
+            continue
+        last = max(rows, key=lambda x: x["TIME"])
+        try:
+            v = float(last["DATA_VALUE"]) / unit
+        except (KeyError, ValueError):
+            continue
+        if v <= 0:
+            continue
+        out.append({"code": code, "name": name, "krw": round(v, 4)})
+        latest = max(latest or "", last["TIME"])
+    return out, latest
+
+
 
 
 def _get(url: str, ctx=None, timeout: int = 30):
@@ -197,6 +244,30 @@ def main() -> int:
             "note": "deal_bas_r (매매기준율). 100단위 통화는 1단위로 환산됨.",
             "rates": out,
         }
+        ecos_key = os.environ.get("ECOS_KEY")
+        if not ecos_key:
+            try:
+                from check_apis import _secret
+                ecos_key = _secret("ECOS_KEY")
+            except Exception:
+                pass
+        if ecos_key:
+            extra, edate = fetch_ecos(ecos_key)
+            if extra:
+                have = {r["code"] for r in out}
+                out.extend(r for r in extra if r["code"] not in have)
+                payload["extra_source"] = "bok-ecos 731Y001 (재정환율)"
+                payload["extra_date"] = edate
+                try:
+                    from check_apis import stamp_success
+                    stamp_success("bok-ecos-fx")
+                except Exception:
+                    pass
+                print(f"  ECOS {len(extra)}종 추가 (기준일 {edate})")
+        else:
+            print("  [참고] ECOS_KEY 없음 — TWD·PHP·VND·INR 은 빠진다", file=sys.stderr)
+        rank = {c: i for i, c in enumerate(ORDER)}
+        out.sort(key=lambda r: rank.get(r["code"], len(ORDER)))
         outdir = os.path.dirname(args.out)
         if outdir:
             os.makedirs(outdir, exist_ok=True)
