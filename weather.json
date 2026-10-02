@@ -41,34 +41,6 @@
   ],
   "hourly": [
     {
-      "t": "2026-10-02T09:00",
-      "tmp": 16,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T10:00",
-      "tmp": 18,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T11:00",
-      "tmp": 19,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T12:00",
-      "tmp": 20,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
       "t": "2026-10-02T13:00",
       "tmp": 21,
       "sky": "clear",
@@ -298,9 +270,37 @@
       "sky": "clear",
       "rain": "none",
       "pop": 0
+    },
+    {
+      "t": "2026-10-03T22:00",
+      "tmp": 17,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-03T23:00",
+      "tmp": 16,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-04T00:00",
+      "tmp": 16,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-04T01:00",
+      "tmp": 16,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
     }
   ],
-  "hourly_base": "202610020800",
+  "hourly_base": "202610021100",
   "air": {
     "source": "AirKorea",
     "days": [
@@ -316,5 +316,5 @@
       }
     ]
   },
-  "fetched_at": "2026-10-02T09:19"
+  "fetched_at": "2026-10-02T13:33"
 }
