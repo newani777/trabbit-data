@@ -1,325 +1,325 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-04",
   "city": "Seoul",
-  "tmin": 11,
-  "tmax": 21,
-  "sky": "clear",
-  "rain": "none",
-  "pop": 0,
+  "tmin": 15,
+  "tmax": 24,
+  "sky": "cloudy",
+  "rain": "rain",
+  "pop": 60,
   "source": "KMA",
   "days": [
     {
-      "date": "2026-10-02",
+      "date": "2026-10-04",
+      "city": "Seoul",
+      "tmin": 15,
+      "tmax": 24,
+      "sky": "cloudy",
+      "rain": "rain",
+      "pop": 60,
+      "source": "KMA"
+    },
+    {
+      "date": "2026-10-05",
+      "city": "Seoul",
+      "tmin": 15,
+      "tmax": 20,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30,
+      "source": "KMA"
+    },
+    {
+      "date": "2026-10-06",
       "city": "Seoul",
       "tmin": 11,
       "tmax": 21,
       "sky": "clear",
       "rain": "none",
-      "pop": 0,
-      "source": "KMA"
-    },
-    {
-      "date": "2026-10-03",
-      "city": "Seoul",
-      "tmin": 11,
-      "tmax": 22,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30,
-      "source": "KMA"
-    },
-    {
-      "date": "2026-10-04",
-      "city": "Seoul",
-      "tmin": 15,
-      "tmax": 23,
-      "sky": "cloudy",
-      "rain": "none",
-      "pop": 30,
+      "pop": 20,
       "source": "KMA"
     }
   ],
   "hourly": [
     {
-      "t": "2026-10-02T19:00",
-      "tmp": 17,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T20:00",
-      "tmp": 17,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T21:00",
-      "tmp": 16,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T22:00",
-      "tmp": 15,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-02T23:00",
-      "tmp": 14,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T00:00",
-      "tmp": 14,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T01:00",
-      "tmp": 13,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T02:00",
-      "tmp": 12,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T03:00",
-      "tmp": 12,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T04:00",
-      "tmp": 12,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T05:00",
-      "tmp": 11,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T06:00",
-      "tmp": 11,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T07:00",
-      "tmp": 11,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T08:00",
-      "tmp": 12,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T09:00",
-      "tmp": 15,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T10:00",
-      "tmp": 17,
-      "sky": "cloudy",
-      "rain": "none",
-      "pop": 20
-    },
-    {
-      "t": "2026-10-03T11:00",
-      "tmp": 19,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T12:00",
-      "tmp": 21,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T13:00",
-      "tmp": 22,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T14:00",
-      "tmp": 22,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T15:00",
-      "tmp": 23,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T16:00",
-      "tmp": 23,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T17:00",
-      "tmp": 22,
-      "sky": "overcast",
-      "rain": "none",
-      "pop": 30
-    },
-    {
-      "t": "2026-10-03T18:00",
+      "t": "2026-10-04T19:00",
       "tmp": 20,
       "sky": "overcast",
       "rain": "none",
       "pop": 30
     },
     {
-      "t": "2026-10-03T19:00",
+      "t": "2026-10-04T20:00",
       "tmp": 19,
       "sky": "overcast",
       "rain": "none",
       "pop": 30
     },
     {
-      "t": "2026-10-03T20:00",
+      "t": "2026-10-04T21:00",
+      "tmp": 19,
+      "sky": "overcast",
+      "rain": "rain",
+      "pop": 60
+    },
+    {
+      "t": "2026-10-04T22:00",
       "tmp": 18,
+      "sky": "overcast",
+      "rain": "rain",
+      "pop": 60
+    },
+    {
+      "t": "2026-10-04T23:00",
+      "tmp": 18,
+      "sky": "overcast",
+      "rain": "rain",
+      "pop": 60
+    },
+    {
+      "t": "2026-10-05T00:00",
+      "tmp": 17,
+      "sky": "overcast",
+      "rain": "rain",
+      "pop": 60
+    },
+    {
+      "t": "2026-10-05T01:00",
+      "tmp": 17,
       "sky": "overcast",
       "rain": "none",
       "pop": 30
     },
     {
-      "t": "2026-10-03T21:00",
-      "tmp": 18,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T22:00",
-      "tmp": 17,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-03T23:00",
-      "tmp": 17,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-04T00:00",
+      "t": "2026-10-05T02:00",
       "tmp": 16,
-      "sky": "clear",
+      "sky": "overcast",
       "rain": "none",
-      "pop": 0
+      "pop": 30
     },
     {
-      "t": "2026-10-04T01:00",
+      "t": "2026-10-05T03:00",
       "tmp": 16,
-      "sky": "clear",
+      "sky": "overcast",
       "rain": "none",
-      "pop": 0
+      "pop": 30
     },
     {
-      "t": "2026-10-04T02:00",
-      "tmp": 16,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-10-04T03:00",
+      "t": "2026-10-05T04:00",
       "tmp": 15,
-      "sky": "clear",
+      "sky": "overcast",
       "rain": "none",
-      "pop": 0
+      "pop": 30
     },
     {
-      "t": "2026-10-04T04:00",
+      "t": "2026-10-05T05:00",
       "tmp": 15,
-      "sky": "clear",
+      "sky": "overcast",
       "rain": "none",
-      "pop": 0
+      "pop": 30
     },
     {
-      "t": "2026-10-04T05:00",
+      "t": "2026-10-05T06:00",
       "tmp": 15,
       "sky": "cloudy",
       "rain": "none",
       "pop": 20
     },
     {
-      "t": "2026-10-04T06:00",
+      "t": "2026-10-05T07:00",
+      "tmp": 14,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-05T08:00",
       "tmp": 15,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-05T09:00",
+      "tmp": 17,
       "sky": "overcast",
       "rain": "none",
       "pop": 30
     },
     {
-      "t": "2026-10-04T07:00",
-      "tmp": 15,
+      "t": "2026-10-05T10:00",
+      "tmp": 18,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-05T11:00",
+      "tmp": 18,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-05T12:00",
+      "tmp": 19,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-05T13:00",
+      "tmp": 19,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-05T14:00",
+      "tmp": 20,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-05T15:00",
+      "tmp": 20,
       "sky": "overcast",
       "rain": "none",
       "pop": 30
+    },
+    {
+      "t": "2026-10-05T16:00",
+      "tmp": 19,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30
+    },
+    {
+      "t": "2026-10-05T17:00",
+      "tmp": 18,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30
+    },
+    {
+      "t": "2026-10-05T18:00",
+      "tmp": 17,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30
+    },
+    {
+      "t": "2026-10-05T19:00",
+      "tmp": 16,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30
+    },
+    {
+      "t": "2026-10-05T20:00",
+      "tmp": 16,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30
+    },
+    {
+      "t": "2026-10-05T21:00",
+      "tmp": 15,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-05T22:00",
+      "tmp": 15,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-05T23:00",
+      "tmp": 14,
+      "sky": "cloudy",
+      "rain": "none",
+      "pop": 20
+    },
+    {
+      "t": "2026-10-06T00:00",
+      "tmp": 14,
+      "sky": "overcast",
+      "rain": "none",
+      "pop": 30
+    },
+    {
+      "t": "2026-10-06T01:00",
+      "tmp": 13,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-06T02:00",
+      "tmp": 12,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-06T03:00",
+      "tmp": 12,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-06T04:00",
+      "tmp": 12,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-06T05:00",
+      "tmp": 11,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-06T06:00",
+      "tmp": 11,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-10-06T07:00",
+      "tmp": 11,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
     }
   ],
-  "hourly_base": "202610021700",
+  "hourly_base": "202610041700",
   "air": {
     "source": "AirKorea",
     "days": [
       {
-        "date": "2026-10-02",
-        "pm10": "good",
-        "pm25": "good"
-      },
-      {
-        "date": "2026-10-03",
-        "pm10": "good",
-        "pm25": "good"
-      },
-      {
         "date": "2026-10-04",
+        "pm10": "good",
+        "pm25": "good"
+      },
+      {
+        "date": "2026-10-05",
+        "pm10": "good",
+        "pm25": "good"
+      },
+      {
+        "date": "2026-10-06",
         "pm10": "good",
         "pm25": "good"
       }
     ]
   },
-  "fetched_at": "2026-10-02T19:15"
+  "fetched_at": "2026-10-04T19:21"
 }
