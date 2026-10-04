@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-09-28",
+  "updated": "2026-10-05",
   "issues": [
     {
       "id": "set29_long_weekend_trains",
@@ -231,58 +231,6 @@
       }
     },
     {
-      "id": "set19_andong_masks",
-      "no": 11,
-      "series": "Korea, Explained",
-      "title": "Masks Take Over Andong",
-      "summary": "Korea's best-known international mask dance festival returns to Andong for eleven days. Entry is free.",
-      "published": "2026-09-21",
-      "footer": "Source: festival listing via KTO · Photos: KTO",
-      "cards": [
-        {
-          "file": "set19_andong_masks/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 97528,
-          "alt": "Masks Take Over Andong"
-        },
-        {
-          "file": "set19_andong_masks/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 122310,
-          "alt": "A UNESCO village as the stage"
-        },
-        {
-          "file": "set19_andong_masks/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 241340,
-          "alt": "Most of it is free"
-        },
-        {
-          "file": "set19_andong_masks/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 281298,
-          "alt": "Eleven days from September 24"
-        },
-        {
-          "file": "set19_andong_masks/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 53706,
-          "alt": "Go for the masks"
-        }
-      ],
-      "bytes_total": 796182,
-      "weekly": {
-        "no": 2,
-        "week": "Week of September 21, 2026"
-      },
-      "ends": "2026-10-04"
-    },
-    {
       "id": "set16_suwon_media_art",
       "no": 8,
       "series": "TRABBIT WEEKLY",
@@ -384,101 +332,6 @@
         "no": 1,
         "week": "Week of September 14, 2026"
       }
-    },
-    {
-      "id": "set10_autumn_foliage",
-      "no": 4,
-      "series": "Korea, Explained",
-      "title": "When the Leaves Turn, 2026",
-      "summary": "Colour moves from the northern mountains down to the south. This year's forecast runs a little late.",
-      "published": "2026-09-11",
-      "footer": "Forecast: WeatherEye, Sep 5 2026 · Photos: KTO",
-      "cards": [
-        {
-          "file": "set10_autumn_foliage/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 298278,
-          "alt": "When the Leaves Turn, 2026"
-        },
-        {
-          "file": "set10_autumn_foliage/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 295192,
-          "alt": "The mountains go first"
-        },
-        {
-          "file": "set10_autumn_foliage/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 298416,
-          "alt": "The city follows"
-        },
-        {
-          "file": "set10_autumn_foliage/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 257742,
-          "alt": "The south finishes last"
-        },
-        {
-          "file": "set10_autumn_foliage/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 50276,
-          "alt": "A forecast, not a promise"
-        }
-      ],
-      "bytes_total": 1199904
-    },
-    {
-      "id": "set9_autumn_festivals",
-      "no": 3,
-      "series": "Korea, Explained",
-      "title": "Three Autumn Festivals, Free",
-      "summary": "The biggest ones this October cost nothing to walk into. Here is where and when.",
-      "published": "2026-09-11",
-      "footer": "Dates: Korea Tourism Organization · Photos: KTO",
-      "cards": [
-        {
-          "file": "set9_autumn_festivals/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 126570,
-          "alt": "Three Autumn Festivals, Free"
-        },
-        {
-          "file": "set9_autumn_festivals/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 175606,
-          "alt": "A royal procession leaves Gwanghwamun"
-        },
-        {
-          "file": "set9_autumn_festivals/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 183532,
-          "alt": "Masks, and the dancing behind them"
-        },
-        {
-          "file": "set9_autumn_festivals/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 148558,
-          "alt": "Lanterns floated on a river"
-        },
-        {
-          "file": "set9_autumn_festivals/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 52442,
-          "alt": "Free to enter. Check before you go."
-        }
-      ],
-      "bytes_total": 686708,
-      "ends": "2026-10-18"
     }
   ]
 }
