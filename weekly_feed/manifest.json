@@ -3,6 +3,65 @@
   "updated": "2026-10-06",
   "issues": [
     {
+      "id": "set32_luggage_long_weekend",
+      "no": 17,
+      "series": "TRABBIT WEEKLY",
+      "title": "Travel the long weekend light",
+      "summary": "Friday 9 October is Hangeul Day, a public holiday. Four ways to leave your suitcase behind.",
+      "published": "2026-10-06",
+      "footer": "Source: Trabbit · Photos: KTO, Piotrus (CC BY-SA)",
+      "cards": [
+        {
+          "file": "set32_luggage_long_weekend/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 170966,
+          "alt": "Travel the long weekend light"
+        },
+        {
+          "file": "set32_luggage_long_weekend/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 110734,
+          "alt": "Station lockers"
+        },
+        {
+          "file": "set32_luggage_long_weekend/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 194312,
+          "alt": "Staffed counters"
+        },
+        {
+          "file": "set32_luggage_long_weekend/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 144678,
+          "alt": "Ask your hotel"
+        },
+        {
+          "file": "set32_luggage_long_weekend/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 115480,
+          "alt": "Send it ahead"
+        },
+        {
+          "file": "set32_luggage_long_weekend/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 54624,
+          "alt": "Lighter, freer"
+        }
+      ],
+      "bytes_total": 790794,
+      "weekly": {
+        "no": 4,
+        "week": "Week of October 5, 2026"
+      },
+      "ends": "2026-10-11"
+    },
+    {
       "id": "set31_biff",
       "no": 16,
       "series": "TRABBIT WEEKLY",
