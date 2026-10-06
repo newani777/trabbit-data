@@ -3,6 +3,65 @@
   "updated": "2026-10-06",
   "issues": [
     {
+      "id": "set30_nodeul_island",
+      "no": 15,
+      "series": "TRABBIT WEEKLY",
+      "title": "Nodeul Island, reborn",
+      "summary": "The island in the Han River opened a new riverside walk on 18 September. Come for the sunset, stay for the lights.",
+      "published": "2026-10-06",
+      "footer": "Sources: Seoul Metropolitan Government · Photos: KTO",
+      "cards": [
+        {
+          "file": "set30_nodeul_island/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 126116,
+          "alt": "Nodeul Island, reborn"
+        },
+        {
+          "file": "set30_nodeul_island/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 140122,
+          "alt": "A loop round the island"
+        },
+        {
+          "file": "set30_nodeul_island/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 145722,
+          "alt": "Lasers on the river"
+        },
+        {
+          "file": "set30_nodeul_island/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 115310,
+          "alt": "Nightly under the bridge"
+        },
+        {
+          "file": "set30_nodeul_island/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 107198,
+          "alt": "Line 9, Nodeul Exit 2"
+        },
+        {
+          "file": "set30_nodeul_island/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 60532,
+          "alt": "Go at golden hour"
+        }
+      ],
+      "bytes_total": 695000,
+      "weekly": {
+        "no": 4,
+        "week": "Week of October 5, 2026"
+      },
+      "ends": "2026-10-31"
+    },
+    {
       "id": "set28_jinju_lanterns",
       "no": 14,
       "series": "TRABBIT WEEKLY",
