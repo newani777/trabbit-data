@@ -1,66 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "issues": [
-    {
-      "id": "set29_long_weekend_trains",
-      "no": 15,
-      "series": "TRABBIT WEEKLY",
-      "title": "Long Weekend, Busy Trains",
-      "summary": "Korea gets a three-day weekend, October 3 to 5. If you are riding the KTX, book early and check your station.",
-      "published": "2026-09-28",
-      "footer": "Source: Trabbit trains guide (Korail) · Photos: KTO",
-      "cards": [
-        {
-          "file": "set29_long_weekend_trains/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 119618,
-          "alt": "Long Weekend, Busy Trains"
-        },
-        {
-          "file": "set29_long_weekend_trains/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 190662,
-          "alt": "Three days off"
-        },
-        {
-          "file": "set29_long_weekend_trains/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 114640,
-          "alt": "KTX and SRT merged"
-        },
-        {
-          "file": "set29_long_weekend_trains/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 127310,
-          "alt": "Sales open at 07:00"
-        },
-        {
-          "file": "set29_long_weekend_trains/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 121420,
-          "alt": "Check your station"
-        },
-        {
-          "file": "set29_long_weekend_trains/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 55532,
-          "alt": "Book first, plan second"
-        }
-      ],
-      "bytes_total": 729182,
-      "weekly": {
-        "no": 3,
-        "week": "Week of September 28, 2026"
-      },
-      "ends": "2026-10-05"
-    },
     {
       "id": "set28_jinju_lanterns",
       "no": 14,
