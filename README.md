@@ -35,3 +35,9 @@ https://newani777.github.io/trabbit-data/rates.json
 - `weekly_feed/manifest.json` + 회차 폴더 — 앱 「이번 주 한국」(가칭) 카드. 손으로 올리지
   않는다: 트래빗 저장소의 `scripts/publish_weekly_feed.py --id <회차>` 를 쓴다.
 
+
+## station_guides/ (2026-10-08)
+
+서울교통공사 「역이용안내도」(공공데이터포털 15004974, 2026-08-31 기준, 이용허락 제한 없음) — 1~8호선 역·호선별 276장, 2000px WebP.
+트래빗 앱 「역 정보 → 역 안내도 보기」가 누를 때 한 장씩 받는다. 만드는 곳: trabbit_app `scripts/station_guides.py`.
+파일 이름에 자료 날짜가 들어가므로 새 판이 나와도 **옛 파일은 지우지 말 것**(업데이트 전 앱이 가리킨다).
