@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "issues": [
     {
       "id": "set32_luggage_long_weekend",
@@ -239,65 +239,6 @@
       "ends": "2026-10-18"
     },
     {
-      "id": "set27_palaces_till_9",
-      "no": 13,
-      "series": "TRABBIT WEEKLY",
-      "title": "Two Palaces Open Till 9pm",
-      "summary": "Deoksugung and Changgyeonggung stay open every evening. No booking, KRW 1,000 at the gate.",
-      "published": "2026-09-28",
-      "footer": "Source: Royal Palaces and Tombs Center, Sep 2026 · Photos: KTO",
-      "cards": [
-        {
-          "file": "set27_palaces_till_9/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 169758,
-          "alt": "Two Palaces Open Till 9pm"
-        },
-        {
-          "file": "set27_palaces_till_9/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 112612,
-          "alt": "A stone hall, lit at dusk"
-        },
-        {
-          "file": "set27_palaces_till_9/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 147720,
-          "alt": "A palace glasshouse"
-        },
-        {
-          "file": "set27_palaces_till_9/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 230682,
-          "alt": "KRW 1,000, or free"
-        },
-        {
-          "file": "set27_palaces_till_9/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 258976,
-          "alt": "Open on Monday, Oct 5"
-        },
-        {
-          "file": "set27_palaces_till_9/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 62268,
-          "alt": "Go after dinner"
-        }
-      ],
-      "bytes_total": 982016,
-      "weekly": {
-        "no": 3,
-        "week": "Week of September 28, 2026"
-      },
-      "ends": "2026-10-06"
-    },
-    {
       "id": "set20_naver_map",
       "no": 12,
       "series": "TRABBIT WEEKLY",
@@ -347,58 +288,6 @@
         "no": 2,
         "week": "Week of September 21, 2026"
       }
-    },
-    {
-      "id": "set16_suwon_media_art",
-      "no": 8,
-      "series": "TRABBIT WEEKLY",
-      "title": "Suwon Fortress Lights Up",
-      "summary": "UNESCO Hwaseong gets a free night media-art run. Gates and a park become light stages after dark.",
-      "published": "2026-09-21",
-      "footer": "Source: Suwon Cultural Foundation · Photos: KTO",
-      "cards": [
-        {
-          "file": "set16_suwon_media_art/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 105862,
-          "alt": "Suwon Fortress Lights Up"
-        },
-        {
-          "file": "set16_suwon_media_art/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 155376,
-          "alt": "Three spots, one fortress"
-        },
-        {
-          "file": "set16_suwon_media_art/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 120140,
-          "alt": "6pm to 10pm, nights only"
-        },
-        {
-          "file": "set16_suwon_media_art/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 151528,
-          "alt": "Free to walk the light trail"
-        },
-        {
-          "file": "set16_suwon_media_art/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 46104,
-          "alt": "Go after dark"
-        }
-      ],
-      "bytes_total": 579010,
-      "weekly": {
-        "no": 2,
-        "week": "Week of September 21, 2026"
-      },
-      "ends": "2026-10-06"
     },
     {
       "id": "set11_gyeongju_night",
