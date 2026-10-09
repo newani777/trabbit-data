@@ -15,6 +15,7 @@ jobs:
     # K-pop 은 KOPIS 인증키가 비밀값에 있을 때만 돈다. 없으면 그 단계만 건너뛴다.
     env:
       KOPIS_KEY: ${{ secrets.KOPIS_KEY }}
+      SEOUL_OPENAPI_KEY: ${{ secrets.SEOUL_OPENAPI_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -43,6 +44,12 @@ jobs:
         if: ${{ env.KOPIS_KEY != '' }}
         continue-on-error: true
         run: python scripts/fetch_kpop_shows.py --out kpop_shows.json
+      # 「서울 Upcoming」 — 서울시 문화행사 정보(서울 열린데이터광장 OA-15486), 오늘부터 3주(2026-10-10).
+      # SEOUL_OPENAPI_KEY 비밀값이 없으면 건너뛴다. 실패해도 어제 파일을 그대로 둔다.
+      - name: 서울 행사 (서울 열린데이터광장)
+        if: ${{ env.SEOUL_OPENAPI_KEY != '' }}
+        continue-on-error: true
+        run: python scripts/fetch_seoul_events.py --out seoul_events.json
       # 「이번 주 한국」 지난 정보 정리 — 끝난 행사(ends 다음 날)와 4주 지난 회차를
       # manifest 에서 내린다. 예전 버전 앱에서도 사라지게 하려면 여기서 지워야 한다
       # (광호님 2026-09-21). 규칙은 trabbit_app lib/data/card_feed.dart 와 같다.
@@ -55,6 +62,7 @@ jobs:
           git config user.email 'noreply@github.com'
           git add weather.json rates.json
           git add kpop_shows.json scripts/venue_scale.json 2>/dev/null || true
+          git add seoul_events.json 2>/dev/null || true
           git add -A weekly_feed
           git diff --cached --quiet && echo '바뀐 것 없음' && exit 0
           git commit -m "bake $(date -u +%Y-%m-%d)"
