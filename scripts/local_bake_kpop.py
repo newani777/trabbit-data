@@ -12,6 +12,7 @@ import datetime
 import re
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -39,10 +40,14 @@ def main():
     if r.returncode:
         log("pull 실패: " + (r.stderr or "").strip()[:200])
         return 1
-    p = subprocess.run([sys.executable, "-X", "utf8", "scripts/fetch_kpop_shows.py", "--key", key, "--out", "kpop_shows.json"],
-                       cwd=REPO, capture_output=True, text=True, encoding="utf-8")
-    out = ((p.stdout or "") + (p.stderr or "")).replace(key, "KEY").strip().splitlines()
-    log(f"fetch rc={p.returncode} " + (out[-1] if out else ""))
+    for attempt in range(2):  # KOPIS 가 가끔 400 을 준다(10-10, 연달아 부를 때) — 1분 쉬고 한 번 더
+        p = subprocess.run([sys.executable, "-X", "utf8", "scripts/fetch_kpop_shows.py", "--key", key, "--out", "kpop_shows.json"],
+                           cwd=REPO, capture_output=True, text=True, encoding="utf-8")
+        out = ((p.stdout or "") + (p.stderr or "")).replace(key, "KEY").strip().splitlines()
+        log(f"fetch rc={p.returncode} " + (out[-1] if out else ""))
+        if p.returncode == 0:
+            break
+        time.sleep(60)
     if p.returncode:
         return 1
     git("add", "kpop_shows.json", "scripts/venue_scale.json")
