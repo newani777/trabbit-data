@@ -1,331 +1,12 @@
 {
-  "month": "202609",
+  "month": "202610",
   "months": [
-    "202609",
-    "202610"
+    "202610",
+    "202611"
   ],
-  "fetched": "20260918",
+  "fetched": "20261010",
   "source": "KOPIS",
   "shows": [
-    {
-      "id": "PF297719",
-      "name": "fromis_9 ASIA TOUR: TOMORROW GLOW.",
-      "venue": "고려대학교 화정체육관",
-      "venue_en": "Korea University Hwajung Gymnasium",
-      "from": "2026.09.04",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297719_260805_111828.jpg",
-      "state": "공연완료",
-      "seats": 8057
-    },
-    {
-      "id": "PF297480",
-      "name": "DONGHAE 1ST SOLO ENCORE CONCERT: ALIVE",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.04",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297480_260803_112708.jpg",
-      "state": "공연완료",
-      "seats": 15000
-    },
-    {
-      "id": "PF290359",
-      "name": "HYPNOSIS THERAPY on Sync Next 26",
-      "venue": "세종문화회관",
-      "venue_en": "Sejong Center",
-      "from": "2026.09.04",
-      "to": "2026.09.05",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF290359_260429_125300.gif",
-      "state": "공연완료",
-      "seats": 3022
-    },
-    {
-      "id": "PF299785",
-      "name": "MADLY MEDLEY",
-      "venue": "문화비축기지",
-      "venue_en": "Oil Tank Culture Park",
-      "from": "2026.09.05",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299785_260901_100811.gif",
-      "state": "공연완료",
-      "seats": 10000
-    },
-    {
-      "id": "PF297019",
-      "name": "성시경 with friends: 자, 오늘은",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.05",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297019_260727_140228.gif",
-      "state": "공연완료",
-      "seats": 15000
-    },
-    {
-      "id": "PF296682",
-      "name": "ARTMS World Tour: Art of BLUE BLOOD",
-      "venue": "예스24 라이브홀 (구. 악스코리아)",
-      "venue_en": "YES24 Live Hall",
-      "from": "2026.09.05",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296682_260722_150801.jpg",
-      "state": "공연완료",
-      "seats": 1051
-    },
-    {
-      "id": "PF294882",
-      "name": "더 스카웃: 다시 태어나는 별, 이승철 그리고 다시 태어난 별들",
-      "venue": "블루스퀘어",
-      "venue_en": "Blue Square",
-      "from": "2026.09.05",
-      "to": "2026.09.05",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF294882_260629_163027.gif",
-      "state": "공연완료",
-      "seats": 1766
-    },
-    {
-      "id": "PF299983",
-      "name": "제13회 추석맞이 효사랑 한마당",
-      "venue": "강동아트센터",
-      "venue_en": "",
-      "from": "2026.09.06",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299983_260902_170441.png",
-      "state": "공연완료",
-      "seats": 2000
-    },
-    {
-      "id": "PF297211",
-      "name": "클래시컬 재즈 나잇, 쇼팽 in 뉴욕",
-      "venue": "예술의전당 [서울]",
-      "venue_en": "Seoul Arts Center",
-      "from": "2026.09.06",
-      "to": "2026.09.06",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297211_260729_132913.gif",
-      "state": "공연완료",
-      "seats": 2505
-    },
-    {
-      "id": "PF297575",
-      "name": "존박 콘서트: BREAK!",
-      "venue": "블루스퀘어",
-      "venue_en": "Blue Square",
-      "from": "2026.09.11",
-      "to": "2026.09.13",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297575_260803_171003.gif",
-      "state": "공연완료",
-      "seats": 1766
-    },
-    {
-      "id": "PF299208",
-      "name": "BEYOND K-POP: Jazz Interpretation",
-      "venue": "마포아트센터",
-      "venue_en": "Mapo Art Center",
-      "from": "2026.09.12",
-      "to": "2026.09.12",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299208_260824_134243.jpg",
-      "state": "공연완료",
-      "seats": 1004
-    },
-    {
-      "id": "PF298846",
-      "name": "PARK JI HOON ASIA FANCON, RE: FLECT",
-      "venue": "잠실종합운동장",
-      "venue_en": "Jamsil Sports Complex",
-      "from": "2026.09.12",
-      "to": "2026.09.13",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298846_260819_133339.jpg",
-      "state": "공연완료",
-      "seats": 65599
-    },
-    {
-      "id": "PF298366",
-      "name": "QWER 2nd TOUR ROCKATION: ROCKET LAUNCH!!",
-      "venue": "고려대학교 화정체육관",
-      "venue_en": "Korea University Hwajung Gymnasium",
-      "from": "2026.09.12",
-      "to": "2026.09.13",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298366_260813_102309.jpg",
-      "state": "공연완료",
-      "seats": 8057
-    },
-    {
-      "id": "PF298058",
-      "name": "JEONG EUNJI SOLO CONCERT: SUMMER, I",
-      "venue": "티켓링크 1975 씨어터(구.능동 어린이회관)",
-      "venue_en": "Ticketlink 1975 Theater",
-      "from": "2026.09.12",
-      "to": "2026.09.13",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298058_260810_124608.jpg",
-      "state": "공연완료",
-      "seats": 1010
-    },
-    {
-      "id": "PF296441",
-      "name": "옥토버페스트",
-      "venue": "문화비축기지",
-      "venue_en": "Oil Tank Culture Park",
-      "from": "2026.09.12",
-      "to": "2026.09.21",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296441_260720_161134.gif",
-      "state": "공연중",
-      "seats": 10000
-    },
-    {
-      "id": "PF295031",
-      "name": "HAHA FAN CONCERT",
-      "venue": "연세대학교 대강당",
-      "venue_en": "Yonsei University Grand Auditorium",
-      "from": "2026.09.13",
-      "to": "2026.09.13",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295031_260701_132105.gif",
-      "state": "공연완료",
-      "seats": 1641
-    },
-    {
-      "id": "PF293209",
-      "name": "야마다 료스케 내한공연 (Ryosuke Yamada Asia Tour) : Red.Y",
-      "venue": "장충체육관",
-      "venue_en": "Jangchung Arena",
-      "from": "2026.09.13",
-      "to": "2026.09.13",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293209_260609_112907.jpg",
-      "state": "공연완료",
-      "seats": 4507
-    },
-    {
-      "id": "PF298510",
-      "name": "서유석의 까",
-      "venue": "마포아트센터",
-      "venue_en": "Mapo Art Center",
-      "from": "2026.09.15",
-      "to": "2026.09.15",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298510_260814_104358.gif",
-      "state": "공연완료",
-      "seats": 1004
-    },
-    {
-      "id": "PF299243",
-      "name": "SUMIN LIVE: dinnermode",
-      "venue": "LG아트센터 서울",
-      "venue_en": "LG Arts Center Seoul",
-      "from": "2026.09.18",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299243_260824_145521.jpg",
-      "state": "공연중",
-      "seats": 1335
-    },
-    {
-      "id": "PF298966",
-      "name": "TVT (THE VOLUNTEERS) CONCERT : 우리네 인생은 끝없는 서부영화. (Our Life Is A Constant Western Film)",
-      "venue": "장충체육관",
-      "venue_en": "Jangchung Arena",
-      "from": "2026.09.18",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298966_260820_135721.gif",
-      "state": "공연중",
-      "seats": 4507
-    },
-    {
-      "id": "PF298239",
-      "name": "TAEMIN WORLD TOUR: LiMiNaL",
-      "venue": "잠실종합운동장",
-      "venue_en": "Jamsil Sports Complex",
-      "from": "2026.09.18",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298239_260811_140228.jpg",
-      "state": "공연중",
-      "seats": 65599
-    },
-    {
-      "id": "PF296563",
-      "name": "NCT 127 5TH TOUR, NEO CITY: THE REDLINE",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.18",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296563_260722_101226.png",
-      "state": "공연중",
-      "seats": 15000
-    },
-    {
-      "id": "PF299864",
-      "name": "KB 조이올팍 페스티벌",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.19",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299864_260902_104309.jpg",
-      "state": "공연예정",
-      "seats": 15000
-    },
-    {
-      "id": "PF299402",
-      "name": "ONEWE 6th Live Concert: O! NEW E!volution Ⅵ",
-      "venue": "KBS스포츠월드(아레나)",
-      "venue_en": "KBS Arena",
-      "from": "2026.09.19",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299402_260826_122025.jpg",
-      "state": "공연예정",
-      "seats": 2222
-    },
-    {
-      "id": "PF298265",
-      "name": "김용빈 콘서트: 세레나데",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.19",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298265_260811_151532.png",
-      "state": "공연예정",
-      "seats": 15000
-    },
-    {
-      "id": "PF296718",
-      "name": "izna Concert Tour: WHO DAT GIRL?",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.19",
-      "to": "2026.09.20",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296718_260723_112546.gif",
-      "state": "공연예정",
-      "seats": 15000
-    },
-    {
-      "id": "PF299727",
-      "name": "Redoor 단독콘서트: Memory",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.26",
-      "to": "2026.09.27",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299727_260831_135139.gif",
-      "state": "공연예정",
-      "seats": 15000
-    },
-    {
-      "id": "PF293136",
-      "name": "Silica Gel Asia Tour, Syn.THE.Size: Ballad of You",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.09.26",
-      "to": "2026.09.27",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293136_260608_154813.gif",
-      "state": "공연예정",
-      "seats": 15000
-    },
-    {
-      "id": "PF296739",
-      "name": "Phantom Voice 라포엠 in Concert",
-      "venue": "롯데콘서트홀",
-      "venue_en": "Lotte Concert Hall",
-      "from": "2026.09.30",
-      "to": "2026.09.30",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296739_260723_130350.gif",
-      "state": "공연예정",
-      "seats": 2036
-    },
     {
       "id": "PF300164",
       "name": "산들 단독 콘서트: 바람결",
@@ -334,7 +15,7 @@
       "from": "2026.10.03",
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300164_260904_134550.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 1766
     },
     {
@@ -345,8 +26,19 @@
       "from": "2026.10.03",
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299945_260902_154201.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 4507
+    },
+    {
+      "id": "PF298746",
+      "name": "포르쉐 바이브",
+      "venue": "문화비축기지",
+      "venue_en": "Oil Tank Culture Park",
+      "from": "2026.10.03",
+      "to": "2026.10.04",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298746_260818_154310.gif",
+      "state": "공연완료",
+      "seats": 10000
     },
     {
       "id": "PF298453",
@@ -356,7 +48,7 @@
       "from": "2026.10.03",
       "to": "2026.10.05",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298453_260813_142817.png",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 8057
     },
     {
@@ -367,7 +59,7 @@
       "from": "2026.10.03",
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298230_260811_133611.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 15000
     },
     {
@@ -378,7 +70,7 @@
       "from": "2026.10.03",
       "to": "2026.10.03",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297045_260727_145817.jpg",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 1051
     },
     {
@@ -389,7 +81,7 @@
       "from": "2026.10.03",
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292945_260605_101827.jpg",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 15000
     },
     {
@@ -400,7 +92,7 @@
       "from": "2026.10.05",
       "to": "2026.10.05",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299753_260831_144921.jpg",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 1051
     },
     {
@@ -411,7 +103,7 @@
       "from": "2026.10.05",
       "to": "2026.10.05",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298494_260813_162955.jpg",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 2222
     },
     {
@@ -422,7 +114,7 @@
       "from": "2026.10.08",
       "to": "2026.10.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292331_260527_130919.jpg",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 1051
     },
     {
@@ -433,7 +125,7 @@
       "from": "2026.10.09",
       "to": "2026.10.10",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300440_260909_105143.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1766
     },
     {
@@ -444,7 +136,7 @@
       "from": "2026.10.09",
       "to": "2026.10.09",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299306_260825_110332.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 15000
     },
     {
@@ -455,8 +147,19 @@
       "from": "2026.10.09",
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297875_260806_135017.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 15000
+    },
+    {
+      "id": "PF301535",
+      "name": "DJMAX MIRACLE",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.10.10",
+      "to": "2026.10.10",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301535_260922_110647.jpg",
+      "state": "공연중",
+      "seats": 1051
     },
     {
       "id": "PF299371",
@@ -466,7 +169,7 @@
       "from": "2026.10.10",
       "to": "2026.10.10",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299371_260826_102156.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 15000
     },
     {
@@ -477,7 +180,7 @@
       "from": "2026.10.10",
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298950_260820_132246.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 4507
     },
     {
@@ -512,17 +215,6 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295812_260710_140722.jpg",
       "state": "공연예정",
       "seats": 1641
-    },
-    {
-      "id": "PF300997",
-      "name": "이창섭 단독 콘서트: Unknown",
-      "venue": "경희대학교 평화의전당",
-      "venue_en": "",
-      "from": "2026.10.16",
-      "to": "2026.10.18",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300997_260915_142628.jpg",
-      "state": "공연예정",
-      "seats": 4500
     },
     {
       "id": "PF300389",
@@ -602,26 +294,26 @@
       "seats": 1004
     },
     {
-      "id": "PF291325",
-      "name": "Omoinotake One Man Tour in Seoul",
-      "venue": "공감센터",
-      "venue_en": "",
-      "from": "2026.10.17",
-      "to": "2026.10.17",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF291325_260514_101714.jpeg",
+      "id": "PF301572",
+      "name": "잔나비 발라드 컬렉션: 10월의 어느 멋진 날에",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.10.23",
+      "to": "2026.10.23",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301572_260922_134911.jpg",
       "state": "공연예정",
-      "seats": 1024
+      "seats": 15000
     },
     {
-      "id": "PF300739",
-      "name": "케니 지 내한 공연",
-      "venue": "광운대학교 동해문화예술관",
-      "venue_en": "",
-      "from": "2026.10.20",
-      "to": "2026.10.21",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300739_260911_155258.jpg",
+      "id": "PF301259",
+      "name": "LUCY 9TH CONCERT: ISLAND",
+      "venue": "고려대학교 화정체육관",
+      "venue_en": "Korea University Hwajung Gymnasium",
+      "from": "2026.10.23",
+      "to": "2026.10.25",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301259_260918_110012.jpg",
       "state": "공연예정",
-      "seats": 2029
+      "seats": 8057
     },
     {
       "id": "PF300839",
@@ -644,6 +336,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299464_260827_104645.jpg",
       "state": "공연예정",
       "seats": 2222
+    },
+    {
+      "id": "PF301580",
+      "name": "잔나비 ASIA TOUR FINAL: 스웨트 앤 스타더스트",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.10.24",
+      "to": "2026.10.25",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301580_260922_140529.jpg",
+      "state": "공연예정",
+      "seats": 15000
     },
     {
       "id": "PF301012",
@@ -734,6 +437,28 @@
       "seats": 15000
     },
     {
+      "id": "PF302717",
+      "name": "WOODZ WORLD TOUR Archive. 1: Completed",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.10.31",
+      "to": "2026.11.01",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302717_261007_135330.jpg",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF302702",
+      "name": "윤마치 (MRCH) CONCERT, 공생관계: We Live Together",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.10.31",
+      "to": "2026.11.01",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302702_261007_132404.jpg",
+      "state": "공연예정",
+      "seats": 1051
+    },
+    {
       "id": "PF300499",
       "name": "김재환 콘서트: 여백: 餘白",
       "venue": "블루스퀘어",
@@ -745,15 +470,268 @@
       "seats": 1766
     },
     {
-      "id": "PF298842",
-      "name": "미스트롯4 전국투어 콘서트: 트롯으로 세상을 홀려라",
-      "venue": "경희대학교 평화의전당",
-      "venue_en": "",
-      "from": "2026.10.31",
-      "to": "2026.10.31",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298842_260819_132809.gif",
+      "id": "PF301118",
+      "name": "해바라기 콘서트: 사랑으로",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.11.01",
+      "to": "2026.11.01",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301118_260916_160922.gif",
       "state": "공연예정",
-      "seats": 4500
+      "seats": 1004
+    },
+    {
+      "id": "PF301501",
+      "name": "MAX CHANGMIN LIVE SESSION: RESONANCE in SEOUL",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.11.06",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301501_260921_172252.jpg",
+      "state": "공연예정",
+      "seats": 1051
+    },
+    {
+      "id": "PF299607",
+      "name": "EXO PLANET #6, EXhOrizon [dot]",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.06",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299607_260828_130100.jpg",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF302622",
+      "name": "박재정 콘서트: 기록",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.07",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302622_261006_171208.gif",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF301470",
+      "name": "PARK JINYOUNG 1ST CONCERT TOUR: CODE#",
+      "venue": "장충체육관",
+      "venue_en": "Jangchung Arena",
+      "from": "2026.11.07",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301470_260921_153828.png",
+      "state": "공연예정",
+      "seats": 4507
+    },
+    {
+      "id": "PF301284",
+      "name": "정동환의 어쿠스틱 룸",
+      "venue": "롯데콘서트홀",
+      "venue_en": "Lotte Concert Hall",
+      "from": "2026.11.07",
+      "to": "2026.11.07",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301284_260918_125133.jpg",
+      "state": "공연예정",
+      "seats": 2036
+    },
+    {
+      "id": "PF300950",
+      "name": "변진섭 전국투어 콘서트: 변천사 시즌 2.7: 타임머신",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.11.08",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300950_260915_110815.gif",
+      "state": "공연예정",
+      "seats": 1004
+    },
+    {
+      "id": "PF302337",
+      "name": "TOMORROW X TOGETHER WORLD TOUR: STEAL THE WIND",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.13",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302337_261002_130537.gif",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF300493",
+      "name": "CHANGMO: MONOLITH",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.13",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300493_260909_142219.png",
+      "state": "공연예정",
+      "seats": 3022
+    },
+    {
+      "id": "PF302644",
+      "name": "CRAVITY CONCERT: SONOROUS",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.14",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302644_261007_100525.jpg",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF300812",
+      "name": "송창식 with friends: 가객",
+      "venue": "연세대학교 대강당",
+      "venue_en": "Yonsei University Grand Auditorium",
+      "from": "2026.11.14",
+      "to": "2026.11.14",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300812_260914_131900.gif",
+      "state": "공연예정",
+      "seats": 1641
+    },
+    {
+      "id": "PF300653",
+      "name": "김필 콘서트: JOURNEY",
+      "venue": "블루스퀘어",
+      "venue_en": "Blue Square",
+      "from": "2026.11.14",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300653_260911_103357.gif",
+      "state": "공연예정",
+      "seats": 1766
+    },
+    {
+      "id": "PF301404",
+      "name": "어쩌다 페스티벌, 국카스텐 X 김뜻돌",
+      "venue": "연세대학교 대강당",
+      "venue_en": "Yonsei University Grand Auditorium",
+      "from": "2026.11.15",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301404_260921_132201.jpg",
+      "state": "공연예정",
+      "seats": 1641
+    },
+    {
+      "id": "PF295591",
+      "name": "SJF at the Theater, Kings of Convenience",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.18",
+      "to": "2026.11.18",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295591_260708_125621.png",
+      "state": "공연예정",
+      "seats": 3022
+    },
+    {
+      "id": "PF299055",
+      "name": "SJF at the Theater, Christopher",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.19",
+      "to": "2026.11.20",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299055_260821_125925.png",
+      "state": "공연예정",
+      "seats": 3022
+    },
+    {
+      "id": "PF299001",
+      "name": "스테이시 켄트 내한공연",
+      "venue": "LG아트센터 서울",
+      "venue_en": "LG Arts Center Seoul",
+      "from": "2026.11.19",
+      "to": "2026.11.19",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299001_260820_150851.jpg",
+      "state": "공연예정",
+      "seats": 1335
+    },
+    {
+      "id": "PF301234",
+      "name": "로이킴 LIVE TOUR, R: O: Y in SEOUL",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.20",
+      "to": "2026.11.22",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301234_261006_164647.gif",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF302667",
+      "name": "Yuki Kajiura LIVE vol.#22 ~precious pieces~ SPECIAL SETLIST",
+      "venue": "연세대학교 대강당",
+      "venue_en": "Yonsei University Grand Auditorium",
+      "from": "2026.11.22",
+      "to": "2026.11.22",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302667_261007_111501.jpg",
+      "state": "공연예정",
+      "seats": 1641
+    },
+    {
+      "id": "PF297759",
+      "name": "SJF at the Theater, Diana Krall",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.22",
+      "to": "2026.11.22",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297759_260805_134746.jpg",
+      "state": "공연예정",
+      "seats": 3022
+    },
+    {
+      "id": "PF300132",
+      "name": "웅산 Here's to life",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.25",
+      "to": "2026.11.25",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300132_260904_113400.gif",
+      "state": "공연예정",
+      "seats": 3022
+    },
+    {
+      "id": "PF302131",
+      "name": "다이나믹 듀오 단독 콘서트: 가끔씩 오래 보자",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.27",
+      "to": "2026.11.29",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302131_260930_140740.gif",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF301499",
+      "name": "조용필 & 위대한 탄생 전국투어 콘서트",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.11.27",
+      "to": "2026.11.29",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301499_260921_170434.jpg",
+      "state": "공연예정",
+      "seats": 15000
+    },
+    {
+      "id": "PF302147",
+      "name": "피아졸라를 위하여: 쿠아트로시엔토스",
+      "venue": "예술의전당 [서울]",
+      "venue_en": "Seoul Arts Center",
+      "from": "2026.11.28",
+      "to": "2026.11.28",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302147_260930_144321.gif",
+      "state": "공연예정",
+      "seats": 2505
+    },
+    {
+      "id": "PF299935",
+      "name": "ELLEGARDEN, Bad For Education Tour Ⅱ",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.11.28",
+      "to": "2026.11.29",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299935_260902_151618.jpg",
+      "state": "공연예정",
+      "seats": 1051
     }
   ]
 }
