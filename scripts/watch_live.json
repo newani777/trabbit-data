@@ -1,0 +1,77 @@
+{
+ "_doc": "trabbit_app 운영 장부(docs/upkeep/ledger.yaml)의 live 항목에서 만든다 — 손으로 고치지 말 것. python scripts/check_upkeep.py --export-watch",
+ "watch": [
+  {
+   "id": "live-rates",
+   "name": "환율 시세판(20개 통화)",
+   "max_days": 6,
+   "checks": [
+    {
+     "file": "rates.json",
+     "field": "date"
+    },
+    {
+     "file": "rates.json",
+     "field": "extra_date"
+    }
+   ],
+   "hint": "trabbit-data 저장소 Actions 실행 기록부터(비밀값 EXIM_KEY·ECOS_KEY). 키 오류면 docs/api_registry.yaml 의 갱신처"
+  },
+  {
+   "id": "live-weather",
+   "name": "날씨·미세먼지",
+   "max_days": 2,
+   "checks": [
+    {
+     "file": "weather.json",
+     "field": "fetched_at"
+    }
+   ],
+   "hint": "trabbit-data Actions 실행 기록 → OPENDATA_API_KEY 비밀값 → 공공데이터포털 활용기간"
+  },
+  {
+   "id": "live-kpop",
+   "name": "K-pop 공연 달력",
+   "max_days": 3,
+   "checks": [
+    {
+     "file": "kpop_shows.json",
+     "field": "fetched",
+     "min": [
+      "shows",
+      3
+     ]
+    }
+   ],
+   "hint": "PC 가 켜져 있었는지, 작업 스케줄러 「Trabbit KOPIS bake」 결과(C:\\jtmp\\trabbit_kpop_bake.log)를 본다"
+  },
+  {
+   "id": "live-seoul-events",
+   "name": "서울 Upcoming(문화행사 3주)",
+   "max_days": 2,
+   "checks": [
+    {
+     "file": "seoul_events.json",
+     "field": "fetched",
+     "min": [
+      "events",
+      10
+     ]
+    }
+   ],
+   "hint": "trabbit-data Actions 의 「서울 행사」 단계 로그"
+  },
+  {
+   "id": "live-weekly-feed",
+   "name": "이번 주 한국 카드",
+   "max_days": 9,
+   "checks": [
+    {
+     "file": "weekly_feed/manifest.json",
+     "field": "updated"
+    }
+   ],
+   "hint": "홍보운영 세션에 주간 카드 작업 상태를 묻는다(그 세션 몫)"
+  }
+ ]
+}

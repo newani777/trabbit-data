@@ -1,0 +1,53 @@
+name: watchdog
+# 매일 자료가 멈췄는지 본다(2026-10-11) — PC 가 꺼져 있어도 깃허브에서 돈다.
+# 23:30 UTC = 08:30 KST: 새벽 굽기(06:00)와 PC 의 K-pop 굽기(07:40) 다음.
+# 멈춘 게 있으면 ① 이슈 「매일 자료 멈춤」을 열거나 댓글을 단다(광호님 메일·깃허브 앱 알림)
+# ② 텔레그램(비밀값 TELEGRAM_BOT_TOKEN·TELEGRAM_CHAT_ID 가 있을 때만) ③ 이 실행이 실패로 끝난다(깃허브가 메일로 알린다).
+# 회복되면 이슈를 닫는다. 기준은 scripts/watch_live.json(앱 저장소 운영 장부에서 만든다 — 손으로 고치지 말 것).
+on:
+  schedule:
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+  issues: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: 매일 자료 나이 보기
+        id: watch
+        run: |
+          set +e
+          python scripts/watch_live.py --md alert.md
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+      - name: 이슈 열기·댓글 / 회복이면 닫기
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CODE: ${{ steps.watch.outputs.code }}
+        run: |
+          TITLE='매일 자료 멈춤'
+          NUM=$(gh issue list --state open --search "in:title $TITLE" --json number,title --jq ".[] | select(.title==\"$TITLE\") | .number" | head -1)
+          if [ "$CODE" = "1" ]; then
+            if [ -n "$NUM" ]; then gh issue comment "$NUM" --body-file alert.md
+            else gh issue create --title "$TITLE" --body-file alert.md; fi
+          elif [ "$CODE" = "0" ] && [ -n "$NUM" ]; then
+            gh issue close "$NUM" --comment "회복 — $(TZ=Asia/Seoul date +%F) 감시에서 모두 정상"
+          fi
+      - name: 텔레그램(비밀값이 있을 때만)
+        if: ${{ steps.watch.outputs.code != '0' }}
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TG_TOKEN" ] || [ -z "$TG_CHAT" ]; then echo '텔레그램 비밀값 없음 — 이슈·메일로만 알림'; exit 0; fi
+          [ -f alert.md ] || echo "트래빗 매일 자료 감시가 제대로 돌지 않았다(종료 ${{ steps.watch.outputs.code }}) — Actions 기록을 볼 것" > alert.md
+          curl -sS -o /dev/null -w '%{http_code}\n' "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TG_CHAT}" --data-urlencode "text@alert.md"
+      - name: 멈춘 게 있으면 실패로 끝내기(깃허브 메일 알림)
+        if: ${{ steps.watch.outputs.code != '0' }}
+        run: exit 1

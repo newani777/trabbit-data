@@ -41,3 +41,11 @@ https://newani777.github.io/trabbit-data/rates.json
 서울교통공사 「역이용안내도」(공공데이터포털 15004974, 2026-08-31 기준, 이용허락 제한 없음) — 1~8호선 역·호선별 276장, 2000px WebP.
 트래빗 앱 「역 정보 → 역 안내도 보기」가 누를 때 한 장씩 받는다. 만드는 곳: trabbit_app `scripts/station_guides.py`.
 파일 이름에 자료 날짜가 들어가므로 새 판이 나와도 **옛 파일은 지우지 말 것**(업데이트 전 앱이 가리킨다).
+
+## 매일 자료 감시 — watchdog (2026-10-11)
+
+PC 가 꺼져 있어도 깃허브에서 매일 08:30(한국 시간)에 돈다(`.github/workflows/watchdog.yml` → `scripts/watch_live.py`).
+환율·날씨·K-pop·서울 행사·주간 카드가 허용 날수보다 오래 그대로거나 내용이 비면:
+이슈 「매일 자료 멈춤」을 열거나 댓글을 달고, 이 실행이 실패로 끝나 깃허브가 메일을 보낸다.
+비밀값 `TELEGRAM_BOT_TOKEN`·`TELEGRAM_CHAT_ID` 가 있으면 텔레그램으로도 보낸다. 회복되면 이슈를 닫는다.
+기준 `scripts/watch_live.json` 은 trabbit_app 운영 장부에서 만든다(`python scripts/check_upkeep.py --export-watch`) — 손으로 고치지 말 것.
