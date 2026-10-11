@@ -8,6 +8,11 @@ on:
   schedule:
     - cron: '30 23 * * *'
   workflow_dispatch:
+    inputs:
+      today:
+        description: '시험 — 이 날짜(YYYY-MM-DD)라고 치고 본다. 비우면 오늘'
+        required: false
+        default: ''
 permissions:
   contents: read
   issues: write
@@ -21,10 +26,17 @@ jobs:
           python-version: '3.11'
       - name: 매일 자료 나이 보기
         id: watch
+        env:
+          TODAY: ${{ inputs.today }}
         run: |
           set +e
-          python scripts/watch_live.py --md alert.md
-          echo "code=$?" >> "$GITHUB_OUTPUT"
+          if [ -n "$TODAY" ]; then
+            python scripts/watch_live.py --today "$TODAY" --md alert.md; c=$?
+            sed -i '1s/^/[시험 실행 — 실제 멈춤 아님] /' alert.md 2>/dev/null
+          else
+            python scripts/watch_live.py --md alert.md; c=$?
+          fi
+          echo "code=$c" >> "$GITHUB_OUTPUT"
       - name: 이슈 열기·댓글 / 회복이면 닫기
         env:
           GH_TOKEN: ${{ github.token }}
