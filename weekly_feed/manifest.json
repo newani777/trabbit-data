@@ -1,65 +1,182 @@
 {
   "version": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-12",
   "issues": [
     {
-      "id": "set32_luggage_long_weekend",
-      "no": 17,
+      "id": "set35_huam_walk",
+      "no": 20,
       "series": "TRABBIT WEEKLY",
-      "title": "Travel the long weekend light",
-      "summary": "Friday 9 October is Hangeul Day, a public holiday. Four ways to leave your suitcase behind.",
-      "published": "2026-10-06",
-      "footer": "Source: Trabbit · Photos: KTO, Piotrus (CC BY-SA)",
+      "title": "Old houses below Namsan",
+      "summary": "Huam-dong sits between Sookmyung Women's Univ. Station and Namsan. Right next to the tourist trail, and almost no tourists.",
+      "published": "2026-10-12",
+      "footer": "Sources: Seoul City · Photos: D. Sun Beams (CC BY 2.0), KTO",
       "cards": [
         {
-          "file": "set32_luggage_long_weekend/card1.webp",
+          "file": "set35_huam_walk/card1.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 170966,
-          "alt": "Travel the long weekend light"
+          "bytes": 224654,
+          "alt": "Old houses below Namsan"
         },
         {
-          "file": "set32_luggage_long_weekend/card2.webp",
+          "file": "set35_huam_walk/card2.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 110734,
-          "alt": "Station lockers"
+          "bytes": 277134,
+          "alt": "A name returned"
         },
         {
-          "file": "set32_luggage_long_weekend/card3.webp",
+          "file": "set35_huam_walk/card3.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 194312,
-          "alt": "Staffed counters"
+          "bytes": 34000,
+          "alt": "'Culture houses'"
         },
         {
-          "file": "set32_luggage_long_weekend/card4.webp",
+          "file": "set35_huam_walk/card4.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 144678,
-          "alt": "Ask your hotel"
+          "bytes": 184410,
+          "alt": "Line 4 to Line 4"
         },
         {
-          "file": "set32_luggage_long_weekend/card5.webp",
+          "file": "set35_huam_walk/card5.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 115480,
-          "alt": "Send it ahead"
+          "bytes": 211294,
+          "alt": "People live here"
         },
         {
-          "file": "set32_luggage_long_weekend/card6.webp",
+          "file": "set35_huam_walk/card6.webp",
           "w": 1080,
           "h": 1350,
-          "bytes": 54624,
-          "alt": "Lighter, freer"
+          "bytes": 54714,
+          "alt": "Walk it slowly"
         }
       ],
-      "bytes_total": 790794,
+      "bytes_total": 986206,
       "weekly": {
-        "no": 4,
-        "week": "Week of October 5, 2026"
+        "no": 5,
+        "week": "Week of October 12, 2026"
+      }
+    },
+    {
+      "id": "set34_chuncheon_dakgalbi",
+      "no": 19,
+      "series": "TRABBIT WEEKLY",
+      "title": "Chuncheon's two dishes",
+      "summary": "The Makguksu & Dakgalbi Festival takes over the Gongjicheon stream for five days. Entry is free.",
+      "published": "2026-10-12",
+      "footer": "Sources: Chuncheon City · Photos: KTO",
+      "cards": [
+        {
+          "file": "set34_chuncheon_dakgalbi/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 166254,
+          "alt": "Chuncheon's two dishes"
+        },
+        {
+          "file": "set34_chuncheon_dakgalbi/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 80286,
+          "alt": "KRW 9,900 a serving"
+        },
+        {
+          "file": "set34_chuncheon_dakgalbi/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 158062,
+          "alt": "Local restaurants"
+        },
+        {
+          "file": "set34_chuncheon_dakgalbi/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 233214,
+          "alt": "Gongjicheon stream"
+        },
+        {
+          "file": "set34_chuncheon_dakgalbi/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 155006,
+          "alt": "A day trip from Seoul"
+        },
+        {
+          "file": "set34_chuncheon_dakgalbi/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 50782,
+          "alt": "Go hungry"
+        }
+      ],
+      "bytes_total": 843604,
+      "weekly": {
+        "no": 5,
+        "week": "Week of October 12, 2026"
       },
-      "ends": "2026-10-11"
+      "ends": "2026-10-18"
+    },
+    {
+      "id": "set33_silver_grass",
+      "no": 18,
+      "series": "TRABBIT WEEKLY",
+      "title": "Seoul's hill turns silver",
+      "summary": "The 25th Seoul Silver Grass Festival fills Haneul Park in World Cup Park for seven days, 10:00 to 21:00.",
+      "published": "2026-10-12",
+      "footer": "Sources: Seoul Metropolitan Government · Photos: KTO",
+      "cards": [
+        {
+          "file": "set33_silver_grass/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 141388,
+          "alt": "Seoul's hill turns silver"
+        },
+        {
+          "file": "set33_silver_grass/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 178676,
+          "alt": "Haneul Park"
+        },
+        {
+          "file": "set33_silver_grass/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 110834,
+          "alt": "Stay past sunset"
+        },
+        {
+          "file": "set33_silver_grass/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 173510,
+          "alt": "Line 6, then uphill"
+        },
+        {
+          "file": "set33_silver_grass/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 126090,
+          "alt": "Leave the car"
+        },
+        {
+          "file": "set33_silver_grass/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 56776,
+          "alt": "Walk up for golden hour"
+        }
+      ],
+      "bytes_total": 787274,
+      "weekly": {
+        "no": 5,
+        "week": "Week of October 12, 2026"
+      },
+      "ends": "2026-10-23"
     },
     {
       "id": "set31_biff",
@@ -287,57 +404,6 @@
       "weekly": {
         "no": 2,
         "week": "Week of September 21, 2026"
-      }
-    },
-    {
-      "id": "set11_gyeongju_night",
-      "no": 5,
-      "series": "Korea, Explained",
-      "title": "Gyeongju After Dark",
-      "summary": "The old Silla capital is at its best after sunset this month: not hot, not cold, and the ruins lit up a short walk apart.",
-      "published": "2026-09-14",
-      "footer": "Hours: KTO, Gyeongju City · Photos: KTO",
-      "cards": [
-        {
-          "file": "set11_gyeongju_night/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 112802,
-          "alt": "Gyeongju After Dark"
-        },
-        {
-          "file": "set11_gyeongju_night/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 104254,
-          "alt": "Start at the bridge as the sun goes"
-        },
-        {
-          "file": "set11_gyeongju_night/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 199046,
-          "alt": "The pond everyone comes for"
-        },
-        {
-          "file": "set11_gyeongju_night/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 132102,
-          "alt": "Finish at the star tower"
-        },
-        {
-          "file": "set11_gyeongju_night/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 45394,
-          "alt": "Three stops, one evening"
-        }
-      ],
-      "bytes_total": 593598,
-      "weekly": {
-        "no": 1,
-        "week": "Week of September 14, 2026"
       }
     }
   ]
