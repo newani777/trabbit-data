@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261013",
+  "fetched": "20261014",
   "source": "KOPIS",
   "shows": [
     {
@@ -567,6 +567,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300493_260909_142219.png",
       "state": "공연예정",
       "seats": 3022
+    },
+    {
+      "id": "PF303069",
+      "name": "Zion.T LIVE",
+      "venue": "GS아트센터",
+      "venue_en": "",
+      "from": "2026.11.14",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303069_261012_180104.gif",
+      "state": "공연예정",
+      "seats": 1211
     },
     {
       "id": "PF302644",
