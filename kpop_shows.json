@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261012",
+  "fetched": "20261013",
   "source": "KOPIS",
   "shows": [
     {
@@ -184,6 +184,17 @@
       "seats": 4507
     },
     {
+      "id": "PF302997",
+      "name": "스페이스 공감, 한영애 데뷔 50주년 기념 공연: 코뿔소 with 오지은 & 황소윤",
+      "venue": "LG아트센터 서울",
+      "venue_en": "LG Arts Center Seoul",
+      "from": "2026.10.11",
+      "to": "2026.10.11",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302997_261012_154622.jpg",
+      "state": "공연완료",
+      "seats": 1335
+    },
+    {
       "id": "PF299563",
       "name": "10CM FAN CONCERT: THE MISSING TRACKS 사라진 곡들의 행방, CASE No.1011",
       "venue": "올림픽공원",
@@ -358,17 +369,6 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301012_260915_152002.jpg",
       "state": "공연예정",
       "seats": 1051
-    },
-    {
-      "id": "PF300883",
-      "name": "윤항기 65주년 기념 헌정 공연: 여러분 덕분에 나는 행복합니다",
-      "venue": "마포아트센터",
-      "venue_en": "Mapo Art Center",
-      "from": "2026.10.24",
-      "to": "2026.10.24",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300883_260914_160715.gif",
-      "state": "공연예정",
-      "seats": 1004
     },
     {
       "id": "PF300711",
@@ -685,7 +685,7 @@
       "venue_en": "Sejong Center",
       "from": "2026.11.25",
       "to": "2026.11.25",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300132_260904_113400.gif",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300132_261012_141808.png",
       "state": "공연예정",
       "seats": 3022
     },
