@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261014",
+  "fetched": "20261015",
   "source": "KOPIS",
   "shows": [
     {
@@ -666,6 +666,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301234_261006_164647.gif",
       "state": "공연예정",
       "seats": 15000
+    },
+    {
+      "id": "PF303322",
+      "name": "EVNNE FAN-CONCERT: ONE TAKE",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.11.21",
+      "to": "2026.11.22",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303322_261014_144221.jpg",
+      "state": "공연예정",
+      "seats": 1051
     },
     {
       "id": "PF302667",
