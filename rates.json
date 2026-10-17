@@ -19,11 +19,6 @@
       "krw": 201.61
     },
     {
-      "code": "TWD",
-      "name": "Taiwan Dollar",
-      "krw": 41.66
-    },
-    {
       "code": "HKD",
       "name": "Hong Kong Dollar",
       "krw": 171.84
@@ -47,16 +42,6 @@
       "code": "THB",
       "name": "Thai Baht",
       "krw": 40.24
-    },
-    {
-      "code": "PHP",
-      "name": "Philippine Peso",
-      "krw": 21.38
-    },
-    {
-      "code": "VND",
-      "name": "Vietnamese Dong",
-      "krw": 0.0521
     },
     {
       "code": "MYR",
@@ -89,11 +74,6 @@
       "krw": 1629.61
     },
     {
-      "code": "INR",
-      "name": "Indian Rupee",
-      "krw": 14.19
-    },
-    {
       "code": "SAR",
       "name": "Saudi Riyal",
       "krw": 359.33
@@ -103,7 +83,5 @@
       "name": "UAE Dirham",
       "krw": 367.13
     }
-  ],
-  "extra_source": "bok-ecos 731Y001 (재정환율)",
-  "extra_date": "20261016"
+  ]
 }
