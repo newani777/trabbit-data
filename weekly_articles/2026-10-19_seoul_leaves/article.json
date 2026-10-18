@@ -1,0 +1,1218 @@
+{
+  "id": "2026-10-19_seoul_leaves",
+  "no": 1,
+  "kind": "seasonal",
+  "published": "2026-10-19",
+  "week": "2026-10-19",
+  "fresh_until": "2026-11-15",
+  "issue_id": "set36_seoul_leaves",
+  "photos": {
+    "hero": {
+      "file": "hero.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "when": {
+      "file": "when.webp",
+      "w": 854,
+      "h": 854,
+      "credit": "kto"
+    },
+    "palace": {
+      "file": "palace.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "lanes": {
+      "file": "lanes.webp",
+      "w": 853,
+      "h": 853,
+      "credit": "kto"
+    },
+    "forest": {
+      "file": "forest.webp",
+      "w": 855,
+      "h": 855,
+      "credit": "kto"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.forest.go.kr",
+      "date": "2026-09-22"
+    },
+    {
+      "url": "https://opengov.seoul.go.kr/press/34631523",
+      "date": "2025-10-29"
+    },
+    {
+      "url": "https://mediahub.seoul.go.kr/archives/2016295",
+      "date": "2025-11-27"
+    },
+    {
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+      "date": "2026-10-19"
+    }
+  ],
+  "langs": {
+    "ko": {
+      "title": "지하철로 가는 서울 단풍길 5곳 — 올해 절정은 10월 30일 무렵",
+      "summary": "등산화 없이도 됩니다. 덕수궁 돌담길부터 서울숲 은행나무까지, 역에서 걸어갈 수 있는 단풍길을 모았어요.",
+      "hero_caption": "덕수궁 돌담길의 은행나무",
+      "lead": [
+        "단풍 하면 설악산이나 내장산을 먼저 떠올리지만, 서울에도 시가 직접 고른 단풍길이 110곳 있어요. 모두 합치면 167km, 나무는 7만 2천 그루쯤 돼요.",
+        "그중 지하철로 찾아가기 쉬운 다섯 곳을 골랐어요. 등산화는 필요 없어요."
+      ],
+      "sections": [
+        {
+          "h": "올해 절정은 10월 30일 무렵",
+          "p": [
+            "산림청 예측으로 올해 은행나무는 10월 30일, 단풍나무는 10월 31일 무렵 절정이에요. 여기서 절정은 나무의 절반쯤이 물든 때를 말해요.",
+            "가장 먼저 물드는 설악산은 10월 20일 무렵, 남쪽의 내장산은 11월 4일 무렵이에요. 지역마다 보름쯤 차이가 나니, 서울 밖으로 갈 계획이라면 그곳 날짜를 따로 확인하세요."
+          ],
+          "photo": "when",
+          "caption": "서울숲의 은행나무"
+        },
+        {
+          "h": "궁궐 돌담을 따라 — 덕수궁길과 효자로",
+          "p": [
+            "덕수궁 돌담길은 시청역 근처에서 시작하는 300m 남짓한 길이에요. 짧아서 궁 관람과 묶어 걷기 좋아요.",
+            "덕수궁은 밤 9시까지 열고, 입장은 8시에 마감해요. 낮에 돌담길을 걷고 해 질 무렵 궁 안을 둘러볼 수도 있어요.",
+            "경복궁 서쪽 담을 따라 난 효자로(800m)도 서울시 단풍길 목록에 들어 있어요."
+          ],
+          "photo": "palace",
+          "caption": "덕수궁 돌담길의 가을"
+        },
+        {
+          "h": "은행나무 골목과 차 없는 길 — 삼청동길과 남산",
+          "p": [
+            "삼청동길은 동십자각에서 삼청터널 쪽으로 이어지는 1.2km 길이에요. 양옆으로 은행나무가 늘어서 있어요.",
+            "조금 더 걷고 싶다면 남산 북측 순환로가 있어요. 3.5km 전체가 보행 전용이라 차 걱정 없이 단풍 사이를 걸을 수 있어요."
+          ],
+          "photo": "lanes",
+          "caption": "삼청동길의 은행나무"
+        },
+        {
+          "h": "은행나무 600그루 — 서울숲",
+          "p": [
+            "서울숲 숲길에는 은행나무가 600그루쯤 서 있어요. 수인분당선 서울숲역에서 걸어서 5분 정도라 찾아가기도 쉬워요."
+          ],
+          "photo": "forest",
+          "caption": "서울숲 은행나무 숲길"
+        }
+      ],
+      "box": [
+        {
+          "k": "가는 법",
+          "v": [
+            "덕수궁 돌담길: 지하철 1·2호선 시청역",
+            "서울숲: 수인분당선 서울숲역에서 걸어서 약 5분"
+          ]
+        },
+        {
+          "k": "언제",
+          "v": [
+            "은행나무 10월 30일, 단풍나무 10월 31일 무렵 절정(산림청 예측)"
+          ]
+        },
+        {
+          "k": "요금",
+          "v": [
+            "단풍길은 모두 무료",
+            "덕수궁 안은 어른 1,000원(외국인 만 19~64세)"
+          ]
+        },
+        {
+          "k": "시간",
+          "v": [
+            "덕수궁 09:00~21:00, 입장 마감 20:00"
+          ]
+        },
+        {
+          "k": "트래빗에서",
+          "v": [
+            "지하철 노선도에서 시청역이나 서울숲역을 누르면 그 역의 막차 시간이 나와요."
+          ]
+        }
+      ],
+      "outro": "단풍 절정은 오래가지 않아요. 올해 서울의 가을을 보고 싶다면 10월 마지막 주를 기억해 두세요.",
+      "sources": [
+        "산림청 「2026년 한반도 단풍절정 예측지도」",
+        "서울시 「서울 단풍길 110선」(2025년 목록)",
+        "서울시 미디어허브",
+        "국가유산청 궁능유적본부 덕수궁 관람 안내"
+      ],
+      "credit": "사진: 한국관광공사"
+    },
+    "en": {
+      "title": "5 autumn leaf walks in Seoul you can reach by subway — peak around 30 October",
+      "summary": "No hiking boots needed. From the Deoksugung stone-wall road to the ginkgo trees of Seoul Forest, these leaf walks start a short walk from the station.",
+      "hero_caption": "Ginkgo trees along the Deoksugung stone-wall road",
+      "lead": [
+        "Autumn leaves in Korea usually make people think of Seoraksan or Naejangsan. But Seoul has 110 leaf roads picked by the city itself — 167 km in all, with about 72,000 trees.",
+        "We picked five that are easy to reach by subway. You won't need hiking boots."
+      ],
+      "sections": [
+        {
+          "h": "This year's peak: around 30 October",
+          "p": [
+            "The Korea Forest Service expects ginkgo trees to peak around 30 October this year and maples around 31 October. Here, \"peak\" means about half of the trees have turned.",
+            "Seoraksan turns first, around 20 October, and Naejangsan in the south around 4 November. Dates differ by about two weeks across the country, so if you're heading outside Seoul, check the date for that area."
+          ],
+          "photo": "when",
+          "caption": "Ginkgo trees in Seoul Forest"
+        },
+        {
+          "h": "Along the palace walls — Deoksugung-gil and Hyoja-ro",
+          "p": [
+            "The Deoksugung stone-wall road starts near City Hall Station and runs a little over 300 m. It's short, so it pairs well with a visit to the palace.",
+            "Deoksugung stays open until 9 pm, with last entry at 8 pm. You can walk the stone-wall road in the daytime and look around inside the palace as the sun goes down.",
+            "Hyoja-ro (800 m), which follows the west wall of Gyeongbokgung, is also on Seoul's leaf-road list."
+          ],
+          "photo": "palace",
+          "caption": "Autumn on the Deoksugung stone-wall road"
+        },
+        {
+          "h": "A ginkgo lane and a car-free road — Samcheong-dong-gil and Namsan",
+          "p": [
+            "Samcheong-dong-gil runs 1.2 km from Dongsipjagak toward Samcheong Tunnel, with ginkgo trees on both sides.",
+            "If you'd like a longer walk, try Namsan's north loop road. All 3.5 km are for walkers only, so you can stroll under the leaves without watching for cars."
+          ],
+          "photo": "lanes",
+          "caption": "Ginkgo trees on Samcheong-dong-gil"
+        },
+        {
+          "h": "600 ginkgo trees — Seoul Forest",
+          "p": [
+            "About 600 ginkgo trees stand along the forest path in Seoul Forest. It's around five minutes on foot from Seoul Forest Station on the Suin-Bundang Line, so it's easy to find."
+          ],
+          "photo": "forest",
+          "caption": "The ginkgo path in Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Getting there",
+          "v": [
+            "Deoksugung stone-wall road: City Hall Station, subway Lines 1 and 2",
+            "Seoul Forest: about 5 minutes on foot from Seoul Forest Station, Suin-Bundang Line"
+          ]
+        },
+        {
+          "k": "When",
+          "v": [
+            "Peak around 30 October for ginkgo and 31 October for maples (Korea Forest Service forecast)"
+          ]
+        },
+        {
+          "k": "Cost",
+          "v": [
+            "All the leaf roads are free",
+            "Inside Deoksugung: KRW 1,000 for adults (foreign visitors aged 19–64)"
+          ]
+        },
+        {
+          "k": "Hours",
+          "v": [
+            "Deoksugung 09:00–21:00, last entry 20:00"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Tap City Hall or Seoul Forest Station on the subway map to see that station's last train times."
+          ]
+        }
+      ],
+      "outro": "Peak colour doesn't last long. If you want to see Seoul in autumn this year, keep the last week of October in mind.",
+      "sources": [
+        "Korea Forest Service, 2026 autumn foliage peak forecast map",
+        "Seoul Metropolitan Government, 110 autumn leaf roads (2025 list)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center, Korea Heritage Service — Deoksugung visitor information"
+      ],
+      "credit": "Photos: Korea Tourism Organization"
+    },
+    "ja": {
+      "title": "地下鉄で行くソウルの紅葉の道5選 — 今年のピークは10月30日ごろ",
+      "summary": "登山靴がなくても大丈夫です。徳寿宮石垣道からソウルの森のイチョウまで、駅から歩いて行ける紅葉の道を集めました。",
+      "hero_caption": "徳寿宮石垣道のイチョウ",
+      "lead": [
+        "紅葉といえば雪岳山や内蔵山を思い浮かべますが、ソウルにも市が選んだ紅葉の道が110か所あります。すべて合わせると167km、木は約7万2千本です。",
+        "その中から、地下鉄で行きやすい5か所を選びました。登山靴は必要ありません。"
+      ],
+      "sections": [
+        {
+          "h": "今年のピークは10月30日ごろ",
+          "p": [
+            "山林庁の予測では、今年のイチョウは10月30日ごろ、カエデは10月31日ごろにピークを迎えます。ここでのピークとは、木の半分ほどが色づいた時期のことです。",
+            "最も早く色づく雪岳山は10月20日ごろ、南の内蔵山は11月4日ごろです。地域によって半月ほど差があるので、ソウル以外へ行く予定なら、その場所の日付を別途ご確認ください。"
+          ],
+          "photo": "when",
+          "caption": "ソウルの森のイチョウ"
+        },
+        {
+          "h": "宮殿の石垣に沿って — 徳寿宮石垣道と孝子路",
+          "p": [
+            "徳寿宮石垣道は、市庁駅の近くから始まる300mほどの道です。短いので、宮殿の見学と組み合わせて歩くのに向いています。",
+            "徳寿宮は21時まで開いていて、入場は20時までです。昼に石垣道を歩き、日暮れごろに宮殿の中を見て回ることもできます。",
+            "景福宮の西側の塀に沿った孝子路（800m）も、ソウル市の紅葉の道リストに入っています。"
+          ],
+          "photo": "palace",
+          "caption": "徳寿宮石垣道の秋"
+        },
+        {
+          "h": "イチョウの小道と車のない道 — 三清洞通りと南山",
+          "p": [
+            "三清洞通りは、東十字閣から三清トンネルの方へ続く1.2kmの道です。両側にイチョウが並んでいます。",
+            "もう少し歩きたい方には、南山の北側循環路があります。3.5kmすべてが歩行者専用なので、車を気にせず紅葉の中を歩けます。"
+          ],
+          "photo": "lanes",
+          "caption": "三清洞通りのイチョウ"
+        },
+        {
+          "h": "イチョウ600本 — ソウルの森",
+          "p": [
+            "ソウルの森の小道には、イチョウが600本ほど立っています。水仁・盆唐線のソウルの森駅から歩いて5分ほどなので、行きやすい場所です。"
+          ],
+          "photo": "forest",
+          "caption": "ソウルの森のイチョウ並木"
+        }
+      ],
+      "box": [
+        {
+          "k": "行き方",
+          "v": [
+            "徳寿宮石垣道：地下鉄1・2号線 市庁駅",
+            "ソウルの森：水仁・盆唐線 ソウルの森駅から徒歩約5分"
+          ]
+        },
+        {
+          "k": "いつ",
+          "v": [
+            "イチョウは10月30日、カエデは10月31日ごろがピーク（山林庁の予測）"
+          ]
+        },
+        {
+          "k": "料金",
+          "v": [
+            "紅葉の道はすべて無料",
+            "徳寿宮の中は大人1,000ウォン（外国人は満19～64歳）"
+          ]
+        },
+        {
+          "k": "時間",
+          "v": [
+            "徳寿宮 09:00～21:00、入場締切 20:00"
+          ]
+        },
+        {
+          "k": "Trabbitで",
+          "v": [
+            "地下鉄路線図で市庁駅やソウルの森駅をタップすると、その駅の終電時刻が表示されます。"
+          ]
+        }
+      ],
+      "outro": "紅葉のピークは長くは続きません。今年のソウルの秋を見たいなら、10月の最終週を覚えておいてください。",
+      "sources": [
+        "山林庁「2026年 韓半島紅葉ピーク予測マップ」",
+        "ソウル市「ソウル紅葉の道110選」（2025年リスト）",
+        "ソウル市メディアハブ",
+        "国家遺産庁 宮陵遺跡本部 徳寿宮観覧案内"
+      ],
+      "credit": "写真：韓国観光公社"
+    },
+    "de": {
+      "title": "5 Herbstlaub-Wege in Seoul, die Sie mit der U-Bahn erreichen — Höhepunkt um den 30. Oktober",
+      "summary": "Wanderschuhe brauchen Sie nicht. Vom Steinmauerweg am Deoksugung bis zu den Ginkgobäumen im Seoul Forest: Diese Laubwege liegen zu Fuß erreichbar an der Station.",
+      "hero_caption": "Ginkgobäume am Steinmauerweg des Deoksugung",
+      "lead": [
+        "Beim Herbstlaub denken viele zuerst an den Seoraksan oder den Naejangsan. Doch auch Seoul hat 110 Laubwege, die die Stadt selbst ausgewählt hat — zusammen 167 km lang, mit etwa 72.000 Bäumen.",
+        "Wir haben fünf davon ausgewählt, die sich leicht mit der U-Bahn erreichen lassen. Wanderschuhe brauchen Sie nicht."
+      ],
+      "sections": [
+        {
+          "h": "Der Höhepunkt in diesem Jahr: um den 30. Oktober",
+          "p": [
+            "Nach der Prognose des Korea Forest Service erreichen die Ginkgobäume in diesem Jahr um den 30. Oktober ihren Höhepunkt, die Ahornbäume um den 31. Oktober. „Höhepunkt“ heißt hier: Etwa die Hälfte der Bäume hat sich verfärbt.",
+            "Am frühesten färbt sich der Seoraksan, etwa um den 20. Oktober, im Süden der Naejangsan etwa um den 4. November. Zwischen den Regionen liegen rund zwei Wochen. Wenn Sie außerhalb von Seoul unterwegs sind, prüfen Sie deshalb das Datum für die jeweilige Gegend."
+          ],
+          "photo": "when",
+          "caption": "Ginkgobäume im Seoul Forest"
+        },
+        {
+          "h": "Entlang der Palastmauern — Deoksugung-gil und Hyoja-ro",
+          "p": [
+            "Der Steinmauerweg am Deoksugung beginnt in der Nähe der Station City Hall und ist gut 300 m lang. Er ist kurz und lässt sich deshalb gut mit einem Palastbesuch verbinden.",
+            "Der Deoksugung ist bis 21:00 Uhr geöffnet, der letzte Einlass ist um 20:00 Uhr. Sie können tagsüber den Steinmauerweg entlanggehen und bei Sonnenuntergang den Palast besichtigen.",
+            "Auch die Hyoja-ro (800 m) entlang der Westmauer des Gyeongbokgung steht auf der Liste der Laubwege der Stadt Seoul."
+          ],
+          "photo": "palace",
+          "caption": "Herbst am Steinmauerweg des Deoksugung"
+        },
+        {
+          "h": "Eine Ginkgo-Gasse und ein autofreier Weg — Samcheong-dong-gil und Namsan",
+          "p": [
+            "Die Samcheong-dong-gil ist 1,2 km lang und führt vom Dongsipjagak in Richtung Samcheong-Tunnel. Auf beiden Seiten stehen Ginkgobäume.",
+            "Wenn Sie etwas länger laufen möchten, gibt es die nördliche Ringstraße des Namsan. Alle 3,5 km sind nur für Fußgänger, sodass Sie ohne Sorge vor Autos zwischen den bunten Blättern spazieren können."
+          ],
+          "photo": "lanes",
+          "caption": "Ginkgobäume an der Samcheong-dong-gil"
+        },
+        {
+          "h": "600 Ginkgobäume — Seoul Forest",
+          "p": [
+            "Auf dem Waldweg im Seoul Forest stehen etwa 600 Ginkgobäume. Von der Station Seoul Forest der Suin-Bundang-Linie sind es zu Fuß etwa 5 Minuten, der Ort ist also leicht zu finden."
+          ],
+          "photo": "forest",
+          "caption": "Der Ginkgo-Waldweg im Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Anfahrt",
+          "v": [
+            "Steinmauerweg am Deoksugung: U-Bahn-Linien 1 und 2, Station City Hall",
+            "Seoul Forest: etwa 5 Minuten zu Fuß von der Station Seoul Forest (Suin-Bundang-Linie)"
+          ]
+        },
+        {
+          "k": "Wann",
+          "v": [
+            "Höhepunkt um den 30. Oktober bei Ginkgo und um den 31. Oktober bei Ahorn (Prognose des Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "Kosten",
+          "v": [
+            "Alle Laubwege sind kostenlos",
+            "Eintritt in den Deoksugung: KRW 1.000 für Erwachsene (ausländische Besucher von 19 bis 64 Jahren)"
+          ]
+        },
+        {
+          "k": "Öffnungszeiten",
+          "v": [
+            "Deoksugung 09:00–21:00 Uhr, letzter Einlass 20:00 Uhr"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Tippen Sie auf der U-Bahn-Karte auf die Station City Hall oder die Station Seoul Forest, dann sehen Sie die letzten Zugzeiten dieser Station."
+          ]
+        }
+      ],
+      "outro": "Der Höhepunkt der Laubfärbung dauert nicht lange. Wenn Sie den Herbst in Seoul in diesem Jahr sehen möchten, merken Sie sich die letzte Oktoberwoche.",
+      "sources": [
+        "Korea Forest Service, Prognosekarte zum Höhepunkt der Herbstfärbung 2026",
+        "Seoul Metropolitan Government, 110 Laubwege in Seoul (Liste von 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center, Korea Heritage Service — Besucherinformationen zum Deoksugung"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "es": {
+      "title": "5 paseos de otoño en Seúl a los que llegas en metro — el punto álgido, hacia el 30 de octubre",
+      "summary": "No necesitas botas de montaña. Del paseo del muro de piedra de Deoksugung a los ginkgos de Seoul Forest, estos paseos empiezan a poca distancia a pie de la estación.",
+      "hero_caption": "Ginkgos junto al muro de piedra de Deoksugung",
+      "lead": [
+        "Al hablar de hojas de otoño en Corea, mucha gente piensa primero en Seoraksan o Naejangsan. Pero Seúl también tiene 110 rutas de otoño elegidas por la propia ciudad: 167 km en total, con unos 72.000 árboles.",
+        "Hemos elegido cinco que son fáciles de alcanzar en metro. No necesitas botas de montaña."
+      ],
+      "sections": [
+        {
+          "h": "El punto álgido de este año: hacia el 30 de octubre",
+          "p": [
+            "Según la previsión del Korea Forest Service, este año los ginkgos alcanzan su punto álgido hacia el 30 de octubre y los arces hacia el 31 de octubre. Aquí, «punto álgido» significa que la mitad de los árboles ya han cambiado de color.",
+            "Seoraksan es el primero en teñirse, hacia el 20 de octubre, y Naejangsan, en el sur, hacia el 4 de noviembre. Entre unas regiones y otras hay unas dos semanas de diferencia, así que si vas a salir de Seúl, consulta la fecha de esa zona."
+          ],
+          "photo": "when",
+          "caption": "Ginkgos en Seoul Forest"
+        },
+        {
+          "h": "Junto a los muros de los palacios — Deoksugung-gil y Hyoja-ro",
+          "p": [
+            "El paseo del muro de piedra de Deoksugung empieza cerca de la estación City Hall y mide algo más de 300 m. Es corto, así que va bien combinado con la visita al palacio.",
+            "Deoksugung abre hasta las 21:00, con última entrada a las 20:00. Puedes recorrer el paseo del muro de piedra de día y visitar el interior del palacio al atardecer.",
+            "Hyoja-ro (800 m), que sigue el muro oeste de Gyeongbokgung, también figura en la lista de rutas de otoño de Seúl."
+          ],
+          "photo": "palace",
+          "caption": "Otoño en el paseo del muro de piedra de Deoksugung"
+        },
+        {
+          "h": "Un callejón de ginkgos y una calle sin coches — Samcheong-dong-gil y Namsan",
+          "p": [
+            "Samcheong-dong-gil recorre 1,2 km desde Dongsipjagak hacia el túnel de Samcheong, con ginkgos a ambos lados.",
+            "Si te apetece caminar un poco más, está la carretera circular norte de Namsan. Los 3,5 km son solo para peatones, así que puedes pasear entre las hojas sin preocuparte por los coches."
+          ],
+          "photo": "lanes",
+          "caption": "Ginkgos en Samcheong-dong-gil"
+        },
+        {
+          "h": "600 ginkgos — Seoul Forest",
+          "p": [
+            "En el sendero del bosque de Seoul Forest hay unos 600 ginkgos. Desde la estación Seoul Forest de la línea Suin-Bundang se llega a pie en unos 5 minutos, así que es fácil de encontrar."
+          ],
+          "photo": "forest",
+          "caption": "El sendero de ginkgos de Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cómo llegar",
+          "v": [
+            "Paseo del muro de piedra de Deoksugung: líneas 1 y 2 del metro, estación City Hall",
+            "Seoul Forest: unos 5 minutos a pie desde la estación Seoul Forest (línea Suin-Bundang)"
+          ]
+        },
+        {
+          "k": "Cuándo",
+          "v": [
+            "Punto álgido hacia el 30 de octubre en los ginkgos y hacia el 31 de octubre en los arces (previsión del Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "Precio",
+          "v": [
+            "Todas las rutas de otoño son gratuitas",
+            "Entrada a Deoksugung: KRW 1.000 para adultos (visitantes extranjeros de 19 a 64 años)"
+          ]
+        },
+        {
+          "k": "Horario",
+          "v": [
+            "Deoksugung 09:00–21:00, última entrada a las 20:00"
+          ]
+        },
+        {
+          "k": "En Trabbit",
+          "v": [
+            "En el mapa del metro, toca la estación City Hall o la estación Seoul Forest para ver los horarios del último tren de esa estación."
+          ]
+        }
+      ],
+      "outro": "El punto álgido del color no dura mucho. Si quieres ver Seúl en otoño este año, ten presente la última semana de octubre.",
+      "sources": [
+        "Korea Forest Service, mapa de previsión del punto álgido del follaje de otoño 2026",
+        "Seoul Metropolitan Government, 110 rutas de otoño de Seúl (lista de 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center, Korea Heritage Service — información para visitar Deoksugung"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "fr": {
+      "title": "5 balades d'automne à Séoul accessibles en métro — pic de couleurs vers le 30 octobre",
+      "summary": "Pas besoin de chaussures de randonnée. Du chemin du mur de pierre du Deoksugung aux ginkgos du Seoul Forest, ces balades se font à pied depuis la station.",
+      "hero_caption": "Ginkgos le long du mur de pierre du Deoksugung",
+      "lead": [
+        "Quand on pense aux feuilles d'automne en Corée, on pense d'abord au Seoraksan ou au Naejangsan. Mais Séoul compte elle aussi 110 sentiers d'automne choisis par la ville elle-même — 167 km au total, avec environ 72 000 arbres.",
+        "Nous en avons retenu cinq, faciles à rejoindre en métro. Vous n'aurez pas besoin de chaussures de randonnée."
+      ],
+      "sections": [
+        {
+          "h": "Le pic de cette année : vers le 30 octobre",
+          "p": [
+            "D'après les prévisions du Korea Forest Service, les ginkgos atteindront leur pic vers le 30 octobre cette année, et les érables vers le 31 octobre. Ici, le « pic » désigne le moment où la moitié des arbres environ ont changé de couleur.",
+            "Le Seoraksan, qui rougit en premier, atteint son pic vers le 20 octobre ; le Naejangsan, plus au sud, vers le 4 novembre. L'écart entre les régions est d'environ deux semaines : si vous quittez Séoul, vérifiez la date pour l'endroit concerné."
+          ],
+          "photo": "when",
+          "caption": "Ginkgos au Seoul Forest"
+        },
+        {
+          "h": "Le long des murs des palais — Deoksugung-gil et Hyoja-ro",
+          "p": [
+            "Le chemin du mur de pierre du Deoksugung commence près de la station City Hall et mesure un peu plus de 300 m. Il est court, donc facile à combiner avec la visite du palais.",
+            "Le Deoksugung est ouvert jusqu'à 21:00, avec dernière entrée à 20:00. Vous pouvez longer le mur de pierre en journée, puis visiter l'intérieur du palais à la tombée du jour.",
+            "La Hyoja-ro (800 m), qui longe le mur ouest du Gyeongbokgung, figure aussi sur la liste des sentiers d'automne de la ville de Séoul."
+          ],
+          "photo": "palace",
+          "caption": "L'automne le long du mur de pierre du Deoksugung"
+        },
+        {
+          "h": "Une ruelle de ginkgos et une route sans voitures — Samcheong-dong-gil et Namsan",
+          "p": [
+            "La Samcheong-dong-gil s'étend sur 1,2 km, du Dongsipjagak vers le tunnel de Samcheong, avec des ginkgos de chaque côté.",
+            "Si vous avez envie de marcher un peu plus, il y a la route circulaire nord du Namsan. Ses 3,5 km sont entièrement réservés aux piétons : vous pouvez marcher sous les feuilles sans vous soucier des voitures."
+          ],
+          "photo": "lanes",
+          "caption": "Ginkgos sur la Samcheong-dong-gil"
+        },
+        {
+          "h": "600 ginkgos — Seoul Forest",
+          "p": [
+            "Environ 600 ginkgos bordent le sentier forestier du Seoul Forest. La station Seoul Forest, sur la ligne Suin-Bundang, n'est qu'à environ 5 minutes à pied : l'endroit est facile à trouver."
+          ],
+          "photo": "forest",
+          "caption": "Le sentier de ginkgos du Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Comment s'y rendre",
+          "v": [
+            "Chemin du mur de pierre du Deoksugung : métro lignes 1 et 2, station City Hall",
+            "Seoul Forest : environ 5 minutes à pied depuis la station Seoul Forest (ligne Suin-Bundang)"
+          ]
+        },
+        {
+          "k": "Quand",
+          "v": [
+            "Pic vers le 30 octobre pour les ginkgos et vers le 31 octobre pour les érables (prévisions du Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "Tarif",
+          "v": [
+            "Tous les sentiers d'automne sont gratuits",
+            "Entrée du Deoksugung : 1 000 KRW pour les adultes (visiteurs étrangers de 19 à 64 ans)"
+          ]
+        },
+        {
+          "k": "Horaires",
+          "v": [
+            "Deoksugung 09:00–21:00, dernière entrée à 20:00"
+          ]
+        },
+        {
+          "k": "Dans Trabbit",
+          "v": [
+            "Sur le plan du métro, touchez la station City Hall ou la station Seoul Forest pour voir les horaires du dernier train de cette station."
+          ]
+        }
+      ],
+      "outro": "Le pic des couleurs ne dure pas longtemps. Si vous voulez voir Séoul en automne cette année, retenez la dernière semaine d'octobre.",
+      "sources": [
+        "Korea Forest Service, carte de prévision du pic des couleurs d'automne 2026",
+        "Seoul Metropolitan Government, 110 sentiers d'automne de Séoul (liste de 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center, Korea Heritage Service — informations de visite du Deoksugung"
+      ],
+      "credit": "Photos : Korea Tourism Organization"
+    },
+    "id": {
+      "title": "5 jalur daun musim gugur di Seoul yang bisa dicapai dengan kereta bawah tanah — puncaknya tahun ini sekitar 30 Oktober",
+      "summary": "Tidak perlu sepatu gunung. Dari jalan tembok batu Deoksugung hingga pohon ginkgo di Seoul Forest, inilah jalur daun musim gugur yang bisa dicapai dengan berjalan kaki dari stasiun.",
+      "hero_caption": "Pohon ginkgo di sepanjang jalan tembok batu Deoksugung",
+      "lead": [
+        "Kalau bicara soal daun musim gugur, banyak orang langsung teringat Seoraksan atau Naejangsan. Namun Seoul juga memiliki 110 jalur daun musim gugur yang dipilih langsung oleh pemerintah kota. Panjang totalnya 167 km, dengan sekitar 72.000 pohon.",
+        "Kami memilih lima di antaranya yang mudah dicapai dengan kereta bawah tanah. Anda tidak memerlukan sepatu gunung."
+      ],
+      "sections": [
+        {
+          "h": "Puncak tahun ini: sekitar 30 Oktober",
+          "p": [
+            "Menurut prakiraan Korea Forest Service, pohon ginkgo tahun ini mencapai puncaknya sekitar 30 Oktober dan pohon maple sekitar 31 Oktober. Di sini, \"puncak\" berarti saat sekitar separuh pohon sudah berubah warna.",
+            "Seoraksan yang paling dulu berubah warna, sekitar 20 Oktober, sedangkan Naejangsan di selatan sekitar 4 November. Perbedaan antardaerah sekitar dua minggu, jadi jika Anda berencana ke luar Seoul, periksa tanggal untuk daerah tersebut secara terpisah."
+          ],
+          "photo": "when",
+          "caption": "Pohon ginkgo di Seoul Forest"
+        },
+        {
+          "h": "Menyusuri tembok istana — jalan tembok batu Deoksugung dan Hyoja-ro",
+          "p": [
+            "Jalan tembok batu Deoksugung dimulai dekat Stasiun City Hall dan panjangnya sedikit lebih dari 300 m. Jalan ini pendek, sehingga cocok dipadukan dengan kunjungan ke istana.",
+            "Deoksugung buka hingga pukul 21:00, dengan masuk terakhir pukul 20:00. Anda bisa berjalan di jalan tembok batu pada siang hari, lalu melihat-lihat bagian dalam istana menjelang matahari terbenam.",
+            "Hyoja-ro (800 m), yang mengikuti tembok barat Gyeongbokgung, juga termasuk dalam daftar jalur daun musim gugur Seoul."
+          ],
+          "photo": "palace",
+          "caption": "Musim gugur di jalan tembok batu Deoksugung"
+        },
+        {
+          "h": "Lorong ginkgo dan jalan bebas kendaraan — Samcheong-dong-gil dan Namsan",
+          "p": [
+            "Samcheong-dong-gil sepanjang 1,2 km, dari Dongsipjagak menuju Samcheong Tunnel, dengan pohon ginkgo di kedua sisinya.",
+            "Jika ingin berjalan lebih jauh, ada jalan lingkar utara Namsan. Seluruh 3,5 km-nya khusus pejalan kaki, sehingga Anda bisa berjalan di bawah dedaunan tanpa khawatir kendaraan."
+          ],
+          "photo": "lanes",
+          "caption": "Pohon ginkgo di Samcheong-dong-gil"
+        },
+        {
+          "h": "600 pohon ginkgo — Seoul Forest",
+          "p": [
+            "Sekitar 600 pohon ginkgo berdiri di sepanjang jalur hutan Seoul Forest. Dari Stasiun Seoul Forest di Jalur Suin-Bundang, jaraknya sekitar 5 menit berjalan kaki, jadi mudah ditemukan."
+          ],
+          "photo": "forest",
+          "caption": "Jalur pohon ginkgo di Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cara menuju ke sana",
+          "v": [
+            "Jalan tembok batu Deoksugung: Stasiun City Hall, kereta bawah tanah Jalur 1 dan 2",
+            "Seoul Forest: sekitar 5 menit berjalan kaki dari Stasiun Seoul Forest, Jalur Suin-Bundang"
+          ]
+        },
+        {
+          "k": "Kapan",
+          "v": [
+            "Puncak ginkgo sekitar 30 Oktober dan maple sekitar 31 Oktober (prakiraan Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "Biaya",
+          "v": [
+            "Semua jalur daun musim gugur gratis",
+            "Masuk ke dalam Deoksugung: 1.000 won untuk dewasa (wisatawan asing usia 19–64 tahun)"
+          ]
+        },
+        {
+          "k": "Jam buka",
+          "v": [
+            "Deoksugung 09:00–21:00, masuk terakhir 20:00"
+          ]
+        },
+        {
+          "k": "Di Trabbit",
+          "v": [
+            "Ketuk Stasiun City Hall atau Seoul Forest pada peta kereta bawah tanah untuk melihat jadwal kereta terakhir di stasiun tersebut."
+          ]
+        }
+      ],
+      "outro": "Puncak warna daun tidak bertahan lama. Jika ingin melihat Seoul di musim gugur tahun ini, ingatlah minggu terakhir Oktober.",
+      "sources": [
+        "Korea Forest Service, peta prakiraan puncak daun musim gugur Semenanjung Korea 2026",
+        "Seoul Metropolitan Government, 110 jalur daun musim gugur Seoul (daftar 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center — Korea Heritage Service, informasi kunjungan Deoksugung"
+      ],
+      "credit": "Foto: Korea Tourism Organization"
+    },
+    "pt_br": {
+      "title": "5 passeios de outono em Seul que você alcança de metrô — pico por volta de 30 de outubro",
+      "summary": "Você não precisa de botas de trilha. Do caminho do muro de pedra do Deoksugung aos ginkgos do Seoul Forest, estes passeios ficam a uma curta caminhada da estação.",
+      "hero_caption": "Ginkgos ao longo do muro de pedra do Deoksugung",
+      "lead": [
+        "Quando se fala em folhas de outono na Coreia, muita gente pensa primeiro no Seoraksan ou no Naejangsan. Mas Seul também tem 110 caminhos de outono escolhidos pela própria cidade: 167 km no total, com cerca de 72 mil árvores.",
+        "Escolhemos cinco que são fáceis de alcançar de metrô. Você não precisa de botas de trilha."
+      ],
+      "sections": [
+        {
+          "h": "O pico deste ano: por volta de 30 de outubro",
+          "p": [
+            "Segundo a previsão do Korea Forest Service, neste ano os ginkgos chegam ao pico por volta de 30 de outubro e os bordos por volta de 31 de outubro. Aqui, “pico” quer dizer que cerca de metade das árvores já mudou de cor.",
+            "O Seoraksan é o primeiro a mudar de cor, por volta de 20 de outubro, e o Naejangsan, no sul, por volta de 4 de novembro. Há cerca de duas semanas de diferença entre as regiões; se for sair de Seul, confira a data da região que você vai visitar."
+          ],
+          "photo": "when",
+          "caption": "Ginkgos no Seoul Forest"
+        },
+        {
+          "h": "Ao longo dos muros dos palácios — Deoksugung-gil e Hyoja-ro",
+          "p": [
+            "O caminho do muro de pedra do Deoksugung começa perto da estação City Hall e tem pouco mais de 300 m. É curto, por isso combina bem com a visita ao palácio.",
+            "O Deoksugung fica aberto até as 21:00, com última entrada às 20:00. Você pode percorrer o caminho do muro de pedra durante o dia e conhecer o interior do palácio ao entardecer.",
+            "A Hyoja-ro (800 m), que acompanha o muro oeste do Gyeongbokgung, também consta da lista de caminhos de outono de Seul."
+          ],
+          "photo": "palace",
+          "caption": "Outono no caminho do muro de pedra do Deoksugung"
+        },
+        {
+          "h": "Uma alameda de ginkgos e uma rua sem carros — Samcheong-dong-gil e Namsan",
+          "p": [
+            "A Samcheong-dong-gil tem 1,2 km, do Dongsipjagak em direção ao túnel Samcheong, com ginkgos dos dois lados.",
+            "Se quiser caminhar um pouco mais, há a estrada circular norte do Namsan. Os 3,5 km são só para pedestres, então você pode passear entre as folhas sem se preocupar com carros."
+          ],
+          "photo": "lanes",
+          "caption": "Ginkgos na Samcheong-dong-gil"
+        },
+        {
+          "h": "600 ginkgos — Seoul Forest",
+          "p": [
+            "Há cerca de 600 ginkgos ao longo da trilha do bosque no Seoul Forest. A estação Seoul Forest, da linha Suin-Bundang, fica a cerca de 5 minutos a pé, então é fácil de encontrar."
+          ],
+          "photo": "forest",
+          "caption": "A trilha de ginkgos no Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Como chegar",
+          "v": [
+            "Caminho do muro de pedra do Deoksugung: linhas 1 e 2 do metrô, estação City Hall",
+            "Seoul Forest: cerca de 5 minutos a pé da estação Seoul Forest (linha Suin-Bundang)"
+          ]
+        },
+        {
+          "k": "Quando",
+          "v": [
+            "Pico por volta de 30 de outubro para os ginkgos e 31 de outubro para os bordos (previsão do Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "Preço",
+          "v": [
+            "Todos os caminhos de outono são gratuitos",
+            "Entrada no Deoksugung: KRW 1.000 para adultos (visitantes estrangeiros de 19 a 64 anos)"
+          ]
+        },
+        {
+          "k": "Horário",
+          "v": [
+            "Deoksugung 09:00–21:00, última entrada às 20:00"
+          ]
+        },
+        {
+          "k": "No Trabbit",
+          "v": [
+            "No mapa do metrô, toque na estação City Hall ou na estação Seoul Forest para ver os horários do último trem dessa estação."
+          ]
+        }
+      ],
+      "outro": "O pico das cores não dura muito. Se você quer ver Seul no outono deste ano, guarde a última semana de outubro.",
+      "sources": [
+        "Korea Forest Service, mapa de previsão do pico da folhagem de outono de 2026",
+        "Seoul Metropolitan Government, 110 caminhos de outono de Seul (lista de 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center, Korea Heritage Service — informações de visita ao Deoksugung"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "ru": {
+      "title": "Осенняя листва в Сеуле: 5 мест, куда можно добраться на метро — пик в этом году около 30 октября",
+      "summary": "Горные ботинки не нужны. От каменной ограды дворца Токсугун до гинкго в Сеульском лесу — аллеи с осенней листвой, до которых можно дойти пешком от станции.",
+      "hero_caption": "Гинкго вдоль каменной ограды дворца Токсугун",
+      "lead": [
+        "Говоря об осенней листве, многие сразу вспоминают Сораксан или Нэджансан, но и в Сеуле есть 110 аллей с осенней листвой, которые выбрал сам город. Их общая протяжённость — 167 км, а деревьев на них около 72 000.",
+        "Из них мы выбрали пять мест, куда легко добраться на метро. Горные ботинки не понадобятся."
+      ],
+      "sections": [
+        {
+          "h": "Пик в этом году — около 30 октября",
+          "p": [
+            "По прогнозу Лесной службы Кореи (Korea Forest Service), в этом году гинкго достигнут пика около 30 октября, а клёны — около 31 октября. Под пиком здесь понимается время, когда окрасилась примерно половина деревьев.",
+            "Раньше всех окрашивается Сораксан — около 20 октября, а Нэджансан на юге — около 4 ноября. В разных регионах разница составляет примерно две недели, поэтому если вы собираетесь за пределы Сеула, отдельно проверьте даты для нужного места."
+          ],
+          "photo": "when",
+          "caption": "Гинкго в Сеульском лесу"
+        },
+        {
+          "h": "Вдоль дворцовых стен — каменная ограда Токсугун и Хёджа-ро",
+          "p": [
+            "Дорожка вдоль каменной ограды Токсугун начинается недалеко от станции City Hall и тянется чуть более 300 м. Она короткая, поэтому её удобно совместить с осмотром дворца.",
+            "Дворец Токсугун открыт до 21:00, последний вход — в 20:00. Можно пройтись вдоль каменной ограды днём, а ближе к закату осмотреть дворец изнутри.",
+            "Хёджа-ро (Hyoja-ro, 800 м), которая идёт вдоль западной стены Кёнбоккун, тоже входит в список сеульских аллей с осенней листвой."
+          ],
+          "photo": "palace",
+          "caption": "Осень у каменной ограды Токсугун"
+        },
+        {
+          "h": "Аллея гинкго и дорога без машин — Самчхондон-гиль и Намсан",
+          "p": [
+            "Самчхондон-гиль (Samcheong-dong-gil) — дорога длиной 1,2 км от Тонсипчхагак (Dongsipjagak) в сторону тоннеля Самчхон (Samcheong Tunnel). По обеим сторонам растут гинкго.",
+            "Если хочется пройти подальше, есть северная кольцевая дорога на Намсане. Все 3,5 км отведены только для пешеходов, поэтому можно гулять среди листвы, не думая о машинах."
+          ],
+          "photo": "lanes",
+          "caption": "Гинкго на Самчхондон-гиль"
+        },
+        {
+          "h": "600 гинкго — Сеульский лес",
+          "p": [
+            "Вдоль лесной дорожки в Сеульском лесу растёт около 600 гинкго. От станции Seoul Forest линии Суин-Бундан (Suin-Bundang Line) пешком примерно 5 минут, так что добраться легко."
+          ],
+          "photo": "forest",
+          "caption": "Дорожка среди гинкго в Сеульском лесу"
+        }
+      ],
+      "box": [
+        {
+          "k": "Как добраться",
+          "v": [
+            "Каменная ограда Токсугун: станция City Hall, линии метро 1 и 2",
+            "Сеульский лес: примерно 5 минут пешком от станции Seoul Forest, линия Суин-Бундан"
+          ]
+        },
+        {
+          "k": "Когда",
+          "v": [
+            "Пик: гинкго — около 30 октября, клёны — около 31 октября (прогноз Лесной службы Кореи)"
+          ]
+        },
+        {
+          "k": "Стоимость",
+          "v": [
+            "Все аллеи с осенней листвой бесплатны",
+            "Вход во дворец Токсугун: 1000 вон для взрослых (иностранцы в возрасте 19–64 лет)"
+          ]
+        },
+        {
+          "k": "Часы работы",
+          "v": [
+            "Токсугун 09:00–21:00, последний вход в 20:00"
+          ]
+        },
+        {
+          "k": "В Trabbit",
+          "v": [
+            "Нажмите на схеме метро станцию City Hall или Seoul Forest — и вы увидите время последнего поезда на этой станции."
+          ]
+        }
+      ],
+      "outro": "Пик осенней листвы длится недолго. Если хотите увидеть осенний Сеул в этом году, запомните последнюю неделю октября.",
+      "sources": [
+        "Лесная служба Кореи (Korea Forest Service), карта прогноза пика осенней листвы на Корейском полуострове 2026 года",
+        "Правительство города Сеул (Seoul Metropolitan Government), «110 аллей с осенней листвой в Сеуле» (список 2025 года)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center — Korea Heritage Service, информация для посетителей дворца Токсугун"
+      ],
+      "credit": "Фото: Korea Tourism Organization"
+    },
+    "th": {
+      "title": "5 เส้นทางชมใบไม้เปลี่ยนสีในโซลที่เดินทางด้วยรถไฟใต้ดินได้ — ปีนี้ถึงจุดสูงสุดราววันที่ 30 ตุลาคม",
+      "summary": "ไม่ต้องใช้รองเท้าปีนเขา ตั้งแต่ถนนกำแพงหินของพระราชวัง Deoksugung ไปจนถึงต้นแปะก๊วยที่ Seoul Forest ล้วนเป็นเส้นทางชมใบไม้เปลี่ยนสีที่เดินจากสถานีไปถึงได้",
+      "hero_caption": "ต้นแปะก๊วยริมถนนกำแพงหินของพระราชวัง Deoksugung",
+      "lead": [
+        "พูดถึงใบไม้เปลี่ยนสี หลายคนมักนึกถึง Seoraksan หรือ Naejangsan ก่อน แต่โซลเองก็มีเส้นทางชมใบไม้เปลี่ยนสีที่ทางการเมืองคัดเลือกเองถึง 110 สาย รวมความยาว 167 กม. มีต้นไม้ประมาณ 72,000 ต้น",
+        "เราคัดมาห้าแห่งที่เดินทางด้วยรถไฟใต้ดินได้ง่าย ไม่จำเป็นต้องใช้รองเท้าปีนเขา"
+      ],
+      "sections": [
+        {
+          "h": "ปีนี้ถึงจุดสูงสุดราววันที่ 30 ตุลาคม",
+          "p": [
+            "ตามการคาดการณ์ของ Korea Forest Service ปีนี้ต้นแปะก๊วยจะถึงจุดสูงสุดราววันที่ 30 ตุลาคม และต้นเมเปิลราววันที่ 31 ตุลาคม คำว่า \"จุดสูงสุด\" ในที่นี้หมายถึงช่วงที่ต้นไม้เปลี่ยนสีไปราวครึ่งหนึ่ง",
+            "Seoraksan ที่เปลี่ยนสีก่อนใครจะอยู่ราววันที่ 20 ตุลาคม ส่วน Naejangsan ทางใต้ราววันที่ 4 พฤศจิกายน แต่ละภูมิภาคต่างกันประมาณสองสัปดาห์ หากวางแผนไปนอกโซล โปรดตรวจสอบวันที่ของพื้นที่นั้นแยกต่างหาก"
+          ],
+          "photo": "when",
+          "caption": "ต้นแปะก๊วยที่ Seoul Forest"
+        },
+        {
+          "h": "เลียบกำแพงพระราชวัง — ถนนกำแพงหิน Deoksugung และ Hyoja-ro",
+          "p": [
+            "ถนนกำแพงหิน Deoksugung เริ่มต้นใกล้สถานี City Hall ยาวกว่า 300 ม. เล็กน้อย เป็นเส้นทางสั้น จึงเดินคู่กับการเข้าชมพระราชวังได้สะดวก",
+            "Deoksugung เปิดถึงเวลา 21:00 น. และปิดรับผู้เข้าชมเวลา 20:00 น. จะเดินชมถนนกำแพงหินในช่วงกลางวัน แล้วเข้าไปชมภายในพระราชวังตอนพระอาทิตย์ใกล้ตกก็ได้",
+            "Hyoja-ro (800 ม.) ซึ่งทอดไปตามกำแพงด้านตะวันตกของ Gyeongbokgung ก็อยู่ในรายชื่อเส้นทางชมใบไม้เปลี่ยนสีของกรุงโซลเช่นกัน"
+          ],
+          "photo": "palace",
+          "caption": "ถนนกำแพงหิน Deoksugung ในฤดูใบไม้ร่วง"
+        },
+        {
+          "h": "ตรอกต้นแปะก๊วยและถนนปลอดรถ — Samcheong-dong-gil และ Namsan",
+          "p": [
+            "Samcheong-dong-gil เป็นเส้นทางยาว 1.2 กม. จาก Dongsipjagak ไปทาง Samcheong Tunnel มีต้นแปะก๊วยเรียงรายสองข้างทาง",
+            "หากอยากเดินไกลขึ้น มีถนนวงแหวนด้านเหนือของ Namsan ตลอดทั้ง 3.5 กม. เป็นทางเดินเท้าเท่านั้น จึงเดินชมใบไม้เปลี่ยนสีได้โดยไม่ต้องกังวลเรื่องรถ"
+          ],
+          "photo": "lanes",
+          "caption": "ต้นแปะก๊วยที่ Samcheong-dong-gil"
+        },
+        {
+          "h": "ต้นแปะก๊วย 600 ต้น — Seoul Forest",
+          "p": [
+            "ตามทางเดินในป่าของ Seoul Forest มีต้นแปะก๊วยอยู่ราว 600 ต้น เดินจากสถานี Seoul Forest สาย Suin-Bundang ประมาณ 5 นาที จึงหาไม่ยาก"
+          ],
+          "photo": "forest",
+          "caption": "ทางเดินต้นแปะก๊วยใน Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "วิธีเดินทาง",
+          "v": [
+            "ถนนกำแพงหิน Deoksugung: สถานี City Hall รถไฟใต้ดินสาย 1 และ 2",
+            "Seoul Forest: เดินจากสถานี Seoul Forest สาย Suin-Bundang ประมาณ 5 นาที"
+          ]
+        },
+        {
+          "k": "ช่วงเวลา",
+          "v": [
+            "ต้นแปะก๊วยสูงสุดราววันที่ 30 ตุลาคม ต้นเมเปิลราววันที่ 31 ตุลาคม (คาดการณ์โดย Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "ค่าใช้จ่าย",
+          "v": [
+            "เส้นทางชมใบไม้เปลี่ยนสีทุกแห่งไม่เสียค่าเข้า",
+            "ภายใน Deoksugung ผู้ใหญ่ 1,000 วอน (ชาวต่างชาติอายุ 19–64 ปี)"
+          ]
+        },
+        {
+          "k": "เวลาเปิด",
+          "v": [
+            "Deoksugung 09:00–21:00 น. ปิดรับผู้เข้าชม 20:00 น."
+          ]
+        },
+        {
+          "k": "ใน Trabbit",
+          "v": [
+            "แตะสถานี City Hall หรือ Seoul Forest บนแผนที่รถไฟใต้ดิน จะเห็นเวลาขบวนสุดท้ายของสถานีนั้น"
+          ]
+        }
+      ],
+      "outro": "ช่วงใบไม้เปลี่ยนสีสูงสุดอยู่ได้ไม่นาน หากอยากชมฤดูใบไม้ร่วงของโซลปีนี้ ขอให้จำสัปดาห์สุดท้ายของเดือนตุลาคมไว้",
+      "sources": [
+        "Korea Forest Service แผนที่คาดการณ์ช่วงใบไม้เปลี่ยนสีสูงสุดบนคาบสมุทรเกาหลี ปี 2026",
+        "Seoul Metropolitan Government \"110 เส้นทางชมใบไม้เปลี่ยนสีในโซล\" (รายชื่อปี 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center — Korea Heritage Service ข้อมูลการเข้าชม Deoksugung"
+      ],
+      "credit": "ภาพ: Korea Tourism Organization"
+    },
+    "vi": {
+      "title": "5 con đường ngắm lá thu ở Seoul đi được bằng tàu điện ngầm — năm nay đạt đỉnh vào khoảng ngày 30 tháng 10",
+      "summary": "Không cần giày leo núi. Từ con đường tường đá Deoksugung đến những hàng ngân hạnh ở Seoul Forest, đây là các con đường lá thu bạn có thể đi bộ tới từ ga.",
+      "hero_caption": "Hàng ngân hạnh bên con đường tường đá Deoksugung",
+      "lead": [
+        "Nhắc đến lá thu, nhiều người nghĩ ngay đến Seoraksan hay Naejangsan, nhưng riêng Seoul cũng có 110 con đường lá thu do chính thành phố chọn. Tổng chiều dài là 167 km, với khoảng 72.000 cây.",
+        "Chúng tôi chọn ra năm nơi dễ đến bằng tàu điện ngầm. Bạn không cần giày leo núi."
+      ],
+      "sections": [
+        {
+          "h": "Năm nay đạt đỉnh vào khoảng ngày 30 tháng 10",
+          "p": [
+            "Theo dự báo của Korea Forest Service, năm nay cây ngân hạnh đạt đỉnh vào khoảng ngày 30 tháng 10, còn cây phong vào khoảng ngày 31 tháng 10. Ở đây, \"đỉnh\" nghĩa là lúc khoảng một nửa số cây đã đổi màu.",
+            "Seoraksan đổi màu sớm nhất, vào khoảng ngày 20 tháng 10, còn Naejangsan ở phía nam vào khoảng ngày 4 tháng 11. Mỗi vùng lệch nhau chừng hai tuần, nên nếu định đi ra ngoài Seoul, bạn hãy kiểm tra riêng ngày của nơi đó."
+          ],
+          "photo": "when",
+          "caption": "Hàng ngân hạnh ở Seoul Forest"
+        },
+        {
+          "h": "Dọc theo tường cung điện — con đường tường đá Deoksugung và Hyoja-ro",
+          "p": [
+            "Con đường tường đá Deoksugung bắt đầu gần ga City Hall và dài hơn 300 m một chút. Đường ngắn nên rất tiện để đi cùng với việc tham quan cung.",
+            "Deoksugung mở cửa đến 21:00, giờ vào cuối là 20:00. Bạn có thể đi dạo con đường tường đá vào ban ngày, rồi tham quan bên trong cung lúc hoàng hôn.",
+            "Hyoja-ro (800 m), chạy dọc bức tường phía tây của Gyeongbokgung, cũng nằm trong danh sách các con đường lá thu của Seoul."
+          ],
+          "photo": "palace",
+          "caption": "Mùa thu bên con đường tường đá Deoksugung"
+        },
+        {
+          "h": "Con phố ngân hạnh và con đường không có xe — Samcheong-dong-gil và Namsan",
+          "p": [
+            "Samcheong-dong-gil dài 1,2 km, đi từ Dongsipjagak về phía Samcheong Tunnel, hai bên đường có hàng ngân hạnh.",
+            "Nếu muốn đi bộ lâu hơn, có đường vòng phía bắc Namsan. Toàn bộ 3,5 km chỉ dành cho người đi bộ, nên bạn có thể thong thả đi giữa lá thu mà không lo xe cộ."
+          ],
+          "photo": "lanes",
+          "caption": "Hàng ngân hạnh ở Samcheong-dong-gil"
+        },
+        {
+          "h": "600 cây ngân hạnh — Seoul Forest",
+          "p": [
+            "Dọc lối đi trong rừng ở Seoul Forest có khoảng 600 cây ngân hạnh. Từ ga Seoul Forest trên tuyến Suin-Bundang đi bộ khoảng 5 phút nên rất dễ tìm đến."
+          ],
+          "photo": "forest",
+          "caption": "Lối đi ngân hạnh ở Seoul Forest"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cách đến",
+          "v": [
+            "Con đường tường đá Deoksugung: ga City Hall, tàu điện ngầm tuyến 1 và 2",
+            "Seoul Forest: đi bộ khoảng 5 phút từ ga Seoul Forest, tuyến Suin-Bundang"
+          ]
+        },
+        {
+          "k": "Thời điểm",
+          "v": [
+            "Ngân hạnh đạt đỉnh khoảng ngày 30 tháng 10, cây phong khoảng ngày 31 tháng 10 (dự báo của Korea Forest Service)"
+          ]
+        },
+        {
+          "k": "Chi phí",
+          "v": [
+            "Tất cả các con đường lá thu đều miễn phí",
+            "Vào bên trong Deoksugung: 1.000 won cho người lớn (khách nước ngoài từ 19 đến 64 tuổi)"
+          ]
+        },
+        {
+          "k": "Giờ mở cửa",
+          "v": [
+            "Deoksugung 09:00–21:00, giờ vào cuối 20:00"
+          ]
+        },
+        {
+          "k": "Trong Trabbit",
+          "v": [
+            "Chạm vào ga City Hall hoặc ga Seoul Forest trên sơ đồ tàu điện ngầm để xem giờ tàu cuối của ga đó."
+          ]
+        }
+      ],
+      "outro": "Đỉnh lá thu không kéo dài lâu. Nếu muốn ngắm Seoul mùa thu năm nay, bạn hãy nhớ tuần cuối của tháng 10.",
+      "sources": [
+        "Korea Forest Service, bản đồ dự báo đỉnh lá thu trên bán đảo Triều Tiên năm 2026",
+        "Seoul Metropolitan Government, 110 con đường lá thu ở Seoul (danh sách năm 2025)",
+        "Seoul Media Hub",
+        "Royal Palaces and Tombs Center — Korea Heritage Service, thông tin tham quan Deoksugung"
+      ],
+      "credit": "Ảnh: Korea Tourism Organization"
+    },
+    "zh_cn": {
+      "title": "乘地铁就能到的首尔红叶路5处——今年高峰在10月30日前后",
+      "summary": "不用穿登山鞋也可以。从德寿宫石墙路到首尔林的银杏树，这里汇集了从地铁站步行就能到的红叶路。",
+      "hero_caption": "德寿宫石墙路的银杏树",
+      "lead": [
+        "说到红叶，人们往往先想到雪岳山或内藏山，但首尔也有110条由首尔市亲自挑选的红叶路。全部加起来共167km，树木约7万2千棵。",
+        "我们从中挑选了5处乘地铁容易到达的地方。不需要登山鞋。"
+      ],
+      "sections": [
+        {
+          "h": "今年高峰在10月30日前后",
+          "p": [
+            "据韩国山林厅预测，今年银杏在10月30日前后、枫树在10月31日前后达到高峰。这里的高峰，指的是约一半树木变色的时候。",
+            "最早变色的雪岳山在10月20日前后，南边的内藏山在11月4日前后。各地相差半个月左右，如果打算去首尔以外的地方，请另外确认当地的日期。"
+          ],
+          "photo": "when",
+          "caption": "首尔林的银杏树"
+        },
+        {
+          "h": "沿着宫墙漫步——德寿宫石墙路与孝子路",
+          "p": [
+            "德寿宫石墙路从市厅站附近开始，长约300m。路不长，很适合与参观宫殿一起走。",
+            "德寿宫开放到晚上9点，入场在晚上8点截止。白天可以先走石墙路，傍晚时分再逛宫内。",
+            "沿着景福宫西墙的孝子路（800m）也在首尔市的红叶路名单中。"
+          ],
+          "photo": "palace",
+          "caption": "德寿宫石墙路的秋天"
+        },
+        {
+          "h": "银杏小巷与无车道路——三清洞路与南山",
+          "p": [
+            "三清洞路是从东十字阁通往三清隧道方向的1.2km道路，两旁种满了银杏树。",
+            "如果想再多走一些，可以去南山北侧环形路。全长3.5km都是步行专用，不用担心车辆，可以在红叶间漫步。"
+          ],
+          "photo": "lanes",
+          "caption": "三清洞路的银杏树"
+        },
+        {
+          "h": "600棵银杏树——首尔林",
+          "p": [
+            "首尔林的林间小路上有约600棵银杏树。从水仁盆唐线首尔林站步行约5分钟即可到达，很容易找到。"
+          ],
+          "photo": "forest",
+          "caption": "首尔林的银杏小路"
+        }
+      ],
+      "box": [
+        {
+          "k": "前往方式",
+          "v": [
+            "德寿宫石墙路：地铁1·2号线 市厅站",
+            "首尔林：水仁盆唐线首尔林站步行约5分钟"
+          ]
+        },
+        {
+          "k": "时间",
+          "v": [
+            "银杏10月30日、枫树10月31日前后达到高峰（韩国山林厅预测）"
+          ]
+        },
+        {
+          "k": "费用",
+          "v": [
+            "红叶路全部免费",
+            "德寿宫内成人1,000韩元（外国人满19~64岁）"
+          ]
+        },
+        {
+          "k": "开放时间",
+          "v": [
+            "德寿宫 09:00~21:00，入场截止 20:00"
+          ]
+        },
+        {
+          "k": "在Trabbit里",
+          "v": [
+            "在地铁线路图上点击市厅站或首尔林站，就能看到该站的末班车时间。"
+          ]
+        }
+      ],
+      "outro": "红叶高峰持续不了多久。如果想看今年首尔的秋色，请记住10月的最后一周。",
+      "sources": [
+        "韩国山林厅《2026年韩半岛红叶高峰预测图》",
+        "首尔市《首尔红叶路110选》（2025年名单）",
+        "首尔市媒体中心",
+        "国家遗产厅宫陵遗迹本部 德寿宫参观指南"
+      ],
+      "credit": "图片：韩国观光公社"
+    },
+    "zh_tw": {
+      "title": "搭地鐵就能到的首爾紅葉路5處——今年高峰在10月30日前後",
+      "summary": "不穿登山鞋也沒問題。從德壽宮石牆路到首爾林的銀杏樹，這裡集結了從地鐵站步行就能抵達的紅葉路。",
+      "hero_caption": "德壽宮石牆路的銀杏樹",
+      "lead": [
+        "提到紅葉，人們往往先想到雪岳山或內藏山，但首爾也有110條由首爾市親自挑選的紅葉路。全部加起來共167km，樹木約7萬2千棵。",
+        "我們從中挑選了5處搭地鐵容易抵達的地方。不需要登山鞋。"
+      ],
+      "sections": [
+        {
+          "h": "今年高峰在10月30日前後",
+          "p": [
+            "根據韓國山林廳預測，今年銀杏在10月30日前後、楓樹在10月31日前後達到高峰。這裡的高峰，指的是約一半樹木變色的時候。",
+            "最早變色的雪岳山在10月20日前後，南邊的內藏山在11月4日前後。各地相差半個月左右，如果打算前往首爾以外的地方，請另外確認當地的日期。"
+          ],
+          "photo": "when",
+          "caption": "首爾林的銀杏樹"
+        },
+        {
+          "h": "沿著宮牆漫步——德壽宮石牆路與孝子路",
+          "p": [
+            "德壽宮石牆路從市廳站附近開始，長約300m。路不長，很適合與參觀宮殿一起走。",
+            "德壽宮開放到晚上9點，入場在晚上8點截止。白天可以先走石牆路，傍晚時分再逛宮內。",
+            "沿著景福宮西牆的孝子路（800m）也在首爾市的紅葉路名單中。"
+          ],
+          "photo": "palace",
+          "caption": "德壽宮石牆路的秋天"
+        },
+        {
+          "h": "銀杏小巷與無車道路——三清洞路與南山",
+          "p": [
+            "三清洞路是從東十字閣通往三清隧道方向的1.2km道路，兩旁種滿了銀杏樹。",
+            "如果想再多走一些，可以前往南山北側環形路。全長3.5km都是步行專用，不用擔心車輛，可以在紅葉間漫步。"
+          ],
+          "photo": "lanes",
+          "caption": "三清洞路的銀杏樹"
+        },
+        {
+          "h": "600棵銀杏樹——首爾林",
+          "p": [
+            "首爾林的林間小路上有約600棵銀杏樹。從水仁盆唐線首爾林站步行約5分鐘即可抵達，很容易找到。"
+          ],
+          "photo": "forest",
+          "caption": "首爾林的銀杏小路"
+        }
+      ],
+      "box": [
+        {
+          "k": "前往方式",
+          "v": [
+            "德壽宮石牆路：地鐵1·2號線 市廳站",
+            "首爾林：水仁盆唐線首爾林站步行約5分鐘"
+          ]
+        },
+        {
+          "k": "時間",
+          "v": [
+            "銀杏10月30日、楓樹10月31日前後達到高峰（韓國山林廳預測）"
+          ]
+        },
+        {
+          "k": "費用",
+          "v": [
+            "紅葉路全部免費",
+            "德壽宮內成人1,000韓元（外國人滿19~64歲）"
+          ]
+        },
+        {
+          "k": "開放時間",
+          "v": [
+            "德壽宮 09:00~21:00，入場截止 20:00"
+          ]
+        },
+        {
+          "k": "在Trabbit裡",
+          "v": [
+            "在地鐵路線圖上點選市廳站或首爾林站，就能看到該站的末班車時間。"
+          ]
+        }
+      ],
+      "outro": "紅葉高峰持續不了多久。如果想看今年首爾的秋色，請記住10月的最後一週。",
+      "sources": [
+        "韓國山林廳《2026年韓半島紅葉高峰預測圖》",
+        "首爾市《首爾紅葉路110選》（2025年名單）",
+        "首爾市媒體中心",
+        "國家遺產廳宮陵遺跡本部 德壽宮參觀指南"
+      ],
+      "credit": "照片：韓國觀光公社"
+    }
+  }
+}

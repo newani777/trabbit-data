@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "articles": [
+    {
+      "id": "2026-10-19_seoul_leaves",
+      "no": 1,
+      "kind": "seasonal",
+      "published": "2026-10-19",
+      "week": "2026-10-19",
+      "fresh_until": "2026-11-15",
+      "issue_id": "set36_seoul_leaves",
+      "hero": {
+        "file": "hero.webp",
+        "w": 1080,
+        "h": 720
+      },
+      "title": {
+        "ko": "지하철로 가는 서울 단풍길 5곳 — 올해 절정은 10월 30일 무렵",
+        "en": "5 autumn leaf walks in Seoul you can reach by subway — peak around 30 October",
+        "ja": "地下鉄で行くソウルの紅葉の道5選 — 今年のピークは10月30日ごろ",
+        "de": "5 Herbstlaub-Wege in Seoul, die Sie mit der U-Bahn erreichen — Höhepunkt um den 30. Oktober",
+        "es": "5 paseos de otoño en Seúl a los que llegas en metro — el punto álgido, hacia el 30 de octubre",
+        "fr": "5 balades d'automne à Séoul accessibles en métro — pic de couleurs vers le 30 octobre",
+        "id": "5 jalur daun musim gugur di Seoul yang bisa dicapai dengan kereta bawah tanah — puncaknya tahun ini sekitar 30 Oktober",
+        "pt_br": "5 passeios de outono em Seul que você alcança de metrô — pico por volta de 30 de outubro",
+        "ru": "Осенняя листва в Сеуле: 5 мест, куда можно добраться на метро — пик в этом году около 30 октября",
+        "th": "5 เส้นทางชมใบไม้เปลี่ยนสีในโซลที่เดินทางด้วยรถไฟใต้ดินได้ — ปีนี้ถึงจุดสูงสุดราววันที่ 30 ตุลาคม",
+        "vi": "5 con đường ngắm lá thu ở Seoul đi được bằng tàu điện ngầm — năm nay đạt đỉnh vào khoảng ngày 30 tháng 10",
+        "zh_cn": "乘地铁就能到的首尔红叶路5处——今年高峰在10月30日前后",
+        "zh_tw": "搭地鐵就能到的首爾紅葉路5處——今年高峰在10月30日前後"
+      },
+      "summary": {
+        "ko": "등산화 없이도 됩니다. 덕수궁 돌담길부터 서울숲 은행나무까지, 역에서 걸어갈 수 있는 단풍길을 모았어요.",
+        "en": "No hiking boots needed. From the Deoksugung stone-wall road to the ginkgo trees of Seoul Forest, these leaf walks start a short walk from the station.",
+        "ja": "登山靴がなくても大丈夫です。徳寿宮石垣道からソウルの森のイチョウまで、駅から歩いて行ける紅葉の道を集めました。",
+        "de": "Wanderschuhe brauchen Sie nicht. Vom Steinmauerweg am Deoksugung bis zu den Ginkgobäumen im Seoul Forest: Diese Laubwege liegen zu Fuß erreichbar an der Station.",
+        "es": "No necesitas botas de montaña. Del paseo del muro de piedra de Deoksugung a los ginkgos de Seoul Forest, estos paseos empiezan a poca distancia a pie de la estación.",
+        "fr": "Pas besoin de chaussures de randonnée. Du chemin du mur de pierre du Deoksugung aux ginkgos du Seoul Forest, ces balades se font à pied depuis la station.",
+        "id": "Tidak perlu sepatu gunung. Dari jalan tembok batu Deoksugung hingga pohon ginkgo di Seoul Forest, inilah jalur daun musim gugur yang bisa dicapai dengan berjalan kaki dari stasiun.",
+        "pt_br": "Você não precisa de botas de trilha. Do caminho do muro de pedra do Deoksugung aos ginkgos do Seoul Forest, estes passeios ficam a uma curta caminhada da estação.",
+        "ru": "Горные ботинки не нужны. От каменной ограды дворца Токсугун до гинкго в Сеульском лесу — аллеи с осенней листвой, до которых можно дойти пешком от станции.",
+        "th": "ไม่ต้องใช้รองเท้าปีนเขา ตั้งแต่ถนนกำแพงหินของพระราชวัง Deoksugung ไปจนถึงต้นแปะก๊วยที่ Seoul Forest ล้วนเป็นเส้นทางชมใบไม้เปลี่ยนสีที่เดินจากสถานีไปถึงได้",
+        "vi": "Không cần giày leo núi. Từ con đường tường đá Deoksugung đến những hàng ngân hạnh ở Seoul Forest, đây là các con đường lá thu bạn có thể đi bộ tới từ ga.",
+        "zh_cn": "不用穿登山鞋也可以。从德寿宫石墙路到首尔林的银杏树，这里汇集了从地铁站步行就能到的红叶路。",
+        "zh_tw": "不穿登山鞋也沒問題。從德壽宮石牆路到首爾林的銀杏樹，這裡集結了從地鐵站步行就能抵達的紅葉路。"
+      },
+      "bytes": 928745
+    }
+  ],
+  "updated": "2026-10-19"
+}
