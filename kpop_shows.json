@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261016",
+  "fetched": "20261019",
   "source": "KOPIS",
   "shows": [
     {
@@ -235,7 +235,7 @@
       "from": "2026.10.16",
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300389_260908_125817.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 4507
     },
     {
@@ -246,7 +246,7 @@
       "from": "2026.10.16",
       "to": "2026.10.16",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295326_260703_152241.gif",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 1004
     },
     {
@@ -257,7 +257,7 @@
       "from": "2026.10.17",
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301107_260916_153552.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 15000
     },
     {
@@ -268,7 +268,7 @@
       "from": "2026.10.17",
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300684_260911_125427.png",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 8057
     },
     {
@@ -279,7 +279,7 @@
       "from": "2026.10.17",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300208_260907_103958.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 3022
     },
     {
@@ -290,7 +290,7 @@
       "from": "2026.10.17",
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296665_260722_143755.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 1766
     },
     {
@@ -301,7 +301,7 @@
       "from": "2026.10.17",
       "to": "2026.10.17",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295328_260703_153531.gif",
-      "state": "공연예정",
+      "state": "공연완료",
       "seats": 1004
     },
     {
@@ -567,6 +567,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300493_260909_142219.png",
       "state": "공연예정",
       "seats": 3022
+    },
+    {
+      "id": "PF303574",
+      "name": "Jang Wooyoung Concert",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.11.14",
+      "to": "2026.11.15",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303574_261016_130824.jpg",
+      "state": "공연예정",
+      "seats": 1051
     },
     {
       "id": "PF303069",
