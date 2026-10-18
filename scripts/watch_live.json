@@ -72,6 +72,18 @@
     }
    ],
    "hint": "홍보운영 세션에 주간 카드 작업 상태를 묻는다(그 세션 몫)"
+  },
+  {
+   "id": "live-weekly-articles",
+   "name": "이번 주 한국 기사(카드를 풀어 쓴 13개 언어 기사)",
+   "max_days": 9,
+   "checks": [
+    {
+     "file": "weekly_articles/index.json",
+     "field": "updated"
+    }
+   ],
+   "hint": "일요일 카드 루틴이 기사 원고까지 쓰는지, index.json updated 가 이번 주인지 본다"
   }
  ]
 }
