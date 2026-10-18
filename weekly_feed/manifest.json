@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-16",
+  "updated": "2026-10-19",
   "issues": [
     {
       "id": "set35_huam_walk",
@@ -59,65 +59,6 @@
         "no": 5,
         "week": "Week of October 12, 2026"
       }
-    },
-    {
-      "id": "set34_chuncheon_dakgalbi",
-      "no": 19,
-      "series": "TRABBIT WEEKLY",
-      "title": "Chuncheon's two dishes",
-      "summary": "The Makguksu & Dakgalbi Festival takes over the Gongjicheon stream for five days. Entry is free.",
-      "published": "2026-10-12",
-      "footer": "Sources: Chuncheon City · Photos: KTO",
-      "cards": [
-        {
-          "file": "set34_chuncheon_dakgalbi/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 166254,
-          "alt": "Chuncheon's two dishes"
-        },
-        {
-          "file": "set34_chuncheon_dakgalbi/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 80286,
-          "alt": "KRW 9,900 a serving"
-        },
-        {
-          "file": "set34_chuncheon_dakgalbi/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 158062,
-          "alt": "Local restaurants"
-        },
-        {
-          "file": "set34_chuncheon_dakgalbi/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 233214,
-          "alt": "Gongjicheon stream"
-        },
-        {
-          "file": "set34_chuncheon_dakgalbi/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 155006,
-          "alt": "A day trip from Seoul"
-        },
-        {
-          "file": "set34_chuncheon_dakgalbi/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 50782,
-          "alt": "Go hungry"
-        }
-      ],
-      "bytes_total": 843604,
-      "weekly": {
-        "no": 5,
-        "week": "Week of October 12, 2026"
-      },
-      "ends": "2026-10-18"
     },
     {
       "id": "set33_silver_grass",
@@ -236,116 +177,6 @@
         "week": "Week of October 5, 2026"
       },
       "ends": "2026-10-31"
-    },
-    {
-      "id": "set28_jinju_lanterns",
-      "no": 14,
-      "series": "TRABBIT WEEKLY",
-      "title": "Lanterns on the Namgang",
-      "summary": "Jinju floats thousands of lanterns on its river for sixteen nights. Entry is free.",
-      "published": "2026-09-28",
-      "footer": "Sources: Jinju City, KTO · Photos: KTO",
-      "cards": [
-        {
-          "file": "set28_jinju_lanterns/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 98388,
-          "alt": "Lanterns on the Namgang"
-        },
-        {
-          "file": "set28_jinju_lanterns/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 118876,
-          "alt": "Below Jinju Fortress"
-        },
-        {
-          "file": "set28_jinju_lanterns/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 130562,
-          "alt": "Lit 6pm to midnight"
-        },
-        {
-          "file": "set28_jinju_lanterns/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 74394,
-          "alt": "Free to walk in"
-        },
-        {
-          "file": "set28_jinju_lanterns/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 117162,
-          "alt": "A signal from 1592"
-        },
-        {
-          "file": "set28_jinju_lanterns/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 58706,
-          "alt": "Stay for the night"
-        }
-      ],
-      "bytes_total": 598088,
-      "weekly": {
-        "no": 3,
-        "week": "Week of September 28, 2026"
-      },
-      "ends": "2026-10-18"
-    },
-    {
-      "id": "set20_naver_map",
-      "no": 12,
-      "series": "TRABBIT WEEKLY",
-      "title": "Naver Map Beats Google in Korea",
-      "summary": "Google Maps goes fuzzy on Korean addresses and transit. Naver Map is what locals use — and it has a full English mode.",
-      "published": "2026-09-21",
-      "footer": "Source: Trabbit CONNECT guide · Photos: KTO",
-      "cards": [
-        {
-          "file": "set20_naver_map/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 107312,
-          "alt": "Naver Map Beats Google in Korea"
-        },
-        {
-          "file": "set20_naver_map/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 104338,
-          "alt": "Google misses Korean detail"
-        },
-        {
-          "file": "set20_naver_map/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 152872,
-          "alt": "Flip the app to English"
-        },
-        {
-          "file": "set20_naver_map/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 221670,
-          "alt": "Subway exits and bus numbers"
-        },
-        {
-          "file": "set20_naver_map/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 53010,
-          "alt": "Use both, trust Naver"
-        }
-      ],
-      "bytes_total": 639202,
-      "weekly": {
-        "no": 2,
-        "week": "Week of September 21, 2026"
-      }
     }
   ]
 }
