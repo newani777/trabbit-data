@@ -3,6 +3,182 @@
   "updated": "2026-10-19",
   "issues": [
     {
+      "id": "set38_no_korean_number",
+      "no": 23,
+      "series": "TRABBIT WEEKLY",
+      "title": "No Korean number?",
+      "summary": "A foreign passport now works on Naver Map. Here's what else works, and what doesn't yet.",
+      "published": "2026-10-19",
+      "footer": "Sources: Naver · Kakao Mobility · Korail · Photos: KTO",
+      "cards": [
+        {
+          "file": "set38_no_korean_number/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 196460,
+          "alt": "No Korean number?"
+        },
+        {
+          "file": "set38_no_korean_number/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 186532,
+          "alt": "Verify with your passport"
+        },
+        {
+          "file": "set38_no_korean_number/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 126114,
+          "alt": "k.ride and Uber"
+        },
+        {
+          "file": "set38_no_korean_number/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 122430,
+          "alt": "KTX tickets two months ahead"
+        },
+        {
+          "file": "set38_no_korean_number/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 152860,
+          "alt": "Fan-club presales and some waitlists"
+        },
+        {
+          "file": "set38_no_korean_number/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 51740,
+          "alt": "Set it up before you land"
+        }
+      ],
+      "bytes_total": 836136,
+      "weekly": {
+        "no": 6,
+        "week": "Week of October 19, 2026"
+      }
+    },
+    {
+      "id": "set37_gangneung_coffee",
+      "no": 22,
+      "series": "TRABBIT WEEKLY",
+      "title": "Coffee town meets the beach",
+      "summary": "The 18th Gangneung Coffee Festival, on Anmok's seaside coffee street. Daily 10:00–20:00.",
+      "published": "2026-10-19",
+      "footer": "Sources: Gangneung Coffee Festival · Gangneung City · Photos: KTO",
+      "cards": [
+        {
+          "file": "set37_gangneung_coffee/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 62826,
+          "alt": "Coffee town meets the beach"
+        },
+        {
+          "file": "set37_gangneung_coffee/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 148376,
+          "alt": "Anmok Coffee Street"
+        },
+        {
+          "file": "set37_gangneung_coffee/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 94440,
+          "alt": "Starry nights on the sand"
+        },
+        {
+          "file": "set37_gangneung_coffee/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 121606,
+          "alt": "A day trip by KTX"
+        },
+        {
+          "file": "set37_gangneung_coffee/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 119382,
+          "alt": "Mostly free to walk"
+        },
+        {
+          "file": "set37_gangneung_coffee/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 55372,
+          "alt": "Coffee by the sea"
+        }
+      ],
+      "bytes_total": 602002,
+      "weekly": {
+        "no": 6,
+        "week": "Week of October 19, 2026"
+      },
+      "ends": "2026-10-25"
+    },
+    {
+      "id": "set36_seoul_leaves",
+      "no": 21,
+      "series": "TRABBIT WEEKLY",
+      "title": "Seoul turns gold this week",
+      "summary": "Ginkgo and maple trees peak around 30–31 October this year. You don't need a mountain: Seoul has 110 official leaf roads.",
+      "published": "2026-10-19",
+      "footer": "Sources: Korea Forest Service · Seoul City · Photos: KTO",
+      "cards": [
+        {
+          "file": "set36_seoul_leaves/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 256418,
+          "alt": "Seoul turns gold this week"
+        },
+        {
+          "file": "set36_seoul_leaves/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 247858,
+          "alt": "Peak around 30 October"
+        },
+        {
+          "file": "set36_seoul_leaves/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 260972,
+          "alt": "Deoksugung and Hyoja-ro"
+        },
+        {
+          "file": "set36_seoul_leaves/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 257338,
+          "alt": "Samcheong-dong and Namsan"
+        },
+        {
+          "file": "set36_seoul_leaves/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 230804,
+          "alt": "Seoul Forest"
+        },
+        {
+          "file": "set36_seoul_leaves/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 57938,
+          "alt": "Go before the leaves fall"
+        }
+      ],
+      "bytes_total": 1311328,
+      "weekly": {
+        "no": 6,
+        "week": "Week of October 19, 2026"
+      },
+      "ends": "2026-11-15"
+    },
+    {
       "id": "set35_huam_walk",
       "no": 20,
       "series": "TRABBIT WEEKLY",
