@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261019",
+  "fetched": "20261020",
   "source": "KOPIS",
   "shows": [
     {
@@ -228,6 +228,17 @@
       "seats": 1641
     },
     {
+      "id": "PF303806",
+      "name": "YESUNG 10TH ANNIVERSARY TOUR: ABOUT THE THINGS WE CALLED ORDINARY",
+      "venue": "KBS스포츠월드(아레나)",
+      "venue_en": "KBS Arena",
+      "from": "2026.10.16",
+      "to": "2026.10.18",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303806_261019_155024.jpg",
+      "state": "공연완료",
+      "seats": 2222
+    },
+    {
       "id": "PF300389",
       "name": "HIGHLIGHT FAN CON: 18년차 아이돌인 내가 이세계에선 데뷔조 연습생?!",
       "venue": "장충체육관",
@@ -281,6 +292,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300208_260907_103958.gif",
       "state": "공연중",
       "seats": 3022
+    },
+    {
+      "id": "PF296721",
+      "name": "그랜드 민트 페스티벌",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.10.17",
+      "to": "2026.10.18",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296721_260723_113525.gif",
+      "state": "공연완료",
+      "seats": 15000
     },
     {
       "id": "PF296665",
@@ -437,6 +459,17 @@
       "seats": 15000
     },
     {
+      "id": "PF303776",
+      "name": "SON HO YOUNG 20TH ANNIVERSARY: HORIZON",
+      "venue": "KBS스포츠월드(아레나)",
+      "venue_en": "KBS Arena",
+      "from": "2026.10.31",
+      "to": "2026.11.01",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303776_261019_150345.png",
+      "state": "공연예정",
+      "seats": 2222
+    },
+    {
       "id": "PF302717",
       "name": "WOODZ WORLD TOUR Archive. 1: Completed",
       "venue": "올림픽공원",
@@ -479,6 +512,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301118_260916_160922.gif",
       "state": "공연예정",
       "seats": 1004
+    },
+    {
+      "id": "PF303703",
+      "name": "NAM WOOHYUN 10th ANNIVERSARY CONCERT, 식목일 Ⅵ: EVER GREEN",
+      "venue": "KBS스포츠월드(아레나)",
+      "venue_en": "KBS Arena",
+      "from": "2026.11.06",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303703_261019_120630.png",
+      "state": "공연예정",
+      "seats": 2222
     },
     {
       "id": "PF301501",
@@ -534,6 +578,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301284_260918_125133.jpg",
       "state": "공연예정",
       "seats": 2036
+    },
+    {
+      "id": "PF303780",
+      "name": "충전구역, Daybreak X LUCY",
+      "venue": "연세대학교 대강당",
+      "venue_en": "Yonsei University Grand Auditorium",
+      "from": "2026.11.08",
+      "to": "2026.11.08",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303780_261019_151153.png",
+      "state": "공연예정",
+      "seats": 1641
     },
     {
       "id": "PF300950",
@@ -765,6 +820,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301499_260921_170434.jpg",
       "state": "공연예정",
       "seats": 15000
+    },
+    {
+      "id": "PF303810",
+      "name": "MINHO CONCERT: MEAN: of feral",
+      "venue": "KBS스포츠월드(아레나)",
+      "venue_en": "KBS Arena",
+      "from": "2026.11.28",
+      "to": "2026.11.29",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303810_261019_155712.jpg",
+      "state": "공연예정",
+      "seats": 2222
     },
     {
       "id": "PF302147",
