@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261021",
+  "fetched": "20261022",
   "source": "KOPIS",
   "shows": [
     {
@@ -732,6 +732,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301234_261006_164647.gif",
       "state": "공연예정",
       "seats": 15000
+    },
+    {
+      "id": "PF304049",
+      "name": "소란 겨울 콘서트: LAYERING",
+      "venue": "LG아트센터 서울",
+      "venue_en": "LG Arts Center Seoul",
+      "from": "2026.11.21",
+      "to": "2026.11.22",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304049_261021_145805.jpg",
+      "state": "공연예정",
+      "seats": 1335
     },
     {
       "id": "PF303488",
