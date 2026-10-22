@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261022",
+  "fetched": "20261023",
   "source": "KOPIS",
   "shows": [
     {
@@ -105,17 +105,6 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298494_260813_162955.jpg",
       "state": "공연완료",
       "seats": 2222
-    },
-    {
-      "id": "PF292331",
-      "name": "에즈라 콜렉티브 첫 단독 내한공연 Ezra Collective Live",
-      "venue": "예스24 라이브홀 (구. 악스코리아)",
-      "venue_en": "YES24 Live Hall",
-      "from": "2026.10.08",
-      "to": "2026.10.08",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292331_260527_130919.jpg",
-      "state": "공연완료",
-      "seats": 1051
     },
     {
       "id": "PF300440",
@@ -334,7 +323,7 @@
       "from": "2026.10.23",
       "to": "2026.10.23",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301572_260922_134911.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 15000
     },
     {
@@ -345,7 +334,7 @@
       "from": "2026.10.23",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301259_260918_110012.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 8057
     },
     {
@@ -356,7 +345,7 @@
       "from": "2026.10.23",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300839_260914_142043.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1766
     },
     {
@@ -367,7 +356,7 @@
       "from": "2026.10.23",
       "to": "2026.10.23",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299464_260827_104645.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 2222
     },
     {
@@ -624,6 +613,17 @@
       "seats": 3022
     },
     {
+      "id": "PF304116",
+      "name": "코리아 반도네온 페스티벌",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.14",
+      "to": "2026.11.14",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304116_261022_105310.gif",
+      "state": "공연예정",
+      "seats": 3022
+    },
+    {
       "id": "PF303574",
       "name": "Jang Wooyoung Concert",
       "venue": "예스24 라이브홀 (구. 악스코리아)",
@@ -831,6 +831,17 @@
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301499_260921_170434.jpg",
       "state": "공연예정",
       "seats": 15000
+    },
+    {
+      "id": "PF304113",
+      "name": "Awesome Stage X FTISLAND: FaTe PE",
+      "venue": "블루스퀘어",
+      "venue_en": "Blue Square",
+      "from": "2026.11.28",
+      "to": "2026.11.29",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304113_261022_104747.gif",
+      "state": "공연예정",
+      "seats": 1766
     },
     {
       "id": "PF303810",
