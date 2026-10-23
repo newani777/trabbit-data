@@ -144,6 +144,37 @@ def venue_seats(key, mt10id):
     return best
 
 
+RELATES_CACHE = os.path.join("scripts", "kpop_relates.json")
+
+
+def load_relates():
+    try:
+        with open(RELATES_CACHE, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
+def save_relates(v):
+    with open(RELATES_CACHE, "w", encoding="utf-8") as f:
+        json.dump(v, f, ensure_ascii=False, indent=1, sort_keys=True)
+
+
+def show_relates(key, mt20id):
+    """공연 상세의 예매처 [{"n": 이름, "u": 주소}]. 앱은 첫 번째를 바깥 브라우저로 연다
+    (그래서 http 주소도 그대로 둔다 — 평문 차단은 앱 안 통신에만 걸린다)."""
+    url = f"{API}/{mt20id}?service={key}"
+    with urllib.request.urlopen(url, timeout=20) as r:
+        root = ET.fromstring(r.read().decode("utf-8"))
+    out = []
+    for rel in root.iter("relate"):
+        n = (rel.findtext("relatenm") or "").strip()
+        u = (rel.findtext("relateurl") or "").strip()
+        if u.startswith("http"):
+            out.append({"n": n, "u": u})
+    return out
+
+
 def fetch_page(key, stdate, eddate, page, genre=None):
     q = {
         "service": key, "stdate": stdate, "eddate": eddate,
@@ -282,6 +313,27 @@ def main() -> int:
         for x in shows:
             x["seats"] = seats.get(x["venue"], 0)
         print(f"  {args.min_seats}석 이상: {len(shows)}건 (거른 것 {before - len(shows)}건)")
+
+    # ── 예매처 (10-24 광호님: 공연을 누르면 그 공연 예매 페이지로) ─────────
+    # 목록 API 에는 없고 공연 상세(pblprfr/{id})의 <relates> 에 있다.
+    # 공연마다 한 번씩 부르므로 받은 것은 캐시에 두고, 비어 있던 것만 다시 묻는다
+    # (예매처는 공연 직전에야 붙기도 한다).
+    cache = load_relates()
+    asked = 0
+    for x in shows:
+        got = cache.get(x["id"])
+        if not got:
+            try:
+                got = show_relates(args.key, x["id"])
+                asked += 1
+            except Exception:
+                got = []
+            cache[x["id"]] = got
+        if got:
+            x["book"] = got
+    keep = {x["id"] for x in shows}
+    save_relates({k: v for k, v in cache.items() if k in keep})
+    print(f"  예매처: {sum(1 for x in shows if x.get('book'))}/{len(shows)}건 (새로 물은 것 {asked}건)")
 
     missing_en = sorted({x["venue"] for x in shows if not x["venue_en"]})
     if missing_en:

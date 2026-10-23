@@ -50,7 +50,7 @@ def main():
         time.sleep(60)
     if p.returncode:
         return 1
-    git("add", "kpop_shows.json", "scripts/venue_scale.json")
+    git("add", "kpop_shows.json", "scripts/venue_scale.json", "scripts/kpop_relates.json")
     if git("diff", "--cached", "--quiet").returncode == 0:
         log("바뀐 것 없음")
         return 0
