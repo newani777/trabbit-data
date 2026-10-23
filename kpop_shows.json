@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261023",
+  "fetched": "20261024",
   "source": "KOPIS",
   "shows": [
     {
@@ -16,7 +16,13 @@
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300164_260904_134550.gif",
       "state": "공연완료",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012383"
+        }
+      ]
     },
     {
       "id": "PF299945",
@@ -27,7 +33,13 @@
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299945_260902_154201.gif",
       "state": "공연완료",
-      "seats": 4507
+      "seats": 4507,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012515"
+        }
+      ]
     },
     {
       "id": "PF298746",
@@ -38,7 +50,13 @@
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298746_260818_154310.gif",
       "state": "공연완료",
-      "seats": 10000
+      "seats": 10000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010008"
+        }
+      ]
     },
     {
       "id": "PF298453",
@@ -49,7 +67,13 @@
       "to": "2026.10.05",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298453_260813_142817.png",
       "state": "공연완료",
-      "seats": 8057
+      "seats": 8057,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213729"
+        }
+      ]
     },
     {
       "id": "PF298230",
@@ -60,7 +84,13 @@
       "to": "2026.10.04",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298230_260811_133611.gif",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011092"
+        }
+      ]
     },
     {
       "id": "PF297045",
@@ -71,18 +101,13 @@
       "to": "2026.10.03",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297045_260727_145817.jpg",
       "state": "공연완료",
-      "seats": 1051
-    },
-    {
-      "id": "PF292945",
-      "name": "IDOL1ST KENTY ASIA TOUR",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.10.03",
-      "to": "2026.10.04",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292945_260605_101827.jpg",
-      "state": "공연완료",
-      "seats": 15000
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59325"
+        }
+      ]
     },
     {
       "id": "PF299753",
@@ -93,7 +118,21 @@
       "to": "2026.10.05",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299753_260831_144921.jpg",
       "state": "공연완료",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "2TM(우리은행)",
+          "u": "https://www.2tm.co.kr/ticket/10663"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1725278"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59743"
+        }
+      ]
     },
     {
       "id": "PF298494",
@@ -104,7 +143,25 @@
       "to": "2026.10.05",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298494_260813_162955.jpg",
       "state": "공연완료",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "2TM(우리은행)",
+          "u": "https://www.2tm.co.kr/ticket/10621"
+        },
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/64755"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1712067"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60059"
+        }
+      ]
     },
     {
       "id": "PF300440",
@@ -115,7 +172,13 @@
       "to": "2026.10.10",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300440_260909_105143.gif",
       "state": "공연완료",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011526"
+        }
+      ]
     },
     {
       "id": "PF299306",
@@ -126,7 +189,13 @@
       "to": "2026.10.09",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299306_260825_110332.gif",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011325"
+        }
+      ]
     },
     {
       "id": "PF297875",
@@ -137,7 +206,13 @@
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297875_260806_135017.jpg",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59418"
+        }
+      ]
     },
     {
       "id": "PF301535",
@@ -148,7 +223,13 @@
       "to": "2026.10.10",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301535_260922_110647.jpg",
       "state": "공연완료",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60129"
+        }
+      ]
     },
     {
       "id": "PF299371",
@@ -159,7 +240,13 @@
       "to": "2026.10.10",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299371_260826_102156.gif",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011968"
+        }
+      ]
     },
     {
       "id": "PF298950",
@@ -170,7 +257,13 @@
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298950_260820_132246.jpg",
       "state": "공연완료",
-      "seats": 4507
+      "seats": 4507,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/64906"
+        }
+      ]
     },
     {
       "id": "PF302997",
@@ -181,7 +274,13 @@
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302997_261012_154622.jpg",
       "state": "공연완료",
-      "seats": 1335
+      "seats": 1335,
+      "book": [
+        {
+          "n": "LG아트센터",
+          "u": "https://www.lgart.com/product/performance/252981"
+        }
+      ]
     },
     {
       "id": "PF299563",
@@ -192,7 +291,13 @@
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299563_260827_155224.gif",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011969"
+        }
+      ]
     },
     {
       "id": "PF295821",
@@ -203,7 +308,13 @@
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295821_260710_144242.gif",
       "state": "공연완료",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009558"
+        }
+      ]
     },
     {
       "id": "PF295812",
@@ -214,7 +325,17 @@
       "to": "2026.10.11",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295812_260710_140722.jpg",
       "state": "공연완료",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/64214"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1704315"
+        }
+      ]
     },
     {
       "id": "PF303806",
@@ -225,7 +346,13 @@
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303806_261019_155024.jpg",
       "state": "공연완료",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/64637"
+        }
+      ]
     },
     {
       "id": "PF300389",
@@ -236,7 +363,13 @@
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300389_260908_125817.jpg",
       "state": "공연완료",
-      "seats": 4507
+      "seats": 4507,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59891"
+        }
+      ]
     },
     {
       "id": "PF295326",
@@ -247,7 +380,13 @@
       "to": "2026.10.16",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295326_260703_152241.gif",
       "state": "공연완료",
-      "seats": 1004
+      "seats": 1004,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009349"
+        }
+      ]
     },
     {
       "id": "PF301107",
@@ -258,7 +397,13 @@
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301107_260916_153552.gif",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012968"
+        }
+      ]
     },
     {
       "id": "PF300684",
@@ -269,7 +414,13 @@
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300684_260911_125427.png",
       "state": "공연완료",
-      "seats": 8057
+      "seats": 8057,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214008"
+        }
+      ]
     },
     {
       "id": "PF300208",
@@ -280,7 +431,17 @@
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300208_260907_103958.gif",
       "state": "공연중",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012694"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37611&menuNo=200320"
+        }
+      ]
     },
     {
       "id": "PF296721",
@@ -291,7 +452,25 @@
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296721_260723_113525.gif",
       "state": "공연완료",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/64509"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1702892"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010721"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59339"
+        }
+      ]
     },
     {
       "id": "PF296665",
@@ -302,7 +481,13 @@
       "to": "2026.10.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296665_260722_143755.gif",
       "state": "공연완료",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010474"
+        }
+      ]
     },
     {
       "id": "PF295328",
@@ -313,7 +498,13 @@
       "to": "2026.10.17",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295328_260703_153531.gif",
       "state": "공연완료",
-      "seats": 1004
+      "seats": 1004,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009350"
+        }
+      ]
     },
     {
       "id": "PF301572",
@@ -323,8 +514,14 @@
       "from": "2026.10.23",
       "to": "2026.10.23",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301572_260922_134911.jpg",
-      "state": "공연중",
-      "seats": 15000
+      "state": "공연완료",
+      "seats": 15000,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65772"
+        }
+      ]
     },
     {
       "id": "PF301259",
@@ -335,7 +532,13 @@
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301259_260918_110012.jpg",
       "state": "공연중",
-      "seats": 8057
+      "seats": 8057,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213855"
+        }
+      ]
     },
     {
       "id": "PF300839",
@@ -346,7 +549,13 @@
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300839_260914_142043.gif",
       "state": "공연중",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26008033"
+        }
+      ]
     },
     {
       "id": "PF299464",
@@ -356,8 +565,18 @@
       "from": "2026.10.23",
       "to": "2026.10.23",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299464_260827_104645.jpg",
-      "state": "공연중",
-      "seats": 2222
+      "state": "공연완료",
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65009"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1728118"
+        }
+      ]
     },
     {
       "id": "PF301580",
@@ -367,8 +586,14 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301580_260922_140529.jpg",
-      "state": "공연예정",
-      "seats": 15000
+      "state": "공연중",
+      "seats": 15000,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65735"
+        }
+      ]
     },
     {
       "id": "PF301012",
@@ -378,8 +603,14 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301012_260915_152002.jpg",
-      "state": "공연예정",
-      "seats": 1051
+      "state": "공연중",
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60026"
+        }
+      ]
     },
     {
       "id": "PF300711",
@@ -389,8 +620,14 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300711_260911_141228.gif",
-      "state": "공연예정",
-      "seats": 4507
+      "state": "공연중",
+      "seats": 4507,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012976"
+        }
+      ]
     },
     {
       "id": "PF300627",
@@ -400,8 +637,14 @@
       "from": "2026.10.24",
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300627_260910_142935.gif",
-      "state": "공연예정",
-      "seats": 15000
+      "state": "공연중",
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013062"
+        }
+      ]
     },
     {
       "id": "PF299842",
@@ -411,8 +654,14 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299842_260901_135312.gif",
-      "state": "공연예정",
-      "seats": 15000
+      "state": "공연중",
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012327"
+        }
+      ]
     },
     {
       "id": "PF299310",
@@ -422,8 +671,18 @@
       "from": "2026.10.24",
       "to": "2026.10.24",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299310_260825_111501.jpg",
-      "state": "공연예정",
-      "seats": 2222
+      "state": "공연중",
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65021"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1721787"
+        }
+      ]
     },
     {
       "id": "PF300665",
@@ -434,7 +693,13 @@
       "to": "2026.10.28",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300665_260911_110435.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59986"
+        }
+      ]
     },
     {
       "id": "PF301089",
@@ -445,7 +710,13 @@
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301089_260916_144800.jpg",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213873"
+        }
+      ]
     },
     {
       "id": "PF303776",
@@ -456,7 +727,17 @@
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303776_261019_150345.png",
       "state": "공연예정",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66051"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1758292"
+        }
+      ]
     },
     {
       "id": "PF302717",
@@ -467,7 +748,13 @@
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302717_261007_135330.jpg",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213923"
+        }
+      ]
     },
     {
       "id": "PF302702",
@@ -478,7 +765,13 @@
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302702_261007_132404.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60342"
+        }
+      ]
     },
     {
       "id": "PF300499",
@@ -489,7 +782,13 @@
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300499_260909_144219.gif",
       "state": "공연예정",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012668"
+        }
+      ]
     },
     {
       "id": "PF301118",
@@ -500,7 +799,13 @@
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301118_260916_160922.gif",
       "state": "공연예정",
-      "seats": 1004
+      "seats": 1004,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013345"
+        }
+      ]
     },
     {
       "id": "PF303703",
@@ -511,7 +816,13 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303703_261019_120630.png",
       "state": "공연예정",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66025"
+        }
+      ]
     },
     {
       "id": "PF301501",
@@ -522,7 +833,13 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301501_260921_172252.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59888"
+        }
+      ]
     },
     {
       "id": "PF299607",
@@ -533,7 +850,13 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299607_260828_130100.jpg",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213773"
+        }
+      ]
     },
     {
       "id": "PF302622",
@@ -544,7 +867,13 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302622_261006_171208.gif",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014081"
+        }
+      ]
     },
     {
       "id": "PF301470",
@@ -555,7 +884,13 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301470_260921_153828.png",
       "state": "공연예정",
-      "seats": 4507
+      "seats": 4507,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213880"
+        }
+      ]
     },
     {
       "id": "PF301284",
@@ -566,7 +901,25 @@
       "to": "2026.11.07",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301284_260918_125133.jpg",
       "state": "공연예정",
-      "seats": 2036
+      "seats": 2036,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65603"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013371"
+        },
+        {
+          "n": "롯데콘서트홀",
+          "u": "https://www.lotteconcerthall.com/product/performance/261206"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60160"
+        }
+      ]
     },
     {
       "id": "PF303780",
@@ -577,7 +930,13 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303780_261019_151153.png",
       "state": "공연예정",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66262"
+        }
+      ]
     },
     {
       "id": "PF300950",
@@ -588,7 +947,29 @@
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300950_260915_110815.gif",
       "state": "공연예정",
-      "seats": 1004
+      "seats": 1004,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65565"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1738153"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013265"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60152"
+        },
+        {
+          "n": "쿠팡",
+          "u": "https://trip.coupang.com/tp/products/30000011514268"
+        }
+      ]
     },
     {
       "id": "PF302337",
@@ -599,7 +980,13 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302337_261002_130537.gif",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013161"
+        }
+      ]
     },
     {
       "id": "PF300493",
@@ -610,7 +997,13 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300493_260909_142219.png",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37577&menuNo=200320"
+        }
+      ]
     },
     {
       "id": "PF304116",
@@ -621,7 +1014,17 @@
       "to": "2026.11.14",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304116_261022_105310.gif",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004863"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37749&menuNo=200320"
+        }
+      ]
     },
     {
       "id": "PF303574",
@@ -632,7 +1035,13 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303574_261016_130824.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60404"
+        }
+      ]
     },
     {
       "id": "PF303069",
@@ -643,7 +1052,13 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303069_261012_180104.gif",
       "state": "공연예정",
-      "seats": 1211
+      "seats": 1211,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014286"
+        }
+      ]
     },
     {
       "id": "PF302644",
@@ -654,7 +1069,13 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302644_261007_100525.jpg",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213892"
+        }
+      ]
     },
     {
       "id": "PF300812",
@@ -665,7 +1086,21 @@
       "to": "2026.11.14",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300812_260914_131900.gif",
       "state": "공연예정",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65519"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1735430"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013187"
+        }
+      ]
     },
     {
       "id": "PF300653",
@@ -676,7 +1111,13 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300653_260911_103357.gif",
       "state": "공연예정",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012915"
+        }
+      ]
     },
     {
       "id": "PF301404",
@@ -687,7 +1128,21 @@
       "to": "2026.11.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301404_260921_132201.jpg",
       "state": "공연예정",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65770"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1741335"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013589"
+        }
+      ]
     },
     {
       "id": "PF295591",
@@ -698,7 +1153,21 @@
       "to": "2026.11.18",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295591_260708_125621.png",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213500"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37400&menuNo=200320#none"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59136"
+        }
+      ]
     },
     {
       "id": "PF299055",
@@ -709,7 +1178,21 @@
       "to": "2026.11.20",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299055_260821_125925.png",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213764"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37561&menuNo=200320"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59732"
+        }
+      ]
     },
     {
       "id": "PF299001",
@@ -720,7 +1203,21 @@
       "to": "2026.11.19",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299001_260820_150851.jpg",
       "state": "공연예정",
-      "seats": 1335
+      "seats": 1335,
+      "book": [
+        {
+          "n": "LG아트센터",
+          "u": "https://www.lgart.com/product/ko/performance/252975"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/963603"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000146"
+        }
+      ]
     },
     {
       "id": "PF301234",
@@ -731,7 +1228,13 @@
       "to": "2026.11.22",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301234_261006_164647.gif",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013078"
+        }
+      ]
     },
     {
       "id": "PF304049",
@@ -742,7 +1245,17 @@
       "to": "2026.11.22",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304049_261021_145805.jpg",
       "state": "공연예정",
-      "seats": 1335
+      "seats": 1335,
+      "book": [
+        {
+          "n": "LG아트센터",
+          "u": "https://lgart.com/product/ko/performance/252986"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60642"
+        }
+      ]
     },
     {
       "id": "PF303488",
@@ -753,7 +1266,21 @@
       "to": "2026.11.21",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303488_261015_145916.jpg",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214035"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37730&menuNo=200320"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60530"
+        }
+      ]
     },
     {
       "id": "PF303485",
@@ -764,7 +1291,17 @@
       "to": "2026.11.21",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303485_261015_145257.gif",
       "state": "공연예정",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66275"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014595"
+        }
+      ]
     },
     {
       "id": "PF303322",
@@ -775,7 +1312,13 @@
       "to": "2026.11.22",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303322_261014_144221.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60392"
+        }
+      ]
     },
     {
       "id": "PF302667",
@@ -786,7 +1329,13 @@
       "to": "2026.11.22",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302667_261007_111501.jpg",
       "state": "공연예정",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66073"
+        }
+      ]
     },
     {
       "id": "PF297759",
@@ -797,7 +1346,21 @@
       "to": "2026.11.22",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297759_260805_134746.jpg",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=213652"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37477&menuNo=200320"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59429"
+        }
+      ]
     },
     {
       "id": "PF300132",
@@ -808,7 +1371,17 @@
       "to": "2026.11.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300132_261012_141808.png",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004813"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37570&menuNo=200320#none"
+        }
+      ]
     },
     {
       "id": "PF302131",
@@ -819,7 +1392,13 @@
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302131_260930_140740.gif",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013810"
+        }
+      ]
     },
     {
       "id": "PF301499",
@@ -830,7 +1409,17 @@
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301499_260921_170434.jpg",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1738468"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60153"
+        }
+      ]
     },
     {
       "id": "PF304113",
@@ -841,7 +1430,13 @@
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304113_261022_104747.gif",
       "state": "공연예정",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014350"
+        }
+      ]
     },
     {
       "id": "PF303810",
@@ -852,7 +1447,13 @@
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303810_261019_155712.jpg",
       "state": "공연예정",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/65790"
+        }
+      ]
     },
     {
       "id": "PF302147",
@@ -863,7 +1464,17 @@
       "to": "2026.11.28",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302147_260930_144321.gif",
       "state": "공연예정",
-      "seats": 2505
+      "seats": 2505,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013963"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60428"
+        }
+      ]
     },
     {
       "id": "PF299935",
@@ -874,7 +1485,13 @@
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299935_260902_151618.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/59771"
+        }
+      ]
     }
   ]
 }
