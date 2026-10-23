@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-24",
   "issues": [
     {
       "id": "set38_no_korean_number",
@@ -235,65 +235,6 @@
         "no": 5,
         "week": "Week of October 12, 2026"
       }
-    },
-    {
-      "id": "set33_silver_grass",
-      "no": 18,
-      "series": "TRABBIT WEEKLY",
-      "title": "Seoul's hill turns silver",
-      "summary": "The 25th Seoul Silver Grass Festival fills Haneul Park in World Cup Park for seven days, 10:00 to 21:00.",
-      "published": "2026-10-12",
-      "footer": "Sources: Seoul Metropolitan Government · Photos: KTO",
-      "cards": [
-        {
-          "file": "set33_silver_grass/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 141388,
-          "alt": "Seoul's hill turns silver"
-        },
-        {
-          "file": "set33_silver_grass/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 178676,
-          "alt": "Haneul Park"
-        },
-        {
-          "file": "set33_silver_grass/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 110834,
-          "alt": "Stay past sunset"
-        },
-        {
-          "file": "set33_silver_grass/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 173510,
-          "alt": "Line 6, then uphill"
-        },
-        {
-          "file": "set33_silver_grass/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 126090,
-          "alt": "Leave the car"
-        },
-        {
-          "file": "set33_silver_grass/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 56776,
-          "alt": "Walk up for golden hour"
-        }
-      ],
-      "bytes_total": 787274,
-      "weekly": {
-        "no": 5,
-        "week": "Week of October 12, 2026"
-      },
-      "ends": "2026-10-23"
     },
     {
       "id": "set30_nodeul_island",
