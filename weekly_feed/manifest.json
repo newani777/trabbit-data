@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-24",
+  "updated": "2026-10-26",
   "issues": [
     {
       "id": "set38_no_korean_number",
@@ -59,65 +59,6 @@
         "no": 6,
         "week": "Week of October 19, 2026"
       }
-    },
-    {
-      "id": "set37_gangneung_coffee",
-      "no": 22,
-      "series": "TRABBIT WEEKLY",
-      "title": "Coffee town meets the beach",
-      "summary": "The 18th Gangneung Coffee Festival, on Anmok's seaside coffee street. Daily 10:00–20:00.",
-      "published": "2026-10-19",
-      "footer": "Sources: Gangneung Coffee Festival · Gangneung City · Photos: KTO",
-      "cards": [
-        {
-          "file": "set37_gangneung_coffee/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 62826,
-          "alt": "Coffee town meets the beach"
-        },
-        {
-          "file": "set37_gangneung_coffee/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 148376,
-          "alt": "Anmok Coffee Street"
-        },
-        {
-          "file": "set37_gangneung_coffee/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 94440,
-          "alt": "Starry nights on the sand"
-        },
-        {
-          "file": "set37_gangneung_coffee/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 121606,
-          "alt": "A day trip by KTX"
-        },
-        {
-          "file": "set37_gangneung_coffee/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 119382,
-          "alt": "Mostly free to walk"
-        },
-        {
-          "file": "set37_gangneung_coffee/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 55372,
-          "alt": "Coffee by the sea"
-        }
-      ],
-      "bytes_total": 602002,
-      "weekly": {
-        "no": 6,
-        "week": "Week of October 19, 2026"
-      },
-      "ends": "2026-10-25"
     },
     {
       "id": "set36_seoul_leaves",
