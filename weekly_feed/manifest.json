@@ -3,6 +3,180 @@
   "updated": "2026-10-26",
   "issues": [
     {
+      "id": "set41_taxi_fares",
+      "no": 26,
+      "series": "TRABBIT WEEKLY",
+      "title": "What the taxi meter should say",
+      "summary": "Seoul sets its taxi fares by the minute and the metre. Know three numbers and you'll know when a fare is off.",
+      "published": "2026-10-26",
+      "footer": "Sources: Seoul City · Visit Seoul · Photos: KTO",
+      "cards": [
+        {
+          "file": "set41_taxi_fares/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 287398,
+          "alt": "What the taxi meter should say"
+        },
+        {
+          "file": "set41_taxi_fares/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 122326,
+          "alt": "4,800 won to start"
+        },
+        {
+          "file": "set41_taxi_fares/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 239090,
+          "alt": "Up to 40% more after 11pm"
+        },
+        {
+          "file": "set41_taxi_fares/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 134378,
+          "alt": "Flat fares for tourist taxis"
+        },
+        {
+          "file": "set41_taxi_fares/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 218304,
+          "alt": "Pay the meter, nothing else"
+        },
+        {
+          "file": "set41_taxi_fares/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 56342,
+          "alt": "Know the three numbers"
+        }
+      ],
+      "bytes_total": 1057838,
+      "weekly": {
+        "no": 7,
+        "week": "Week of October 26, 2026"
+      }
+    },
+    {
+      "id": "set40_palaces_after_dark",
+      "no": 25,
+      "series": "TRABBIT WEEKLY",
+      "title": "Two palaces stay open till 9pm",
+      "summary": "No booking, no special ticket. Deoksugung and Changgyeonggung keep their gates open into the evening, every day except Monday.",
+      "published": "2026-10-26",
+      "footer": "Sources: Korea Heritage Service · Photos: KTO",
+      "cards": [
+        {
+          "file": "set40_palaces_after_dark/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 174496,
+          "alt": "Two palaces stay open till 9pm"
+        },
+        {
+          "file": "set40_palaces_after_dark/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 106616,
+          "alt": "Right by City Hall"
+        },
+        {
+          "file": "set40_palaces_after_dark/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 173864,
+          "alt": "The glasshouse and the pond"
+        },
+        {
+          "file": "set40_palaces_after_dark/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 234052,
+          "alt": "Closed on Mondays"
+        },
+        {
+          "file": "set40_palaces_after_dark/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 173892,
+          "alt": "Gyeongbokgung closes at 5 or 6"
+        },
+        {
+          "file": "set40_palaces_after_dark/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 52778,
+          "alt": "Go after dinner"
+        }
+      ],
+      "bytes_total": 915698,
+      "weekly": {
+        "no": 7,
+        "week": "Week of October 26, 2026"
+      }
+    },
+    {
+      "id": "set39_last_train",
+      "no": 24,
+      "series": "TRABBIT WEEKLY",
+      "title": "Saturday's last train leaves an hour early",
+      "summary": "Weekends and holidays: about an hour earlier than weekdays.",
+      "published": "2026-10-26",
+      "footer": "Sources: Seoul Open Data · Seoul City · Photos: KTO",
+      "cards": [
+        {
+          "file": "set39_last_train/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 117630,
+          "alt": "Saturday's last train leaves an hour early"
+        },
+        {
+          "file": "set39_last_train/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 156882,
+          "alt": "00:49 or 23:49"
+        },
+        {
+          "file": "set39_last_train/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 74370,
+          "alt": "Not every train goes to the end"
+        },
+        {
+          "file": "set39_last_train/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 238758,
+          "alt": "Owl buses, 2,500 won"
+        },
+        {
+          "file": "set39_last_train/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 217122,
+          "alt": "The meter runs 40% higher"
+        },
+        {
+          "file": "set39_last_train/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 60330,
+          "alt": "Check tonight's last train"
+        }
+      ],
+      "bytes_total": 865092,
+      "weekly": {
+        "no": 7,
+        "week": "Week of October 26, 2026"
+      }
+    },
+    {
       "id": "set38_no_korean_number",
       "no": 23,
       "series": "TRABBIT WEEKLY",
