@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261025",
+  "fetched": "20261026",
   "source": "KOPIS",
   "shows": [
     {
@@ -430,7 +430,7 @@
       "from": "2026.10.17",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300208_260907_103958.gif",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 3022,
       "book": [
         {
@@ -531,7 +531,7 @@
       "from": "2026.10.23",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301259_260918_110012.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 8057,
       "book": [
         {
@@ -548,7 +548,7 @@
       "from": "2026.10.23",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300839_260914_142043.gif",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 1766,
       "book": [
         {
@@ -586,7 +586,7 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301580_260922_140529.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 15000,
       "book": [
         {
@@ -603,7 +603,7 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301012_260915_152002.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 1051,
       "book": [
         {
@@ -620,7 +620,7 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300711_260911_141228.gif",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 4507,
       "book": [
         {
@@ -654,7 +654,7 @@
       "from": "2026.10.24",
       "to": "2026.10.25",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299842_260901_135312.gif",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 15000,
       "book": [
         {
