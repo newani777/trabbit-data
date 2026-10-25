@@ -1,0 +1,1214 @@
+{
+  "id": "2026-10-26_seoul_last_train",
+  "no": 2,
+  "kind": "evergreen",
+  "published": "2026-10-26",
+  "week": "2026-10-26",
+  "fresh_until": null,
+  "issue_id": "set39_last_train",
+  "photos": {
+    "hero": {
+      "file": "hero.webp",
+      "w": 1080,
+      "h": 721,
+      "credit": "kto"
+    },
+    "weekday": {
+      "file": "weekday.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "direction": {
+      "file": "direction.webp",
+      "w": 900,
+      "h": 600,
+      "credit": "kto"
+    },
+    "owl": {
+      "file": "owl.webp",
+      "w": 1080,
+      "h": 809,
+      "credit": "kto"
+    },
+    "taxi": {
+      "file": "taxi.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    }
+  },
+  "sources": [
+    {
+      "url": "http://openapi.seoul.go.kr:8088/sample/json/SearchLastTrainTimeByIDService/1/5/0239/2/1/",
+      "date": "2026-10-25"
+    },
+    {
+      "url": "https://news.seoul.go.kr/traffic/archives/27974",
+      "date": "2026-03-20"
+    },
+    {
+      "url": "https://news.seoul.go.kr/traffic/archives/1659",
+      "date": "2026-04-03"
+    }
+  ],
+  "langs": {
+    "ko": {
+      "title": "서울 지하철, 토요일 막차는 한 시간 빨라요 — 홍대입구 평일 0시 49분, 토요일 23시 49분",
+      "summary": "같은 역, 같은 방향이라도 요일마다 막차 시간이 달라요. 막차를 놓쳤을 때 탈 수 있는 심야버스와 택시 요금까지 정리했어요.",
+      "hero_caption": "한강 철교를 건너는 지하철",
+      "lead": [
+        "서울 지하철은 자정 넘어서까지 다닌다고들 하지만, 그건 평일 이야기예요. 토요일과 일요일, 공휴일에는 막차가 한 시간쯤 일찍 끊겨요.",
+        "금요일 밤과 같은 시간에 토요일 밤 역에 가면 열차가 이미 끊겨 있을 수 있어요. 요일마다 무엇이 다른지, 막차 뒤에는 어떻게 돌아가는지 정리했어요."
+      ],
+      "sections": [
+        {
+          "h": "평일 0시 49분, 토요일 23시 49분",
+          "p": [
+            "홍대입구역 2호선의 을지로입구행 막차는 평일 0시 49분에 떠나요. 토요일에는 23시 49분이고, 일요일과 공휴일도 23시 49분이에요. 같은 역, 같은 방향인데 꼭 한 시간 차이가 나요.",
+            "헷갈리기 쉬운 건 금요일이에요. 금요일은 평일 시간표로 다녀서 막차가 늦어요. 한 시간이 빨라지는 건 토요일 밤부터예요."
+          ],
+          "photo": "weekday",
+          "caption": "밤의 홍대입구역 출구"
+        },
+        {
+          "h": "막차가 종점까지 가지는 않아요",
+          "p": [
+            "늦은 시간 열차는 노선 끝까지 가지 않고 중간 역에서 운행을 마치는 경우가 많아요. 홍대입구역의 늦은 2호선 열차도 을지로입구나 성수까지만 가요.",
+            "그래서 노선 이름만 보고 안심하면 안 돼요. 내가 내릴 역까지 가는 막차가 몇 시인지 따로 확인하세요."
+          ],
+          "photo": "direction",
+          "caption": "서울 지하철 개찰구"
+        },
+        {
+          "h": "막차를 놓쳤다면 — 올빼미버스 2,500원",
+          "p": [
+            "지하철이 끊긴 뒤에는 서울시 심야버스, 이른바 올빼미버스가 있어요. 번호 앞에 N이 붙은 14개 노선이 밤 11시부터 아침 6시까지 다녀요.",
+            "요금은 교통카드로 2,500원이에요. 배차 간격이 노선에 따라 10분에서 40분까지라, 정류장에 가기 전에 다음 버스가 언제 오는지 먼저 확인하는 게 좋아요."
+          ],
+          "photo": "owl",
+          "caption": "밤의 서울 도심 도로"
+        },
+        {
+          "h": "택시는 밤 11시부터 40% 더",
+          "p": [
+            "서울 중형택시 기본요금은 낮에 1.6km까지 4,800원이에요. 그 뒤로는 131m마다, 차가 막혀 느리게 갈 때는 30초마다 100원씩 올라가요.",
+            "밤 11시부터 새벽 2시까지는 40%가 붙어 기본요금이 6,700원부터 시작해요.",
+            "밤 10시에서 11시, 새벽 2시에서 4시는 20%가 붙어 5,800원부터예요. 할증은 미터기가 시간에 맞춰 알아서 바꿔요."
+          ],
+          "photo": "taxi",
+          "caption": "밤의 강남 거리"
+        }
+      ],
+      "box": [
+        {
+          "k": "가는 법",
+          "v": [
+            "홍대입구역: 지하철 2호선"
+          ]
+        },
+        {
+          "k": "언제",
+          "v": [
+            "홍대입구 2호선 을지로입구행 막차: 평일(금요일 포함) 0시 49분",
+            "토요일·일요일·공휴일 23시 49분"
+          ]
+        },
+        {
+          "k": "요금",
+          "v": [
+            "올빼미버스: 교통카드 2,500원",
+            "택시 기본요금: 낮 4,800원 · 밤 11시~새벽 2시 6,700원 · 밤 10~11시와 새벽 2~4시 5,800원"
+          ]
+        },
+        {
+          "k": "시간",
+          "v": [
+            "올빼미버스: 밤 11시~아침 6시, 14개 노선, 배차 10~40분"
+          ]
+        },
+        {
+          "k": "트래빗에서",
+          "v": [
+            "지하철 노선도에서 역을 누르면 그날 요일에 맞는 막차 시간이 나와요."
+          ]
+        }
+      ],
+      "outro": "토요일 밤 약속이 있다면, 저녁 먹기 전에 막차 시간부터 한 번 확인해 두세요.",
+      "sources": [
+        "서울 열린데이터광장 「지하철역별 막차 시간표」 2026년 10월 25일 조회",
+        "서울시 교통 「올빼미버스」 안내 (2026년 3월 20일 수정)",
+        "서울시 교통 「택시 요금」 안내 (2026년 4월 3일 수정)"
+      ],
+      "credit": "사진: 한국관광공사"
+    },
+    "en": {
+      "title": "Seoul's last train leaves an hour early on Saturdays — Hongik Univ. 00:49 on weekdays, 23:49 on Saturdays",
+      "summary": "The same station and the same direction can have a different last train depending on the day. Here's how it works, plus the night buses and taxi fares for when you miss it.",
+      "hero_caption": "A subway train crossing the Han River",
+      "lead": [
+        "People say the Seoul subway runs past midnight, but that's on weekdays. On Saturdays, Sundays and public holidays, the last trains leave about an hour earlier.",
+        "If you get to the station on Saturday night at the same time you did on Friday, the trains may already have stopped. Here's what changes by day, and how to get home after the last train."
+      ],
+      "sections": [
+        {
+          "h": "00:49 on weekdays, 23:49 on Saturdays",
+          "p": [
+            "At Hongik Univ. Station, the last Line 2 train toward Euljiro 1-ga leaves at 00:49 on weekdays. On Saturdays it leaves at 23:49, and on Sundays and public holidays it's 23:49 too. Same station, same direction, exactly an hour apart.",
+            "Friday is the one that catches people out. Friday runs on the weekday timetable, so the last train is late. The hour-earlier schedule starts on Saturday night."
+          ],
+          "photo": "weekday",
+          "caption": "Hongik Univ. Station exit at night"
+        },
+        {
+          "h": "The last train may not go to the end of the line",
+          "p": [
+            "Late trains often finish partway along the line instead of running to the end. The late Line 2 trains from Hongik Univ. Station only go as far as Euljiro 1-ga or Seongsu.",
+            "So don't go by the line name alone. Check what time the last train that actually reaches your stop leaves."
+          ],
+          "photo": "direction",
+          "caption": "Ticket gates on the Seoul subway"
+        },
+        {
+          "h": "Missed it? Owl buses for 2,500 won",
+          "p": [
+            "Once the subway stops, Seoul runs late-night buses, known as owl buses. There are 14 routes with an N before the number, running from 11 pm to 6 am.",
+            "The fare is 2,500 won by transit card. Buses come every 10 to 40 minutes depending on the route, so it's worth checking when the next one is due before you head to the stop."
+          ],
+          "photo": "owl",
+          "caption": "A Seoul city road at night"
+        },
+        {
+          "h": "Taxis cost 40% more from 11 pm",
+          "p": [
+            "A regular Seoul taxi starts at 4,800 won for the first 1.6 km in the daytime. After that it adds 100 won every 131 metres, or every 30 seconds when traffic is crawling.",
+            "From 11 pm to 2 am, 40% is added, so the meter starts at 6,700 won.",
+            "From 10 to 11 pm and from 2 to 4 am, 20% is added and the meter starts at 5,800 won. The meter switches by itself at the right time."
+          ],
+          "photo": "taxi",
+          "caption": "Gangnam at night"
+        }
+      ],
+      "box": [
+        {
+          "k": "Getting there",
+          "v": [
+            "Hongik Univ. Station: subway Line 2"
+          ]
+        },
+        {
+          "k": "When",
+          "v": [
+            "Last Line 2 train toward Euljiro 1-ga from Hongik Univ.: 00:49 on weekdays (including Friday)",
+            "23:49 on Saturdays, Sundays and public holidays"
+          ]
+        },
+        {
+          "k": "Cost",
+          "v": [
+            "Owl bus: 2,500 won by transit card",
+            "Taxi base fare: 4,800 won daytime · 6,700 won 11 pm–2 am · 5,800 won 10–11 pm and 2–4 am"
+          ]
+        },
+        {
+          "k": "Hours",
+          "v": [
+            "Owl buses: 11 pm–6 am, 14 routes, every 10–40 minutes"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Tap a station on the subway map to see that day's last train times."
+          ]
+        }
+      ],
+      "outro": "If you have plans on a Saturday night, check the last train before dinner.",
+      "sources": [
+        "Seoul Open Data Plaza, last-train timetable by station (checked 25 October 2026)",
+        "Seoul Metropolitan Government, Owl Bus information (updated 20 March 2026)",
+        "Seoul Metropolitan Government, taxi fares (updated 3 April 2026)"
+      ],
+      "credit": "Photos: Korea Tourism Organization"
+    },
+    "ja": {
+      "title": "ソウルの地下鉄、土曜日の終電は1時間早くなります — 弘大入口駅は平日0時49分、土曜日23時49分",
+      "summary": "同じ駅、同じ方向でも、曜日によって終電の時刻が違います。終電を逃したときに乗れる深夜バスとタクシー料金までまとめました。",
+      "hero_caption": "漢江の鉄橋を渡る地下鉄",
+      "lead": [
+        "ソウルの地下鉄は深夜0時を過ぎても走っているとよく言われますが、それは平日の話です。土曜日、日曜日、祝日は、終電が1時間ほど早く終わります。",
+        "金曜日の夜と同じ時間に土曜日の夜に駅へ行くと、もう電車が終わっているかもしれません。曜日ごとに何が違うのか、終電の後はどうやって帰るのかをまとめました。"
+      ],
+      "sections": [
+        {
+          "h": "平日0時49分、土曜日23時49分",
+          "p": [
+            "弘大入口駅から出る2号線の乙支路入口行きの終電は、平日は0時49分に出発します。土曜日は23時49分で、日曜日と祝日も23時49分です。同じ駅、同じ方向なのに、ちょうど1時間の差があります。",
+            "間違えやすいのは金曜日です。金曜日は平日の時刻表で運行するので、終電は遅めです。1時間早くなるのは土曜日の夜からです。"
+          ],
+          "photo": "weekday",
+          "caption": "夜の弘大入口駅の出口"
+        },
+        {
+          "h": "終電が終点まで行くとは限りません",
+          "p": [
+            "遅い時間の電車は、路線の終点まで行かずに途中の駅で運行を終えることがよくあります。弘大入口駅の遅い2号線の電車も、乙支路入口か聖水までしか行きません。",
+            "そのため、路線名だけを見て安心してはいけません。自分が降りる駅まで行く終電が何時なのか、別途ご確認ください。"
+          ],
+          "photo": "direction",
+          "caption": "ソウル地下鉄の改札口"
+        },
+        {
+          "h": "終電を逃したら — フクロウバス（深夜バス）2,500ウォン",
+          "p": [
+            "地下鉄が終わった後は、ソウル市の深夜バス、いわゆるフクロウバスがあります。番号の前にNが付いた14路線が、夜11時から朝6時まで運行しています。",
+            "料金は交通カードで2,500ウォンです。運行間隔は路線によって10分から40分までなので、停留所へ向かう前に次のバスがいつ来るかを先に確認しておくと安心です。"
+          ],
+          "photo": "owl",
+          "caption": "夜のソウル都心の道路"
+        },
+        {
+          "h": "タクシーは夜11時から40%増し",
+          "p": [
+            "ソウルの中型タクシーの基本料金は、昼間は1.6kmまで4,800ウォンです。その後は131mごとに、渋滞でゆっくり進むときは30秒ごとに100ウォンずつ上がります。",
+            "夜11時から深夜2時までは40%が加算され、基本料金は6,700ウォンからになります。",
+            "夜10時から11時、深夜2時から4時は20%が加算され、5,800ウォンからです。割増はメーターが時間に合わせて自動で切り替えます。"
+          ],
+          "photo": "taxi",
+          "caption": "夜の江南の街"
+        }
+      ],
+      "box": [
+        {
+          "k": "行き方",
+          "v": [
+            "弘大入口駅：地下鉄2号線"
+          ]
+        },
+        {
+          "k": "いつ",
+          "v": [
+            "弘大入口駅 2号線 乙支路入口行きの終電：平日（金曜日を含む）0時49分",
+            "土曜日・日曜日・祝日 23時49分"
+          ]
+        },
+        {
+          "k": "料金",
+          "v": [
+            "フクロウバス（深夜バス）：交通カード2,500ウォン",
+            "タクシー基本料金：昼間4,800ウォン・夜11時～深夜2時6,700ウォン・夜10～11時と深夜2～4時5,800ウォン"
+          ]
+        },
+        {
+          "k": "時間",
+          "v": [
+            "フクロウバス（深夜バス）：夜11時～朝6時、14路線、運行間隔10～40分"
+          ]
+        },
+        {
+          "k": "Trabbitで",
+          "v": [
+            "地下鉄路線図で駅をタップすると、その日の曜日に合った終電時刻が表示されます。"
+          ]
+        }
+      ],
+      "outro": "土曜日の夜に予定があるなら、夕食の前にまず終電の時刻を一度確認しておいてください。",
+      "sources": [
+        "ソウル・オープンデータ広場「地下鉄駅別終電時刻表」2026年10月25日照会",
+        "ソウル市交通「フクロウバス」案内（2026年3月20日更新）",
+        "ソウル市交通「タクシー料金」案内（2026年4月3日更新）"
+      ],
+      "credit": "写真：韓国観光公社"
+    },
+    "de": {
+      "title": "Seouls U-Bahn: Am Samstag fährt die letzte Bahn eine Stunde früher — Hongik Univ. werktags 00:49 Uhr, samstags 23:49 Uhr",
+      "summary": "Selbst an derselben Station und in dieselbe Richtung fährt die letzte Bahn je nach Wochentag zu einer anderen Zeit. Dazu die Nachtbusse und Taxipreise für den Fall, dass Sie sie verpassen.",
+      "hero_caption": "Eine U-Bahn auf der Brücke über den Han",
+      "lead": [
+        "Es heißt oft, die U-Bahn in Seoul fahre bis nach Mitternacht. Das gilt aber nur werktags. Samstags, sonntags und an Feiertagen fährt die letzte Bahn etwa eine Stunde früher.",
+        "Wenn Sie am Samstagabend zur gleichen Zeit wie am Freitag zur Station kommen, fahren die Züge womöglich schon nicht mehr. Hier steht, was sich je nach Wochentag ändert und wie Sie nach der letzten Bahn nach Hause kommen."
+      ],
+      "sections": [
+        {
+          "h": "Werktags 00:49 Uhr, samstags 23:49 Uhr",
+          "p": [
+            "An der Station Hongik Univ. fährt die letzte Bahn der Linie 2 in Richtung Euljiro 1-ga werktags um 00:49 Uhr ab. Samstags ist es 23:49 Uhr, sonntags und an Feiertagen ebenfalls 23:49 Uhr. Gleiche Station, gleiche Richtung — und genau eine Stunde Unterschied.",
+            "Leicht verwechseln lässt sich der Freitag. Freitags gilt der Werktagsfahrplan, die letzte Bahn fährt also spät. Eine Stunde früher wird es erst ab Samstagabend."
+          ],
+          "photo": "weekday",
+          "caption": "Ein Ausgang der Station Hongik Univ. bei Nacht"
+        },
+        {
+          "h": "Die letzte Bahn fährt nicht immer bis zur Endstation",
+          "p": [
+            "Späte Züge fahren oft nicht bis zum Ende der Linie, sondern beenden ihre Fahrt an einer Station unterwegs. Auch die späten Züge der Linie 2 ab Hongik Univ. fahren nur bis Euljiro 1-ga oder Seongsu.",
+            "Verlassen Sie sich deshalb nicht nur auf den Namen der Linie. Prüfen Sie gesondert, wann die letzte Bahn abfährt, die bis zu Ihrer Station fährt."
+          ],
+          "photo": "direction",
+          "caption": "Fahrkartensperren der U-Bahn in Seoul"
+        },
+        {
+          "h": "Letzte Bahn verpasst? — Nachtbus „Owl Bus“ für KRW 2.500",
+          "p": [
+            "Nach Betriebsschluss der U-Bahn gibt es in Seoul Nachtbusse, die sogenannten Owl Buses („Eulenbusse“). 14 Linien mit einem N vor der Nummer fahren von 23:00 Uhr bis 6:00 Uhr morgens.",
+            "Mit der Verkehrskarte kostet die Fahrt KRW 2.500. Die Busse fahren je nach Linie alle 10 bis 40 Minuten. Prüfen Sie deshalb am besten zuerst, wann der nächste Bus kommt, bevor Sie zur Haltestelle gehen."
+          ],
+          "photo": "owl",
+          "caption": "Eine Straße in der Seouler Innenstadt bei Nacht"
+        },
+        {
+          "h": "Taxis kosten ab 23:00 Uhr 40 % mehr",
+          "p": [
+            "Der Grundpreis für ein normales Taxi in Seoul beträgt tagsüber KRW 4.800 für die ersten 1,6 km. Danach kommen alle 131 m KRW 100 hinzu, bei stockendem Verkehr alle 30 Sekunden.",
+            "Von 23:00 Uhr bis 2:00 Uhr nachts gilt ein Aufschlag von 40 %, der Grundpreis beginnt dann bei KRW 6.700.",
+            "Von 22:00 bis 23:00 Uhr und von 2:00 bis 4:00 Uhr gilt ein Aufschlag von 20 %, der Grundpreis beginnt bei KRW 5.800. Den Aufschlag stellt das Taxameter zur richtigen Zeit von selbst um."
+          ],
+          "photo": "taxi",
+          "caption": "Gangnam bei Nacht"
+        }
+      ],
+      "box": [
+        {
+          "k": "Anfahrt",
+          "v": [
+            "Station Hongik Univ.: U-Bahn-Linie 2"
+          ]
+        },
+        {
+          "k": "Wann",
+          "v": [
+            "Letzte Bahn der Linie 2 ab Hongik Univ. Richtung Euljiro 1-ga: werktags (auch freitags) 00:49 Uhr",
+            "Samstags, sonntags und an Feiertagen 23:49 Uhr"
+          ]
+        },
+        {
+          "k": "Kosten",
+          "v": [
+            "Owl Bus: KRW 2.500 mit der Verkehrskarte",
+            "Taxi-Grundpreis: tagsüber KRW 4.800 · 23:00–2:00 Uhr KRW 6.700 · 22:00–23:00 Uhr und 2:00–4:00 Uhr KRW 5.800"
+          ]
+        },
+        {
+          "k": "Zeiten",
+          "v": [
+            "Owl Bus: 23:00–6:00 Uhr, 14 Linien, alle 10–40 Minuten"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Tippen Sie auf dem U-Bahn-Plan auf eine Station, dann sehen Sie die letzten Zugzeiten für den heutigen Wochentag."
+          ]
+        }
+      ],
+      "outro": "Wenn Sie am Samstagabend verabredet sind, prüfen Sie die letzte Bahn am besten schon vor dem Abendessen.",
+      "sources": [
+        "Seoul Open Data Plaza, Fahrplan der letzten Züge je Station (abgerufen am 25. Oktober 2026)",
+        "Seoul Metropolitan Government, Informationen zum Owl Bus (aktualisiert am 20. März 2026)",
+        "Seoul Metropolitan Government, Taxipreise (aktualisiert am 3. April 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "es": {
+      "title": "Metro de Seúl: los sábados el último tren sale una hora antes — Hongik Univ. a las 00:49 entre semana y a las 23:49 los sábados",
+      "summary": "En la misma estación y en la misma dirección, el último tren sale a una hora distinta según el día. Te explicamos cómo funciona, además de los autobuses nocturnos y las tarifas de taxi por si lo pierdes.",
+      "hero_caption": "Un metro cruzando el puente sobre el río Han",
+      "lead": [
+        "Se suele decir que el metro de Seúl funciona hasta pasada la medianoche, pero eso es entre semana. Los sábados, domingos y festivos, el último tren sale aproximadamente una hora antes.",
+        "Si llegas a la estación el sábado por la noche a la misma hora que el viernes, puede que los trenes ya hayan dejado de circular. Aquí tienes qué cambia según el día y cómo volver después del último tren."
+      ],
+      "sections": [
+        {
+          "h": "00:49 entre semana, 23:49 los sábados",
+          "p": [
+            "En la estación Hongik Univ., el último tren de la línea 2 en dirección a Euljiro 1-ga sale a las 00:49 entre semana. Los sábados sale a las 23:49, y los domingos y festivos también a las 23:49. Misma estación, misma dirección y exactamente una hora de diferencia.",
+            "El día que más confunde es el viernes. Los viernes se sigue el horario de entre semana, así que el último tren sale tarde. El horario una hora más temprano empieza el sábado por la noche."
+          ],
+          "photo": "weekday",
+          "caption": "Salida de la estación Hongik Univ. de noche"
+        },
+        {
+          "h": "El último tren no siempre llega al final de la línea",
+          "p": [
+            "Los trenes de última hora a menudo no van hasta el final de la línea y terminan el recorrido en una estación intermedia. Los trenes tardíos de la línea 2 desde Hongik Univ. solo llegan hasta Euljiro 1-ga o Seongsu.",
+            "Por eso no basta con fijarte en el nombre de la línea. Comprueba aparte a qué hora sale el último tren que llega a tu estación."
+          ],
+          "photo": "direction",
+          "caption": "Torniquetes del metro de Seúl"
+        },
+        {
+          "h": "¿Lo perdiste? — el autobús nocturno «Owl Bus» por KRW 2.500",
+          "p": [
+            "Cuando el metro deja de funcionar, Seúl tiene autobuses nocturnos, los llamados Owl Buses («autobuses búho»). Son 14 líneas con una N delante del número y circulan de 23:00 a 6:00 de la mañana.",
+            "El billete cuesta KRW 2.500 con tarjeta de transporte. Pasan cada 10 a 40 minutos según la línea, así que conviene comprobar cuándo llega el siguiente antes de ir a la parada."
+          ],
+          "photo": "owl",
+          "caption": "Una avenida del centro de Seúl de noche"
+        },
+        {
+          "h": "Los taxis cuestan un 40 % más desde las 23:00",
+          "p": [
+            "La tarifa base de un taxi normal en Seúl es de KRW 4.800 durante el día para los primeros 1,6 km. Después suma KRW 100 cada 131 m, o cada 30 segundos cuando el tráfico va lento.",
+            "De 23:00 a 2:00 de la madrugada se aplica un recargo del 40 %, y la tarifa base empieza en KRW 6.700.",
+            "De 22:00 a 23:00 y de 2:00 a 4:00 el recargo es del 20 %, y la tarifa base empieza en KRW 5.800. El taxímetro cambia el recargo solo a la hora que corresponde."
+          ],
+          "photo": "taxi",
+          "caption": "Gangnam de noche"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cómo llegar",
+          "v": [
+            "Estación Hongik Univ.: metro línea 2"
+          ]
+        },
+        {
+          "k": "Cuándo",
+          "v": [
+            "Último tren de la línea 2 desde Hongik Univ. hacia Euljiro 1-ga: 00:49 entre semana (viernes incluido)",
+            "23:49 los sábados, domingos y festivos"
+          ]
+        },
+        {
+          "k": "Precio",
+          "v": [
+            "Owl Bus: KRW 2.500 con tarjeta de transporte",
+            "Tarifa base del taxi: KRW 4.800 de día · KRW 6.700 de 23:00 a 2:00 · KRW 5.800 de 22:00 a 23:00 y de 2:00 a 4:00"
+          ]
+        },
+        {
+          "k": "Horario",
+          "v": [
+            "Owl Bus: de 23:00 a 6:00, 14 líneas, cada 10–40 minutos"
+          ]
+        },
+        {
+          "k": "En Trabbit",
+          "v": [
+            "Toca una estación en el plano del metro para ver la hora del último tren según el día de la semana."
+          ]
+        }
+      ],
+      "outro": "Si tienes planes un sábado por la noche, revisa la hora del último tren antes de cenar.",
+      "sources": [
+        "Seoul Open Data Plaza, horario de últimos trenes por estación (consultado el 25 de octubre de 2026)",
+        "Seoul Metropolitan Government, información sobre el Owl Bus (actualizada el 20 de marzo de 2026)",
+        "Seoul Metropolitan Government, tarifas de taxi (actualizadas el 3 de abril de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "fr": {
+      "title": "Métro de Séoul : le samedi, le dernier train part une heure plus tôt — Hongik Univ. à 00:49 en semaine, à 23:49 le samedi",
+      "summary": "Même station, même direction : le dernier train ne part pas à la même heure selon le jour. Voici comment cela fonctionne, avec les bus de nuit et les tarifs des taxis si vous le ratez.",
+      "hero_caption": "Un métro traversant le pont sur le Han",
+      "lead": [
+        "On dit souvent que le métro de Séoul circule après minuit, mais c'est vrai en semaine. Le samedi, le dimanche et les jours fériés, le dernier train part environ une heure plus tôt.",
+        "Si vous arrivez à la station le samedi soir à la même heure que le vendredi, les trains ne circulent peut-être déjà plus. Voici ce qui change selon le jour, et comment rentrer après le dernier train."
+      ],
+      "sections": [
+        {
+          "h": "00:49 en semaine, 23:49 le samedi",
+          "p": [
+            "À la station Hongik Univ., le dernier train de la ligne 2 en direction d'Euljiro 1-ga part à 00:49 en semaine. Le samedi, il part à 23:49, et le dimanche et les jours fériés aussi à 23:49. Même station, même direction, exactement une heure d'écart.",
+            "Le piège, c'est le vendredi. Le vendredi suit l'horaire de semaine, donc le dernier train part tard. L'horaire avancé d'une heure commence le samedi soir."
+          ],
+          "photo": "weekday",
+          "caption": "Une sortie de la station Hongik Univ. la nuit"
+        },
+        {
+          "h": "Le dernier train ne va pas toujours jusqu'au terminus",
+          "p": [
+            "Les trains tardifs s'arrêtent souvent à une station en cours de ligne au lieu d'aller jusqu'au bout. Les trains tardifs de la ligne 2 au départ de Hongik Univ. ne vont que jusqu'à Euljiro 1-ga ou Seongsu.",
+            "Ne vous fiez donc pas seulement au nom de la ligne. Vérifiez à part l'heure du dernier train qui va jusqu'à votre station."
+          ],
+          "photo": "direction",
+          "caption": "Les portillons du métro de Séoul"
+        },
+        {
+          "h": "Dernier train raté ? — le bus de nuit « Owl Bus » à 2 500 KRW",
+          "p": [
+            "Une fois le métro arrêté, Séoul fait circuler des bus de nuit, appelés Owl Buses (« bus-hiboux »). 14 lignes, dont le numéro commence par un N, circulent de 23:00 à 6:00 du matin.",
+            "Le trajet coûte 2 500 KRW avec une carte de transport. Selon la ligne, un bus passe toutes les 10 à 40 minutes : mieux vaut vérifier l'heure du prochain bus avant de vous rendre à l'arrêt."
+          ],
+          "photo": "owl",
+          "caption": "Une avenue du centre de Séoul la nuit"
+        },
+        {
+          "h": "Les taxis coûtent 40 % de plus à partir de 23:00",
+          "p": [
+            "En journée, un taxi ordinaire à Séoul démarre à 4 800 KRW pour les 1,6 premiers kilomètres. Ensuite, le compteur ajoute 100 KRW tous les 131 m, ou toutes les 30 secondes quand la circulation est lente.",
+            "De 23:00 à 2:00 du matin, une majoration de 40 % s'applique et le tarif de base commence à 6 700 KRW.",
+            "De 22:00 à 23:00 et de 2:00 à 4:00, la majoration est de 20 % et le tarif de base commence à 5 800 KRW. Le compteur change de lui-même à la bonne heure."
+          ],
+          "photo": "taxi",
+          "caption": "Gangnam la nuit"
+        }
+      ],
+      "box": [
+        {
+          "k": "Comment s'y rendre",
+          "v": [
+            "Station Hongik Univ. : métro ligne 2"
+          ]
+        },
+        {
+          "k": "Quand",
+          "v": [
+            "Dernier train de la ligne 2 de Hongik Univ. vers Euljiro 1-ga : 00:49 en semaine (vendredi compris)",
+            "23:49 le samedi, le dimanche et les jours fériés"
+          ]
+        },
+        {
+          "k": "Tarif",
+          "v": [
+            "Owl Bus : 2 500 KRW avec une carte de transport",
+            "Tarif de base du taxi : 4 800 KRW en journée · 6 700 KRW de 23:00 à 2:00 · 5 800 KRW de 22:00 à 23:00 et de 2:00 à 4:00"
+          ]
+        },
+        {
+          "k": "Horaires",
+          "v": [
+            "Owl Bus : de 23:00 à 6:00, 14 lignes, toutes les 10 à 40 minutes"
+          ]
+        },
+        {
+          "k": "Dans Trabbit",
+          "v": [
+            "Touchez une station sur le plan du métro pour voir les heures des derniers trains correspondant au jour de la semaine."
+          ]
+        }
+      ],
+      "outro": "Si vous avez des projets un samedi soir, vérifiez l'heure du dernier train avant le dîner.",
+      "sources": [
+        "Seoul Open Data Plaza, horaires des derniers trains par station (consulté le 25 octobre 2026)",
+        "Seoul Metropolitan Government, informations sur l'Owl Bus (mis à jour le 20 mars 2026)",
+        "Seoul Metropolitan Government, tarifs des taxis (mis à jour le 3 avril 2026)"
+      ],
+      "credit": "Photos : Korea Tourism Organization"
+    },
+    "id": {
+      "title": "Kereta terakhir kereta bawah tanah Seoul pada hari Sabtu berangkat satu jam lebih awal — Hongik Univ. pukul 00:49 pada hari kerja, 23:49 pada hari Sabtu",
+      "summary": "Dari stasiun yang sama dan ke arah yang sama pun, jam kereta terakhir berbeda tergantung harinya. Kami juga merangkum bus malam dan tarif taksi untuk Anda yang ketinggalan kereta terakhir.",
+      "hero_caption": "Kereta bawah tanah yang melintasi jembatan kereta di atas Sungai Han",
+      "lead": [
+        "Orang bilang kereta bawah tanah Seoul beroperasi sampai lewat tengah malam, tetapi itu hanya pada hari kerja. Pada hari Sabtu, Minggu, dan hari libur nasional, kereta terakhir berangkat sekitar satu jam lebih awal.",
+        "Jika Anda tiba di stasiun pada Sabtu malam di jam yang sama seperti hari Jumat, kereta mungkin sudah tidak beroperasi. Inilah yang berbeda di setiap harinya, dan cara pulang setelah kereta terakhir."
+      ],
+      "sections": [
+        {
+          "h": "Hari kerja 00:49, Sabtu 23:49",
+          "p": [
+            "Di Stasiun Hongik Univ., kereta terakhir Jalur 2 tujuan Euljiro 1-ga berangkat pukul 00:49 pada hari kerja. Pada hari Sabtu pukul 23:49, dan pada hari Minggu serta hari libur nasional juga pukul 23:49. Stasiun yang sama, arah yang sama, tetapi selisihnya tepat satu jam.",
+            "Yang paling sering membingungkan adalah hari Jumat. Hari Jumat mengikuti jadwal hari kerja, jadi kereta terakhirnya berangkat larut. Jadwal yang satu jam lebih awal baru berlaku mulai Sabtu malam."
+          ],
+          "photo": "weekday",
+          "caption": "Pintu keluar Stasiun Hongik Univ. pada malam hari"
+        },
+        {
+          "h": "Kereta terakhir tidak selalu sampai ke stasiun ujung",
+          "p": [
+            "Kereta larut malam sering berhenti beroperasi di stasiun tengah, bukan sampai ke ujung jalur. Kereta Jalur 2 larut malam dari Stasiun Hongik Univ. juga hanya sampai Euljiro 1-ga atau Seongsu.",
+            "Karena itu, jangan hanya berpatokan pada nama jalurnya. Periksa secara terpisah jam berapa kereta terakhir yang benar-benar sampai ke stasiun tujuan Anda."
+          ],
+          "photo": "direction",
+          "caption": "Gerbang tiket kereta bawah tanah Seoul"
+        },
+        {
+          "h": "Ketinggalan kereta terakhir? Owl Bus 2.500 won",
+          "p": [
+            "Setelah kereta bawah tanah berhenti, ada bus malam Kota Seoul yang dikenal sebagai Owl Bus. Ada 14 rute dengan huruf N di depan nomornya, beroperasi dari pukul 23:00 hingga 06:00.",
+            "Tarifnya 2.500 won dengan kartu transportasi. Jarak antarbus 10 hingga 40 menit tergantung rutenya, jadi sebaiknya periksa dulu kapan bus berikutnya datang sebelum Anda pergi ke halte."
+          ],
+          "photo": "owl",
+          "caption": "Jalan di pusat kota Seoul pada malam hari"
+        },
+        {
+          "h": "Taksi 40% lebih mahal mulai pukul 23:00",
+          "p": [
+            "Tarif dasar taksi reguler (ukuran sedang) di Seoul pada siang hari adalah 4.800 won untuk 1,6 km pertama. Setelah itu, tarif naik 100 won setiap 131 m, atau setiap 30 detik saat mobil berjalan pelan karena macet.",
+            "Dari pukul 23:00 hingga 02:00, ada tambahan 40%, sehingga tarif dasar dimulai dari 6.700 won.",
+            "Dari pukul 22:00 hingga 23:00 dan dari pukul 02:00 hingga 04:00, ada tambahan 20%, sehingga dimulai dari 5.800 won. Argo akan mengganti tarif tambahan secara otomatis sesuai jamnya."
+          ],
+          "photo": "taxi",
+          "caption": "Jalanan Gangnam pada malam hari"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cara menuju ke sana",
+          "v": [
+            "Stasiun Hongik Univ.: kereta bawah tanah Jalur 2"
+          ]
+        },
+        {
+          "k": "Kapan",
+          "v": [
+            "Kereta terakhir Jalur 2 dari Hongik Univ. tujuan Euljiro 1-ga: hari kerja (termasuk Jumat) pukul 00:49",
+            "Sabtu, Minggu, dan hari libur nasional pukul 23:49"
+          ]
+        },
+        {
+          "k": "Biaya",
+          "v": [
+            "Owl Bus: 2.500 won dengan kartu transportasi",
+            "Tarif dasar taksi: siang hari 4.800 won · pukul 23:00–02:00 6.700 won · pukul 22:00–23:00 dan 02:00–04:00 5.800 won"
+          ]
+        },
+        {
+          "k": "Jam operasional",
+          "v": [
+            "Owl Bus: pukul 23:00–06:00, 14 rute, setiap 10–40 menit"
+          ]
+        },
+        {
+          "k": "Di Trabbit",
+          "v": [
+            "Ketuk stasiun pada peta kereta bawah tanah untuk melihat jam kereta terakhir sesuai hari itu."
+          ]
+        }
+      ],
+      "outro": "Jika Anda punya janji pada Sabtu malam, periksalah jam kereta terakhir sebelum makan malam.",
+      "sources": [
+        "Seoul Open Data Plaza, jadwal kereta terakhir per stasiun (diperiksa 25 Oktober 2026)",
+        "Seoul Metropolitan Government, informasi Owl Bus (diperbarui 20 Maret 2026)",
+        "Seoul Metropolitan Government, tarif taksi (diperbarui 3 April 2026)"
+      ],
+      "credit": "Foto: Korea Tourism Organization"
+    },
+    "pt_br": {
+      "title": "Metrô de Seul: aos sábados o último trem sai uma hora mais cedo — Hongik Univ. às 00:49 nos dias úteis e às 23:49 aos sábados",
+      "summary": "Na mesma estação e no mesmo sentido, o último trem sai em horários diferentes conforme o dia. Explicamos como funciona, além dos ônibus noturnos e das tarifas de táxi para quando você perder o trem.",
+      "hero_caption": "Um metrô atravessando a ponte sobre o rio Han",
+      "lead": [
+        "Costuma-se dizer que o metrô de Seul funciona até depois da meia-noite, mas isso vale para os dias úteis. Aos sábados, domingos e feriados, o último trem sai cerca de uma hora mais cedo.",
+        "Se você chegar à estação no sábado à noite no mesmo horário em que chegou na sexta, os trens podem já ter parado. Veja o que muda conforme o dia e como voltar depois do último trem."
+      ],
+      "sections": [
+        {
+          "h": "00:49 nos dias úteis, 23:49 aos sábados",
+          "p": [
+            "Na estação Hongik Univ., o último trem da linha 2 no sentido Euljiro 1-ga sai às 00:49 nos dias úteis. Aos sábados sai às 23:49, e aos domingos e feriados também às 23:49. Mesma estação, mesmo sentido, exatamente uma hora de diferença.",
+            "O dia que mais confunde é a sexta-feira. Na sexta vale o horário dos dias úteis, então o último trem sai tarde. O horário uma hora mais cedo começa no sábado à noite."
+          ],
+          "photo": "weekday",
+          "caption": "Saída da estação Hongik Univ. à noite"
+        },
+        {
+          "h": "O último trem nem sempre vai até o fim da linha",
+          "p": [
+            "Os trens mais tarde muitas vezes não vão até o fim da linha e encerram a viagem numa estação no meio do caminho. Os trens tardios da linha 2 que saem de Hongik Univ. só vão até Euljiro 1-ga ou Seongsu.",
+            "Por isso, não confie só no nome da linha. Confira à parte o horário do último trem que chega à sua estação."
+          ],
+          "photo": "direction",
+          "caption": "Catracas do metrô de Seul"
+        },
+        {
+          "h": "Perdeu o trem? — o ônibus noturno “Owl Bus” por KRW 2.500",
+          "p": [
+            "Depois que o metrô para, Seul tem ônibus noturnos, os chamados Owl Buses (“ônibus coruja”). São 14 linhas com um N antes do número, que circulam das 23:00 às 6:00 da manhã.",
+            "A passagem custa KRW 2.500 com cartão de transporte. Os ônibus passam a cada 10 a 40 minutos, dependendo da linha, então vale conferir quando vem o próximo antes de ir ao ponto."
+          ],
+          "photo": "owl",
+          "caption": "Uma avenida do centro de Seul à noite"
+        },
+        {
+          "h": "Táxis custam 40% a mais a partir das 23:00",
+          "p": [
+            "A bandeirada de um táxi comum em Seul é de KRW 4.800 durante o dia, para os primeiros 1,6 km. Depois, soma KRW 100 a cada 131 m, ou a cada 30 segundos quando o trânsito está lento.",
+            "Das 23:00 às 2:00 da madrugada há um acréscimo de 40%, e a bandeirada começa em KRW 6.700.",
+            "Das 22:00 às 23:00 e das 2:00 às 4:00 o acréscimo é de 20%, e a bandeirada começa em KRW 5.800. O taxímetro muda o acréscimo sozinho no horário certo."
+          ],
+          "photo": "taxi",
+          "caption": "Gangnam à noite"
+        }
+      ],
+      "box": [
+        {
+          "k": "Como chegar",
+          "v": [
+            "Estação Hongik Univ.: metrô linha 2"
+          ]
+        },
+        {
+          "k": "Quando",
+          "v": [
+            "Último trem da linha 2 de Hongik Univ. no sentido Euljiro 1-ga: 00:49 nos dias úteis (incluindo sexta-feira)",
+            "23:49 aos sábados, domingos e feriados"
+          ]
+        },
+        {
+          "k": "Preço",
+          "v": [
+            "Owl Bus: KRW 2.500 com cartão de transporte",
+            "Bandeirada do táxi: KRW 4.800 de dia · KRW 6.700 das 23:00 às 2:00 · KRW 5.800 das 22:00 às 23:00 e das 2:00 às 4:00"
+          ]
+        },
+        {
+          "k": "Horário",
+          "v": [
+            "Owl Bus: das 23:00 às 6:00, 14 linhas, a cada 10–40 minutos"
+          ]
+        },
+        {
+          "k": "No Trabbit",
+          "v": [
+            "Toque numa estação no mapa do metrô para ver o horário do último trem de acordo com o dia da semana."
+          ]
+        }
+      ],
+      "outro": "Se você tem planos num sábado à noite, confira o horário do último trem antes do jantar.",
+      "sources": [
+        "Seoul Open Data Plaza, horários dos últimos trens por estação (consultado em 25 de outubro de 2026)",
+        "Seoul Metropolitan Government, informações sobre o Owl Bus (atualizadas em 20 de março de 2026)",
+        "Seoul Metropolitan Government, tarifas de táxi (atualizadas em 3 de abril de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "ru": {
+      "title": "Последний поезд сеульского метро по субботам уходит на час раньше — Hongik Univ.: 00:49 в будни, 23:49 в субботу",
+      "summary": "Даже с одной и той же станции и в одном и том же направлении последний поезд уходит в разное время в зависимости от дня недели. Рассказываем, как это устроено, а также про ночные автобусы и тарифы такси на случай, если вы опоздали.",
+      "hero_caption": "Поезд метро на мосту через реку Ханган",
+      "lead": [
+        "Говорят, что сеульское метро работает и после полуночи, но это касается будних дней. По субботам, воскресеньям и в праздничные дни последние поезда уходят примерно на час раньше.",
+        "Если в субботу вечером вы придёте на станцию в то же время, что и в пятницу, поезда могут уже не ходить. Рассказываем, что меняется в зависимости от дня недели и как добраться домой после последнего поезда."
+      ],
+      "sections": [
+        {
+          "h": "00:49 в будни, 23:49 в субботу",
+          "p": [
+            "Со станции Hongik Univ. последний поезд линии 2 в сторону Euljiro 1-ga отправляется в будни в 00:49. В субботу — в 23:49, в воскресенье и праздничные дни — тоже в 23:49. Та же станция, то же направление, а разница ровно в час.",
+            "Легче всего запутаться с пятницей. По пятницам поезда ходят по будничному расписанию, поэтому последний поезд уходит поздно. На час раньше он начинает уходить с субботнего вечера."
+          ],
+          "photo": "weekday",
+          "caption": "Выход со станции Hongik Univ. ночью"
+        },
+        {
+          "h": "Последний поезд может не доехать до конечной",
+          "p": [
+            "Поздние поезда часто заканчивают рейс на промежуточной станции, а не едут до конца линии. Поздние поезда линии 2 со станции Hongik Univ. идут только до Euljiro 1-ga или Seongsu.",
+            "Поэтому не полагайтесь только на название линии. Отдельно проверьте, во сколько уходит последний поезд, который действительно доезжает до вашей станции."
+          ],
+          "photo": "direction",
+          "caption": "Турникеты в сеульском метро"
+        },
+        {
+          "h": "Опоздали на поезд? Ночной автобус Owl Bus за 2 500 вон",
+          "p": [
+            "Когда метро уже закрыто, в Сеуле ходят ночные городские автобусы — так называемые Owl Bus («автобусы-совы»). Это 14 маршрутов с буквой N перед номером, они работают с 23:00 до 6:00.",
+            "Проезд по транспортной карте стоит 2 500 вон. Интервал между автобусами — от 10 до 40 минут в зависимости от маршрута, поэтому лучше заранее проверить, когда придёт следующий автобус, прежде чем идти на остановку."
+          ],
+          "photo": "owl",
+          "caption": "Ночная улица в центре Сеула"
+        },
+        {
+          "h": "С 23:00 такси дороже на 40%",
+          "p": [
+            "Базовый тариф обычного (среднего) такси в Сеуле днём — 4 800 вон за первые 1,6 км. Дальше счётчик прибавляет по 100 вон каждые 131 м, а когда машина медленно едет в пробке, — каждые 30 секунд.",
+            "С 23:00 до 2:00 добавляется 40%, и базовый тариф начинается с 6 700 вон.",
+            "С 22:00 до 23:00 и с 2:00 до 4:00 добавляется 20%, тариф начинается с 5 800 вон. Надбавку счётчик включает сам в нужное время."
+          ],
+          "photo": "taxi",
+          "caption": "Ночной Каннам"
+        }
+      ],
+      "box": [
+        {
+          "k": "Как добраться",
+          "v": [
+            "Станция Hongik Univ.: метро, линия 2"
+          ]
+        },
+        {
+          "k": "Когда",
+          "v": [
+            "Последний поезд линии 2 со станции Hongik Univ. в сторону Euljiro 1-ga: в будни (включая пятницу) в 00:49",
+            "В субботу, воскресенье и праздничные дни — в 23:49"
+          ]
+        },
+        {
+          "k": "Стоимость",
+          "v": [
+            "Owl Bus (ночной автобус): 2 500 вон по транспортной карте",
+            "Базовый тариф такси: днём 4 800 вон · с 23:00 до 2:00 — 6 700 вон · с 22:00 до 23:00 и с 2:00 до 4:00 — 5 800 вон"
+          ]
+        },
+        {
+          "k": "Часы работы",
+          "v": [
+            "Owl Bus: с 23:00 до 6:00, 14 маршрутов, интервал 10–40 минут"
+          ]
+        },
+        {
+          "k": "В Trabbit",
+          "v": [
+            "Нажмите на станцию на схеме метро — и вы увидите время последнего поезда для сегодняшнего дня недели."
+          ]
+        }
+      ],
+      "outro": "Если у вас планы на субботний вечер, проверьте время последнего поезда ещё до ужина.",
+      "sources": [
+        "Seoul Open Data Plaza, расписание последних поездов по станциям (данные на 25 октября 2026 г.)",
+        "Seoul Metropolitan Government, информация об Owl Bus (обновлено 20 марта 2026 г.)",
+        "Seoul Metropolitan Government, тарифы такси (обновлено 3 апреля 2026 г.)"
+      ],
+      "credit": "Фото: Korea Tourism Organization"
+    },
+    "th": {
+      "title": "รถไฟใต้ดินโซลเที่ยวสุดท้ายวันเสาร์ออกเร็วขึ้นหนึ่งชั่วโมง — สถานี Hongik Univ. วันธรรมดา 00:49 น. วันเสาร์ 23:49 น.",
+      "summary": "แม้เป็นสถานีเดียวกันและทิศทางเดียวกัน เวลารถไฟเที่ยวสุดท้ายก็ต่างกันไปตามวัน เราสรุปรถเมล์กลางคืนและค่าแท็กซี่ไว้ให้ด้วย เผื่อคุณพลาดรถไฟเที่ยวสุดท้าย",
+      "hero_caption": "รถไฟใต้ดินที่กำลังข้ามสะพานรถไฟเหนือแม่น้ำฮัน",
+      "lead": [
+        "ใครๆ ก็บอกว่ารถไฟใต้ดินโซลวิ่งเลยเที่ยงคืน แต่นั่นคือวันธรรมดา ในวันเสาร์ วันอาทิตย์ และวันหยุดนักขัตฤกษ์ รถไฟเที่ยวสุดท้ายจะหมดเร็วขึ้นประมาณหนึ่งชั่วโมง",
+        "ถ้าคืนวันเสาร์คุณไปถึงสถานีในเวลาเดียวกับคืนวันศุกร์ รถไฟอาจหมดไปแล้ว เราสรุปไว้ให้ว่าแต่ละวันต่างกันอย่างไร และหลังรถไฟเที่ยวสุดท้ายจะกลับที่พักได้อย่างไร"
+      ],
+      "sections": [
+        {
+          "h": "วันธรรมดา 00:49 น. วันเสาร์ 23:49 น.",
+          "p": [
+            "ที่สถานี Hongik Univ. รถไฟสาย 2 เที่ยวสุดท้ายที่มุ่งหน้า Euljiro 1-ga ออกเวลา 00:49 น. ในวันธรรมดา ส่วนวันเสาร์ออกเวลา 23:49 น. และวันอาทิตย์กับวันหยุดนักขัตฤกษ์ก็ 23:49 น. เช่นกัน สถานีเดียวกัน ทิศทางเดียวกัน แต่ต่างกันพอดีหนึ่งชั่วโมง",
+            "ที่สับสนได้ง่ายคือวันศุกร์ วันศุกร์ใช้ตารางเวลาวันธรรมดา รถไฟเที่ยวสุดท้ายจึงยังดึกอยู่ ตารางที่เร็วขึ้นหนึ่งชั่วโมงเริ่มตั้งแต่คืนวันเสาร์"
+          ],
+          "photo": "weekday",
+          "caption": "ทางออกสถานี Hongik Univ. ยามค่ำคืน"
+        },
+        {
+          "h": "รถไฟเที่ยวสุดท้ายไม่ได้ไปถึงสถานีปลายทาง",
+          "p": [
+            "รถไฟช่วงดึกมักไม่ได้วิ่งไปจนสุดสาย แต่จะสิ้นสุดการเดินรถที่สถานีกลางทาง รถไฟสาย 2 ช่วงดึกจากสถานี Hongik Univ. ก็ไปถึงแค่ Euljiro 1-ga หรือ Seongsu เท่านั้น",
+            "ดังนั้นอย่าดูแค่ชื่อสายแล้ววางใจ โปรดเช็กแยกต่างหากว่ารถไฟเที่ยวสุดท้ายที่ไปถึงสถานีที่คุณจะลงจริงๆ ออกกี่โมง"
+          ],
+          "photo": "direction",
+          "caption": "ประตูตรวจตั๋วรถไฟใต้ดินโซล"
+        },
+        {
+          "h": "พลาดรถไฟเที่ยวสุดท้าย? Owl Bus 2,500 วอน",
+          "p": [
+            "หลังรถไฟใต้ดินหมด ยังมีรถเมล์กลางคืนของกรุงโซลที่เรียกกันว่า Owl Bus (รถเมล์นกฮูก) มีทั้งหมด 14 สาย มีตัว N นำหน้าหมายเลข วิ่งตั้งแต่ 23:00 น. ถึง 06:00 น.",
+            "ค่าโดยสาร 2,500 วอนเมื่อจ่ายด้วยบัตรโดยสาร รถแต่ละคันห่างกัน 10 ถึง 40 นาทีแล้วแต่สาย จึงควรเช็กก่อนว่าคันต่อไปจะมาเมื่อไร แล้วค่อยไปที่ป้าย"
+          ],
+          "photo": "owl",
+          "caption": "ถนนใจกลางกรุงโซลยามค่ำคืน"
+        },
+        {
+          "h": "แท็กซี่แพงขึ้น 40% ตั้งแต่ 23:00 น.",
+          "p": [
+            "ค่าโดยสารเริ่มต้นของแท็กซี่ธรรมดา (ขนาดกลาง) ในโซลช่วงกลางวันคือ 4,800 วอนสำหรับ 1.6 กม. แรก หลังจากนั้นจะเพิ่มขึ้น 100 วอนทุก 131 ม. หรือทุก 30 วินาทีเมื่อรถติดและวิ่งช้า",
+            "ตั้งแต่ 23:00 น. ถึง 02:00 น. จะบวกเพิ่ม 40% ค่าโดยสารเริ่มต้นจึงเริ่มที่ 6,700 วอน",
+            "ช่วง 22:00–23:00 น. และ 02:00–04:00 น. จะบวกเพิ่ม 20% เริ่มที่ 5,800 วอน มิเตอร์จะเปลี่ยนอัตราเพิ่มให้เองตามเวลา"
+          ],
+          "photo": "taxi",
+          "caption": "ถนนย่านกังนัมยามค่ำคืน"
+        }
+      ],
+      "box": [
+        {
+          "k": "วิธีเดินทาง",
+          "v": [
+            "สถานี Hongik Univ.: รถไฟใต้ดินสาย 2"
+          ]
+        },
+        {
+          "k": "ช่วงเวลา",
+          "v": [
+            "รถไฟสาย 2 เที่ยวสุดท้ายจาก Hongik Univ. มุ่งหน้า Euljiro 1-ga: วันธรรมดา (รวมวันศุกร์) 00:49 น.",
+            "วันเสาร์ วันอาทิตย์ และวันหยุดนักขัตฤกษ์ 23:49 น."
+          ]
+        },
+        {
+          "k": "ค่าใช้จ่าย",
+          "v": [
+            "Owl Bus: 2,500 วอนด้วยบัตรโดยสาร",
+            "ค่าแท็กซี่เริ่มต้น: กลางวัน 4,800 วอน · 23:00–02:00 น. 6,700 วอน · 22:00–23:00 น. และ 02:00–04:00 น. 5,800 วอน"
+          ]
+        },
+        {
+          "k": "เวลาให้บริการ",
+          "v": [
+            "Owl Bus: 23:00–06:00 น., 14 สาย, ทุก 10–40 นาที"
+          ]
+        },
+        {
+          "k": "ใน Trabbit",
+          "v": [
+            "แตะสถานีบนแผนที่รถไฟใต้ดิน แล้วจะเห็นเวลารถไฟเที่ยวสุดท้ายตามวันของวันนั้น"
+          ]
+        }
+      ],
+      "outro": "ถ้ามีนัดคืนวันเสาร์ ลองเช็กเวลารถไฟเที่ยวสุดท้ายไว้สักครั้งก่อนไปทานมื้อเย็น",
+      "sources": [
+        "Seoul Open Data Plaza ตารางเวลารถไฟเที่ยวสุดท้ายรายสถานี (ตรวจสอบเมื่อ 25 ตุลาคม 2026)",
+        "Seoul Metropolitan Government ข้อมูล Owl Bus (แก้ไขเมื่อ 20 มีนาคม 2026)",
+        "Seoul Metropolitan Government ค่าโดยสารแท็กซี่ (แก้ไขเมื่อ 3 เมษายน 2026)"
+      ],
+      "credit": "ภาพ: Korea Tourism Organization"
+    },
+    "vi": {
+      "title": "Chuyến tàu điện ngầm cuối cùng ở Seoul vào thứ Bảy sớm hơn một tiếng — ga Hongik Univ. 00:49 ngày thường, 23:49 thứ Bảy",
+      "summary": "Dù cùng một ga, cùng một hướng, giờ chuyến tàu cuối vẫn khác nhau tùy theo ngày trong tuần. Chúng tôi cũng tổng hợp xe buýt đêm và giá taxi để bạn dùng khi lỡ chuyến tàu cuối.",
+      "hero_caption": "Tàu điện ngầm băng qua cầu đường sắt trên sông Han",
+      "lead": [
+        "Người ta hay nói tàu điện ngầm Seoul chạy đến quá nửa đêm, nhưng đó là chuyện của ngày thường. Vào thứ Bảy, Chủ nhật và ngày lễ, chuyến tàu cuối dừng sớm hơn khoảng một tiếng.",
+        "Nếu tối thứ Bảy bạn ra ga đúng vào giờ như tối thứ Sáu, có thể tàu đã ngừng chạy rồi. Dưới đây là những gì khác nhau theo từng ngày và cách về nhà sau chuyến tàu cuối."
+      ],
+      "sections": [
+        {
+          "h": "Ngày thường 00:49, thứ Bảy 23:49",
+          "p": [
+            "Ở ga Hongik Univ., chuyến tàu cuối của tuyến số 2 đi về hướng Euljiro 1-ga khởi hành lúc 00:49 vào ngày thường. Vào thứ Bảy là 23:49, Chủ nhật và ngày lễ cũng là 23:49. Cùng một ga, cùng một hướng mà chênh nhau đúng một tiếng.",
+            "Dễ nhầm nhất là thứ Sáu. Thứ Sáu chạy theo lịch ngày thường nên chuyến tàu cuối vẫn muộn. Lịch sớm hơn một tiếng chỉ bắt đầu từ tối thứ Bảy."
+          ],
+          "photo": "weekday",
+          "caption": "Lối ra ga Hongik Univ. về đêm"
+        },
+        {
+          "h": "Chuyến tàu cuối không đi đến ga cuối tuyến",
+          "p": [
+            "Tàu chạy muộn thường kết thúc ở một ga giữa tuyến chứ không đi đến cuối tuyến. Các chuyến tàu muộn của tuyến số 2 từ ga Hongik Univ. cũng chỉ đi đến Euljiro 1-ga hoặc Seongsu.",
+            "Vì vậy, bạn đừng chỉ nhìn tên tuyến mà yên tâm. Hãy kiểm tra riêng xem chuyến tàu cuối thực sự đi đến ga bạn xuống khởi hành lúc mấy giờ."
+          ],
+          "photo": "direction",
+          "caption": "Cửa soát vé tàu điện ngầm Seoul"
+        },
+        {
+          "h": "Lỡ chuyến tàu cuối? Owl Bus 2.500 won",
+          "p": [
+            "Sau khi tàu điện ngầm ngừng chạy, Seoul có xe buýt đêm của thành phố, thường gọi là Owl Bus (xe buýt cú đêm). Có 14 tuyến với chữ N trước số hiệu, chạy từ 23 giờ đến 6 giờ sáng.",
+            "Giá vé là 2.500 won khi trả bằng thẻ giao thông. Khoảng cách giữa các chuyến từ 10 đến 40 phút tùy tuyến, nên bạn nên kiểm tra trước khi nào chuyến tiếp theo đến rồi hãy ra trạm."
+          ],
+          "photo": "owl",
+          "caption": "Đường phố trung tâm Seoul về đêm"
+        },
+        {
+          "h": "Taxi đắt thêm 40% từ 23 giờ",
+          "p": [
+            "Giá mở cửa của taxi thường (cỡ trung) ở Seoul vào ban ngày là 4.800 won cho 1,6 km đầu. Sau đó, cứ mỗi 131 m, hoặc mỗi 30 giây khi xe chạy chậm vì kẹt đường, giá tăng thêm 100 won.",
+            "Từ 23 giờ đến 2 giờ sáng, phụ phí 40% được cộng thêm, nên giá mở cửa bắt đầu từ 6.700 won.",
+            "Từ 22 giờ đến 23 giờ và từ 2 giờ đến 4 giờ sáng, phụ phí 20% được cộng thêm, bắt đầu từ 5.800 won. Đồng hồ tính tiền sẽ tự chuyển phụ phí theo giờ."
+          ],
+          "photo": "taxi",
+          "caption": "Đường phố Gangnam về đêm"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cách đến",
+          "v": [
+            "Ga Hongik Univ.: tàu điện ngầm tuyến số 2"
+          ]
+        },
+        {
+          "k": "Thời điểm",
+          "v": [
+            "Chuyến tàu cuối tuyến số 2 từ Hongik Univ. đi Euljiro 1-ga: ngày thường (kể cả thứ Sáu) lúc 00:49",
+            "Thứ Bảy, Chủ nhật và ngày lễ lúc 23:49"
+          ]
+        },
+        {
+          "k": "Chi phí",
+          "v": [
+            "Owl Bus: 2.500 won bằng thẻ giao thông",
+            "Giá mở cửa taxi: ban ngày 4.800 won · 23 giờ–2 giờ sáng 6.700 won · 22–23 giờ và 2–4 giờ sáng 5.800 won"
+          ]
+        },
+        {
+          "k": "Giờ hoạt động",
+          "v": [
+            "Owl Bus: 23 giờ–6 giờ sáng, 14 tuyến, 10–40 phút một chuyến"
+          ]
+        },
+        {
+          "k": "Trong Trabbit",
+          "v": [
+            "Chạm vào một ga trên sơ đồ tàu điện ngầm để xem giờ chuyến tàu cuối đúng với ngày hôm đó."
+          ]
+        }
+      ],
+      "outro": "Nếu bạn có hẹn vào tối thứ Bảy, hãy kiểm tra giờ chuyến tàu cuối trước bữa tối nhé.",
+      "sources": [
+        "Seoul Open Data Plaza, bảng giờ chuyến tàu cuối theo từng ga (tra cứu ngày 25 tháng 10 năm 2026)",
+        "Seoul Metropolitan Government, thông tin Owl Bus (cập nhật ngày 20 tháng 3 năm 2026)",
+        "Seoul Metropolitan Government, giá taxi (cập nhật ngày 3 tháng 4 năm 2026)"
+      ],
+      "credit": "Ảnh: Korea Tourism Organization"
+    },
+    "zh_cn": {
+      "title": "首尔地铁周六末班车提早一小时——弘大入口站平日0:49，周六23:49",
+      "summary": "同一个站、同一个方向，末班车时间也会因星期几而不同。还整理了错过末班车后可以坐的深夜公交和出租车费用。",
+      "hero_caption": "驶过汉江铁桥的地铁",
+      "lead": [
+        "常听人说首尔地铁过了午夜还在运行，但那是工作日的情况。周六、周日和公休日，末班车会提早一小时左右结束。",
+        "如果周六晚上还按周五晚上的时间去车站，列车可能已经停运了。下面整理了每天有什么不同，以及末班车之后怎么回去。"
+      ],
+      "sections": [
+        {
+          "h": "平日0:49，周六23:49",
+          "p": [
+            "弘大入口站2号线开往乙支路入口方向的末班车，平日0:49发车。周六是23:49，周日和公休日也是23:49。同一个站、同一个方向，正好相差一小时。",
+            "最容易搞错的是周五。周五按平日时刻表运行，所以末班车比较晚。提早一小时是从周六晚上开始的。"
+          ],
+          "photo": "weekday",
+          "caption": "夜晚的弘大入口站出口"
+        },
+        {
+          "h": "末班车不一定开到终点站",
+          "p": [
+            "较晚的列车常常不会开到线路终点，而是在中途的车站结束运行。弘大入口站较晚的2号线列车，也只开到乙支路入口或圣水。",
+            "所以不能只看线路名称就放心。请另外确认开到你要下车那一站的末班车是几点。"
+          ],
+          "photo": "direction",
+          "caption": "首尔地铁的检票口"
+        },
+        {
+          "h": "错过末班车？——猫头鹰巴士（深夜公交）2,500韩元",
+          "p": [
+            "地铁停运后，还有首尔市的深夜公交，也就是猫头鹰巴士。号码前带N的14条线路，从晚上11点运行到早上6点。",
+            "用交通卡乘车是2,500韩元。发车间隔因线路不同，从10分钟到40分钟不等，去车站之前最好先查一下下一班车什么时候到。"
+          ],
+          "photo": "owl",
+          "caption": "夜晚的首尔市中心道路"
+        },
+        {
+          "h": "出租车晚上11点起加收40%",
+          "p": [
+            "首尔中型出租车白天的起步价是1.6km以内4,800韩元。之后每131m，或堵车慢行时每30秒，加收100韩元。",
+            "晚上11点到凌晨2点加收40%，起步价从6,700韩元开始。",
+            "晚上10点到11点、凌晨2点到4点加收20%，起步价从5,800韩元开始。加价由计价器按时间自动切换。"
+          ],
+          "photo": "taxi",
+          "caption": "夜晚的江南街头"
+        }
+      ],
+      "box": [
+        {
+          "k": "前往方式",
+          "v": [
+            "弘大入口站：地铁2号线"
+          ]
+        },
+        {
+          "k": "时间",
+          "v": [
+            "弘大入口站2号线开往乙支路入口方向的末班车：平日（含周五）0:49",
+            "周六·周日·公休日 23:49"
+          ]
+        },
+        {
+          "k": "费用",
+          "v": [
+            "猫头鹰巴士（深夜公交）：交通卡2,500韩元",
+            "出租车起步价：白天4,800韩元 · 晚上11点～凌晨2点6,700韩元 · 晚上10～11点和凌晨2～4点5,800韩元"
+          ]
+        },
+        {
+          "k": "运营时间",
+          "v": [
+            "猫头鹰巴士（深夜公交）：晚上11点～早上6点，14条线路，发车间隔10～40分钟"
+          ]
+        },
+        {
+          "k": "在Trabbit里",
+          "v": [
+            "在地铁线路图上点一下车站，就会显示当天对应星期的末班车时间。"
+          ]
+        }
+      ],
+      "outro": "如果周六晚上有约，记得在吃晚饭之前先查好末班车时间。",
+      "sources": [
+        "首尔开放数据广场《各地铁站末班车时刻表》2026年10月25日查询",
+        "首尔市交通《猫头鹰巴士》介绍（2026年3月20日更新）",
+        "首尔市交通《出租车费用》介绍（2026年4月3日更新）"
+      ],
+      "credit": "图片：韩国观光公社"
+    },
+    "zh_tw": {
+      "title": "首爾地鐵週六末班車提早一小時——弘大入口站平日0:49，週六23:49",
+      "summary": "同一個站、同一個方向，末班車時間也會因星期幾而不同。還整理了錯過末班車後可以搭的深夜公車和計程車費用。",
+      "hero_caption": "駛過漢江鐵橋的地鐵",
+      "lead": [
+        "常聽人說首爾地鐵過了午夜還在行駛，但那是平日的情況。週六、週日和國定假日，末班車會提早一小時左右結束。",
+        "如果週六晚上還照週五晚上的時間去車站，列車可能已經停駛了。下面整理了每天有什麼不同，以及末班車之後怎麼回去。"
+      ],
+      "sections": [
+        {
+          "h": "平日0:49，週六23:49",
+          "p": [
+            "弘大入口站2號線開往乙支路入口方向的末班車，平日0:49發車。週六是23:49，週日和國定假日也是23:49。同一個站、同一個方向，剛好相差一小時。",
+            "最容易搞錯的是週五。週五按平日時刻表行駛，所以末班車比較晚。提早一小時是從週六晚上開始的。"
+          ],
+          "photo": "weekday",
+          "caption": "夜晚的弘大入口站出口"
+        },
+        {
+          "h": "末班車不一定開到終點站",
+          "p": [
+            "較晚的列車常常不會開到路線終點，而是在中途的車站結束行駛。弘大入口站較晚的2號線列車，也只開到乙支路入口或聖水。",
+            "所以不能只看路線名稱就放心。請另外確認開到你要下車那一站的末班車是幾點。"
+          ],
+          "photo": "direction",
+          "caption": "首爾地鐵的剪票口"
+        },
+        {
+          "h": "錯過末班車？——貓頭鷹巴士（深夜公車）2,500韓元",
+          "p": [
+            "地鐵停駛後，還有首爾市的深夜公車，也就是貓頭鷹巴士。號碼前有N的14條路線，從晚上11點行駛到早上6點。",
+            "用交通卡搭乘是2,500韓元。發車間隔依路線不同，從10分鐘到40分鐘不等，去站牌之前最好先查一下下一班車什麼時候到。"
+          ],
+          "photo": "owl",
+          "caption": "夜晚的首爾市中心道路"
+        },
+        {
+          "h": "計程車晚上11點起加收40%",
+          "p": [
+            "首爾中型計程車白天的起跳價是1.6km以內4,800韓元。之後每131m，或塞車慢行時每30秒，加收100韓元。",
+            "晚上11點到凌晨2點加收40%，起跳價從6,700韓元開始。",
+            "晚上10點到11點、凌晨2點到4點加收20%，起跳價從5,800韓元開始。加成由計費表依時間自動切換。"
+          ],
+          "photo": "taxi",
+          "caption": "夜晚的江南街頭"
+        }
+      ],
+      "box": [
+        {
+          "k": "前往方式",
+          "v": [
+            "弘大入口站：地鐵2號線"
+          ]
+        },
+        {
+          "k": "時間",
+          "v": [
+            "弘大入口站2號線開往乙支路入口方向的末班車：平日（含週五）0:49",
+            "週六·週日·國定假日 23:49"
+          ]
+        },
+        {
+          "k": "費用",
+          "v": [
+            "貓頭鷹巴士（深夜公車）：交通卡2,500韓元",
+            "計程車起跳價：白天4,800韓元 · 晚上11點～凌晨2點6,700韓元 · 晚上10～11點和凌晨2～4點5,800韓元"
+          ]
+        },
+        {
+          "k": "行駛時間",
+          "v": [
+            "貓頭鷹巴士（深夜公車）：晚上11點～早上6點，14條路線，發車間隔10～40分鐘"
+          ]
+        },
+        {
+          "k": "在Trabbit裡",
+          "v": [
+            "在地鐵路線圖上點一下車站，就會顯示當天對應星期的末班車時間。"
+          ]
+        }
+      ],
+      "outro": "如果週六晚上有約，記得在吃晚餐之前先查好末班車時間。",
+      "sources": [
+        "首爾開放資料廣場《各地鐵站末班車時刻表》2026年10月25日查詢",
+        "首爾市交通《貓頭鷹巴士》介紹（2026年3月20日更新）",
+        "首爾市交通《計程車費用》介紹（2026年4月3日更新）"
+      ],
+      "credit": "照片：韓國觀光公社"
+    }
+  }
+}

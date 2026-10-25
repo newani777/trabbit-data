@@ -2,6 +2,51 @@
   "version": 1,
   "articles": [
     {
+      "id": "2026-10-26_seoul_last_train",
+      "no": 2,
+      "kind": "evergreen",
+      "published": "2026-10-26",
+      "week": "2026-10-26",
+      "fresh_until": null,
+      "issue_id": "set39_last_train",
+      "hero": {
+        "file": "hero.webp",
+        "w": 1080,
+        "h": 721
+      },
+      "title": {
+        "ko": "서울 지하철, 토요일 막차는 한 시간 빨라요 — 홍대입구 평일 0시 49분, 토요일 23시 49분",
+        "en": "Seoul's last train leaves an hour early on Saturdays — Hongik Univ. 00:49 on weekdays, 23:49 on Saturdays",
+        "ja": "ソウルの地下鉄、土曜日の終電は1時間早くなります — 弘大入口駅は平日0時49分、土曜日23時49分",
+        "de": "Seouls U-Bahn: Am Samstag fährt die letzte Bahn eine Stunde früher — Hongik Univ. werktags 00:49 Uhr, samstags 23:49 Uhr",
+        "es": "Metro de Seúl: los sábados el último tren sale una hora antes — Hongik Univ. a las 00:49 entre semana y a las 23:49 los sábados",
+        "fr": "Métro de Séoul : le samedi, le dernier train part une heure plus tôt — Hongik Univ. à 00:49 en semaine, à 23:49 le samedi",
+        "id": "Kereta terakhir kereta bawah tanah Seoul pada hari Sabtu berangkat satu jam lebih awal — Hongik Univ. pukul 00:49 pada hari kerja, 23:49 pada hari Sabtu",
+        "pt_br": "Metrô de Seul: aos sábados o último trem sai uma hora mais cedo — Hongik Univ. às 00:49 nos dias úteis e às 23:49 aos sábados",
+        "ru": "Последний поезд сеульского метро по субботам уходит на час раньше — Hongik Univ.: 00:49 в будни, 23:49 в субботу",
+        "th": "รถไฟใต้ดินโซลเที่ยวสุดท้ายวันเสาร์ออกเร็วขึ้นหนึ่งชั่วโมง — สถานี Hongik Univ. วันธรรมดา 00:49 น. วันเสาร์ 23:49 น.",
+        "vi": "Chuyến tàu điện ngầm cuối cùng ở Seoul vào thứ Bảy sớm hơn một tiếng — ga Hongik Univ. 00:49 ngày thường, 23:49 thứ Bảy",
+        "zh_cn": "首尔地铁周六末班车提早一小时——弘大入口站平日0:49，周六23:49",
+        "zh_tw": "首爾地鐵週六末班車提早一小時——弘大入口站平日0:49，週六23:49"
+      },
+      "summary": {
+        "ko": "같은 역, 같은 방향이라도 요일마다 막차 시간이 달라요. 막차를 놓쳤을 때 탈 수 있는 심야버스와 택시 요금까지 정리했어요.",
+        "en": "The same station and the same direction can have a different last train depending on the day. Here's how it works, plus the night buses and taxi fares for when you miss it.",
+        "ja": "同じ駅、同じ方向でも、曜日によって終電の時刻が違います。終電を逃したときに乗れる深夜バスとタクシー料金までまとめました。",
+        "de": "Selbst an derselben Station und in dieselbe Richtung fährt die letzte Bahn je nach Wochentag zu einer anderen Zeit. Dazu die Nachtbusse und Taxipreise für den Fall, dass Sie sie verpassen.",
+        "es": "En la misma estación y en la misma dirección, el último tren sale a una hora distinta según el día. Te explicamos cómo funciona, además de los autobuses nocturnos y las tarifas de taxi por si lo pierdes.",
+        "fr": "Même station, même direction : le dernier train ne part pas à la même heure selon le jour. Voici comment cela fonctionne, avec les bus de nuit et les tarifs des taxis si vous le ratez.",
+        "id": "Dari stasiun yang sama dan ke arah yang sama pun, jam kereta terakhir berbeda tergantung harinya. Kami juga merangkum bus malam dan tarif taksi untuk Anda yang ketinggalan kereta terakhir.",
+        "pt_br": "Na mesma estação e no mesmo sentido, o último trem sai em horários diferentes conforme o dia. Explicamos como funciona, além dos ônibus noturnos e das tarifas de táxi para quando você perder o trem.",
+        "ru": "Даже с одной и той же станции и в одном и том же направлении последний поезд уходит в разное время в зависимости от дня недели. Рассказываем, как это устроено, а также про ночные автобусы и тарифы такси на случай, если вы опоздали.",
+        "th": "แม้เป็นสถานีเดียวกันและทิศทางเดียวกัน เวลารถไฟเที่ยวสุดท้ายก็ต่างกันไปตามวัน เราสรุปรถเมล์กลางคืนและค่าแท็กซี่ไว้ให้ด้วย เผื่อคุณพลาดรถไฟเที่ยวสุดท้าย",
+        "vi": "Dù cùng một ga, cùng một hướng, giờ chuyến tàu cuối vẫn khác nhau tùy theo ngày trong tuần. Chúng tôi cũng tổng hợp xe buýt đêm và giá taxi để bạn dùng khi lỡ chuyến tàu cuối.",
+        "zh_cn": "同一个站、同一个方向，末班车时间也会因星期几而不同。还整理了错过末班车后可以坐的深夜公交和出租车费用。",
+        "zh_tw": "同一個站、同一個方向，末班車時間也會因星期幾而不同。還整理了錯過末班車後可以搭的深夜公車和計程車費用。"
+      },
+      "bytes": 542089
+    },
+    {
       "id": "2026-10-19_seoul_leaves",
       "no": 1,
       "kind": "seasonal",
@@ -47,5 +92,5 @@
       "bytes": 928745
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-26"
 }
