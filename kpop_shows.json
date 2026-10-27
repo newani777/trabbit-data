@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261027",
+  "fetched": "20261028",
   "source": "KOPIS",
   "shows": [
     {
@@ -692,7 +692,7 @@
       "from": "2026.10.28",
       "to": "2026.10.28",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300665_260911_110435.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1051,
       "book": [
         {
