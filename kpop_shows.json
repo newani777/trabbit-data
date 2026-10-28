@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261028",
+  "fetched": "20261029",
   "source": "KOPIS",
   "shows": [
     {
@@ -692,7 +692,7 @@
       "from": "2026.10.28",
       "to": "2026.10.28",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300665_260911_110435.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 1051,
       "book": [
         {
@@ -1363,6 +1363,23 @@
       ]
     },
     {
+      "id": "PF304690",
+      "name": "CHENLE B-day PARTY: Lele's Show 2",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.11.24",
+      "to": "2026.11.24",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304690_261028_133312.jpg",
+      "state": "공연예정",
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60596"
+        }
+      ]
+    },
+    {
       "id": "PF300132",
       "name": "웅산 Here's to life",
       "venue": "세종문화회관",
@@ -1418,6 +1435,23 @@
         {
           "n": "예스24",
           "u": "https://ticket.yes24.com/Perf/60153"
+        }
+      ]
+    },
+    {
+      "id": "PF304768",
+      "name": "hrtz.wav 1st CONNECT!ON: TUNE IN",
+      "venue": "장충체육관",
+      "venue_en": "Jangchung Arena",
+      "from": "2026.11.28",
+      "to": "2026.11.28",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304768_261028_165300.jpg",
+      "state": "공연예정",
+      "seats": 4507,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214161"
         }
       ]
     },
