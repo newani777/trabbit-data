@@ -1,109 +1,109 @@
 {
-  "date": "20261028",
+  "date": "20261029",
   "source": "koreaexim",
   "note": "deal_bas_r (매매기준율). 100단위 통화는 1단위로 환산됨.",
   "rates": [
     {
       "code": "USD",
       "name": "US Dollar",
-      "krw": 1324.3
+      "krw": 1336.3
     },
     {
       "code": "JPY",
       "name": "Japanese Yen",
-      "krw": 8.383
+      "krw": 8.4689
     },
     {
       "code": "CNH",
       "name": "Chinese Yuan",
-      "krw": 198.69
+      "krw": 200.21
     },
     {
       "code": "TWD",
       "name": "Taiwan Dollar",
-      "krw": 40.79
+      "krw": 41.24
     },
     {
       "code": "HKD",
       "name": "Hong Kong Dollar",
-      "krw": 168.82
+      "krw": 170.33
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "krw": 1473.81
+      "krw": 1490.51
     },
     {
       "code": "GBP",
       "name": "British Pound",
-      "krw": 1762.11
+      "krw": 1780.55
     },
     {
       "code": "SGD",
       "name": "Singapore Dollar",
-      "krw": 1033.52
+      "krw": 1043.09
     },
     {
       "code": "THB",
       "name": "Thai Baht",
-      "krw": 39.22
+      "krw": 39.64
     },
     {
       "code": "PHP",
       "name": "Philippine Peso",
-      "krw": 20.72
+      "krw": 20.88
     },
     {
       "code": "VND",
       "name": "Vietnamese Dong",
-      "krw": 0.0513
+      "krw": 0.0517
     },
     {
       "code": "MYR",
       "name": "Malaysian Ringgit",
-      "krw": 323.87
+      "krw": 327.77
     },
     {
       "code": "IDR",
       "name": "Indonesian Rupiah",
-      "krw": 0.073
+      "krw": 0.0735
     },
     {
       "code": "AUD",
       "name": "Australian Dollar",
-      "krw": 930.59
+      "krw": 942.09
     },
     {
       "code": "NZD",
       "name": "New Zealand Dollar",
-      "krw": 752.4
+      "krw": 751.94
     },
     {
       "code": "CAD",
       "name": "Canadian Dollar",
-      "krw": 942.5
+      "krw": 955.05
     },
     {
       "code": "CHF",
       "name": "Swiss Franc",
-      "krw": 1597.27
+      "krw": 1613.99
     },
     {
       "code": "INR",
       "name": "Indian Rupee",
-      "krw": 13.92
+      "krw": 14.03
     },
     {
       "code": "SAR",
       "name": "Saudi Riyal",
-      "krw": 352.81
+      "krw": 356.1
     },
     {
       "code": "AED",
       "name": "UAE Dirham",
-      "krw": 360.56
+      "krw": 363.84
     }
   ],
   "extra_source": "bok-ecos 731Y001 (재정환율)",
-  "extra_date": "20261028"
+  "extra_date": "20261029"
 }
