@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261029",
+  "fetched": "20261030",
   "source": "KOPIS",
   "shows": [
     {
@@ -372,23 +372,6 @@
       ]
     },
     {
-      "id": "PF295326",
-      "name": "인디스커버리: FESTA, TRACK 01",
-      "venue": "마포아트센터",
-      "venue_en": "Mapo Art Center",
-      "from": "2026.10.16",
-      "to": "2026.10.16",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295326_260703_152241.gif",
-      "state": "공연완료",
-      "seats": 1004,
-      "book": [
-        {
-          "n": "놀유니버스",
-          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009349"
-        }
-      ]
-    },
-    {
       "id": "PF301107",
       "name": "NEXZ 1ST ASIA TOUR: SAUCIN’ THE WORLD",
       "venue": "올림픽공원",
@@ -486,23 +469,6 @@
         {
           "n": "놀유니버스",
           "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010474"
-        }
-      ]
-    },
-    {
-      "id": "PF295328",
-      "name": "인디스커버리: FESTA, TRACK 02",
-      "venue": "마포아트센터",
-      "venue_en": "Mapo Art Center",
-      "from": "2026.10.17",
-      "to": "2026.10.17",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295328_260703_153531.gif",
-      "state": "공연완료",
-      "seats": 1004,
-      "book": [
-        {
-          "n": "놀유니버스",
-          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009350"
         }
       ]
     },
@@ -709,7 +675,7 @@
       "from": "2026.10.30",
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301089_260916_144800.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 15000,
       "book": [
         {
