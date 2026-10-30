@@ -4,7 +4,7 @@
     "202610",
     "202611"
   ],
-  "fetched": "20261030",
+  "fetched": "20261031",
   "source": "KOPIS",
   "shows": [
     {
@@ -131,35 +131,6 @@
         {
           "n": "예스24",
           "u": "https://ticket.yes24.com/Perf/59743"
-        }
-      ]
-    },
-    {
-      "id": "PF298494",
-      "name": "힙합 콘서트, ASMBL CRSH: SEOUL",
-      "venue": "KBS스포츠월드(아레나)",
-      "venue_en": "KBS Arena",
-      "from": "2026.10.05",
-      "to": "2026.10.05",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298494_260813_162955.jpg",
-      "state": "공연완료",
-      "seats": 2222,
-      "book": [
-        {
-          "n": "2TM(우리은행)",
-          "u": "https://www.2tm.co.kr/ticket/10621"
-        },
-        {
-          "n": "NHN티켓링크",
-          "u": "http://www.ticketlink.co.kr/product/64755"
-        },
-        {
-          "n": "네이버N예약",
-          "u": "https://booking.naver.com/booking/12/bizes/1712067"
-        },
-        {
-          "n": "예스24",
-          "u": "https://ticket.yes24.com/Perf/60059"
         }
       ]
     },
@@ -372,6 +343,23 @@
       ]
     },
     {
+      "id": "PF295326",
+      "name": "인디스커버리: FESTA, TRACK 01",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.10.16",
+      "to": "2026.10.16",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295326_260703_152241.gif",
+      "state": "공연완료",
+      "seats": 1004,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009349"
+        }
+      ]
+    },
+    {
       "id": "PF301107",
       "name": "NEXZ 1ST ASIA TOUR: SAUCIN’ THE WORLD",
       "venue": "올림픽공원",
@@ -473,6 +461,23 @@
       ]
     },
     {
+      "id": "PF295328",
+      "name": "인디스커버리: FESTA, TRACK 02",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.10.17",
+      "to": "2026.10.17",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295328_260703_153531.gif",
+      "state": "공연완료",
+      "seats": 1004,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009350"
+        }
+      ]
+    },
+    {
       "id": "PF301572",
       "name": "잔나비 발라드 컬렉션: 10월의 어느 멋진 날에",
       "venue": "올림픽공원",
@@ -520,27 +525,6 @@
         {
           "n": "놀유니버스",
           "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26008033"
-        }
-      ]
-    },
-    {
-      "id": "PF299464",
-      "name": "THE MAIN VOCALS: Season 1",
-      "venue": "KBS스포츠월드(아레나)",
-      "venue_en": "KBS Arena",
-      "from": "2026.10.23",
-      "to": "2026.10.23",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299464_260827_104645.jpg",
-      "state": "공연완료",
-      "seats": 2222,
-      "book": [
-        {
-          "n": "NHN티켓링크",
-          "u": "http://www.ticketlink.co.kr/product/65009"
-        },
-        {
-          "n": "네이버N예약",
-          "u": "https://booking.naver.com/booking/12/bizes/1728118"
         }
       ]
     },
@@ -692,7 +676,7 @@
       "from": "2026.10.31",
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303776_261019_150345.png",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 2222,
       "book": [
         {
@@ -713,7 +697,7 @@
       "from": "2026.10.31",
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302717_261007_135330.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 15000,
       "book": [
         {
@@ -730,7 +714,7 @@
       "from": "2026.10.31",
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302702_261007_132404.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1051,
       "book": [
         {
@@ -747,7 +731,7 @@
       "from": "2026.10.31",
       "to": "2026.11.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300499_260909_144219.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1766,
       "book": [
         {
@@ -1111,6 +1095,31 @@
       ]
     },
     {
+      "id": "PF303488",
+      "name": "SJF at the Theater, 백예린 X 윤석철",
+      "venue": "세종문화회관",
+      "venue_en": "Sejong Center",
+      "from": "2026.11.17",
+      "to": "2026.11.21",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303488_261030_113132.jpg",
+      "state": "공연예정",
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214035"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37730&menuNo=200320"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60530"
+        }
+      ]
+    },
+    {
       "id": "PF295591",
       "name": "SJF at the Theater, Kings of Convenience",
       "venue": "세종문화회관",
@@ -1220,31 +1229,6 @@
         {
           "n": "예스24",
           "u": "https://ticket.yes24.com/Perf/60642"
-        }
-      ]
-    },
-    {
-      "id": "PF303488",
-      "name": "SJF at the Theater, 백예린 X 윤석철",
-      "venue": "세종문화회관",
-      "venue_en": "Sejong Center",
-      "from": "2026.11.21",
-      "to": "2026.11.21",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303488_261015_145916.jpg",
-      "state": "공연예정",
-      "seats": 3022,
-      "book": [
-        {
-          "n": "멜론티켓",
-          "u": "https://ticket.melon.com/performance/index.htm?prodId=214035"
-        },
-        {
-          "n": "세종문화회관",
-          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37730&menuNo=200320"
-        },
-        {
-          "n": "예스24",
-          "u": "https://ticket.yes24.com/Perf/60530"
         }
       ]
     },
