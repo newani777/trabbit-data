@@ -1,7 +1,66 @@
 {
   "version": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "issues": [
+    {
+      "id": "set42_november_seoul",
+      "no": 27,
+      "series": "TRABBIT WEEKLY",
+      "title": "November in Seoul is colder than it looks",
+      "summary": "Sunny afternoons, near-freezing nights.",
+      "published": "2026-11-02",
+      "footer": "Sources: KMA · KASI · Photos: KTO",
+      "cards": [
+        {
+          "file": "set42_november_seoul/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 264974,
+          "alt": "November in Seoul is colder than it looks"
+        },
+        {
+          "file": "set42_november_seoul/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 186840,
+          "alt": "12°C day, 3°C night"
+        },
+        {
+          "file": "set42_november_seoul/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 114066,
+          "alt": "Sunset around 5:30"
+        },
+        {
+          "file": "set42_november_seoul/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 176542,
+          "alt": "Frost late October, first snow 20 November"
+        },
+        {
+          "file": "set42_november_seoul/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 277636,
+          "alt": "Layers and a warm coat"
+        },
+        {
+          "file": "set42_november_seoul/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 64038,
+          "alt": "Dress for the night, not the noon"
+        }
+      ],
+      "bytes_total": 1084096,
+      "weekly": {
+        "no": 8,
+        "week": "Week of November 2, 2026"
+      },
+      "ends": "2026-11-30"
+    },
     {
       "id": "set41_taxi_fares",
       "no": 26,
