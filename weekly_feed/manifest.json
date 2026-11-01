@@ -3,6 +3,64 @@
   "updated": "2026-11-02",
   "issues": [
     {
+      "id": "set44_eating_alone",
+      "no": 29,
+      "series": "TRABBIT WEEKLY",
+      "title": "Table for one? Here's where it's easy",
+      "summary": "Most food is fine alone. Barbecue is where it gets harder.",
+      "published": "2026-11-02",
+      "footer": "Sources: Korea JoongAng Daily · The Korea Times · Photos: KTO",
+      "cards": [
+        {
+          "file": "set44_eating_alone/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 83864,
+          "alt": "Table for one? Here's where it's easy"
+        },
+        {
+          "file": "set44_eating_alone/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 160346,
+          "alt": "Barbecue is built for two"
+        },
+        {
+          "file": "set44_eating_alone/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 138160,
+          "alt": "Soup, snacks and chains"
+        },
+        {
+          "file": "set44_eating_alone/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 137204,
+          "alt": "Counter seats and one-person sets"
+        },
+        {
+          "file": "set44_eating_alone/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 220516,
+          "alt": "One line to learn"
+        },
+        {
+          "file": "set44_eating_alone/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 52602,
+          "alt": "Eat well, alone"
+        }
+      ],
+      "bytes_total": 792692,
+      "weekly": {
+        "no": 8,
+        "week": "Week of November 2, 2026"
+      }
+    },
+    {
       "id": "set43_jeju_olle",
       "no": 28,
       "series": "TRABBIT WEEKLY",
