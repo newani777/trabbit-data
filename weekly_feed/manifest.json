@@ -3,6 +3,65 @@
   "updated": "2026-11-02",
   "issues": [
     {
+      "id": "set43_jeju_olle",
+      "no": 28,
+      "series": "TRABBIT WEEKLY",
+      "title": "Walk Jeju's coast, no sign-up needed",
+      "summary": "Olle Routes 19 and 20, over three days.",
+      "published": "2026-11-02",
+      "footer": "Sources: Jeju Olle Foundation · Photos: KTO",
+      "cards": [
+        {
+          "file": "set43_jeju_olle/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 147820,
+          "alt": "Walk Jeju's coast, no sign-up needed"
+        },
+        {
+          "file": "set43_jeju_olle/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 218100,
+          "alt": "About 12 km a day"
+        },
+        {
+          "file": "set43_jeju_olle/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 292738,
+          "alt": "Free to walk, paid for the perks"
+        },
+        {
+          "file": "set43_jeju_olle/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 219582,
+          "alt": "Shuttle sales closed"
+        },
+        {
+          "file": "set43_jeju_olle/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 85300,
+          "alt": "Pack lunch, end by 4pm"
+        },
+        {
+          "file": "set43_jeju_olle/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 56852,
+          "alt": "Walk the island's edge"
+        }
+      ],
+      "bytes_total": 1020392,
+      "weekly": {
+        "no": 8,
+        "week": "Week of November 2, 2026"
+      },
+      "ends": "2026-11-07"
+    },
+    {
       "id": "set42_november_seoul",
       "no": 27,
       "series": "TRABBIT WEEKLY",
