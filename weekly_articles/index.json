@@ -2,6 +2,51 @@
   "version": 1,
   "articles": [
     {
+      "id": "2026-11-02_november_seoul",
+      "no": 3,
+      "kind": "seasonal",
+      "published": "2026-11-02",
+      "week": "2026-11-02",
+      "fresh_until": "2026-11-30",
+      "issue_id": "set42_november_seoul",
+      "hero": {
+        "file": "hero.webp",
+        "w": 1080,
+        "h": 720
+      },
+      "title": {
+        "ko": "11월 서울, 낮 12도·밤 3도 — 해는 5시 반쯤 져요",
+        "en": "November in Seoul: 12°C by day, 3°C at night, and sunset around 5:30",
+        "ja": "11月のソウル、昼12度・夜3度 — 日没は17時半ごろです",
+        "de": "Seoul im November: tagsüber 12 °C, nachts 3 °C — die Sonne geht gegen 17:30 Uhr unter",
+        "es": "Seúl en noviembre: 12 °C de día, 3 °C de noche y el sol se pone hacia las 17:30",
+        "fr": "Séoul en novembre : 12 °C le jour, 3 °C la nuit, et le soleil se couche vers 17:30",
+        "id": "November di Seoul: siang 12°C, malam 3°C — matahari terbenam sekitar pukul 17:30",
+        "pt_br": "Seul em novembro: 12 °C de dia, 3 °C à noite e o sol se põe por volta das 17:30",
+        "ru": "Ноябрь в Сеуле: днём 12 °C, ночью 3 °C — солнце садится около 17:30",
+        "th": "โซลเดือนพฤศจิกายน กลางวัน 12 องศา กลางคืน 3 องศา — ดวงอาทิตย์ตกราว 17:30 น.",
+        "vi": "Tháng 11 ở Seoul: ban ngày 12°C, ban đêm 3°C — mặt trời lặn khoảng 17 giờ 30",
+        "zh_cn": "11月的首尔，白天12度·夜晚3度——太阳5点半左右落山",
+        "zh_tw": "11月的首爾，白天12度·夜晚3度——太陽5點半左右落下"
+      },
+      "summary": {
+        "ko": "기상청 평년값으로 본 11월 서울의 기온과 일몰 시각, 첫눈 시기, 그리고 짐에 넣으면 좋은 옷을 정리했어요.",
+        "en": "Seoul's November temperatures, sunset times and first-snow dates from Korea's weather records, plus what's worth packing.",
+        "ja": "韓国気象庁の平年値をもとに、11月のソウルの気温と日没時刻、初雪の時期、荷物に入れておくと安心な服装をまとめました。",
+        "de": "Temperaturen, Sonnenuntergangszeiten und Zeitpunkt des ersten Schnees in Seoul im November laut den Normalwerten des koreanischen Wetterdienstes, dazu Kleidung, die sich fürs Gepäck lohnt.",
+        "es": "Temperaturas, hora de la puesta de sol y época de la primera nevada en Seúl en noviembre según los valores normales del servicio meteorológico coreano, y la ropa que conviene meter en la maleta.",
+        "fr": "Les températures de Séoul en novembre, l'heure du coucher du soleil et la période de la première neige d'après les normales du service météorologique coréen, avec les vêtements à glisser dans votre valise.",
+        "id": "Kami merangkum suhu November di Seoul berdasarkan nilai normal Badan Meteorologi Korea, waktu matahari terbenam, perkiraan waktu salju pertama, serta pakaian yang sebaiknya Anda bawa.",
+        "pt_br": "As temperaturas de Seul em novembro, o horário do pôr do sol e a época da primeira neve segundo as normais do serviço meteorológico coreano, com as roupas que valem a pena levar na mala.",
+        "ru": "Мы собрали температуры сеульского ноября по климатической норме Метеорологического управления Кореи, время заката, сроки первого снега и подсказки, какую одежду стоит взять с собой.",
+        "th": "สรุปอุณหภูมิ เวลาพระอาทิตย์ตก ช่วงเวลาหิมะแรก และเสื้อผ้าที่ควรใส่กระเป๋าสำหรับโซลเดือนพฤศจิกายน จากค่าเฉลี่ยปกติของสำนักงานอุตุนิยมวิทยาเกาหลี",
+        "vi": "Chúng tôi tổng hợp nhiệt độ tháng 11 ở Seoul theo giá trị trung bình nhiều năm của Cơ quan Khí tượng Hàn Quốc, giờ mặt trời lặn, thời điểm có tuyết đầu mùa và những món đồ nên mang theo.",
+        "zh_cn": "根据韩国气象厅的常年值，整理了11月首尔的气温、日落时间、初雪时间，以及行李里值得带上的衣物。",
+        "zh_tw": "根據韓國氣象廳的平年值，整理了11月首爾的氣溫、日落時間、初雪時間，以及行李裡值得帶上的衣物。"
+      },
+      "bytes": 717425
+    },
+    {
       "id": "2026-10-26_seoul_last_train",
       "no": 2,
       "kind": "evergreen",
@@ -92,5 +137,5 @@
       "bytes": 928745
     }
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-11-02"
 }

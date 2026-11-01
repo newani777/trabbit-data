@@ -1,0 +1,1110 @@
+{
+  "id": "2026-11-02_november_seoul",
+  "no": 3,
+  "kind": "seasonal",
+  "published": "2026-11-02",
+  "week": "2026-11-02",
+  "fresh_until": "2026-11-30",
+  "issue_id": "set42_november_seoul",
+  "photos": {
+    "hero": {
+      "file": "hero.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "temps": {
+      "file": "temps.webp",
+      "w": 853,
+      "h": 853,
+      "credit": "kto"
+    },
+    "sunset": {
+      "file": "sunset.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "snow": {
+      "file": "snow.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "layers": {
+      "file": "layers.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://data.kma.go.kr/normals/average30Years.do",
+      "date": "2026-10-12"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/climate/statistics/regional-char.do?area=1",
+      "date": "2026-11-01"
+    },
+    {
+      "url": "https://astro.kasi.re.kr/life/pageView/6",
+      "date": "2026-10-12"
+    }
+  ],
+  "langs": {
+    "ko": {
+      "title": "11월 서울, 낮 12도·밤 3도 — 해는 5시 반쯤 져요",
+      "summary": "기상청 평년값으로 본 11월 서울의 기온과 일몰 시각, 첫눈 시기, 그리고 짐에 넣으면 좋은 옷을 정리했어요.",
+      "hero_caption": "늦가을의 덕수궁 돌담길",
+      "lead": [
+        "11월의 서울은 낮에 햇볕이 좋으면 생각보다 포근하게 느껴져요. 그런데 해가 지면 기온이 금세 내려가고, 월말에는 아침 기온이 0도 가까이 떨어져요.",
+        "낮 사진만 보고 옷을 챙기면 저녁에 추울 수 있어요. 기상청 평년값과 일몰 시각을 바탕으로, 이달 서울을 걸을 분이 미리 알아 두면 좋을 숫자를 모았어요."
+      ],
+      "sections": [
+        {
+          "h": "낮 11.9도, 밤 3.5도",
+          "p": [
+            "서울의 11월 평년 기온은 최고 11.9도, 최저 3.5도, 평균 7.5도예요. 1991년부터 2020년까지의 기상청 평년값이에요. 같은 자료에서 10월은 최고 20.2도, 최저 10.6도이니, 한 달 사이에 낮 기온이 8도쯤 내려가는 셈이에요.",
+            "11월 안에서도 차이가 커요. 하순에는 평균 4.8도, 최고 9.0도, 최저 1.1도까지 내려가요. 그래서 11월 초에 오는 분과 말에 오는 분은 챙길 옷이 조금 달라요. 11월 강수량 평년값은 51.1mm예요."
+          ],
+          "photo": "temps",
+          "caption": "낙엽이 쌓인 남산 성곽길"
+        },
+        {
+          "h": "해는 5시 30분쯤 져요",
+          "p": [
+            "서울의 일몰 시각은 11월 1일에 17시 34분, 15일에 17시 22분이에요. 보름 사이에 12분이 빨라져요.",
+            "궁궐이나 공원, 산책길처럼 밖에서 보는 곳은 오후로 잡는 편이 좋아요. 해가 진 뒤에는 시장이나 실내로 옮기도록 하루를 짜면 쌀쌀해지는 시간을 편하게 보낼 수 있어요."
+          ],
+          "photo": "sunset",
+          "caption": "한강 너머로 지는 해"
+        },
+        {
+          "h": "첫서리는 10월 말, 첫눈은 11월 20일쯤",
+          "p": [
+            "기상청이 밝힌 서울의 평년 날짜는 첫서리 10월 28일, 첫얼음 11월 3일, 첫눈 11월 20일이에요. 평균 날짜라서 해마다 며칠씩 달라질 수 있어요.",
+            "11월 하순에 온다면 장갑이나 목도리처럼 작은 방한용품을 챙겨 두면 마음이 편해요."
+          ],
+          "photo": "snow",
+          "caption": "눈 내린 경복궁"
+        },
+        {
+          "h": "얇은 옷을 겹치고, 따뜻한 겉옷 하나",
+          "p": [
+            "하루 안에서도 기온 차가 8~10도쯤 나요. 그래서 두꺼운 옷 한 벌보다 얇은 옷을 겹쳐 입고 따뜻한 코트나 가벼운 패딩을 더하는 쪽이 편해요.",
+            "실내에서 벗을 수 있는 차림이면 좋고, 저녁 일정이 있는 날은 장갑도 챙겨 두세요. 옷은 한낮이 아니라 해가 진 뒤의 기온에 맞춰 고르는 게 좋아요."
+          ],
+          "photo": "layers",
+          "caption": "가을 산책길을 걷는 사람"
+        }
+      ],
+      "box": [
+        {
+          "k": "기온",
+          "v": [
+            "11월 평년 최고 11.9도 · 최저 3.5도",
+            "11월 하순 평년 최고 9.0도 · 최저 1.1도"
+          ]
+        },
+        {
+          "k": "일몰",
+          "v": [
+            "11월 1일 17시 34분 · 11월 15일 17시 22분"
+          ]
+        },
+        {
+          "k": "평년 날짜",
+          "v": [
+            "첫서리 10월 28일 · 첫얼음 11월 3일 · 첫눈 11월 20일"
+          ]
+        },
+        {
+          "k": "트래빗에서",
+          "v": [
+            "「날씨와 옷차림」에서 서울 시간별 예보와 계절별 옷차림을 볼 수 있어요."
+          ]
+        }
+      ],
+      "outro": "11월 서울은 한낮보다 해가 진 뒤에 맞춰 옷을 고르면 편해요.",
+      "sources": [
+        "기상청 기상자료개방포털 「평년값(1991~2020)」 서울",
+        "기상청 「서울지방 기후특성」 (2026년 11월 1일 확인)",
+        "한국천문연구원 천문우주지식정보 「일출일몰시각」"
+      ],
+      "credit": "사진: 한국관광공사"
+    },
+    "en": {
+      "title": "November in Seoul: 12°C by day, 3°C at night, and sunset around 5:30",
+      "summary": "Seoul's November temperatures, sunset times and first-snow dates from Korea's weather records, plus what's worth packing.",
+      "hero_caption": "The Deoksugung stone wall road in late autumn",
+      "lead": [
+        "On a sunny afternoon, November in Seoul can feel milder than you'd expect. Once the sun goes down the temperature drops quickly, and by the end of the month mornings get close to 0°C.",
+        "If you pack from daytime photos, the evenings may catch you out. Here are the numbers worth knowing before you walk Seoul this month, from Korea Meteorological Administration normals and sunset times."
+      ],
+      "sections": [
+        {
+          "h": "11.9°C by day, 3.5°C at night",
+          "p": [
+            "Seoul's November normals are a high of 11.9°C, a low of 3.5°C and a mean of 7.5°C. These are Korea Meteorological Administration normals for 1991 to 2020. The same data gives October a high of 20.2°C and a low of 10.6°C, so daytime highs fall by about 8°C in a month.",
+            "The month itself changes a lot too. By late November the mean is 4.8°C, the high 9.0°C and the low 1.1°C, so early-November and late-November visitors pack a little differently. Normal November rainfall is 51.1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Fallen leaves on the Namsan fortress wall path"
+        },
+        {
+          "h": "The sun sets around 5:30",
+          "p": [
+            "Sunset in Seoul is at 17:34 on 1 November and 17:22 on the 15th, which is 12 minutes earlier in two weeks.",
+            "It's best to save palaces, parks and walks for the afternoon. If you plan to move to markets or indoor spots after dark, the colder hours are much easier."
+          ],
+          "photo": "sunset",
+          "caption": "Sunset over the Han River"
+        },
+        {
+          "h": "First frost in late October, first snow around 20 November",
+          "p": [
+            "The Korea Meteorological Administration gives Seoul's average dates as first frost on 28 October, first ice on 3 November and first snow on 20 November. These are averages, so the real dates can move by several days each year.",
+            "If you're coming in late November, small cold-weather items like gloves or a scarf are worth having with you."
+          ],
+          "photo": "snow",
+          "caption": "Gyeongbokgung Palace in the snow"
+        },
+        {
+          "h": "Thin layers and one warm coat",
+          "p": [
+            "The temperature can swing 8 to 10°C within a single day. Thin layers under a warm coat or a light down jacket work better than one thick piece.",
+            "It helps to wear something you can take off indoors, and to keep gloves with you on days with evening plans. Choose your clothes for the hours after sunset, not for midday."
+          ],
+          "photo": "layers",
+          "caption": "Walking an autumn trail"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperatures",
+          "v": [
+            "November normal high 11.9°C · low 3.5°C",
+            "Late November normal high 9.0°C · low 1.1°C"
+          ]
+        },
+        {
+          "k": "Sunset",
+          "v": [
+            "1 November 17:34 · 15 November 17:22"
+          ]
+        },
+        {
+          "k": "Average dates",
+          "v": [
+            "First frost 28 October · first ice 3 November · first snow 20 November"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Open Weather & What to Wear for the hourly Seoul forecast and clothing by season."
+          ]
+        }
+      ],
+      "outro": "In November, it's easier to dress for the hours after sunset than for midday.",
+      "sources": [
+        "Korea Meteorological Administration Open Data Portal, climate normals 1991–2020 (Seoul)",
+        "Korea Meteorological Administration, climate of the Seoul region (checked 1 November 2026)",
+        "Korea Astronomy and Space Science Institute, sunrise and sunset times"
+      ],
+      "credit": "Photos: Korea Tourism Organization"
+    },
+    "ja": {
+      "title": "11月のソウル、昼12度・夜3度 — 日没は17時半ごろです",
+      "summary": "韓国気象庁の平年値をもとに、11月のソウルの気温と日没時刻、初雪の時期、荷物に入れておくと安心な服装をまとめました。",
+      "hero_caption": "晩秋の徳寿宮の石垣道",
+      "lead": [
+        "11月のソウルは、日中に日差しがあると思ったより暖かく感じられます。ただ、日が沈むと気温がすぐに下がり、月末には朝の気温が0度近くまで下がります。",
+        "昼の写真だけを見て服装を決めると、夕方に寒く感じるかもしれません。韓国気象庁の平年値と日没時刻をもとに、今月ソウルを歩く方が前もって知っておくと役立つ数字を集めました。"
+      ],
+      "sections": [
+        {
+          "h": "昼11.9度、夜3.5度",
+          "p": [
+            "ソウルの11月の平年の気温は、最高11.9度、最低3.5度、平均7.5度です。1991年から2020年までの韓国気象庁の平年値です。同じ資料で10月は最高20.2度、最低10.6度ですので、ひと月で昼の気温が8度ほど下がることになります。",
+            "11月の中でも差は大きくなります。下旬には平均4.8度、最高9.0度、最低1.1度まで下がります。そのため、11月の初めに来る方と終わりに来る方とでは、持っていく服が少し変わります。11月の降水量の平年値は51.1mmです。"
+          ],
+          "photo": "temps",
+          "caption": "落ち葉が積もった南山の城郭道"
+        },
+        {
+          "h": "日没は17時30分ごろです",
+          "p": [
+            "ソウルの日没時刻は、11月1日が17時34分、15日が17時22分です。2週間で12分早くなります。",
+            "宮殿や公園、散歩道のように屋外で楽しむ場所は、午後に回すのがおすすめです。日が沈んだあとは市場や屋内に移るように1日を組むと、冷え込む時間も快適に過ごせます。"
+          ],
+          "photo": "sunset",
+          "caption": "漢江の向こうに沈む夕日"
+        },
+        {
+          "h": "初霜は10月末、初雪は11月20日ごろ",
+          "p": [
+            "韓国気象庁が発表しているソウルの平年の日付は、初霜が10月28日、初氷が11月3日、初雪が11月20日です。平均の日付ですので、年によって数日ずれることがあります。",
+            "11月下旬に来られるなら、手袋やマフラーのような小さな防寒グッズを持っておくと安心です。"
+          ],
+          "photo": "snow",
+          "caption": "雪の積もった景福宮"
+        },
+        {
+          "h": "薄手の服を重ねて、暖かい上着を1枚",
+          "p": [
+            "1日の中でも気温差が8～10度ほどあります。そのため、厚手の服を1枚着るよりも、薄手の服を重ねて、暖かいコートや軽いダウンジャケットを加えるほうが楽です。",
+            "屋内で脱げる服装だと便利です。夜に予定がある日は手袋も持っておいてください。服は日中ではなく、日が沈んだあとの気温に合わせて選ぶのがおすすめです。"
+          ],
+          "photo": "layers",
+          "caption": "秋の散歩道を歩く人"
+        }
+      ],
+      "box": [
+        {
+          "k": "気温",
+          "v": [
+            "11月の平年 最高11.9度・最低3.5度",
+            "11月下旬の平年 最高9.0度・最低1.1度"
+          ]
+        },
+        {
+          "k": "日没",
+          "v": [
+            "11月1日 17時34分・11月15日 17時22分"
+          ]
+        },
+        {
+          "k": "平年の日付",
+          "v": [
+            "初霜 10月28日・初氷 11月3日・初雪 11月20日"
+          ]
+        },
+        {
+          "k": "Trabbitで",
+          "v": [
+            "「天気と服装」で、ソウルの1時間ごとの予報と季節ごとの服装を確認できます。"
+          ]
+        }
+      ],
+      "outro": "11月のソウルは、昼間よりも日が沈んだあとに合わせて服を選ぶと快適です。",
+      "sources": [
+        "韓国気象庁 気象データ開放ポータル「平年値（1991～2020）」ソウル",
+        "韓国気象庁「ソウル地方の気候特性」（2026年11月1日確認）",
+        "韓国天文研究院 天文宇宙知識情報「日の出・日の入り時刻」"
+      ],
+      "credit": "写真：韓国観光公社"
+    },
+    "de": {
+      "title": "Seoul im November: tagsüber 12 °C, nachts 3 °C — die Sonne geht gegen 17:30 Uhr unter",
+      "summary": "Temperaturen, Sonnenuntergangszeiten und Zeitpunkt des ersten Schnees in Seoul im November laut den Normalwerten des koreanischen Wetterdienstes, dazu Kleidung, die sich fürs Gepäck lohnt.",
+      "hero_caption": "Die Steinmauergasse des Deoksugung im Spätherbst",
+      "lead": [
+        "Im November fühlt sich Seoul bei Sonnenschein tagsüber milder an, als man denkt. Nach Sonnenuntergang sinkt die Temperatur aber schnell, und gegen Monatsende fallen die Morgentemperaturen auf fast 0 °C.",
+        "Wer nur nach Fotos vom Tag packt, friert abends vielleicht. Auf Grundlage der Normalwerte des koreanischen Wetterdienstes und der Sonnenuntergangszeiten haben wir die Zahlen zusammengestellt, die Sie vor einem Spaziergang durch Seoul in diesem Monat kennen sollten."
+      ],
+      "sections": [
+        {
+          "h": "Tagsüber 11,9 °C, nachts 3,5 °C",
+          "p": [
+            "Die Normalwerte für Seoul im November liegen bei einem Höchstwert von 11,9 °C, einem Tiefstwert von 3,5 °C und einem Mittel von 7,5 °C. Das sind die Normalwerte des koreanischen Wetterdienstes für die Jahre 1991 bis 2020. In denselben Daten liegt der Oktober bei einem Höchstwert von 20,2 °C und einem Tiefstwert von 10,6 °C, die Tageshöchstwerte sinken also innerhalb eines Monats um etwa 8 °C.",
+            "Auch innerhalb des Novembers gibt es große Unterschiede. In der letzten Monatsdekade fallen die Werte auf ein Mittel von 4,8 °C, einen Höchstwert von 9,0 °C und einen Tiefstwert von 1,1 °C. Wer Anfang November kommt, braucht deshalb etwas andere Kleidung als jemand, der Ende des Monats reist. Der Normalwert für den Niederschlag im November beträgt 51,1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Laub auf dem Weg an der Festungsmauer des Namsan"
+        },
+        {
+          "h": "Die Sonne geht gegen 17:30 Uhr unter",
+          "p": [
+            "Die Sonne geht in Seoul am 1. November um 17:34 Uhr und am 15. November um 17:22 Uhr unter. Innerhalb von zwei Wochen wird es also 12 Minuten früher dunkel.",
+            "Orte unter freiem Himmel wie Paläste, Parks und Spazierwege besuchen Sie am besten am Nachmittag. Wenn Sie Ihren Tag so planen, dass Sie nach Sonnenuntergang auf einen Markt oder nach drinnen wechseln, verbringen Sie die kühleren Stunden angenehmer."
+          ],
+          "photo": "sunset",
+          "caption": "Die Sonne geht hinter dem Han unter"
+        },
+        {
+          "h": "Erster Frost Ende Oktober, erster Schnee um den 20. November",
+          "p": [
+            "Laut dem koreanischen Wetterdienst liegen die durchschnittlichen Termine für Seoul beim ersten Frost am 28. Oktober, beim ersten Eis am 3. November und beim ersten Schnee am 20. November. Es sind Durchschnittswerte, daher können die Termine von Jahr zu Jahr um einige Tage abweichen.",
+            "Wenn Sie in der letzten Novemberdekade kommen, beruhigt es, kleine Wärmeartikel wie Handschuhe oder einen Schal dabeizuhaben."
+          ],
+          "photo": "snow",
+          "caption": "Der Gyeongbokgung im Schnee"
+        },
+        {
+          "h": "Dünne Schichten und eine warme Jacke",
+          "p": [
+            "Schon innerhalb eines Tages schwanken die Temperaturen um etwa 8 bis 10 °C. Angenehmer als ein dickes Kleidungsstück sind deshalb mehrere dünne Schichten, dazu ein warmer Mantel oder eine leichte Daunenjacke.",
+            "Gut ist Kleidung, die Sie drinnen ausziehen können; an Tagen mit Abendprogramm packen Sie auch Handschuhe ein. Richten Sie Ihre Kleidung nicht nach der Mittagszeit, sondern nach der Temperatur nach Sonnenuntergang."
+          ],
+          "photo": "layers",
+          "caption": "Spaziergänger auf einem Herbstweg"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperaturen",
+          "v": [
+            "Normalwert im November: Höchstwert 11,9 °C · Tiefstwert 3,5 °C",
+            "Normalwert in der letzten Novemberdekade: Höchstwert 9,0 °C · Tiefstwert 1,1 °C"
+          ]
+        },
+        {
+          "k": "Sonnenuntergang",
+          "v": [
+            "1. November 17:34 Uhr · 15. November 17:22 Uhr"
+          ]
+        },
+        {
+          "k": "Durchschnittliche Termine",
+          "v": [
+            "Erster Frost 28. Oktober · erstes Eis 3. November · erster Schnee 20. November"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Unter „Wetter & Kleidung“ finden Sie die stündliche Vorhersage für Seoul und Kleidung nach Jahreszeit."
+          ]
+        }
+      ],
+      "outro": "Im November wählen Sie Ihre Kleidung am besten nach den Stunden nach Sonnenuntergang statt nach dem Mittag.",
+      "sources": [
+        "Korea Meteorological Administration, Open-Data-Portal, Normalwerte (1991–2020), Seoul",
+        "Korea Meteorological Administration, Klimamerkmale der Region Seoul (abgerufen am 1. November 2026)",
+        "Korea Astronomy and Space Science Institute, Informationen zu Sonnenaufgang und Sonnenuntergang"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "es": {
+      "title": "Seúl en noviembre: 12 °C de día, 3 °C de noche y el sol se pone hacia las 17:30",
+      "summary": "Temperaturas, hora de la puesta de sol y época de la primera nevada en Seúl en noviembre según los valores normales del servicio meteorológico coreano, y la ropa que conviene meter en la maleta.",
+      "hero_caption": "El muro de piedra de Deoksugung a finales de otoño",
+      "lead": [
+        "En noviembre, con sol, Seúl se siente de día más templado de lo que parece. Pero al ponerse el sol la temperatura baja enseguida, y a finales de mes las mañanas rozan los 0 °C.",
+        "Si preparas la ropa mirando solo fotos de día, por la noche puedes pasar frío. Con los valores normales del servicio meteorológico coreano y la hora de la puesta de sol, hemos reunido las cifras que conviene conocer antes de pasear por Seúl este mes."
+      ],
+      "sections": [
+        {
+          "h": "11,9 °C de día, 3,5 °C de noche",
+          "p": [
+            "Los valores normales de Seúl en noviembre son una máxima de 11,9 °C, una mínima de 3,5 °C y una media de 7,5 °C. Son los valores normales del servicio meteorológico coreano para 1991–2020. En los mismos datos, octubre tiene una máxima de 20,2 °C y una mínima de 10,6 °C, así que las máximas bajan unos 8 °C en un solo mes.",
+            "También hay mucha diferencia dentro de noviembre. En la última decena del mes la media baja a 4,8 °C, la máxima a 9,0 °C y la mínima a 1,1 °C. Por eso la ropa que conviene llevar es algo distinta si vienes a principios de mes o a finales. El valor normal de precipitación de noviembre es de 51,1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Hojas caídas en el sendero de la muralla de Namsan"
+        },
+        {
+          "h": "El sol se pone hacia las 17:30",
+          "p": [
+            "En Seúl el sol se pone a las 17:34 el 1 de noviembre y a las 17:22 el 15. En dos semanas anochece 12 minutos antes.",
+            "Es mejor dejar para la tarde los lugares al aire libre, como los palacios, los parques y los paseos. Si organizas el día para pasar después del anochecer a un mercado o a un lugar cubierto, llevarás mejor las horas más frescas."
+          ],
+          "photo": "sunset",
+          "caption": "El sol cayendo sobre el río Han"
+        },
+        {
+          "h": "Primera helada a finales de octubre, primera nevada hacia el 20 de noviembre",
+          "p": [
+            "Según el servicio meteorológico coreano, las fechas medias en Seúl son el 28 de octubre para la primera helada, el 3 de noviembre para el primer hielo y el 20 de noviembre para la primera nevada. Son fechas medias, así que pueden variar unos días de un año a otro.",
+            "Si vienes a finales de noviembre, te quedarás más tranquilo con algo pequeño para el frío, como guantes o una bufanda."
+          ],
+          "photo": "snow",
+          "caption": "Gyeongbokgung bajo la nieve"
+        },
+        {
+          "h": "Capas finas y un abrigo que dé calor",
+          "p": [
+            "En un solo día la temperatura puede variar unos 8–10 °C. Por eso resulta más cómodo ponerse varias prendas finas y añadir un abrigo o un plumífero ligero que una sola prenda gruesa.",
+            "Conviene llevar ropa que puedas quitarte en interiores y, los días con planes de noche, meter también los guantes. La ropa se elige pensando en la temperatura después de la puesta de sol, no en la del mediodía."
+          ],
+          "photo": "layers",
+          "caption": "Personas paseando por un sendero en otoño"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperaturas",
+          "v": [
+            "Valores normales de noviembre: máxima 11,9 °C · mínima 3,5 °C",
+            "Valores normales de la última decena de noviembre: máxima 9,0 °C · mínima 1,1 °C"
+          ]
+        },
+        {
+          "k": "Puesta de sol",
+          "v": [
+            "1 de noviembre 17:34 · 15 de noviembre 17:22"
+          ]
+        },
+        {
+          "k": "Fechas medias",
+          "v": [
+            "Primera helada 28 de octubre · primer hielo 3 de noviembre · primera nevada 20 de noviembre"
+          ]
+        },
+        {
+          "k": "En Trabbit",
+          "v": [
+            "En «Clima y ropa» encontrarás la previsión por horas de Seúl y la ropa según la estación."
+          ]
+        }
+      ],
+      "outro": "En noviembre, en Seúl conviene elegir la ropa pensando en las horas después de la puesta de sol y no en el mediodía.",
+      "sources": [
+        "Korea Meteorological Administration, portal de datos abiertos, valores normales (1991–2020), Seúl",
+        "Korea Meteorological Administration, características climáticas de la región de Seúl (consultado el 1 de noviembre de 2026)",
+        "Korea Astronomy and Space Science Institute, horas de salida y puesta del sol"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "fr": {
+      "title": "Séoul en novembre : 12 °C le jour, 3 °C la nuit, et le soleil se couche vers 17:30",
+      "summary": "Les températures de Séoul en novembre, l'heure du coucher du soleil et la période de la première neige d'après les normales du service météorologique coréen, avec les vêtements à glisser dans votre valise.",
+      "hero_caption": "Le mur de pierre du Deoksugung à la fin de l'automne",
+      "lead": [
+        "En novembre, quand le soleil brille, Séoul paraît plus douce qu'on ne le croit en journée. Mais la température chute vite après le coucher du soleil, et en fin de mois les matins approchent de 0 °C.",
+        "Si vous préparez vos vêtements d'après des photos prises de jour, vous risquez d'avoir froid le soir. À partir des normales du service météorologique coréen et des heures de coucher du soleil, nous avons rassemblé les chiffres utiles à connaître avant de vous promener à Séoul ce mois-ci."
+      ],
+      "sections": [
+        {
+          "h": "11,9 °C le jour, 3,5 °C la nuit",
+          "p": [
+            "Les normales de Séoul en novembre sont de 11,9 °C pour la maximale, 3,5 °C pour la minimale et 7,5 °C en moyenne. Ce sont les normales du service météorologique coréen pour 1991–2020. Dans les mêmes données, octobre affiche une maximale de 20,2 °C et une minimale de 10,6 °C : les maximales baissent donc d'environ 8 °C en un mois.",
+            "L'écart est aussi important à l'intérieur de novembre. Dans la dernière décade, la moyenne descend à 4,8 °C, la maximale à 9,0 °C et la minimale à 1,1 °C. Les vêtements à prévoir ne sont donc pas tout à fait les mêmes si vous venez début ou fin de mois. La normale des précipitations de novembre est de 51,1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Feuilles mortes sur le chemin de la muraille du Namsan"
+        },
+        {
+          "h": "Le soleil se couche vers 17:30",
+          "p": [
+            "À Séoul, le soleil se couche à 17:34 le 1er novembre et à 17:22 le 15. En deux semaines, la nuit tombe 12 minutes plus tôt.",
+            "Mieux vaut garder l'après-midi pour les lieux en plein air, comme les palais, les parcs et les promenades. Si vous organisez votre journée pour passer à un marché ou à un lieu couvert après le coucher du soleil, les heures plus fraîches seront plus agréables."
+          ],
+          "photo": "sunset",
+          "caption": "Le soleil se couchant sur le Han"
+        },
+        {
+          "h": "Première gelée fin octobre, première neige vers le 20 novembre",
+          "p": [
+            "D'après le service météorologique coréen, les dates moyennes à Séoul sont le 28 octobre pour la première gelée, le 3 novembre pour la première glace et le 20 novembre pour la première neige. Ce sont des moyennes : les dates réelles peuvent varier de quelques jours d'une année à l'autre.",
+            "Si vous venez fin novembre, un petit équipement contre le froid, comme des gants ou une écharpe, vous rassurera."
+          ],
+          "photo": "snow",
+          "caption": "Le Gyeongbokgung sous la neige"
+        },
+        {
+          "h": "Des couches fines et un vêtement chaud",
+          "p": [
+            "Dans la même journée, l'écart de température atteint environ 8 à 10 °C. Il est donc plus confortable de superposer des couches fines et d'ajouter un manteau chaud ou une doudoune légère que de porter un seul vêtement épais.",
+            "Une tenue dont vous pouvez retirer des couches à l'intérieur est idéale, et les jours où une sortie est prévue le soir, pensez aussi aux gants. Choisissez vos vêtements en fonction de la température après le coucher du soleil, pas de celle du milieu de journée."
+          ],
+          "photo": "layers",
+          "caption": "Promeneurs sur un sentier d'automne"
+        }
+      ],
+      "box": [
+        {
+          "k": "Températures",
+          "v": [
+            "Normales de novembre : maximale 11,9 °C · minimale 3,5 °C",
+            "Normales de la dernière décade de novembre : maximale 9,0 °C · minimale 1,1 °C"
+          ]
+        },
+        {
+          "k": "Coucher du soleil",
+          "v": [
+            "1er novembre 17:34 · 15 novembre 17:22"
+          ]
+        },
+        {
+          "k": "Dates moyennes",
+          "v": [
+            "Première gelée 28 octobre · première glace 3 novembre · première neige 20 novembre"
+          ]
+        },
+        {
+          "k": "Dans Trabbit",
+          "v": [
+            "Dans « Météo et tenues », vous trouverez les prévisions horaires de Séoul et les tenues selon la saison."
+          ]
+        }
+      ],
+      "outro": "En novembre à Séoul, mieux vaut choisir ses vêtements pour les heures après le coucher du soleil que pour le milieu de journée.",
+      "sources": [
+        "Korea Meteorological Administration, portail de données ouvertes, normales (1991–2020), Séoul",
+        "Korea Meteorological Administration, caractéristiques climatiques de la région de Séoul (consulté le 1er novembre 2026)",
+        "Korea Astronomy and Space Science Institute, heures de lever et de coucher du soleil"
+      ],
+      "credit": "Photos : Korea Tourism Organization"
+    },
+    "id": {
+      "title": "November di Seoul: siang 12°C, malam 3°C — matahari terbenam sekitar pukul 17:30",
+      "summary": "Kami merangkum suhu November di Seoul berdasarkan nilai normal Badan Meteorologi Korea, waktu matahari terbenam, perkiraan waktu salju pertama, serta pakaian yang sebaiknya Anda bawa.",
+      "hero_caption": "Jalan tembok batu Istana Deoksugung di penghujung musim gugur",
+      "lead": [
+        "Pada siang hari yang cerah, Seoul di bulan November terasa lebih hangat daripada yang Anda bayangkan. Namun begitu matahari terbenam, suhu turun dengan cepat, dan menjelang akhir bulan suhu pagi hari bisa mendekati 0°C.",
+        "Jika Anda mengemas pakaian hanya berdasarkan foto siang hari, malam hari bisa terasa dingin. Berdasarkan nilai normal Badan Meteorologi Korea dan waktu matahari terbenam, kami mengumpulkan angka-angka yang baik Anda ketahui sebelum berjalan-jalan di Seoul bulan ini."
+      ],
+      "sections": [
+        {
+          "h": "Siang 11,9°C, malam 3,5°C",
+          "p": [
+            "Suhu normal November di Seoul adalah maksimum 11,9°C, minimum 3,5°C, dan rata-rata 7,5°C. Ini adalah nilai normal Badan Meteorologi Korea untuk tahun 1991 hingga 2020. Dalam data yang sama, Oktober memiliki maksimum 20,2°C dan minimum 10,6°C, sehingga suhu siang hari turun sekitar 8°C dalam sebulan.",
+            "Perbedaan di dalam bulan November itu sendiri juga besar. Pada akhir bulan, rata-ratanya turun menjadi 4,8°C, maksimum 9,0°C, dan minimum 1,1°C. Karena itu, pakaian yang perlu dibawa sedikit berbeda antara Anda yang datang di awal November dan yang datang di akhir bulan. Curah hujan normal November adalah 51,1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Jalur Tembok Benteng Namsan yang dipenuhi daun gugur"
+        },
+        {
+          "h": "Matahari terbenam sekitar pukul 17:30",
+          "p": [
+            "Waktu matahari terbenam di Seoul adalah pukul 17:34 pada 1 November dan pukul 17:22 pada 15 November. Dalam dua minggu, waktunya maju 12 menit.",
+            "Tempat-tempat yang dinikmati di luar ruangan, seperti istana, taman, dan jalan setapak, sebaiknya dijadwalkan pada sore hari. Jika Anda mengatur hari agar setelah matahari terbenam berpindah ke pasar atau tempat di dalam ruangan, jam-jam yang mulai dingin akan terasa lebih nyaman."
+          ],
+          "photo": "sunset",
+          "caption": "Matahari terbenam di balik Sungai Han"
+        },
+        {
+          "h": "Embun beku pertama akhir Oktober, salju pertama sekitar 20 November",
+          "p": [
+            "Tanggal rata-rata di Seoul menurut Badan Meteorologi Korea adalah embun beku pertama pada 28 Oktober, es pertama pada 3 November, dan salju pertama pada 20 November. Karena ini adalah tanggal rata-rata, tanggal sebenarnya bisa berbeda beberapa hari setiap tahun.",
+            "Jika Anda datang pada akhir November, akan lebih tenang jika Anda membawa perlengkapan penghangat kecil seperti sarung tangan atau syal."
+          ],
+          "photo": "snow",
+          "caption": "Istana Gyeongbokgung yang tertutup salju"
+        },
+        {
+          "h": "Kenakan pakaian tipis berlapis, plus satu mantel hangat",
+          "p": [
+            "Dalam satu hari saja, perbedaan suhunya bisa sekitar 8 sampai 10°C. Karena itu, lebih nyaman mengenakan pakaian tipis berlapis lalu menambahkan mantel hangat atau jaket bulu ringan, daripada satu pakaian yang tebal.",
+            "Pakaian yang bisa dilepas di dalam ruangan akan lebih baik, dan pada hari ketika Anda punya acara malam, bawalah juga sarung tangan. Sebaiknya pilih pakaian sesuai suhu setelah matahari terbenam, bukan suhu tengah hari."
+          ],
+          "photo": "layers",
+          "caption": "Orang berjalan di jalur musim gugur"
+        }
+      ],
+      "box": [
+        {
+          "k": "Suhu",
+          "v": [
+            "Normal November: maksimum 11,9°C · minimum 3,5°C",
+            "Normal akhir November: maksimum 9,0°C · minimum 1,1°C"
+          ]
+        },
+        {
+          "k": "Matahari terbenam",
+          "v": [
+            "1 November pukul 17:34 · 15 November pukul 17:22"
+          ]
+        },
+        {
+          "k": "Tanggal rata-rata",
+          "v": [
+            "Embun beku pertama 28 Oktober · es pertama 3 November · salju pertama 20 November"
+          ]
+        },
+        {
+          "k": "Di Trabbit",
+          "v": [
+            "Di 「Cuaca & Pakaian」, Anda dapat melihat prakiraan cuaca Seoul per jam dan pakaian sesuai musim."
+          ]
+        }
+      ],
+      "outro": "Di Seoul pada bulan November, memilih pakaian sesuai suhu setelah matahari terbenam, bukan tengah hari, akan terasa lebih nyaman.",
+      "sources": [
+        "Korea Meteorological Administration Open Data Portal, nilai normal iklim 1991–2020 (Seoul)",
+        "Korea Meteorological Administration, karakteristik iklim wilayah Seoul (diperiksa 1 November 2026)",
+        "Korea Astronomy and Space Science Institute, waktu matahari terbit dan terbenam"
+      ],
+      "credit": "Foto: Korea Tourism Organization"
+    },
+    "pt_br": {
+      "title": "Seul em novembro: 12 °C de dia, 3 °C à noite e o sol se põe por volta das 17:30",
+      "summary": "As temperaturas de Seul em novembro, o horário do pôr do sol e a época da primeira neve segundo as normais do serviço meteorológico coreano, com as roupas que valem a pena levar na mala.",
+      "hero_caption": "O muro de pedra do Deoksugung no fim do outono",
+      "lead": [
+        "Em novembro, com sol, Seul parece mais amena de dia do que se imagina. Mas, depois que o sol se põe, a temperatura cai rápido, e no fim do mês as manhãs chegam perto de 0 °C.",
+        "Se você arrumar as roupas só olhando fotos de dia, pode sentir frio à noite. Com base nas normais do serviço meteorológico coreano e nos horários do pôr do sol, reunimos os números que vale conhecer antes de passear por Seul neste mês."
+      ],
+      "sections": [
+        {
+          "h": "11,9 °C de dia, 3,5 °C à noite",
+          "p": [
+            "As normais de Seul em novembro são máxima de 11,9 °C, mínima de 3,5 °C e média de 7,5 °C. São as normais do serviço meteorológico coreano para 1991–2020. Nos mesmos dados, outubro tem máxima de 20,2 °C e mínima de 10,6 °C, ou seja, as máximas caem cerca de 8 °C em um mês.",
+            "Também há muita diferença dentro de novembro. No último decêndio do mês, a média cai para 4,8 °C, a máxima para 9,0 °C e a mínima para 1,1 °C. Por isso, as roupas a levar são um pouco diferentes para quem vem no começo e para quem vem no fim do mês. A normal de chuva de novembro é de 51,1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Folhas caídas na trilha da muralha de Namsan"
+        },
+        {
+          "h": "O sol se põe por volta das 17:30",
+          "p": [
+            "Em Seul, o sol se põe às 17:34 no dia 1º de novembro e às 17:22 no dia 15. Em duas semanas, escurece 12 minutos mais cedo.",
+            "É melhor deixar para a tarde os lugares ao ar livre, como palácios, parques e caminhadas. Se você planejar o dia para ir a um mercado ou a um lugar fechado depois que escurecer, as horas mais frias ficam mais confortáveis."
+          ],
+          "photo": "sunset",
+          "caption": "O sol se pondo sobre o rio Han"
+        },
+        {
+          "h": "Primeira geada no fim de outubro, primeira neve por volta de 20 de novembro",
+          "p": [
+            "Segundo o serviço meteorológico coreano, as datas médias em Seul são 28 de outubro para a primeira geada, 3 de novembro para o primeiro gelo e 20 de novembro para a primeira neve. São datas médias, então podem variar alguns dias de um ano para outro.",
+            "Se você vier no fim de novembro, fica mais tranquilo levando algo pequeno para o frio, como luvas ou um cachecol."
+          ],
+          "photo": "snow",
+          "caption": "O Gyeongbokgung sob a neve"
+        },
+        {
+          "h": "Camadas finas e um agasalho quente",
+          "p": [
+            "Num mesmo dia a temperatura varia cerca de 8 a 10 °C. Por isso, é mais confortável vestir camadas finas e acrescentar um casaco quente ou uma jaqueta de pluma leve do que usar uma única peça grossa.",
+            "O ideal é uma roupa que você possa tirar em lugares fechados e, nos dias com programa à noite, levar também luvas. Escolha as roupas pela temperatura depois do pôr do sol, e não pela do meio-dia."
+          ],
+          "photo": "layers",
+          "caption": "Pessoas caminhando por uma trilha no outono"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperaturas",
+          "v": [
+            "Normais de novembro: máxima 11,9 °C · mínima 3,5 °C",
+            "Normais do último decêndio de novembro: máxima 9,0 °C · mínima 1,1 °C"
+          ]
+        },
+        {
+          "k": "Pôr do sol",
+          "v": [
+            "1º de novembro 17:34 · 15 de novembro 17:22"
+          ]
+        },
+        {
+          "k": "Datas médias",
+          "v": [
+            "Primeira geada 28 de outubro · primeiro gelo 3 de novembro · primeira neve 20 de novembro"
+          ]
+        },
+        {
+          "k": "No Trabbit",
+          "v": [
+            "Em “Clima e roupas” você vê a previsão por hora de Seul e as roupas de cada estação."
+          ]
+        }
+      ],
+      "outro": "Em novembro, em Seul, é mais confortável escolher a roupa pelas horas depois do pôr do sol do que pelo meio-dia.",
+      "sources": [
+        "Korea Meteorological Administration, portal de dados abertos, normais (1991–2020), Seul",
+        "Korea Meteorological Administration, características climáticas da região de Seul (consultado em 1º de novembro de 2026)",
+        "Korea Astronomy and Space Science Institute, horários de nascer e pôr do sol"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "ru": {
+      "title": "Ноябрь в Сеуле: днём 12 °C, ночью 3 °C — солнце садится около 17:30",
+      "summary": "Мы собрали температуры сеульского ноября по климатической норме Метеорологического управления Кореи, время заката, сроки первого снега и подсказки, какую одежду стоит взять с собой.",
+      "hero_caption": "Дорожка вдоль каменной стены дворца Токсугун в конце осени",
+      "lead": [
+        "В солнечный день ноябрь в Сеуле кажется теплее, чем можно ожидать. Но после захода солнца температура быстро падает, а к концу месяца утром бывает около 0 °C.",
+        "Если собирать вещи по дневным фотографиям, вечером можно замёрзнуть. На основе климатической нормы Метеорологического управления Кореи и времени заката мы собрали цифры, которые полезно знать заранее тем, кто будет гулять по Сеулу в этом месяце."
+      ],
+      "sections": [
+        {
+          "h": "Днём 11,9 °C, ночью 3,5 °C",
+          "p": [
+            "Климатическая норма ноября в Сеуле: максимум 11,9 °C, минимум 3,5 °C, среднее 7,5 °C. Это нормы Метеорологического управления Кореи за 1991–2020 годы. По тем же данным, в октябре максимум 20,2 °C, а минимум 10,6 °C, то есть за месяц дневная температура падает примерно на 8 °C.",
+            "Внутри самого ноября разница тоже велика. В последней декаде среднее значение снижается до 4,8 °C, максимум — до 9,0 °C, минимум — до 1,1 °C. Поэтому одежда для тех, кто приезжает в начале ноября, и для тех, кто приезжает в конце, немного различается. Норма осадков за ноябрь — 51,1 мм."
+          ],
+          "photo": "temps",
+          "caption": "Тропа вдоль крепостной стены Намсан, засыпанная опавшими листьями"
+        },
+        {
+          "h": "Солнце садится около 17:30",
+          "p": [
+            "Закат в Сеуле 1 ноября — в 17:34, а 15 ноября — в 17:22. За две недели он наступает на 12 минут раньше.",
+            "Места, которые осматривают на улице, — дворцы, парки, прогулочные тропы, — лучше планировать на вторую половину дня. Если построить день так, чтобы после заката перейти на рынок или в помещение, прохладные часы пройдут комфортнее."
+          ],
+          "photo": "sunset",
+          "caption": "Закат над рекой Ханган"
+        },
+        {
+          "h": "Первый заморозок в конце октября, первый снег около 20 ноября",
+          "p": [
+            "По данным Метеорологического управления Кореи, средние даты для Сеула такие: первый заморозок — 28 октября, первый лёд — 3 ноября, первый снег — 20 ноября. Это средние даты, поэтому из года в год они могут сдвигаться на несколько дней.",
+            "Если вы приезжаете в конце ноября, будет спокойнее, если взять небольшие тёплые вещи — перчатки или шарф."
+          ],
+          "photo": "snow",
+          "caption": "Дворец Кёнбоккун под снегом"
+        },
+        {
+          "h": "Тонкие слои одежды и одна тёплая верхняя вещь",
+          "p": [
+            "Даже в течение одного дня перепад температуры составляет около 8–10 °C. Поэтому удобнее надеть несколько тонких слоёв и добавить тёплое пальто или лёгкий пуховик, чем носить одну толстую вещь.",
+            "Хорошо, если одежду можно снять в помещении, а в дни с вечерними планами возьмите и перчатки. Одежду лучше подбирать не под полуденную температуру, а под температуру после захода солнца."
+          ],
+          "photo": "layers",
+          "caption": "Человек на осенней тропе"
+        }
+      ],
+      "box": [
+        {
+          "k": "Температура",
+          "v": [
+            "Норма ноября: максимум 11,9 °C · минимум 3,5 °C",
+            "Норма конца ноября: максимум 9,0 °C · минимум 1,1 °C"
+          ]
+        },
+        {
+          "k": "Закат",
+          "v": [
+            "1 ноября в 17:34 · 15 ноября в 17:22"
+          ]
+        },
+        {
+          "k": "Средние даты",
+          "v": [
+            "Первый заморозок 28 октября · первый лёд 3 ноября · первый снег 20 ноября"
+          ]
+        },
+        {
+          "k": "В Trabbit",
+          "v": [
+            "В разделе «Погода и одежда» есть почасовой прогноз для Сеула и подсказки по одежде для каждого сезона."
+          ]
+        }
+      ],
+      "outro": "В сеульском ноябре удобнее выбирать одежду не по полудню, а по часам после захода солнца.",
+      "sources": [
+        "Korea Meteorological Administration Open Data Portal, климатические нормы 1991–2020 (Сеул)",
+        "Korea Meteorological Administration, климатические особенности региона Сеул (данные на 1 ноября 2026 г.)",
+        "Korea Astronomy and Space Science Institute, время восхода и захода солнца"
+      ],
+      "credit": "Фото: Korea Tourism Organization"
+    },
+    "th": {
+      "title": "โซลเดือนพฤศจิกายน กลางวัน 12 องศา กลางคืน 3 องศา — ดวงอาทิตย์ตกราว 17:30 น.",
+      "summary": "สรุปอุณหภูมิ เวลาพระอาทิตย์ตก ช่วงเวลาหิมะแรก และเสื้อผ้าที่ควรใส่กระเป๋าสำหรับโซลเดือนพฤศจิกายน จากค่าเฉลี่ยปกติของสำนักงานอุตุนิยมวิทยาเกาหลี",
+      "hero_caption": "ถนนกำแพงหินของพระราชวัง Deoksugung ในปลายฤดูใบไม้ร่วง",
+      "lead": [
+        "โซลในเดือนพฤศจิกายนช่วงกลางวันที่มีแดดจะรู้สึกอบอุ่นกว่าที่คิด แต่พอพระอาทิตย์ตก อุณหภูมิก็ลดลงอย่างรวดเร็ว และปลายเดือนตอนเช้าอุณหภูมิจะลดลงใกล้ 0 องศา",
+        "ถ้าเตรียมเสื้อผ้าโดยดูจากภาพถ่ายตอนกลางวันอย่างเดียว ตอนเย็นอาจรู้สึกหนาวได้ เราจึงรวบรวมตัวเลขที่ควรรู้ไว้ล่วงหน้าสำหรับผู้ที่จะเดินเที่ยวโซลในเดือนนี้ จากค่าเฉลี่ยปกติของสำนักงานอุตุนิยมวิทยาเกาหลีและเวลาพระอาทิตย์ตก"
+      ],
+      "sections": [
+        {
+          "h": "กลางวัน 11.9 องศา กลางคืน 3.5 องศา",
+          "p": [
+            "อุณหภูมิเฉลี่ยปกติของโซลในเดือนพฤศจิกายนคือสูงสุด 11.9 องศา ต่ำสุด 3.5 องศา และเฉลี่ย 7.5 องศา เป็นค่าเฉลี่ยปกติของสำนักงานอุตุนิยมวิทยาเกาหลีระหว่างปี 1991 ถึง 2020 ในข้อมูลชุดเดียวกัน เดือนตุลาคมสูงสุด 20.2 องศา ต่ำสุด 10.6 องศา นั่นคืออุณหภูมิตอนกลางวันลดลงประมาณ 8 องศาภายในหนึ่งเดือน",
+            "ในเดือนพฤศจิกายนเองก็ต่างกันมาก ช่วงปลายเดือนอุณหภูมิเฉลี่ยลดลงเหลือ 4.8 องศา สูงสุด 9.0 องศา ต่ำสุด 1.1 องศา ดังนั้นผู้ที่มาต้นเดือนกับผู้ที่มาปลายเดือนจะต้องเตรียมเสื้อผ้าต่างกันเล็กน้อย ปริมาณน้ำฝนเฉลี่ยปกติของเดือนพฤศจิกายนคือ 51.1 มม."
+          ],
+          "photo": "temps",
+          "caption": "ทางเดินกำแพงเมือง Namsan ที่มีใบไม้ร่วงทับถม"
+        },
+        {
+          "h": "พระอาทิตย์ตกราว 17:30 น.",
+          "p": [
+            "เวลาพระอาทิตย์ตกของโซลคือ 17:34 น. ในวันที่ 1 พฤศจิกายน และ 17:22 น. ในวันที่ 15 เร็วขึ้น 12 นาทีภายในครึ่งเดือน",
+            "สถานที่ที่ต้องเดินชมกลางแจ้ง เช่น พระราชวัง สวนสาธารณะ และเส้นทางเดินเล่น ควรจัดไว้ช่วงบ่าย หลังพระอาทิตย์ตกให้ย้ายไปตลาดหรือสถานที่ในร่ม วางแผนแบบนี้จะผ่านช่วงเวลาที่อากาศเริ่มหนาวได้สบายขึ้น"
+          ],
+          "photo": "sunset",
+          "caption": "พระอาทิตย์ตกดินเหนือแม่น้ำฮัน"
+        },
+        {
+          "h": "น้ำค้างแข็งแรกปลายเดือนตุลาคม หิมะแรกราววันที่ 20 พฤศจิกายน",
+          "p": [
+            "วันที่ตามค่าเฉลี่ยปกติของโซลที่สำนักงานอุตุนิยมวิทยาเกาหลีประกาศคือ น้ำค้างแข็งแรก 28 ตุลาคม น้ำแข็งแรก 3 พฤศจิกายน และหิมะแรก 20 พฤศจิกายน เป็นวันที่เฉลี่ย จึงอาจเลื่อนไปมาได้หลายวันในแต่ละปี",
+            "ถ้ามาช่วงปลายเดือนพฤศจิกายน เตรียมของกันหนาวชิ้นเล็กๆ เช่น ถุงมือหรือผ้าพันคอไว้จะอุ่นใจกว่า"
+          ],
+          "photo": "snow",
+          "caption": "พระราชวัง Gyeongbokgung ที่มีหิมะปกคลุม"
+        },
+        {
+          "h": "ใส่เสื้อบางซ้อนกันหลายชั้น แล้วเพิ่มเสื้อคลุมอุ่นๆ หนึ่งตัว",
+          "p": [
+            "ภายในวันเดียวอุณหภูมิก็ต่างกันราว 8–10 องศา ดังนั้นการใส่เสื้อบางซ้อนกันแล้วเพิ่มโค้ทอุ่นๆ หรือเสื้อดาวน์แบบบางจะสบายกว่าใส่เสื้อหนาตัวเดียว",
+            "ควรใส่ชุดที่ถอดได้เมื่ออยู่ในร่ม และถ้าวันไหนมีแผนช่วงค่ำ ให้เตรียมถุงมือไปด้วย การเลือกเสื้อผ้าควรดูตามอุณหภูมิหลังพระอาทิตย์ตก ไม่ใช่ตอนกลางวัน"
+          ],
+          "photo": "layers",
+          "caption": "คนเดินบนทางเดินเล่นฤดูใบไม้ร่วง"
+        }
+      ],
+      "box": [
+        {
+          "k": "อุณหภูมิ",
+          "v": [
+            "ค่าเฉลี่ยปกติเดือนพฤศจิกายน สูงสุด 11.9 องศา · ต่ำสุด 3.5 องศา",
+            "ค่าเฉลี่ยปกติปลายเดือนพฤศจิกายน สูงสุด 9.0 องศา · ต่ำสุด 1.1 องศา"
+          ]
+        },
+        {
+          "k": "พระอาทิตย์ตก",
+          "v": [
+            "1 พฤศจิกายน 17:34 น. · 15 พฤศจิกายน 17:22 น."
+          ]
+        },
+        {
+          "k": "วันที่ตามค่าเฉลี่ยปกติ",
+          "v": [
+            "น้ำค้างแข็งแรก 28 ตุลาคม · น้ำแข็งแรก 3 พฤศจิกายน · หิมะแรก 20 พฤศจิกายน"
+          ]
+        },
+        {
+          "k": "ใน Trabbit",
+          "v": [
+            "ที่ \"สภาพอากาศและการแต่งกาย\" ดูพยากรณ์รายชั่วโมงของโซลและการแต่งกายตามฤดูกาลได้"
+          ]
+        }
+      ],
+      "outro": "โซลเดือนพฤศจิกายน เลือกเสื้อผ้าตามอุณหภูมิหลังพระอาทิตย์ตกจะสบายกว่าเลือกตามตอนกลางวัน",
+      "sources": [
+        "Korea Meteorological Administration พอร์ทัลข้อมูลเปิดด้านอุตุนิยมวิทยา \"ค่าเฉลี่ยปกติ (1991–2020)\" โซล",
+        "Korea Meteorological Administration \"ลักษณะภูมิอากาศของพื้นที่โซล\" (ตรวจสอบเมื่อ 1 พฤศจิกายน 2026)",
+        "Korea Astronomy and Space Science Institute \"เวลาพระอาทิตย์ขึ้นและตก\""
+      ],
+      "credit": "ภาพ: Korea Tourism Organization"
+    },
+    "vi": {
+      "title": "Tháng 11 ở Seoul: ban ngày 12°C, ban đêm 3°C — mặt trời lặn khoảng 17 giờ 30",
+      "summary": "Chúng tôi tổng hợp nhiệt độ tháng 11 ở Seoul theo giá trị trung bình nhiều năm của Cơ quan Khí tượng Hàn Quốc, giờ mặt trời lặn, thời điểm có tuyết đầu mùa và những món đồ nên mang theo.",
+      "hero_caption": "Con đường bên bức tường đá của cung Deoksugung cuối thu",
+      "lead": [
+        "Vào ngày nắng, tháng 11 ở Seoul có thể ấm hơn bạn nghĩ. Nhưng khi mặt trời lặn, nhiệt độ giảm nhanh, và cuối tháng buổi sáng có thể xuống gần 0°C.",
+        "Nếu chỉ nhìn ảnh chụp ban ngày để chuẩn bị quần áo, buổi tối bạn có thể thấy lạnh. Dựa trên giá trị trung bình nhiều năm của Cơ quan Khí tượng Hàn Quốc và giờ mặt trời lặn, chúng tôi tổng hợp những con số bạn nên biết trước khi đi dạo Seoul trong tháng này."
+      ],
+      "sections": [
+        {
+          "h": "Ban ngày 11,9°C, ban đêm 3,5°C",
+          "p": [
+            "Giá trị trung bình nhiều năm của tháng 11 ở Seoul là nhiệt độ cao nhất 11,9°C, thấp nhất 3,5°C và trung bình 7,5°C. Đây là giá trị trung bình nhiều năm giai đoạn 1991–2020 của Cơ quan Khí tượng Hàn Quốc. Cũng trong số liệu này, tháng 10 có nhiệt độ cao nhất 20,2°C và thấp nhất 10,6°C, nên nhiệt độ ban ngày giảm khoảng 8°C chỉ trong một tháng.",
+            "Ngay trong tháng 11, sự chênh lệch cũng lớn. Vào hạ tuần, nhiệt độ trung bình xuống 4,8°C, cao nhất 9,0°C và thấp nhất 1,1°C. Vì vậy, quần áo cần mang của người đến đầu tháng 11 và người đến cuối tháng hơi khác nhau. Lượng mưa trung bình nhiều năm của tháng 11 là 51,1 mm."
+          ],
+          "photo": "temps",
+          "caption": "Con đường dọc tường thành Namsan phủ đầy lá rụng"
+        },
+        {
+          "h": "Mặt trời lặn khoảng 17 giờ 30",
+          "p": [
+            "Giờ mặt trời lặn ở Seoul là 17:34 vào ngày 1 tháng 11 và 17:22 vào ngày 15 tháng 11. Trong nửa tháng, mặt trời lặn sớm hơn 12 phút.",
+            "Những nơi tham quan ngoài trời như cung điện, công viên hay đường đi bộ nên xếp vào buổi chiều. Nếu bạn sắp xếp để sau khi trời tối chuyển sang chợ hoặc nơi trong nhà, những giờ se lạnh sẽ dễ chịu hơn."
+          ],
+          "photo": "sunset",
+          "caption": "Mặt trời lặn phía bên kia sông Han"
+        },
+        {
+          "h": "Sương giá đầu tiên cuối tháng 10, tuyết đầu mùa khoảng ngày 20 tháng 11",
+          "p": [
+            "Theo Cơ quan Khí tượng Hàn Quốc, các ngày trung bình nhiều năm ở Seoul là: sương giá đầu tiên ngày 28 tháng 10, băng đầu tiên ngày 3 tháng 11 và tuyết đầu mùa ngày 20 tháng 11. Đây là ngày trung bình nên mỗi năm có thể lệch vài ngày.",
+            "Nếu bạn đến vào hạ tuần tháng 11, mang theo vài món giữ ấm nhỏ như găng tay hoặc khăn quàng cổ sẽ yên tâm hơn."
+          ],
+          "photo": "snow",
+          "caption": "Cung Gyeongbokgung phủ tuyết"
+        },
+        {
+          "h": "Mặc nhiều lớp mỏng, thêm một chiếc áo khoác ấm",
+          "p": [
+            "Ngay trong một ngày, nhiệt độ cũng chênh khoảng 8–10°C. Vì vậy, mặc nhiều lớp mỏng rồi thêm áo khoác ấm hoặc áo phao nhẹ sẽ tiện hơn một chiếc áo dày.",
+            "Trang phục có thể cởi ra khi vào trong nhà là tốt nhất, và vào những ngày có lịch buổi tối, hãy mang theo cả găng tay. Bạn nên chọn quần áo theo nhiệt độ sau khi mặt trời lặn chứ không phải theo giữa trưa."
+          ],
+          "photo": "layers",
+          "caption": "Người đi dạo trên con đường mùa thu"
+        }
+      ],
+      "box": [
+        {
+          "k": "Nhiệt độ",
+          "v": [
+            "Trung bình nhiều năm tháng 11: cao nhất 11,9°C · thấp nhất 3,5°C",
+            "Trung bình nhiều năm hạ tuần tháng 11: cao nhất 9,0°C · thấp nhất 1,1°C"
+          ]
+        },
+        {
+          "k": "Mặt trời lặn",
+          "v": [
+            "Ngày 1 tháng 11 lúc 17:34 · ngày 15 tháng 11 lúc 17:22"
+          ]
+        },
+        {
+          "k": "Ngày trung bình nhiều năm",
+          "v": [
+            "Sương giá đầu tiên 28 tháng 10 · băng đầu tiên 3 tháng 11 · tuyết đầu mùa 20 tháng 11"
+          ]
+        },
+        {
+          "k": "Trong Trabbit",
+          "v": [
+            "Trong mục 「Thời tiết & Trang phục」, bạn có thể xem dự báo theo giờ của Seoul và trang phục theo từng mùa."
+          ]
+        }
+      ],
+      "outro": "Ở Seoul vào tháng 11, chọn quần áo theo giờ sau khi mặt trời lặn thay vì giữa trưa sẽ thoải mái hơn.",
+      "sources": [
+        "Korea Meteorological Administration Open Data Portal, giá trị trung bình nhiều năm 1991–2020 (Seoul)",
+        "Korea Meteorological Administration, đặc điểm khí hậu khu vực Seoul (tra cứu ngày 1 tháng 11 năm 2026)",
+        "Korea Astronomy and Space Science Institute, giờ mặt trời mọc và lặn"
+      ],
+      "credit": "Ảnh: Korea Tourism Organization"
+    },
+    "zh_cn": {
+      "title": "11月的首尔，白天12度·夜晚3度——太阳5点半左右落山",
+      "summary": "根据韩国气象厅的常年值，整理了11月首尔的气温、日落时间、初雪时间，以及行李里值得带上的衣物。",
+      "hero_caption": "深秋的德寿宫石墙路",
+      "lead": [
+        "11月的首尔，白天有阳光时会比想象中暖和。可是太阳一落山，气温很快就降下来，到了月底，清晨的气温会接近0度。",
+        "如果只看白天的照片来准备衣服，傍晚可能会觉得冷。我们根据韩国气象厅的常年值和日落时间，整理了本月要在首尔游览的朋友事先了解会有帮助的数字。"
+      ],
+      "sections": [
+        {
+          "h": "白天11.9度，夜晚3.5度",
+          "p": [
+            "首尔11月的常年气温是最高11.9度、最低3.5度、平均7.5度。这是韩国气象厅1991年至2020年的常年值。同一份资料里，10月最高20.2度、最低10.6度，也就是说一个月之内白天的气温会下降8度左右。",
+            "11月之内的差别也很大。到了下旬，平均气温降到4.8度，最高9.0度，最低1.1度。所以11月初来和月底来的朋友，要带的衣服会稍有不同。11月降水量的常年值是51.1mm。"
+          ],
+          "photo": "temps",
+          "caption": "落叶铺满的南山城郭路"
+        },
+        {
+          "h": "太阳5点30分左右落山",
+          "p": [
+            "首尔的日落时间，11月1日是17:34，15日是17:22。半个月里提早了12分钟。",
+            "宫殿、公园、散步道这类在户外游览的地方，最好安排在下午。太阳落山以后再转去市场或室内，这样一天的行程就能舒服地度过变冷的时段。"
+          ],
+          "photo": "sunset",
+          "caption": "在汉江对岸落下的夕阳"
+        },
+        {
+          "h": "初霜在10月底，初雪在11月20日左右",
+          "p": [
+            "韩国气象厅公布的首尔常年日期是：初霜10月28日、初冰11月3日、初雪11月20日。这是平均日期，每年可能会相差几天。",
+            "如果是11月下旬来，带上手套、围巾之类的小件保暖用品会更安心。"
+          ],
+          "photo": "snow",
+          "caption": "落雪的景福宫"
+        },
+        {
+          "h": "薄衣服叠穿，再加一件保暖外套",
+          "p": [
+            "一天之内的气温差也有8~10度左右。所以比起穿一件厚衣服，不如叠穿薄衣服，再加一件保暖的大衣或轻薄羽绒服，会更舒适。",
+            "最好是在室内可以脱掉的穿搭；晚上有行程的日子，也请带上手套。选衣服时，要按太阳落山之后的气温来选，而不是按正午的气温。"
+          ],
+          "photo": "layers",
+          "caption": "走在秋日散步道上的人"
+        }
+      ],
+      "box": [
+        {
+          "k": "气温",
+          "v": [
+            "11月常年最高11.9度 · 最低3.5度",
+            "11月下旬常年最高9.0度 · 最低1.1度"
+          ]
+        },
+        {
+          "k": "日落",
+          "v": [
+            "11月1日 17:34 · 11月15日 17:22"
+          ]
+        },
+        {
+          "k": "常年日期",
+          "v": [
+            "初霜10月28日 · 初冰11月3日 · 初雪11月20日"
+          ]
+        },
+        {
+          "k": "在Trabbit里",
+          "v": [
+            "在“天气与穿搭”里可以查看首尔的逐小时预报和各季节的穿搭。"
+          ]
+        }
+      ],
+      "outro": "11月的首尔，按太阳落山之后的气温来选衣服，会比按正午的气温更舒适。",
+      "sources": [
+        "韩国气象厅气象资料开放平台《常年值（1991~2020）》首尔",
+        "韩国气象厅《首尔地区气候特征》（2026年11月1日查询）",
+        "韩国天文研究院天文宇宙知识信息《日出日落时刻》"
+      ],
+      "credit": "图片：韩国观光公社"
+    },
+    "zh_tw": {
+      "title": "11月的首爾，白天12度·夜晚3度——太陽5點半左右落下",
+      "summary": "根據韓國氣象廳的平年值，整理了11月首爾的氣溫、日落時間、初雪時間，以及行李裡值得帶上的衣物。",
+      "hero_caption": "晚秋的德壽宮石牆路",
+      "lead": [
+        "11月的首爾，白天有陽光時會比想像中溫暖。可是太陽一下山，氣溫很快就降下來，到了月底，清晨的氣溫會接近0度。",
+        "如果只看白天的照片來準備衣服，傍晚可能會覺得冷。我們根據韓國氣象廳的平年值和日落時間，整理了本月要在首爾走走逛逛的朋友事先了解會有幫助的數字。"
+      ],
+      "sections": [
+        {
+          "h": "白天11.9度，夜晚3.5度",
+          "p": [
+            "首爾11月的平年氣溫是最高11.9度、最低3.5度、平均7.5度。這是韓國氣象廳1991年至2020年的平年值。同一份資料裡，10月最高20.2度、最低10.6度，也就是說一個月之內白天的氣溫會下降8度左右。",
+            "11月之內的差別也很大。到了下旬，平均氣溫降到4.8度，最高9.0度，最低1.1度。所以11月初來和月底來的朋友，要帶的衣服會稍有不同。11月降雨量的平年值是51.1mm。"
+          ],
+          "photo": "temps",
+          "caption": "落葉鋪滿的南山城郭路"
+        },
+        {
+          "h": "太陽5點30分左右下山",
+          "p": [
+            "首爾的日落時間，11月1日是17:34，15日是17:22。半個月裡提早了12分鐘。",
+            "宮殿、公園、散步道這類在戶外遊覽的地方，最好安排在下午。太陽下山以後再轉去市場或室內，這樣一天的行程就能舒服地度過變冷的時段。"
+          ],
+          "photo": "sunset",
+          "caption": "在漢江對岸落下的夕陽"
+        },
+        {
+          "h": "初霜在10月底，初雪在11月20日左右",
+          "p": [
+            "韓國氣象廳公布的首爾平年日期是：初霜10月28日、初冰11月3日、初雪11月20日。這是平均日期，每年可能會相差幾天。",
+            "如果是11月下旬來，帶上手套、圍巾之類的小件保暖用品會更安心。"
+          ],
+          "photo": "snow",
+          "caption": "落雪的景福宮"
+        },
+        {
+          "h": "薄衣服疊穿，再加一件保暖外套",
+          "p": [
+            "一天之內的氣溫差也有8~10度左右。所以比起穿一件厚衣服，不如疊穿薄衣服，再加一件保暖的大衣或輕薄羽絨外套，會更舒適。",
+            "最好是在室內可以脫掉的穿搭；晚上有行程的日子，也請帶上手套。選衣服時，要按太陽下山之後的氣溫來選，而不是按正午的氣溫。"
+          ],
+          "photo": "layers",
+          "caption": "走在秋日散步道上的人"
+        }
+      ],
+      "box": [
+        {
+          "k": "氣溫",
+          "v": [
+            "11月平年最高11.9度 · 最低3.5度",
+            "11月下旬平年最高9.0度 · 最低1.1度"
+          ]
+        },
+        {
+          "k": "日落",
+          "v": [
+            "11月1日 17:34 · 11月15日 17:22"
+          ]
+        },
+        {
+          "k": "平年日期",
+          "v": [
+            "初霜10月28日 · 初冰11月3日 · 初雪11月20日"
+          ]
+        },
+        {
+          "k": "在Trabbit裡",
+          "v": [
+            "在「天氣與穿搭」裡可以查看首爾的逐小時預報和各季節的穿搭。"
+          ]
+        }
+      ],
+      "outro": "11月的首爾，按太陽下山之後的氣溫來選衣服，會比按正午的氣溫更舒適。",
+      "sources": [
+        "韓國氣象廳氣象資料開放平台《平年值（1991~2020）》首爾",
+        "韓國氣象廳《首爾地區氣候特徵》（2026年11月1日查詢）",
+        "韓國天文研究院天文宇宙知識資訊《日出日落時刻》"
+      ],
+      "credit": "照片：韓國觀光公社"
+    }
+  }
+}
