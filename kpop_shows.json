@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261102",
+  "fetched": "20261103",
   "source": "KOPIS",
   "shows": [
     {
@@ -870,7 +870,13 @@
       "to": "2026.12.06",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304905_261030_113508.gif",
       "state": "공연예정",
-      "seats": 10000
+      "seats": 10000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015465"
+        }
+      ]
     },
     {
       "id": "PF297746",
@@ -892,7 +898,17 @@
       "to": "2026.12.06",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304945_261030_141042.png",
       "state": "공연예정",
-      "seats": 1641
+      "seats": 1641,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66599"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1767173"
+        }
+      ]
     },
     {
       "id": "PF304257",
@@ -969,7 +985,13 @@
       "to": "2026.12.13",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304665_261028_113339.gif",
       "state": "공연예정",
-      "seats": 1766
+      "seats": 1766,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015370"
+        }
+      ]
     },
     {
       "id": "PF304126",
@@ -1035,7 +1057,13 @@
       "to": "2026.12.20",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304645_261028_104244.gif",
       "state": "공연예정",
-      "seats": 15000
+      "seats": 15000,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015207"
+        }
+      ]
     },
     {
       "id": "PF304557",
@@ -1101,7 +1129,42 @@
       "to": "2026.12.23",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304794_261029_110127.jpg",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214138"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37776&menuNo=200320"
+        }
+      ]
+    },
+    {
+      "id": "PF305077",
+      "name": "하동균 단독 콘서트: AFTERGLOW",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.12.24",
+      "to": "2026.12.24",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305077_261102_135141.png",
+      "state": "공연예정",
+      "seats": 1051,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66604"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1767909"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60838"
+        }
+      ]
     },
     {
       "id": "PF304685",
@@ -1112,7 +1175,21 @@
       "to": "2026.12.24",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304685_261028_131814.gif",
       "state": "공연예정",
-      "seats": 1160
+      "seats": 1160,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "https://www.ticketlink.co.kr/product/66569"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1765962"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015488"
+        }
+      ]
     },
     {
       "id": "PF302732",
@@ -1178,7 +1255,17 @@
       "to": "2026.12.27",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304803_261029_113232.png",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214151"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37777&menuNo=200320"
+        }
+      ]
     },
     {
       "id": "PF302976",
@@ -1188,6 +1275,17 @@
       "from": "2026.12.29",
       "to": "2026.12.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302976_261012_150552.gif",
+      "state": "공연예정",
+      "seats": 1004
+    },
+    {
+      "id": "PF300883",
+      "name": "[일정변경] 윤항기 65주년 기념 헌정 공연: 여러분 덕분에 나는 행복합니다",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.12.29",
+      "to": "2026.12.29",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300883_260914_160715.gif",
       "state": "공연예정",
       "seats": 1004
     },
