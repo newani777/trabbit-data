@@ -21,7 +21,7 @@
     {
       "code": "TWD",
       "name": "Taiwan Dollar",
-      "krw": 41.12
+      "krw": 40.92
     },
     {
       "code": "HKD",
@@ -51,12 +51,12 @@
     {
       "code": "PHP",
       "name": "Philippine Peso",
-      "krw": 21.22
+      "krw": 21.12
     },
     {
       "code": "VND",
       "name": "Vietnamese Dong",
-      "krw": 0.052
+      "krw": 0.0521
     },
     {
       "code": "MYR",
@@ -91,7 +91,7 @@
     {
       "code": "INR",
       "name": "Indian Rupee",
-      "krw": 14.13
+      "krw": 14.16
     },
     {
       "code": "SAR",
@@ -105,5 +105,5 @@
     }
   ],
   "extra_source": "bok-ecos 731Y001 (재정환율)",
-  "extra_date": "20261103"
+  "extra_date": "20261104"
 }
