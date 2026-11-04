@@ -1,22 +1,22 @@
 {
-  "date": "20261103",
+  "date": "20261104",
   "source": "koreaexim",
   "note": "deal_bas_r (매매기준율). 100단위 통화는 1단위로 환산됨.",
   "rates": [
     {
       "code": "USD",
       "name": "US Dollar",
-      "krw": 1341.0
+      "krw": 1341.2
     },
     {
       "code": "JPY",
       "name": "Japanese Yen",
-      "krw": 8.4903
+      "krw": 8.4517
     },
     {
       "code": "CNH",
       "name": "Chinese Yuan",
-      "krw": 202.09
+      "krw": 201.41
     },
     {
       "code": "TWD",
@@ -26,27 +26,27 @@
     {
       "code": "HKD",
       "name": "Hong Kong Dollar",
-      "krw": 170.91
+      "krw": 170.93
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "krw": 1499.91
+      "krw": 1500.53
     },
     {
       "code": "GBP",
       "name": "British Pound",
-      "krw": 1797.41
+      "krw": 1798.55
     },
     {
       "code": "SGD",
       "name": "Singapore Dollar",
-      "krw": 1048.27
+      "krw": 1046.67
     },
     {
       "code": "THB",
       "name": "Thai Baht",
-      "krw": 39.75
+      "krw": 39.7
     },
     {
       "code": "PHP",
@@ -61,7 +61,7 @@
     {
       "code": "MYR",
       "name": "Malaysian Ringgit",
-      "krw": 329.44
+      "krw": 328.97
     },
     {
       "code": "IDR",
@@ -71,22 +71,22 @@
     {
       "code": "AUD",
       "name": "Australian Dollar",
-      "krw": 938.16
+      "krw": 933.94
     },
     {
       "code": "NZD",
       "name": "New Zealand Dollar",
-      "krw": 753.04
+      "krw": 749.06
     },
     {
       "code": "CAD",
       "name": "Canadian Dollar",
-      "krw": 958.54
+      "krw": 957.21
     },
     {
       "code": "CHF",
       "name": "Swiss Franc",
-      "krw": 1637.56
+      "krw": 1633.52
     },
     {
       "code": "INR",
@@ -96,12 +96,12 @@
     {
       "code": "SAR",
       "name": "Saudi Riyal",
-      "krw": 357.31
+      "krw": 357.33
     },
     {
       "code": "AED",
       "name": "UAE Dirham",
-      "krw": 365.12
+      "krw": 365.16
     }
   ],
   "extra_source": "bok-ecos 731Y001 (재정환율)",
