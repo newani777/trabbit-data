@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261106",
+  "fetched": "20261107",
   "source": "KOPIS",
   "shows": [
     {
@@ -189,7 +189,7 @@
       "from": "2026.11.07",
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302622_261006_171208.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 15000,
       "book": [
         {
@@ -206,7 +206,7 @@
       "from": "2026.11.07",
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301470_260921_153828.png",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 4507,
       "book": [
         {
@@ -223,7 +223,7 @@
       "from": "2026.11.07",
       "to": "2026.11.07",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301284_260918_125133.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 2036,
       "book": [
         {
@@ -1041,6 +1041,23 @@
         {
           "n": "예스24",
           "u": "https://ticket.yes24.com/Perf/59553"
+        }
+      ]
+    },
+    {
+      "id": "PF305611",
+      "name": "AxMxP CONCERT: Home Sweet Home (Mapo Winter Edition)",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.12.06",
+      "to": "2026.12.06",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305611_261106_095850.jpg",
+      "state": "공연예정",
+      "seats": 1004,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60950"
         }
       ]
     },
