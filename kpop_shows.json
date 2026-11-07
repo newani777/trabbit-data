@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261107",
+  "fetched": "20261108",
   "source": "KOPIS",
   "shows": [
     {
@@ -223,7 +223,7 @@
       "from": "2026.11.07",
       "to": "2026.11.07",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301284_260918_125133.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 2036,
       "book": [
         {
@@ -252,7 +252,7 @@
       "from": "2026.11.08",
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303780_261019_151153.png",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1641,
       "book": [
         {
@@ -269,7 +269,7 @@
       "from": "2026.11.08",
       "to": "2026.11.08",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300950_260915_110815.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1004,
       "book": [
         {
