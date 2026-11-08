@@ -3,6 +3,64 @@
   "updated": "2026-11-09",
   "issues": [
     {
+      "id": "set46_elevator_every_station",
+      "no": 31,
+      "series": "TRABBIT WEEKLY",
+      "title": "Lifts at every Seoul station",
+      "summary": "All 338 stations now have a lift route from the street to the platform.",
+      "published": "2026-11-09",
+      "footer": "Sources: Seoul Metropolitan Government · Photos: KTO",
+      "cards": [
+        {
+          "file": "set46_elevator_every_station/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 87928,
+          "alt": "Lifts at every Seoul station"
+        },
+        {
+          "file": "set46_elevator_every_station/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 105594,
+          "alt": "338 of 338"
+        },
+        {
+          "file": "set46_elevator_every_station/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 145988,
+          "alt": "Not every exit has one"
+        },
+        {
+          "file": "set46_elevator_every_station/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 120988,
+          "alt": "Pick the car near the lift"
+        },
+        {
+          "file": "set46_elevator_every_station/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 104886,
+          "alt": "Lockers fill up first"
+        },
+        {
+          "file": "set46_elevator_every_station/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 60064,
+          "alt": "Take the lift, not the stairs"
+        }
+      ],
+      "bytes_total": 625448,
+      "weekly": {
+        "no": 9,
+        "week": "Week of November 9, 2026"
+      }
+    },
+    {
       "id": "set45_suneung_day",
       "no": 30,
       "series": "TRABBIT WEEKLY",
