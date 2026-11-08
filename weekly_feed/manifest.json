@@ -3,6 +3,65 @@
   "updated": "2026-11-09",
   "issues": [
     {
+      "id": "set47_arrival_card_keta",
+      "no": 32,
+      "series": "TRABBIT WEEKLY",
+      "title": "Arrival card or K-ETA?",
+      "summary": "It depends on your passport. Here are the 2026 rules and the address box.",
+      "published": "2026-11-09",
+      "footer": "Sources: Ministry of Justice · MOFA · Photos: KTO",
+      "cards": [
+        {
+          "file": "set47_arrival_card_keta/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 117600,
+          "alt": "Arrival card or K-ETA?"
+        },
+        {
+          "file": "set47_arrival_card_keta/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 115410,
+          "alt": "Exempt until 31 Dec 2026"
+        },
+        {
+          "file": "set47_arrival_card_keta/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 117040,
+          "alt": "Thailand, Malaysia: K-ETA needed"
+        },
+        {
+          "file": "set47_arrival_card_keta/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 127840,
+          "alt": "Free, from 3 days before"
+        },
+        {
+          "file": "set47_arrival_card_keta/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 122228,
+          "alt": "Your first place to stay"
+        },
+        {
+          "file": "set47_arrival_card_keta/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 59086,
+          "alt": "Sort it before the airport"
+        }
+      ],
+      "bytes_total": 659204,
+      "weekly": {
+        "no": 9,
+        "week": "Week of November 9, 2026"
+      },
+      "ends": "2026-12-31"
+    },
+    {
       "id": "set46_elevator_every_station",
       "no": 31,
       "series": "TRABBIT WEEKLY",
