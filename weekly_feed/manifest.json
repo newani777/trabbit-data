@@ -1,7 +1,66 @@
 {
   "version": 1,
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "issues": [
+    {
+      "id": "set45_suneung_day",
+      "no": 30,
+      "series": "TRABBIT WEEKLY",
+      "title": "The day Korea holds its breath",
+      "summary": "On exam day for over 550,000 students, flights pause, offices open late and the country goes quiet.",
+      "published": "2026-11-09",
+      "footer": "Sources: MOE · Photos: KTO",
+      "cards": [
+        {
+          "file": "set45_suneung_day/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 150950,
+          "alt": "The day Korea holds its breath"
+        },
+        {
+          "file": "set45_suneung_day/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 128394,
+          "alt": "Flights pause for the listening test"
+        },
+        {
+          "file": "set45_suneung_day/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 74544,
+          "alt": "Offices open at 10"
+        },
+        {
+          "file": "set45_suneung_day/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 126180,
+          "alt": "Quiet near schools"
+        },
+        {
+          "file": "set45_suneung_day/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 141914,
+          "alt": "Extra trains from 6 to 8:10"
+        },
+        {
+          "file": "set45_suneung_day/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 52736,
+          "alt": "Plan around 1pm"
+        }
+      ],
+      "bytes_total": 674718,
+      "weekly": {
+        "no": 9,
+        "week": "Week of November 9, 2026"
+      },
+      "ends": "2026-11-19"
+    },
     {
       "id": "set44_eating_alone",
       "no": 29,
@@ -409,64 +468,6 @@
         "week": "Week of October 19, 2026"
       },
       "ends": "2026-11-15"
-    },
-    {
-      "id": "set35_huam_walk",
-      "no": 20,
-      "series": "TRABBIT WEEKLY",
-      "title": "Old houses below Namsan",
-      "summary": "Huam-dong sits between Sookmyung Women's Univ. Station and Namsan. Right next to the tourist trail, and almost no tourists.",
-      "published": "2026-10-12",
-      "footer": "Sources: Seoul City · Photos: D. Sun Beams (CC BY 2.0), KTO",
-      "cards": [
-        {
-          "file": "set35_huam_walk/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 224654,
-          "alt": "Old houses below Namsan"
-        },
-        {
-          "file": "set35_huam_walk/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 277134,
-          "alt": "A name returned"
-        },
-        {
-          "file": "set35_huam_walk/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 34000,
-          "alt": "'Culture houses'"
-        },
-        {
-          "file": "set35_huam_walk/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 184410,
-          "alt": "Line 4 to Line 4"
-        },
-        {
-          "file": "set35_huam_walk/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 211294,
-          "alt": "People live here"
-        },
-        {
-          "file": "set35_huam_walk/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 54714,
-          "alt": "Walk it slowly"
-        }
-      ],
-      "bytes_total": 986206,
-      "weekly": {
-        "no": 5,
-        "week": "Week of October 12, 2026"
-      }
     }
   ]
 }
