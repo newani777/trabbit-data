@@ -2,6 +2,51 @@
   "version": 1,
   "articles": [
     {
+      "id": "2026-11-09_suneung_day",
+      "no": 4,
+      "kind": "seasonal",
+      "published": "2026-11-09",
+      "week": "2026-11-09",
+      "fresh_until": "2026-11-19",
+      "issue_id": "set45_suneung_day",
+      "hero": {
+        "file": "hero.webp",
+        "w": 1080,
+        "h": 720
+      },
+      "title": {
+        "ko": "11월 19일 수능날, 오후 1시 10분부터 25분은 비행기도 시간을 조정해요",
+        "en": "Exam day on 19 November: flights are rescheduled for 25 minutes from 13:10",
+        "ja": "11月19日は修能（スヌン）の日、13時10分からの25分間は飛行機の離着陸も時間を調整します",
+        "de": "Prüfungstag am 19. November: Ab 13:10 Uhr werden Flüge für 25 Minuten angepasst",
+        "es": "Día del examen, 19 de noviembre: desde las 13:10 se ajustan los vuelos durante 25 minutos",
+        "fr": "Jour de l'examen, le 19 novembre : à partir de 13 h 10, les vols sont ajustés pendant 25 minutes",
+        "id": "Hari Suneung 19 November: pukul 13:10 selama 25 menit, jadwal pesawat pun disesuaikan",
+        "pt_br": "Dia do exame, 19 de novembro: a partir das 13h10, os voos são ajustados por 25 minutos",
+        "ru": "19 ноября, день Сунын: с 13:10 на 25 минут корректируется расписание самолётов",
+        "th": "วันสอบซูนึง 19 พฤศจิกายน ช่วง 13:10 นาน 25 นาที เครื่องบินก็ปรับเวลาขึ้นลงด้วย",
+        "vi": "Ngày thi Suneung 19/11: từ 13:10 trong 25 phút, lịch máy bay cũng được điều chỉnh",
+        "zh_cn": "11月19日韩国修能考试日，13:10起的25分钟连飞机起降也要调整时间",
+        "zh_tw": "11月19日大學修學能力考試（修能）日，13:10起的25分鐘連飛機起降也要調整時間"
+      },
+      "summary": {
+        "ko": "한국 대학 입학시험인 수능 날에 여행자가 알아 두면 좋은 것들: 항공기 이착륙 조정, 늦춰지는 출근, 시험장 주변 통제, 아침 지하철 증회.",
+        "en": "What travelers should know about Korea's university entrance exam day: rescheduled flights, later office hours, closed streets near exam halls and extra morning trains.",
+        "ja": "韓国の大学入試「修能（スヌン）」の日に旅行者が知っておくと役立つこと：航空機の離着陸の調整、遅くなる出勤時間、試験会場周辺の交通規制、朝の地下鉄の増発。",
+        "de": "Was Reisende am Tag der koreanischen Hochschulzugangsprüfung wissen sollten: angepasste Flugzeiten, späterer Arbeitsbeginn, gesperrte Straßen rund um die Prüfungsorte und zusätzliche Fahrten der U-Bahn am Morgen.",
+        "es": "Lo que conviene saber al viajar el día del examen de acceso a la universidad en Corea: vuelos reprogramados, entrada al trabajo más tarde, calles cortadas cerca de los centros de examen y más metros por la mañana.",
+        "fr": "Ce que les voyageurs doivent savoir le jour de l'examen d'entrée à l'université en Corée : vols reprogrammés, prise de poste plus tardive, rues fermées près des centres d'examen et métros supplémentaires le matin.",
+        "id": "Hal yang baik diketahui wisatawan pada hari Suneung, ujian masuk universitas nasional Korea: penyesuaian lepas landas dan pendaratan pesawat, jam masuk kerja yang mundur, pembatasan jalan di sekitar lokasi ujian, dan penambahan kereta bawah tanah di pagi hari.",
+        "pt_br": "O que os viajantes devem saber no dia do vestibular nacional da Coreia: voos reprogramados, entrada no trabalho mais tarde, ruas fechadas perto dos locais de prova e mais trens de metrô pela manhã.",
+        "ru": "Что полезно знать путешественнику в день Сунын, вступительного экзамена в университеты Кореи: корректировка взлётов и посадок, более поздний выход на работу, ограничения движения у экзаменационных пунктов и дополнительные утренние поезда метро.",
+        "th": "สิ่งที่นักท่องเที่ยวควรรู้ในวันสอบซูนึง (การสอบเข้ามหาวิทยาลัยของเกาหลี): การปรับเวลาขึ้นลงของเครื่องบิน เวลาเข้างานที่เลื่อนออกไป การควบคุมการจราจรรอบสนามสอบ และรถไฟใต้ดินที่เพิ่มเที่ยวช่วงเช้า",
+        "vi": "Những điều du khách nên biết vào ngày thi Suneung, kỳ thi đại học quốc gia của Hàn Quốc: điều chỉnh giờ máy bay cất và hạ cánh, giờ đi làm lùi muộn, hạn chế xe quanh điểm thi và tăng chuyến tàu điện ngầm buổi sáng.",
+        "zh_cn": "韩国大学入学考试“大学修学能力考试（修能）”当天，旅行者值得提前了解的事：航班起降调整、延后上班、考场周边管制、早高峰地铁加开班次。",
+        "zh_tw": "韓國大學入學考試「大學修學能力考試（修能）」當天，旅客值得事先了解的事：航班起降調整、延後上班、考場周邊管制、早晨地鐵加開班次。"
+      },
+      "bytes": 400972
+    },
+    {
       "id": "2026-11-02_november_seoul",
       "no": 3,
       "kind": "seasonal",
@@ -137,5 +182,5 @@
       "bytes": 928745
     }
   ],
-  "updated": "2026-11-02"
+  "updated": "2026-11-09"
 }

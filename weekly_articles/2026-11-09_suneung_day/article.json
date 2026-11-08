@@ -1,0 +1,1171 @@
+{
+  "id": "2026-11-09_suneung_day",
+  "no": 4,
+  "kind": "seasonal",
+  "published": "2026-11-09",
+  "week": "2026-11-09",
+  "fresh_until": "2026-11-19",
+  "issue_id": "set45_suneung_day",
+  "photos": {
+    "hero": {
+      "file": "hero.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "flights": {
+      "file": "flights.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "offices": {
+      "file": "offices.webp",
+      "w": 900,
+      "h": 600,
+      "credit": "kto"
+    },
+    "streets": {
+      "file": "streets.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "transit": {
+      "file": "transit.webp",
+      "w": 1080,
+      "h": 721,
+      "credit": "kto"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973935",
+      "date": "2026-11-08"
+    },
+    {
+      "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156752001",
+      "date": "2026-10-12"
+    }
+  ],
+  "langs": {
+    "ko": {
+      "title": "11월 19일 수능날, 오후 1시 10분부터 25분은 비행기도 시간을 조정해요",
+      "summary": "한국 대학 입학시험인 수능 날에 여행자가 알아 두면 좋은 것들: 항공기 이착륙 조정, 늦춰지는 출근, 시험장 주변 통제, 아침 지하철 증회.",
+      "hero_caption": "아침 햇살이 드는 서울의 지하철역 계단",
+      "lead": [
+        "11월 19일 목요일은 한국의 대학수학능력시험, 줄여서 수능 날이에요. 고등학교를 마치는 학생들이 대학에 가기 위해 치르는 시험으로, 올해는 55만 1,864명이 지원했어요. 이날 하루는 나라 전체가 수험생에게 맞춰 조금씩 속도를 늦춰요.",
+        "여행자에게도 영향이 있어요. 비행기 이착륙 시간이 조정되고, 출근 시간이 늦춰지고, 시험장 근처 길에는 차가 들어가지 못해요. 그 주에 한국에 있다면 교육부가 10월 20일 국무회의에 보고한 올해 대책을 바탕으로 하루를 미리 짜 보세요."
+      ],
+      "sections": [
+        {
+          "h": "영어 듣기 25분, 비행기 이착륙을 조정해요",
+          "p": [
+            "3교시 영어 듣기평가가 열리는 오후 1시 10분부터 1시 35분까지 25분 동안, 전국에서 항공기와 헬리콥터의 이착륙 시간을 조정해요. 포 사격이나 전차 이동처럼 소음이 나는 군사훈련도 이 시간에는 잠시 멈춰요. 듣기평가는 스피커로 나오는 영어를 듣고 푸는 시험이라 작은 소음도 피하려는 거예요.",
+            "이날 오후 1시 전후에 출발하거나 도착하는 비행기를 탄다면 항공사에서 시간을 한 번 더 확인해 두세요. 예약한 시각이 그대로인지, 바뀌었다면 공항에 언제까지 가야 하는지 미리 알아 두면 마음이 편해요. 공항으로 가는 시간도 평소보다 넉넉히 잡는 편이 좋아요."
+          ],
+          "photo": "flights",
+          "caption": "인천국제공항"
+        },
+        {
+          "h": "출근은 오전 10시 이후로",
+          "p": [
+            "정부는 수험생이 시험장에 늦지 않도록 관공서와 기업체에 출근 시간을 오전 10시 이후로 늦춰 달라고 요청해요. 의무는 아니어서 평소처럼 문을 여는 회사와 가게도 있어요.",
+            "그래서 이른 아침은 평소보다 조용하고, 10시 무렵부터 출근길이 붐빌 수 있어요. 아침 일찍 궁궐이나 시장에 가려고 지하철을 탄다면 오히려 한산하게 움직일 수 있지만, 9시 반에서 10시 사이 출발이라면 사람이 몰리는 시간과 겹칠 수 있어요. 공항이나 기차역으로 가는 날이라면 이 흐름을 기억해 두면 좋아요."
+          ],
+          "photo": "offices",
+          "caption": "지하철 개찰구"
+        },
+        {
+          "h": "시험장 200m 앞부터 차가 못 들어가요",
+          "p": [
+            "수능 당일에는 시험장 200m 앞부터 차량 출입이 통제돼요. 시험장으로 쓰이는 학교가 전국 85개 시험지구에 1,312곳이라, 서울 시내 숙소 근처에도 시험장이 있을 수 있어요. 그렇다면 택시가 교문 앞까지 가지 못하고 조금 떨어진 곳에 내려 줄 수 있어요.",
+            "시험장 주변을 지나는 버스와 열차는 천천히 다니고 경적을 자제해 달라는 요청을 받아요. 공사장과 행사장에도 소음을 줄여 달라는 당부가 나가요. 근처를 걸을 때도 목소리를 조금 낮춰 주면 좋아요."
+          ],
+          "photo": "streets",
+          "caption": "서울의 학교 앞 거리"
+        },
+        {
+          "h": "아침 6시부터 8시 10분까지 지하철 증회",
+          "p": [
+            "수험생이 이동하는 오전 6시부터 8시 10분까지 수도권 지하철 운행이 늘어나요. 경찰서 등 행정기관의 비상 수송차량도 수험생이 다니는 길에 배치돼요. 교복을 입은 학생과 응원하러 나온 가족이 많은 역도 있으니, 큰 짐을 들고 탈 때는 조금 여유를 두세요.",
+            "시험은 일반 수험생 기준으로 오전 8시 40분에 시작해 오후 5시 45분에 끝나요. 시험이 끝나는 저녁 무렵부터는 시험을 마친 학생들로 거리가 다시 붐벼요. 저녁 약속이 있다면 번화가 식당은 평소보다 사람이 많을 수 있다고 생각해 두면 좋아요."
+          ],
+          "photo": "transit",
+          "caption": "한강을 건너는 지하철"
+        }
+      ],
+      "box": [
+        {
+          "k": "언제",
+          "v": [
+            "2026년 11월 19일(목) · 시험 08:40~17:45(일반 수험생)"
+          ]
+        },
+        {
+          "k": "비행기",
+          "v": [
+            "13:10~13:35 전국 항공기·헬기 이착륙 시간 조정"
+          ]
+        },
+        {
+          "k": "출근·교통",
+          "v": [
+            "관공서·기업 10시 이후 출근 요청(의무 아님)",
+            "수도권 지하철 06:00~08:10 증회"
+          ]
+        },
+        {
+          "k": "시험장 주변",
+          "v": [
+            "200m 앞부터 차량 출입 통제 · 버스·열차 서행, 경적 자제"
+          ]
+        },
+        {
+          "k": "트래빗에서",
+          "v": [
+            "「지하철 노선도」와 「공항 도착」 안내로 그날 이동을 미리 짜 보세요. 둘 다 무료예요."
+          ]
+        }
+      ],
+      "outro": "수능날 여행은 오후 1시 무렵의 비행기와 아침 10시의 출근길만 기억해 두면 편해요.",
+      "sources": [
+        "교육부 「2027학년도 대학수학능력시험 당일 안정적 시험 시행을 위한 지원대책」(2026년 10월 20일 국무회의 보고, 대한민국 정책브리핑, 2026년 11월 8일 확인)",
+        "한국교육과정평가원 「2027학년도 대학수학능력시험 시행 기본계획」(2026년 3월 31일)"
+      ],
+      "credit": "사진: 한국관광공사"
+    },
+    "en": {
+      "title": "Exam day on 19 November: flights are rescheduled for 25 minutes from 13:10",
+      "summary": "What travelers should know about Korea's university entrance exam day: rescheduled flights, later office hours, closed streets near exam halls and extra morning trains.",
+      "hero_caption": "Morning light on a Seoul subway station stairway",
+      "lead": [
+        "Thursday 19 November is the day of Korea's College Scholastic Ability Test, the national university entrance exam known as the Suneung. It's the exam students take to get into university as they finish high school, and 551,864 people applied this year. For one day, the whole country slows down a little for them.",
+        "It affects travelers too. Flight times are adjusted, offices open late and cars can't drive up to exam halls. If you're in Korea that week, here's how to plan the day, based on this year's measures that the Ministry of Education reported to the Cabinet on 20 October."
+      ],
+      "sections": [
+        {
+          "h": "A 25-minute adjustment for the English listening test",
+          "p": [
+            "From 13:10 to 13:35, while the English listening test runs in the third period, takeoffs and landings of planes and helicopters across Korea are rescheduled. Noisy military training such as artillery fire and tank movements also stops for those minutes. Students listen to English through loudspeakers, so even small noises are kept away.",
+            "If your flight leaves or lands around 1 pm that day, check the time with your airline once more. It helps to know whether your booked time stays the same and, if it changes, when you need to be at the airport. It's also worth giving yourself more time than usual to get there."
+          ],
+          "photo": "flights",
+          "caption": "Incheon International Airport"
+        },
+        {
+          "h": "Offices start after 10 am",
+          "p": [
+            "So that students reach their exam halls on time, the government asks public offices and companies to start work after 10 am. It's a request, not a rule, so some companies and shops open as usual.",
+            "That makes the early morning quieter than usual, and the commute can get busy from around 10. If you take the subway early to a palace or market, you may find it calm, but leaving between 9:30 and 10 can put you in the middle of the rush. Keep this in mind on a day you're heading to the airport or a train station."
+          ],
+          "photo": "offices",
+          "caption": "Subway ticket gates"
+        },
+        {
+          "h": "No cars within 200 m of exam halls",
+          "p": [
+            "On exam day, cars can't enter the last 200 m before an exam hall. There are 1,312 exam halls in 85 districts across the country, and they're held in schools, so there may be one near your hotel in Seoul. If so, a taxi may have to drop you a little way from the gate.",
+            "Buses and trains passing exam halls are asked to slow down and avoid honking, and construction sites and event venues are asked to keep noise down. If you're walking nearby, keeping your voice down a little is appreciated."
+          ],
+          "photo": "streets",
+          "caption": "A street outside a school in Seoul"
+        },
+        {
+          "h": "Extra subway trains from 6:00 to 8:10",
+          "p": [
+            "Subways around Seoul run more often from 06:00 to 08:10, when students are on the move. Emergency vehicles from police stations and other public offices are also placed along students' routes. Some stations are full of students in uniform and families seeing them off, so give yourself a little extra time if you're carrying a big bag.",
+            "For most students the exam starts at 08:40 and ends at 17:45. From the evening, the streets fill again with students who have just finished. If you have dinner plans, restaurants in busy areas may be more crowded than usual."
+          ],
+          "photo": "transit",
+          "caption": "A subway train crossing the Han River"
+        }
+      ],
+      "box": [
+        {
+          "k": "When",
+          "v": [
+            "Thursday 19 November 2026 · exam 08:40–17:45 (most students)"
+          ]
+        },
+        {
+          "k": "Flights",
+          "v": [
+            "13:10–13:35 takeoffs and landings rescheduled nationwide"
+          ]
+        },
+        {
+          "k": "Commute and transit",
+          "v": [
+            "Offices and companies asked to start after 10 am (not mandatory)",
+            "Extra subway trains around Seoul 06:00–08:10"
+          ]
+        },
+        {
+          "k": "Near exam halls",
+          "v": [
+            "No cars within 200 m · buses and trains slow down and avoid honking"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Plan the day's travel with the Subway Map and the Airport Arrival guide. Both are free."
+          ]
+        }
+      ],
+      "outro": "On exam day, it's easiest to plan around flights near 1 pm and the 10 am commute.",
+      "sources": [
+        "Ministry of Education, support plan for the 2027 College Scholastic Ability Test day (reported to the Cabinet on 20 October 2026, Korea.kr, checked 8 November 2026)",
+        "Korea Institute for Curriculum and Evaluation, 2027 CSAT basic plan (31 March 2026)"
+      ],
+      "credit": "Photos: Korea Tourism Organization"
+    },
+    "ja": {
+      "title": "11月19日は修能（スヌン）の日、13時10分からの25分間は飛行機の離着陸も時間を調整します",
+      "summary": "韓国の大学入試「修能（スヌン）」の日に旅行者が知っておくと役立つこと：航空機の離着陸の調整、遅くなる出勤時間、試験会場周辺の交通規制、朝の地下鉄の増発。",
+      "hero_caption": "朝の光が差し込むソウルの地下鉄駅の階段",
+      "lead": [
+        "11月19日（木）は、韓国の大学修学能力試験、略して「修能（スヌン）」の日です。高校を卒業する学生が大学に進むために受ける試験で、今年は55万1,864人が出願しました。この日は国全体が受験生に合わせて、少しずつペースを落とします。",
+        "旅行者にも影響があります。飛行機の離着陸時間が調整され、出勤時間が遅くなり、試験会場の近くの道には車が入れません。その週に韓国にいらっしゃる方は、教育部が10月20日の閣議に報告した今年の対策をもとに、1日の予定をあらかじめ立ててみてください。"
+      ],
+      "sections": [
+        {
+          "h": "英語リスニングの25分間、飛行機の離着陸を調整します",
+          "p": [
+            "3時限目の英語リスニング試験が行われる13時10分から13時35分までの25分間、全国で航空機とヘリコプターの離着陸時間を調整します。砲撃や戦車の移動など、騒音の出る軍事訓練もこの時間は一時止まります。リスニング試験はスピーカーから流れる英語を聞いて解く試験のため、小さな騒音も避けようとしているのです。",
+            "この日の13時前後に出発または到着する飛行機にご搭乗の場合は、航空会社でもう一度時間をご確認ください。予約した時刻が変わらないか、変わった場合は空港に何時までに着けばよいかを前もって知っておくと安心です。空港へ向かう時間も、普段より余裕をもって見ておくとよいでしょう。"
+          ],
+          "photo": "flights",
+          "caption": "仁川国際空港"
+        },
+        {
+          "h": "出勤は午前10時以降に",
+          "p": [
+            "政府は、受験生が試験会場に遅れないよう、官公庁や企業に出勤時間を午前10時以降に遅らせるよう求めています。義務ではないため、普段どおり開く会社やお店もあります。",
+            "そのため早朝は普段より静かで、10時ごろから通勤ラッシュになることがあります。朝早く宮殿や市場へ行くために地下鉄に乗るなら、むしろ空いている中で移動できますが、9時30分から10時の間に出発すると、人が集中する時間と重なるかもしれません。空港や鉄道駅へ向かう日は、この流れを覚えておくと役立ちます。"
+          ],
+          "photo": "offices",
+          "caption": "地下鉄の改札口"
+        },
+        {
+          "h": "試験会場の200m手前から車は入れません",
+          "p": [
+            "修能当日は、試験会場の200m手前から車両の進入が規制されます。試験会場になる学校は全国85の試験地区に1,312か所あるため、ソウル市内の宿泊先の近くにも会場があるかもしれません。その場合、タクシーは校門の前まで行けず、少し離れた場所で降ろされることがあります。",
+            "試験会場の周辺を通るバスや列車は、ゆっくり走り、クラクションを控えるよう求められています。工事現場やイベント会場にも、騒音を減らすようお願いが出されます。近くを歩くときは、声を少し小さめにしていただけるとありがたいです。"
+          ],
+          "photo": "streets",
+          "caption": "ソウルの学校前の通り"
+        },
+        {
+          "h": "朝6時から8時10分まで地下鉄を増発",
+          "p": [
+            "受験生が移動する午前6時から8時10分まで、首都圏の地下鉄の運行が増えます。警察署など行政機関の緊急輸送車両も、受験生が通る道に配置されます。制服姿の学生や、応援に来た家族でにぎわう駅もありますので、大きな荷物を持って乗るときは少し余裕をもってください。",
+            "試験は、一般の受験生の場合、午前8時40分に始まり午後5時45分に終わります。試験が終わる夕方からは、試験を終えた学生たちで街が再びにぎわいます。夕食のご予定がある方は、繁華街の飲食店が普段より混み合うかもしれないと考えておくとよいでしょう。"
+          ],
+          "photo": "transit",
+          "caption": "漢江を渡る地下鉄"
+        }
+      ],
+      "box": [
+        {
+          "k": "日時",
+          "v": [
+            "2026年11月19日（木）・試験 08:40～17:45（一般の受験生）"
+          ]
+        },
+        {
+          "k": "飛行機",
+          "v": [
+            "13:10～13:35 全国で航空機・ヘリコプターの離着陸時間を調整"
+          ]
+        },
+        {
+          "k": "出勤・交通",
+          "v": [
+            "官公庁・企業に10時以降の出勤を要請（義務ではありません）",
+            "首都圏の地下鉄 06:00～08:10 増発"
+          ]
+        },
+        {
+          "k": "試験会場周辺",
+          "v": [
+            "200m手前から車両の進入を規制・バスと列車は徐行、クラクションを控える"
+          ]
+        },
+        {
+          "k": "トラビットで",
+          "v": [
+            "「地下鉄路線図」と「空港到着」の案内で、その日の移動をあらかじめ組んでみてください。どちらも無料です。"
+          ]
+        }
+      ],
+      "outro": "修能の日の旅行は、13時ごろの飛行機と、朝10時の通勤時間だけ覚えておくと楽になります。",
+      "sources": [
+        "教育部「2027学年度大学修学能力試験 当日の安定的な試験実施のための支援対策」（2026年10月20日 閣議報告、大韓民国政策ブリーフィング、2026年11月8日確認）",
+        "韓国教育課程評価院「2027学年度大学修学能力試験 施行基本計画」（2026年3月31日）"
+      ],
+      "credit": "写真：韓国観光公社"
+    },
+    "de": {
+      "title": "Prüfungstag am 19. November: Ab 13:10 Uhr werden Flüge für 25 Minuten angepasst",
+      "summary": "Was Reisende am Tag der koreanischen Hochschulzugangsprüfung wissen sollten: angepasste Flugzeiten, späterer Arbeitsbeginn, gesperrte Straßen rund um die Prüfungsorte und zusätzliche Fahrten der U-Bahn am Morgen.",
+      "hero_caption": "Treppe einer Seouler U-Bahn-Station im Morgenlicht",
+      "lead": [
+        "Donnerstag, der 19. November, ist der Tag des Suneung, der landesweiten Hochschulzugangsprüfung Koreas (offiziell College Scholastic Ability Test). Schülerinnen und Schüler, die die Oberschule abschließen, legen sie ab, um an eine Universität zu kommen. In diesem Jahr haben sich 551.864 Personen angemeldet. Für diesen einen Tag stellt sich das ganze Land ein Stück weit auf die Prüflinge ein.",
+        "Auch Reisende spüren das. Start- und Landezeiten von Flugzeugen werden angepasst, der Arbeitsbeginn verschiebt sich, und rund um die Prüfungsorte dürfen keine Autos fahren. Wenn Sie in dieser Woche in Korea sind, können Sie Ihren Tag vorab planen, auf Grundlage der diesjährigen Maßnahmen, die das Bildungsministerium am 20. Oktober dem Kabinett vorgelegt hat."
+      ],
+      "sections": [
+        {
+          "h": "25 Minuten Englisch-Hörverstehen: Flugzeiten werden angepasst",
+          "p": [
+            "Von 13:10 bis 13:35 Uhr, während in der dritten Prüfungsstunde der Englisch-Hörtest läuft, werden landesweit die Start- und Landezeiten von Flugzeugen und Hubschraubern angepasst. Auch lautes Militärtraining wie Artillerieschießen oder Panzerbewegungen pausiert in dieser Zeit. Beim Hörtest hören die Prüflinge Englisch über Lautsprecher, deshalb sollen selbst kleine Geräusche vermieden werden.",
+            "Wenn Ihr Flug an diesem Tag gegen 13 Uhr startet oder landet, prüfen Sie die Zeit bitte noch einmal bei Ihrer Fluggesellschaft. Es beruhigt, vorab zu wissen, ob die gebuchte Zeit gleich bleibt und, falls nicht, bis wann Sie am Flughafen sein müssen. Planen Sie für den Weg zum Flughafen am besten auch mehr Zeit als sonst ein."
+          ],
+          "photo": "flights",
+          "caption": "Internationaler Flughafen Incheon"
+        },
+        {
+          "h": "Arbeitsbeginn erst nach 10 Uhr",
+          "p": [
+            "Damit die Prüflinge rechtzeitig am Prüfungsort ankommen, bittet die Regierung Behörden und Unternehmen, den Arbeitsbeginn auf nach 10 Uhr zu verschieben. Das ist keine Pflicht, daher öffnen manche Firmen und Geschäfte wie gewohnt.",
+            "Deshalb ist es am frühen Morgen ruhiger als sonst, und ab etwa 10 Uhr kann der Berufsverkehr voll werden. Wenn Sie früh mit der U-Bahn zu einem Palast oder Markt fahren, sind Sie eher in Ruhe unterwegs; starten Sie aber zwischen 9:30 und 10 Uhr, kann es mit dem Andrang zusammenfallen. Behalten Sie das im Kopf, wenn Sie an diesem Tag zum Flughafen oder Bahnhof fahren."
+          ],
+          "photo": "offices",
+          "caption": "Sperren einer U-Bahn-Station"
+        },
+        {
+          "h": "Ab 200 m vor dem Prüfungsort dürfen keine Autos fahren",
+          "p": [
+            "Am Prüfungstag wird die Zufahrt für Fahrzeuge ab 200 m vor dem Prüfungsort gesperrt. Da Schulen als Prüfungsorte dienen, 1.312 an der Zahl in 85 Prüfungsbezirken im ganzen Land, kann sich auch in der Nähe Ihrer Unterkunft in Seoul ein Prüfungsort befinden. Dann kann es sein, dass das Taxi nicht bis zum Schultor fährt und Sie etwas entfernt absetzt.",
+            "Busse und Züge, die an Prüfungsorten vorbeifahren, werden gebeten, langsam zu fahren und nicht zu hupen. Auch Baustellen und Veranstaltungsorte werden gebeten, den Lärm zu verringern. Wenn Sie in der Nähe zu Fuß unterwegs sind, ist es schön, wenn Sie Ihre Stimme ein wenig senken."
+          ],
+          "photo": "streets",
+          "caption": "Eine Straße vor einer Schule in Seoul"
+        },
+        {
+          "h": "Zusätzliche U-Bahn-Fahrten von 6:00 bis 8:10 Uhr",
+          "p": [
+            "Von 6:00 bis 8:10 Uhr, wenn die Prüflinge unterwegs sind, fährt die U-Bahn im Großraum Seoul häufiger. Auch Notfall-Transportfahrzeuge von Polizeiwachen und anderen Behörden stehen entlang der Wege der Prüflinge bereit. An manchen Stationen sind viele Jugendliche in Schuluniform und Familien, die sie verabschieden; wenn Sie mit großem Gepäck fahren, planen Sie deshalb etwas mehr Zeit ein.",
+            "Für die meisten Prüflinge beginnt die Prüfung um 8:40 Uhr und endet um 17:45 Uhr. Ab dem Abend füllen sich die Straßen wieder mit Schülerinnen und Schülern, die ihre Prüfung hinter sich haben. Wenn Sie abends verabredet sind, rechnen Sie damit, dass Restaurants in belebten Vierteln voller sein können als sonst."
+          ],
+          "photo": "transit",
+          "caption": "Eine U-Bahn überquert den Han"
+        }
+      ],
+      "box": [
+        {
+          "k": "Wann",
+          "v": [
+            "Donnerstag, 19. November 2026 · Prüfung 08:40–17:45 (die meisten Prüflinge)"
+          ]
+        },
+        {
+          "k": "Flüge",
+          "v": [
+            "13:10–13:35 landesweit angepasste Start- und Landezeiten für Flugzeuge und Hubschrauber"
+          ]
+        },
+        {
+          "k": "Arbeitsbeginn und Verkehr",
+          "v": [
+            "Behörden und Unternehmen werden gebeten, erst nach 10 Uhr zu beginnen (keine Pflicht)",
+            "Zusätzliche U-Bahn-Fahrten im Großraum Seoul 06:00–08:10"
+          ]
+        },
+        {
+          "k": "Rund um die Prüfungsorte",
+          "v": [
+            "Keine Fahrzeuge ab 200 m vor dem Prüfungsort · Busse und Züge fahren langsam und hupen nicht"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Planen Sie Ihre Wege an diesem Tag mit dem „U-Bahn-Netzplan“ und der Anleitung „Ankunft am Flughafen“. Beides ist kostenlos."
+          ]
+        }
+      ],
+      "outro": "Am Prüfungstag reist es sich entspannt, wenn Sie nur Flüge gegen 13 Uhr und den Berufsverkehr um 10 Uhr im Kopf behalten.",
+      "sources": [
+        "Bildungsministerium, „Unterstützungsmaßnahmen für eine reibungslose Durchführung der Hochschulzugangsprüfung 2027 am Prüfungstag“ (Bericht an das Kabinett am 20. Oktober 2026, Korea.kr, abgerufen am 8. November 2026)",
+        "Korea Institute for Curriculum and Evaluation, „Grundplan zur Durchführung der Hochschulzugangsprüfung 2027“ (31. März 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "es": {
+      "title": "Día del examen, 19 de noviembre: desde las 13:10 se ajustan los vuelos durante 25 minutos",
+      "summary": "Lo que conviene saber al viajar el día del examen de acceso a la universidad en Corea: vuelos reprogramados, entrada al trabajo más tarde, calles cortadas cerca de los centros de examen y más metros por la mañana.",
+      "hero_caption": "Escalera de una estación de metro de Seúl con luz de la mañana",
+      "lead": [
+        "El jueves 19 de noviembre es el día del Suneung, la prueba nacional de acceso a la universidad en Corea (oficialmente, College Scholastic Ability Test). La hacen los estudiantes que terminan el bachillerato para entrar a la universidad, y este año se han inscrito 551.864 personas. Durante ese día, todo el país baja un poco el ritmo por ellos.",
+        "También afecta a quienes viajan. Se ajustan los horarios de despegue y aterrizaje, se retrasa la entrada al trabajo y los coches no pueden acercarse a los centros de examen. Si está en Corea esa semana, puede organizar el día con antelación a partir de las medidas de este año que el Ministerio de Educación presentó al Consejo de Ministros el 20 de octubre."
+      ],
+      "sections": [
+        {
+          "h": "25 minutos de examen de comprensión oral de inglés: se ajustan los vuelos",
+          "p": [
+            "De 13:10 a 13:35, mientras se realiza la prueba de comprensión oral de inglés de la tercera sesión, se ajustan en todo el país los horarios de despegue y aterrizaje de aviones y helicópteros. También se detienen en ese rato los ejercicios militares ruidosos, como los disparos de artillería o los movimientos de tanques. En esta prueba los estudiantes escuchan inglés por altavoces, por eso se evita incluso el menor ruido.",
+            "Si su vuelo sale o llega alrededor de la una de la tarde ese día, confirme el horario con su aerolínea una vez más. Saber de antemano si la hora reservada se mantiene y, si cambia, a qué hora debe estar en el aeropuerto, le dará tranquilidad. También conviene dejar más margen que de costumbre para llegar al aeropuerto."
+          ],
+          "photo": "flights",
+          "caption": "Aeropuerto Internacional de Incheon"
+        },
+        {
+          "h": "Entrada al trabajo después de las 10 de la mañana",
+          "p": [
+            "Para que los estudiantes lleguen a tiempo a los centros de examen, el Gobierno pide a las oficinas públicas y a las empresas que retrasen la entrada al trabajo hasta después de las 10 de la mañana. No es obligatorio, así que algunas empresas y tiendas abren como siempre.",
+            "Por eso las primeras horas de la mañana están más tranquilas que de costumbre, y desde alrededor de las 10 el trayecto al trabajo puede llenarse. Si va temprano en metro a un palacio o a un mercado, probablemente se mueva con calma, pero si sale entre las 9:30 y las 10 puede coincidir con la hora de más gente. Tenga presente este ritmo si ese día va al aeropuerto o a una estación de tren."
+          ],
+          "photo": "offices",
+          "caption": "Torniquetes del metro"
+        },
+        {
+          "h": "Desde 200 m antes del centro de examen no pueden entrar coches",
+          "p": [
+            "El día del examen se restringe el acceso de vehículos desde 200 m antes del centro de examen. Como las sedes son escuelas, 1.312 en 85 distritos de examen de todo el país, puede haber una cerca de su alojamiento en Seúl. En ese caso, es posible que el taxi no llegue hasta la puerta de la escuela y le deje un poco más lejos.",
+            "A los autobuses y trenes que pasan junto a los centros de examen se les pide que circulen despacio y no toquen el claxon. También se pide a las obras y a los lugares de eventos que reduzcan el ruido. Si camina por la zona, se agradece bajar un poco la voz."
+          ],
+          "photo": "streets",
+          "caption": "Una calle frente a una escuela en Seúl"
+        },
+        {
+          "h": "Más metros de 6:00 a 8:10",
+          "p": [
+            "De 6:00 a 8:10, cuando los estudiantes se desplazan, aumentan los servicios de metro en el área metropolitana de Seúl. También se sitúan a lo largo de sus recorridos vehículos de transporte de emergencia de comisarías y otras entidades públicas. En algunas estaciones hay muchos estudiantes de uniforme y familias que vienen a animarlos, así que si lleva equipaje grande, deje un poco de margen.",
+            "Para la mayoría de los estudiantes, el examen empieza a las 8:40 y termina a las 17:45. Desde el atardecer, las calles vuelven a llenarse de estudiantes que han terminado. Si tiene planes para cenar, tenga en cuenta que los restaurantes de las zonas concurridas pueden estar más llenos que de costumbre."
+          ],
+          "photo": "transit",
+          "caption": "Un metro cruzando el río Han"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cuándo",
+          "v": [
+            "Jueves 19 de noviembre de 2026 · examen 08:40–17:45 (la mayoría de los estudiantes)"
+          ]
+        },
+        {
+          "k": "Vuelos",
+          "v": [
+            "13:10–13:35 ajuste de despegues y aterrizajes de aviones y helicópteros en todo el país"
+          ]
+        },
+        {
+          "k": "Trabajo y transporte",
+          "v": [
+            "Se pide a oficinas públicas y empresas entrar después de las 10 (no obligatorio)",
+            "Más metros en el área de Seúl 06:00–08:10"
+          ]
+        },
+        {
+          "k": "Cerca de los centros de examen",
+          "v": [
+            "Sin vehículos desde 200 m antes · autobuses y trenes despacio, sin claxon"
+          ]
+        },
+        {
+          "k": "En Trabbit",
+          "v": [
+            "Organice sus desplazamientos de ese día con el «Mapa del metro» y la guía «Llegada al aeropuerto». Ambos son gratis."
+          ]
+        }
+      ],
+      "outro": "Para viajar el día del examen, basta con recordar los vuelos hacia las 13:00 y la entrada al trabajo a las 10 de la mañana.",
+      "sources": [
+        "Ministerio de Educación, «Medidas de apoyo para la realización estable del examen de acceso a la universidad de 2027 el día de la prueba» (informe al Consejo de Ministros del 20 de octubre de 2026, Korea.kr, consultado el 8 de noviembre de 2026)",
+        "Instituto Coreano de Currículo y Evaluación (Korea Institute for Curriculum and Evaluation), «Plan básico de realización del examen de acceso a la universidad de 2027» (31 de marzo de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "fr": {
+      "title": "Jour de l'examen, le 19 novembre : à partir de 13 h 10, les vols sont ajustés pendant 25 minutes",
+      "summary": "Ce que les voyageurs doivent savoir le jour de l'examen d'entrée à l'université en Corée : vols reprogrammés, prise de poste plus tardive, rues fermées près des centres d'examen et métros supplémentaires le matin.",
+      "hero_caption": "L'escalier d'une station de métro de Séoul dans la lumière du matin",
+      "lead": [
+        "Le jeudi 19 novembre est le jour du Suneung, l'examen national d'entrée à l'université en Corée (officiellement College Scholastic Ability Test). Les élèves qui terminent le lycée le passent pour entrer à l'université, et 551 864 personnes se sont inscrites cette année. Ce jour-là, tout le pays ralentit un peu pour eux.",
+        "Les voyageurs sont aussi concernés. Les horaires de décollage et d'atterrissage sont ajustés, la prise de poste est retardée et les voitures ne peuvent pas s'approcher des centres d'examen. Si vous êtes en Corée cette semaine-là, vous pouvez organiser votre journée à l'avance d'après les mesures de cette année que le ministère de l'Éducation a présentées au Conseil des ministres le 20 octobre."
+      ],
+      "sections": [
+        {
+          "h": "25 minutes d'épreuve d'anglais oral : les vols sont ajustés",
+          "p": [
+            "De 13 h 10 à 13 h 35, pendant l'épreuve de compréhension orale d'anglais de la troisième séance, les décollages et atterrissages des avions et des hélicoptères sont ajustés dans tout le pays. Les exercices militaires bruyants, comme les tirs d'artillerie ou les déplacements de chars, s'interrompent aussi pendant ce temps. Lors de cette épreuve, les candidats écoutent de l'anglais diffusé par haut-parleurs, c'est pourquoi on cherche à éviter même les petits bruits.",
+            "Si votre vol part ou arrive vers 13 h ce jour-là, vérifiez encore une fois l'horaire auprès de votre compagnie aérienne. Savoir à l'avance si l'heure réservée reste la même et, si elle change, à quelle heure vous devez être à l'aéroport, vous donnera plus de sérénité. Il vaut aussi mieux prévoir plus de temps que d'habitude pour vous rendre à l'aéroport."
+          ],
+          "photo": "flights",
+          "caption": "Aéroport international d'Incheon"
+        },
+        {
+          "h": "Prise de poste après 10 h",
+          "p": [
+            "Pour que les candidats arrivent à l'heure à leur centre d'examen, le gouvernement demande aux administrations et aux entreprises de repousser la prise de poste après 10 h du matin. Ce n'est pas une obligation : certaines entreprises et certains commerces ouvrent donc comme d'habitude.",
+            "Le petit matin est ainsi plus calme que d'ordinaire, et les trajets domicile-travail peuvent être chargés à partir de 10 h environ. Si vous prenez le métro tôt pour aller dans un palais ou un marché, vous circulerez plutôt tranquillement ; en revanche, si vous partez entre 9 h 30 et 10 h, vous pouvez tomber en pleine affluence. Gardez ce rythme en tête si vous allez à l'aéroport ou à la gare ce jour-là."
+          ],
+          "photo": "offices",
+          "caption": "Portiques d'une station de métro"
+        },
+        {
+          "h": "Pas de voitures à moins de 200 m des centres d'examen",
+          "p": [
+            "Le jour de l'examen, l'accès des véhicules est interdit à partir de 200 m avant le centre d'examen. Comme ce sont des écoles qui servent de centres, 1 312 réparties dans 85 districts d'examen à travers le pays, il peut y en avoir un près de votre hébergement à Séoul. Dans ce cas, le taxi risque de ne pas pouvoir aller jusqu'à la grille de l'école et de vous déposer un peu plus loin.",
+            "On demande aux bus et aux trains qui passent près des centres d'examen de rouler lentement et de ne pas klaxonner. Les chantiers et les lieux d'événements sont aussi invités à réduire le bruit. Si vous marchez dans les environs, baisser un peu la voix sera apprécié."
+          ],
+          "photo": "streets",
+          "caption": "Une rue devant une école à Séoul"
+        },
+        {
+          "h": "Métros supplémentaires de 6 h à 8 h 10",
+          "p": [
+            "De 6 h à 8 h 10, quand les candidats se déplacent, les métros circulent plus souvent dans la région de Séoul. Des véhicules de transport d'urgence de commissariats et d'autres administrations sont aussi placés le long des trajets des candidats. Dans certaines stations, on croise beaucoup de lycéens en uniforme et de familles venues les encourager ; si vous avez de gros bagages, prévoyez donc un peu de marge.",
+            "Pour la plupart des candidats, l'examen commence à 8 h 40 et se termine à 17 h 45. Dès la fin de journée, les rues se remplissent à nouveau d'élèves qui ont terminé. Si vous dînez dehors, pensez que les restaurants des quartiers animés peuvent être plus remplis que d'habitude."
+          ],
+          "photo": "transit",
+          "caption": "Un métro traversant le fleuve Han"
+        }
+      ],
+      "box": [
+        {
+          "k": "Quand",
+          "v": [
+            "Jeudi 19 novembre 2026 · examen 08 h 40–17 h 45 (la plupart des candidats)"
+          ]
+        },
+        {
+          "k": "Vols",
+          "v": [
+            "13 h 10–13 h 35 : décollages et atterrissages d'avions et d'hélicoptères ajustés dans tout le pays"
+          ]
+        },
+        {
+          "k": "Travail et transports",
+          "v": [
+            "Administrations et entreprises invitées à commencer après 10 h (non obligatoire)",
+            "Métros supplémentaires dans la région de Séoul 06 h 00–08 h 10"
+          ]
+        },
+        {
+          "k": "Près des centres d'examen",
+          "v": [
+            "Pas de véhicules à moins de 200 m · bus et trains lents, sans klaxon"
+          ]
+        },
+        {
+          "k": "Dans Trabbit",
+          "v": [
+            "Organisez vos déplacements ce jour-là avec le « Plan du métro » et le guide « Arrivée à l'aéroport ». Les deux sont gratuits."
+          ]
+        }
+      ],
+      "outro": "Le jour de l'examen, il suffit de retenir les vols vers 13 h et les trajets domicile-travail de 10 h pour voyager sereinement.",
+      "sources": [
+        "Ministère de l'Éducation, « Mesures de soutien pour le bon déroulement de l'examen d'entrée à l'université 2027 le jour de l'épreuve » (rapport au Conseil des ministres du 20 octobre 2026, Korea.kr, consulté le 8 novembre 2026)",
+        "Institut coréen du programme et de l'évaluation (Korea Institute for Curriculum and Evaluation), « Plan de base de l'examen d'entrée à l'université 2027 » (31 mars 2026)"
+      ],
+      "credit": "Photos : Korea Tourism Organization"
+    },
+    "id": {
+      "title": "Hari Suneung 19 November: pukul 13:10 selama 25 menit, jadwal pesawat pun disesuaikan",
+      "summary": "Hal yang baik diketahui wisatawan pada hari Suneung, ujian masuk universitas nasional Korea: penyesuaian lepas landas dan pendaratan pesawat, jam masuk kerja yang mundur, pembatasan jalan di sekitar lokasi ujian, dan penambahan kereta bawah tanah di pagi hari.",
+      "hero_caption": "Tangga stasiun kereta bawah tanah di Seoul yang disinari cahaya pagi",
+      "lead": [
+        "Kamis, 19 November adalah hari Suneung, yaitu Tes Kemampuan Akademik Perguruan Tinggi Korea (Suneung, ujian masuk universitas nasional Korea). Ujian ini diikuti siswa yang lulus SMA untuk masuk universitas, dan tahun ini ada 551.864 pendaftar. Pada hari ini, seluruh negeri memperlambat langkahnya sedikit demi para peserta ujian.",
+        "Wisatawan pun ikut merasakan dampaknya. Jadwal lepas landas dan pendaratan pesawat disesuaikan, jam masuk kerja mundur, dan kendaraan tidak dapat masuk ke jalan di dekat lokasi ujian. Jika Anda berada di Korea pada minggu itu, susunlah rencana hari Anda berdasarkan langkah-langkah tahun ini yang dilaporkan Kementerian Pendidikan dalam rapat kabinet pada 20 Oktober."
+      ],
+      "sections": [
+        {
+          "h": "Selama 25 menit tes listening bahasa Inggris, jadwal pesawat disesuaikan",
+          "p": [
+            "Selama 25 menit, dari pukul 13:10 hingga 13:35, saat tes listening bahasa Inggris pada sesi ketiga berlangsung, jadwal lepas landas dan pendaratan pesawat serta helikopter di seluruh negeri disesuaikan. Latihan militer yang bising, seperti tembakan artileri dan pergerakan tank, juga dihentikan sementara pada waktu ini. Tes listening dikerjakan dengan mendengarkan bahasa Inggris dari pengeras suara, sehingga suara sekecil apa pun dihindari.",
+            "Jika Anda naik pesawat yang berangkat atau tiba sekitar pukul 13:00 pada hari itu, periksa kembali jadwalnya ke maskapai. Akan lebih tenang jika Anda tahu terlebih dahulu apakah jam yang Anda pesan tetap sama dan, bila berubah, paling lambat pukul berapa Anda harus tiba di bandara. Sebaiknya sediakan juga waktu perjalanan ke bandara yang lebih longgar daripada biasanya."
+          ],
+          "photo": "flights",
+          "caption": "Bandara Internasional Incheon"
+        },
+        {
+          "h": "Masuk kerja setelah pukul 10 pagi",
+          "p": [
+            "Agar peserta ujian tidak terlambat tiba di lokasi, pemerintah meminta kantor pemerintahan dan perusahaan untuk memundurkan jam masuk kerja hingga setelah pukul 10 pagi. Ini bukan kewajiban, sehingga ada perusahaan dan toko yang tetap buka seperti biasa.",
+            "Karena itu, pagi hari yang sangat awal terasa lebih sepi daripada biasanya, dan perjalanan berangkat kerja bisa ramai mulai sekitar pukul 10. Jika Anda naik kereta bawah tanah pagi-pagi untuk pergi ke istana atau pasar, suasananya mungkin justru lengang, tetapi jika Anda berangkat antara pukul 9:30 dan 10:00, waktunya bisa bertepatan dengan keramaian. Bila hari itu Anda menuju bandara atau stasiun kereta, ada baiknya mengingat pola ini."
+          ],
+          "photo": "offices",
+          "caption": "Gerbang tiket kereta bawah tanah"
+        },
+        {
+          "h": "Kendaraan tidak bisa masuk dalam radius 200 m dari lokasi ujian",
+          "p": [
+            "Pada hari Suneung, akses kendaraan dibatasi mulai 200 m sebelum lokasi ujian. Sekolah yang dipakai sebagai lokasi ujian ada 1.312 tempat di 85 wilayah ujian di seluruh negeri, sehingga di dekat penginapan Anda di Seoul pun mungkin ada lokasi ujian. Jika demikian, taksi bisa jadi tidak dapat sampai ke depan gerbang sekolah dan menurunkan Anda agak jauh dari sana.",
+            "Bus dan kereta yang melewati sekitar lokasi ujian diminta berjalan pelan dan tidak membunyikan klakson. Lokasi konstruksi dan tempat acara juga diminta mengurangi kebisingan. Saat berjalan di dekat sana, akan sangat baik jika Anda merendahkan suara sedikit."
+          ],
+          "photo": "streets",
+          "caption": "Jalan di depan sebuah sekolah di Seoul"
+        },
+        {
+          "h": "Kereta bawah tanah ditambah pukul 6 pagi hingga 8:10",
+          "p": [
+            "Pada pukul 6 pagi hingga 8:10, saat para peserta ujian bepergian, jumlah perjalanan kereta bawah tanah di wilayah Seoul dan sekitarnya bertambah. Kendaraan darurat milik instansi pemerintah, seperti kantor polisi, juga ditempatkan di jalur yang dilalui peserta ujian. Di sebagian stasiun banyak siswa berseragam dan keluarga yang datang memberi semangat, jadi jika Anda membawa barang besar, sediakan waktu sedikit lebih longgar.",
+            "Untuk peserta ujian pada umumnya, ujian dimulai pukul 8:40 dan selesai pukul 17:45. Menjelang malam, saat ujian usai, jalanan kembali ramai oleh para siswa yang baru selesai ujian. Jika Anda punya janji makan malam, ingatlah bahwa restoran di kawasan ramai mungkin lebih padat daripada biasanya."
+          ],
+          "photo": "transit",
+          "caption": "Kereta bawah tanah melintasi Sungai Han"
+        }
+      ],
+      "box": [
+        {
+          "k": "Kapan",
+          "v": [
+            "Kamis, 19 November 2026 · ujian 08:40~17:45 (peserta umum)"
+          ]
+        },
+        {
+          "k": "Pesawat",
+          "v": [
+            "13:10~13:35 lepas landas dan pendaratan pesawat serta helikopter di seluruh negeri disesuaikan"
+          ]
+        },
+        {
+          "k": "Jam kerja dan transportasi",
+          "v": [
+            "Kantor pemerintahan dan perusahaan diminta masuk setelah pukul 10 (bukan kewajiban)",
+            "Kereta bawah tanah wilayah Seoul dan sekitarnya ditambah 06:00~08:10"
+          ]
+        },
+        {
+          "k": "Sekitar lokasi ujian",
+          "v": [
+            "Akses kendaraan dibatasi mulai 200 m sebelum lokasi · bus dan kereta berjalan pelan, tanpa klakson"
+          ]
+        },
+        {
+          "k": "Di Trabbit",
+          "v": [
+            "Susun rencana perjalanan hari itu dengan panduan 「Peta Kereta Bawah Tanah」 dan 「Kedatangan di Bandara」. Keduanya gratis."
+          ]
+        }
+      ],
+      "outro": "Untuk bepergian pada hari Suneung, cukup ingat dua hal: pesawat sekitar pukul 13:00 dan keramaian berangkat kerja pukul 10 pagi.",
+      "sources": [
+        "Kementerian Pendidikan, 「Langkah Dukungan untuk Pelaksanaan Ujian yang Lancar pada Hari Suneung Tahun Ajaran 2027」 (dilaporkan dalam rapat kabinet 20 Oktober 2026, Korea Policy Briefing, diperiksa 8 November 2026)",
+        "Institut Kurikulum dan Evaluasi Korea, 「Rencana Dasar Pelaksanaan Tes Kemampuan Akademik Perguruan Tinggi Tahun Ajaran 2027」 (31 Maret 2026)"
+      ],
+      "credit": "Foto: Korea Tourism Organization"
+    },
+    "pt_br": {
+      "title": "Dia do exame, 19 de novembro: a partir das 13h10, os voos são ajustados por 25 minutos",
+      "summary": "O que os viajantes devem saber no dia do vestibular nacional da Coreia: voos reprogramados, entrada no trabalho mais tarde, ruas fechadas perto dos locais de prova e mais trens de metrô pela manhã.",
+      "hero_caption": "Escada de uma estação de metrô de Seul com a luz da manhã",
+      "lead": [
+        "Quinta-feira, 19 de novembro, é o dia do Suneung, o exame nacional de acesso à universidade da Coreia (oficialmente, College Scholastic Ability Test). Ele é feito pelos estudantes que terminam o ensino médio para entrar na faculdade, e neste ano 551.864 pessoas se inscreveram. Nesse dia, o país inteiro desacelera um pouco por eles.",
+        "Isso também afeta quem está viajando. Os horários de decolagem e pouso são ajustados, a entrada no trabalho é adiada e os carros não podem chegar perto dos locais de prova. Se você estiver na Coreia nessa semana, vale planejar o dia com antecedência com base nas medidas deste ano que o Ministério da Educação apresentou ao Conselho de Ministros em 20 de outubro."
+      ],
+      "sections": [
+        {
+          "h": "25 minutos de prova de listening de inglês: os voos são ajustados",
+          "p": [
+            "Das 13h10 às 13h35, enquanto acontece a prova de compreensão oral de inglês do terceiro período, as decolagens e os pousos de aviões e helicópteros são ajustados em todo o país. Treinos militares barulhentos, como tiros de artilharia e movimentação de tanques, também param nesse intervalo. Na prova, os estudantes ouvem inglês por alto-falantes, por isso até os ruídos pequenos são evitados.",
+            "Se o seu voo sai ou chega por volta das 13h nesse dia, confira o horário mais uma vez com a companhia aérea. Saber com antecedência se o horário reservado continua o mesmo e, se mudou, até que horas você precisa estar no aeroporto traz mais tranquilidade. Também é bom reservar mais tempo do que o normal para chegar ao aeroporto."
+          ],
+          "photo": "flights",
+          "caption": "Aeroporto Internacional de Incheon"
+        },
+        {
+          "h": "Entrada no trabalho depois das 10h",
+          "p": [
+            "Para que os estudantes cheguem a tempo aos locais de prova, o governo pede que órgãos públicos e empresas adiem o início do expediente para depois das 10h da manhã. Não é obrigatório, então algumas empresas e lojas abrem normalmente.",
+            "Por isso, o início da manhã fica mais tranquilo que de costume, e o trajeto para o trabalho pode ficar cheio a partir das 10h. Se você pega o metrô cedo para ir a um palácio ou a um mercado, provavelmente vai circular com folga, mas quem sai entre 9h30 e 10h pode pegar o horário de maior movimento. Guarde esse ritmo na cabeça se for ao aeroporto ou à estação de trem nesse dia."
+          ],
+          "photo": "offices",
+          "caption": "Catracas do metrô"
+        },
+        {
+          "h": "A partir de 200 m do local de prova, carros não entram",
+          "p": [
+            "No dia do exame, a entrada de veículos é controlada a partir de 200 m antes do local de prova. Como os locais são escolas, 1.312 em 85 distritos de prova pelo país, pode haver um perto da sua hospedagem em Seul. Nesse caso, o táxi pode não chegar até o portão da escola e deixar você um pouco mais longe.",
+            "Ônibus e trens que passam perto dos locais de prova são solicitados a andar devagar e evitar buzinar. Obras e locais de eventos também recebem o pedido de reduzir o barulho. Se você estiver caminhando por perto, falar um pouco mais baixo será muito bem-vindo."
+          ],
+          "photo": "streets",
+          "caption": "Uma rua em frente a uma escola em Seul"
+        },
+        {
+          "h": "Mais trens de metrô das 6h às 8h10",
+          "p": [
+            "Das 6h às 8h10, quando os estudantes se deslocam, o metrô da região metropolitana de Seul opera com mais frequência. Veículos de transporte de emergência de delegacias e de outros órgãos públicos também ficam posicionados ao longo dos trajetos dos estudantes. Algumas estações têm muitos estudantes de uniforme e familiares que vieram dar apoio, então, se você estiver com bagagem grande, reserve um pouco mais de tempo.",
+            "Para a maioria dos estudantes, a prova começa às 8h40 e termina às 17h45. A partir do fim da tarde, as ruas voltam a ficar cheias de estudantes que acabaram de sair. Se você tem um jantar marcado, lembre que os restaurantes em áreas movimentadas podem estar mais cheios que o normal."
+          ],
+          "photo": "transit",
+          "caption": "Um metrô atravessando o rio Han"
+        }
+      ],
+      "box": [
+        {
+          "k": "Quando",
+          "v": [
+            "Quinta-feira, 19 de novembro de 2026 · prova 08h40–17h45 (a maioria dos estudantes)"
+          ]
+        },
+        {
+          "k": "Voos",
+          "v": [
+            "13h10–13h35 ajuste de decolagens e pousos de aviões e helicópteros em todo o país"
+          ]
+        },
+        {
+          "k": "Trabalho e transporte",
+          "v": [
+            "Pedido para órgãos públicos e empresas começarem depois das 10h (não obrigatório)",
+            "Mais trens de metrô na região de Seul 06h00–08h10"
+          ]
+        },
+        {
+          "k": "Perto dos locais de prova",
+          "v": [
+            "Sem veículos a partir de 200 m · ônibus e trens devagar, sem buzinar"
+          ]
+        },
+        {
+          "k": "No Trabbit",
+          "v": [
+            "Planeje seus deslocamentos desse dia com o «Mapa do metrô» e o guia «Chegada ao aeroporto». Os dois são gratuitos."
+          ]
+        }
+      ],
+      "outro": "No dia do exame, basta lembrar dos voos por volta das 13h e do horário de entrada no trabalho, às 10h, para viajar com tranquilidade.",
+      "sources": [
+        "Ministério da Educação, «Medidas de apoio para a realização estável do exame nacional de acesso à universidade de 2027 no dia da prova» (relatório ao Conselho de Ministros em 20 de outubro de 2026, Korea.kr, consultado em 8 de novembro de 2026)",
+        "Instituto Coreano de Currículo e Avaliação (Korea Institute for Curriculum and Evaluation), «Plano básico do exame nacional de acesso à universidade de 2027» (31 de março de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "ru": {
+      "title": "19 ноября, день Сунын: с 13:10 на 25 минут корректируется расписание самолётов",
+      "summary": "Что полезно знать путешественнику в день Сунын, вступительного экзамена в университеты Кореи: корректировка взлётов и посадок, более поздний выход на работу, ограничения движения у экзаменационных пунктов и дополнительные утренние поезда метро.",
+      "hero_caption": "Лестница станции метро в Сеуле в лучах утреннего солнца",
+      "lead": [
+        "Четверг, 19 ноября, — день Сунын, то есть Теста на академические способности для поступления в вуз (Сунын — общенациональный вступительный экзамен в университеты Кореи). Его сдают выпускники старшей школы, чтобы поступить в университет; в этом году заявки подали 551 864 человека. В этот день вся страна немного замедляет ритм ради абитуриентов.",
+        "Это касается и путешественников. Время взлётов и посадок корректируется, рабочий день начинается позже, а к экзаменационным пунктам нельзя подъехать на машине. Если Вы будете в Корее на этой неделе, спланируйте день заранее с учётом мер этого года, о которых Министерство образования доложило на заседании правительства 20 октября."
+      ],
+      "sections": [
+        {
+          "h": "На 25 минут аудирования по английскому корректируют взлёты и посадки",
+          "p": [
+            "С 13:10 до 13:35, пока на третьем экзамене идёт аудирование по английскому языку, по всей стране корректируется время взлёта и посадки самолётов и вертолётов. Шумные военные учения, например артиллерийская стрельба и передвижение танков, в эти минуты тоже приостанавливаются. Аудирование проходит так: звучит английская речь из динамиков, поэтому стараются избегать даже небольшого шума.",
+            "Если в этот день Ваш рейс вылетает или прилетает около часа дня, ещё раз уточните время в авиакомпании. Спокойнее заранее узнать, остаётся ли забронированное время прежним, а если оно изменилось, то к какому часу нужно быть в аэропорту. Дорогу в аэропорт тоже лучше планировать с запасом по сравнению с обычным днём."
+          ],
+          "photo": "flights",
+          "caption": "Международный аэропорт Инчхон"
+        },
+        {
+          "h": "Начало работы — после 10 утра",
+          "p": [
+            "Чтобы абитуриенты не опоздали на экзамен, правительство просит государственные учреждения и компании начинать рабочий день после 10 утра. Это не обязанность, поэтому некоторые компании и магазины открываются как обычно.",
+            "Из-за этого ранним утром тише, чем обычно, а дорога на работу может быть многолюдной примерно с 10 часов. Если Вы едете в метро рано утром во дворец или на рынок, там может быть даже спокойно, но при выезде между 9:30 и 10:00 Вы рискуете попасть в самый наплыв пассажиров. Если в этот день Вы направляетесь в аэропорт или на вокзал, имейте это в виду."
+          ],
+          "photo": "offices",
+          "caption": "Турникеты в метро"
+        },
+        {
+          "h": "За 200 м до экзаменационного пункта машины не пропускают",
+          "p": [
+            "В день Сунын въезд транспорта ограничивается начиная с 200 м до экзаменационного пункта. Школ, где проходит экзамен, в 85 экзаменационных округах по всей стране — 1312, поэтому экзаменационный пункт может оказаться и рядом с Вашим жильём в Сеуле. В таком случае такси может не доехать до школьных ворот и высадить Вас чуть дальше.",
+            "Автобусов и поездов, проходящих мимо экзаменационных пунктов, просят двигаться медленно и не подавать звуковых сигналов. Строительные площадки и места проведения мероприятий тоже просят снизить шум. Если Вы идёте поблизости, будет хорошо, если Вы немного понизите голос."
+          ],
+          "photo": "streets",
+          "caption": "Улица у школы в Сеуле"
+        },
+        {
+          "h": "Дополнительные поезда метро с 6 утра до 8:10",
+          "p": [
+            "С 6 утра до 8:10, когда абитуриенты едут на экзамен, число рейсов метро в Сеульском столичном регионе увеличивается. Экстренный транспорт полиции и других государственных органов тоже размещается на маршрутах абитуриентов. На некоторых станциях много школьников в форме и родных, пришедших их поддержать, поэтому с большим багажом лучше заложить немного больше времени.",
+            "Для обычных абитуриентов экзамен начинается в 8:40 и заканчивается в 17:45. С вечера, когда экзамен окончен, улицы снова заполняются учениками, которые только что его сдали. Если у Вас вечером назначена встреча, имейте в виду, что рестораны в оживлённых районах могут быть заполнены больше обычного."
+          ],
+          "photo": "transit",
+          "caption": "Поезд метро пересекает реку Ханган"
+        }
+      ],
+      "box": [
+        {
+          "k": "Когда",
+          "v": [
+            "Четверг, 19 ноября 2026 г. · экзамен 08:40~17:45 (для обычных абитуриентов)"
+          ]
+        },
+        {
+          "k": "Самолёты",
+          "v": [
+            "13:10~13:35 корректируется время взлёта и посадки самолётов и вертолётов по всей стране"
+          ]
+        },
+        {
+          "k": "Работа и транспорт",
+          "v": [
+            "Госучреждения и компании просят начинать работу после 10:00 (не обязательно)",
+            "Дополнительные поезда метро в столичном регионе 06:00~08:10"
+          ]
+        },
+        {
+          "k": "Возле экзаменационных пунктов",
+          "v": [
+            "Въезд транспорта ограничен с 200 м до пункта · автобусы и поезда идут медленно, без гудков"
+          ]
+        },
+        {
+          "k": "В Trabbit",
+          "v": [
+            "Спланируйте поездки в этот день с помощью разделов 「Схема метро」 и 「Прибытие в аэропорт」. Оба бесплатны."
+          ]
+        }
+      ],
+      "outro": "Путешествуя в день Сунын, достаточно помнить о рейсах около часа дня и о дороге на работу к 10 утра.",
+      "sources": [
+        "Министерство образования, «Меры поддержки для спокойного проведения Теста на академические способности для поступления в вуз 2027 учебного года в день экзамена» (доклад на заседании правительства 20 октября 2026 г., Корейский портал политики, проверено 8 ноября 2026 г.)",
+        "Корейский институт учебных программ и оценивания, «Основной план проведения Теста на академические способности для поступления в вуз 2027 учебного года» (31 марта 2026 г.)"
+      ],
+      "credit": "Фото: Korea Tourism Organization"
+    },
+    "th": {
+      "title": "วันสอบซูนึง 19 พฤศจิกายน ช่วง 13:10 นาน 25 นาที เครื่องบินก็ปรับเวลาขึ้นลงด้วย",
+      "summary": "สิ่งที่นักท่องเที่ยวควรรู้ในวันสอบซูนึง (การสอบเข้ามหาวิทยาลัยของเกาหลี): การปรับเวลาขึ้นลงของเครื่องบิน เวลาเข้างานที่เลื่อนออกไป การควบคุมการจราจรรอบสนามสอบ และรถไฟใต้ดินที่เพิ่มเที่ยวช่วงเช้า",
+      "hero_caption": "บันไดสถานีรถไฟใต้ดินในกรุงโซลที่มีแสงยามเช้าส่องเข้ามา",
+      "lead": [
+        "วันพฤหัสบดีที่ 19 พฤศจิกายน เป็นวันสอบวัดความสามารถทางการศึกษาเพื่อเข้ามหาวิทยาลัยของเกาหลี หรือที่เรียกสั้น ๆ ว่า ซูนึง เป็นการสอบที่นักเรียนซึ่งกำลังจะจบมัธยมปลายต้องสอบเพื่อเข้ามหาวิทยาลัย ปีนี้มีผู้สมัครสอบ 551,864 คน ตลอดทั้งวันนี้ทั้งประเทศจะค่อย ๆ ผ่อนจังหวะลงเล็กน้อยเพื่อให้เหมาะกับผู้เข้าสอบ",
+        "เรื่องนี้ส่งผลถึงนักท่องเที่ยวด้วย เวลาขึ้นลงของเครื่องบินถูกปรับ เวลาเข้างานเลื่อนออกไป และรถเข้าถนนบริเวณใกล้สนามสอบไม่ได้ หากคุณอยู่ในเกาหลีในสัปดาห์นั้น ลองวางแผนวันนั้นล่วงหน้าโดยอิงจากมาตรการปีนี้ที่กระทรวงศึกษาธิการรายงานต่อที่ประชุมคณะรัฐมนตรีเมื่อวันที่ 20 ตุลาคม"
+      ],
+      "sections": [
+        {
+          "h": "ช่วงฟังภาษาอังกฤษ 25 นาที ปรับเวลาขึ้นลงของเครื่องบิน",
+          "p": [
+            "ตั้งแต่ 13:10 ถึง 13:35 รวม 25 นาที ซึ่งเป็นช่วงสอบฟังภาษาอังกฤษในคาบที่ 3 ทั่วประเทศจะปรับเวลาขึ้นลงของเครื่องบินและเฮลิคอปเตอร์ การฝึกซ้อมทางทหารที่มีเสียงดัง เช่น การยิงปืนใหญ่และการเคลื่อนย้ายรถถัง ก็จะหยุดชั่วคราวในช่วงเวลานี้เช่นกัน เนื่องจากข้อสอบฟังต้องฟังภาษาอังกฤษจากลำโพงแล้วตอบ จึงต้องหลีกเลี่ยงแม้แต่เสียงรบกวนเล็กน้อย",
+            "หากคุณขึ้นเครื่องบินที่ออกหรือถึงช่วงประมาณ 13:00 ของวันนั้น ควรตรวจสอบเวลากับสายการบินอีกครั้ง การรู้ล่วงหน้าว่าเวลาที่จองไว้ยังเหมือนเดิมหรือไม่ และถ้าเปลี่ยนต้องไปถึงสนามบินภายในกี่โมง จะช่วยให้สบายใจขึ้น และควรเผื่อเวลาเดินทางไปสนามบินให้มากกว่าปกติด้วย"
+          ],
+          "photo": "flights",
+          "caption": "สนามบินนานาชาติอินชอน"
+        },
+        {
+          "h": "เข้างานหลัง 10 โมงเช้า",
+          "p": [
+            "รัฐบาลขอให้หน่วยงานราชการและบริษัทต่าง ๆ เลื่อนเวลาเข้างานไปเป็นหลัง 10 โมงเช้า เพื่อไม่ให้ผู้เข้าสอบไปถึงสนามสอบสาย ซึ่งไม่ใช่ข้อบังคับ จึงมีบริษัทและร้านค้าที่เปิดตามปกติเช่นกัน",
+            "ดังนั้นช่วงเช้าตรู่จะเงียบกว่าปกติ และตั้งแต่ประมาณ 10 โมงเป็นต้นไป ช่วงเวลาไปทำงานอาจแออัด หากคุณนั่งรถไฟใต้ดินแต่เช้าเพื่อไปพระราชวังหรือตลาด อาจเดินทางได้ค่อนข้างสบาย แต่ถ้าออกเดินทางระหว่าง 9:30 ถึง 10:00 อาจตรงกับช่วงที่ผู้คนหนาแน่น หากวันนั้นคุณต้องไปสนามบินหรือสถานีรถไฟ การจำจังหวะนี้ไว้จะเป็นประโยชน์"
+          ],
+          "photo": "offices",
+          "caption": "ประตูตรวจตั๋วรถไฟใต้ดิน"
+        },
+        {
+          "h": "รถเข้าไม่ได้ตั้งแต่ 200 เมตรก่อนถึงสนามสอบ",
+          "p": [
+            "ในวันสอบซูนึง จะควบคุมการเข้าของยานพาหนะตั้งแต่ 200 เมตรก่อนถึงสนามสอบ โรงเรียนที่ใช้เป็นสนามสอบมีทั้งหมด 1,312 แห่ง ใน 85 เขตสอบทั่วประเทศ จึงอาจมีสนามสอบอยู่ใกล้ที่พักของคุณในกรุงโซลก็ได้ ในกรณีนั้น แท็กซี่อาจไปส่งหน้าประตูโรงเรียนไม่ได้ และให้ลงในจุดที่ห่างออกไปเล็กน้อย",
+            "รถบัสและรถไฟที่ผ่านบริเวณสนามสอบถูกขอให้ขับช้า ๆ และงดบีบแตร ส่วนไซต์ก่อสร้างและสถานที่จัดงานก็ได้รับการขอร้องให้ลดเสียงรบกวนด้วย หากเดินอยู่ใกล้ ๆ ช่วยลดเสียงพูดลงเล็กน้อยก็จะดีมาก"
+          ],
+          "photo": "streets",
+          "caption": "ถนนหน้าโรงเรียนในกรุงโซล"
+        },
+        {
+          "h": "รถไฟใต้ดินเพิ่มเที่ยว ตั้งแต่ 6 โมงเช้าถึง 8:10",
+          "p": [
+            "ตั้งแต่ 6 โมงเช้าถึง 8:10 ซึ่งเป็นช่วงที่ผู้เข้าสอบเดินทาง รถไฟใต้ดินในเขตกรุงโซลและปริมณฑลจะเพิ่มเที่ยววิ่ง นอกจากนี้ยังมีการจัดรถฉุกเฉินของหน่วยงานราชการ เช่น สถานีตำรวจ ไว้ตามเส้นทางที่ผู้เข้าสอบใช้ บางสถานีมีนักเรียนในชุดนักเรียนและครอบครัวที่มาให้กำลังใจจำนวนมาก หากต้องถือสัมภาระใหญ่ขึ้นรถ ควรเผื่อเวลาไว้สักหน่อย",
+            "สำหรับผู้เข้าสอบทั่วไป การสอบเริ่ม 8:40 น. และสิ้นสุด 17:45 น. ตั้งแต่ช่วงเย็นที่การสอบเสร็จสิ้น ถนนจะกลับมาคึกคักไปด้วยนักเรียนที่สอบเสร็จแล้ว หากมีนัดทานอาหารเย็น ลองคิดไว้ล่วงหน้าว่าร้านอาหารในย่านคึกคักอาจมีคนมากกว่าปกติ"
+          ],
+          "photo": "transit",
+          "caption": "รถไฟใต้ดินที่ข้ามแม่น้ำฮัน"
+        }
+      ],
+      "box": [
+        {
+          "k": "เมื่อไร",
+          "v": [
+            "วันพฤหัสบดีที่ 19 พฤศจิกายน 2026 · สอบ 08:40~17:45 (ผู้เข้าสอบทั่วไป)"
+          ]
+        },
+        {
+          "k": "เครื่องบิน",
+          "v": [
+            "13:10~13:35 ปรับเวลาขึ้นลงของเครื่องบินและเฮลิคอปเตอร์ทั่วประเทศ"
+          ]
+        },
+        {
+          "k": "เข้างาน·การเดินทาง",
+          "v": [
+            "ขอให้หน่วยงานราชการและบริษัทเข้างานหลัง 10:00 (ไม่ใช่ข้อบังคับ)",
+            "รถไฟใต้ดินในเขตกรุงโซลและปริมณฑลเพิ่มเที่ยว 06:00~08:10"
+          ]
+        },
+        {
+          "k": "รอบสนามสอบ",
+          "v": [
+            "ควบคุมการเข้าของรถตั้งแต่ 200 เมตรก่อนถึง · รถบัสและรถไฟวิ่งช้า งดบีบแตร"
+          ]
+        },
+        {
+          "k": "ใน Trabbit",
+          "v": [
+            "ใช้คำแนะนำ「แผนที่รถไฟใต้ดิน」และ「การมาถึงสนามบิน」วางแผนการเดินทางของวันนั้นล่วงหน้า ทั้งสองอย่างใช้ได้ฟรี"
+          ]
+        }
+      ],
+      "outro": "การเที่ยวในวันสอบซูนึง แค่จำเที่ยวบินช่วงประมาณ 13:00 และช่วงไปทำงาน 10 โมงเช้าไว้ก็จะสบายขึ้น",
+      "sources": [
+        "กระทรวงศึกษาธิการ「มาตรการสนับสนุนเพื่อการจัดสอบซูนึงปีการศึกษา 2027 ในวันสอบให้เป็นไปอย่างราบรื่น」(รายงานต่อที่ประชุมคณะรัฐมนตรีเมื่อวันที่ 20 ตุลาคม 2026 เว็บไซต์ข้อมูลนโยบายรัฐบาลเกาหลี Korea.kr ตรวจสอบเมื่อวันที่ 8 พฤศจิกายน 2026)",
+        "สถาบันหลักสูตรและการประเมินผลแห่งเกาหลี「แผนพื้นฐานการจัดสอบซูนึงปีการศึกษา 2027」(31 มีนาคม 2026)"
+      ],
+      "credit": "ภาพ: องค์การการท่องเที่ยวเกาหลี"
+    },
+    "vi": {
+      "title": "Ngày thi Suneung 19/11: từ 13:10 trong 25 phút, lịch máy bay cũng được điều chỉnh",
+      "summary": "Những điều du khách nên biết vào ngày thi Suneung, kỳ thi đại học quốc gia của Hàn Quốc: điều chỉnh giờ máy bay cất và hạ cánh, giờ đi làm lùi muộn, hạn chế xe quanh điểm thi và tăng chuyến tàu điện ngầm buổi sáng.",
+      "hero_caption": "Cầu thang ga tàu điện ngầm ở Seoul đón nắng sớm",
+      "lead": [
+        "Thứ Năm, ngày 19/11 là ngày thi Suneung, tức Kỳ thi Năng lực Học thuật Đại học của Hàn Quốc (Suneung, kỳ thi đại học quốc gia). Đây là kỳ thi mà học sinh tốt nghiệp cấp ba tham gia để vào đại học, và năm nay có 551.864 thí sinh đăng ký. Trong một ngày này, cả đất nước chậm nhịp lại đôi chút vì các thí sinh.",
+        "Du khách cũng chịu ảnh hưởng. Giờ máy bay cất và hạ cánh được điều chỉnh, giờ đi làm lùi muộn, và xe không thể vào các con đường gần điểm thi. Nếu bạn ở Hàn Quốc trong tuần đó, hãy lên kế hoạch cho ngày hôm ấy dựa trên các biện pháp năm nay mà Bộ Giáo dục đã báo cáo tại phiên họp Chính phủ ngày 20/10."
+      ],
+      "sections": [
+        {
+          "h": "Trong 25 phút thi nghe tiếng Anh, giờ máy bay được điều chỉnh",
+          "p": [
+            "Trong 25 phút, từ 13:10 đến 13:35, khi bài thi nghe tiếng Anh của tiết thi thứ ba diễn ra, giờ cất và hạ cánh của máy bay và trực thăng trên toàn quốc được điều chỉnh. Các cuộc huấn luyện quân sự gây ồn như bắn pháo hay di chuyển xe tăng cũng tạm dừng trong thời gian này. Bài thi nghe là bài thi nghe tiếng Anh phát qua loa rồi làm bài, nên người ta tránh cả những tiếng ồn nhỏ.",
+            "Nếu bạn đi chuyến bay cất hoặc hạ cánh quanh 1 giờ chiều hôm đó, hãy hỏi lại hãng bay về giờ bay một lần nữa. Biết trước giờ đã đặt có giữ nguyên không, và nếu thay đổi thì phải có mặt ở sân bay chậm nhất lúc nào sẽ giúp bạn yên tâm hơn. Bạn cũng nên dành thời gian đến sân bay rộng rãi hơn bình thường."
+          ],
+          "photo": "flights",
+          "caption": "Sân bay quốc tế Incheon"
+        },
+        {
+          "h": "Đi làm sau 10 giờ sáng",
+          "p": [
+            "Để thí sinh không đến điểm thi muộn, chính phủ đề nghị các cơ quan nhà nước và doanh nghiệp lùi giờ đi làm sang sau 10 giờ sáng. Đây không phải là bắt buộc, nên vẫn có công ty và cửa hàng mở cửa như thường lệ.",
+            "Vì vậy, sáng sớm sẽ yên tĩnh hơn bình thường, còn dòng người đi làm có thể đông từ khoảng 10 giờ. Nếu bạn đi tàu điện ngầm thật sớm để đến cung điện hay chợ, có thể sẽ khá vắng, nhưng nếu xuất phát trong khoảng 9:30 đến 10:00 thì có thể trùng đúng giờ cao điểm. Nếu hôm đó bạn đi ra sân bay hoặc ga tàu, hãy nhớ quy luật này."
+          ],
+          "photo": "offices",
+          "caption": "Cổng soát vé tàu điện ngầm"
+        },
+        {
+          "h": "Xe không được vào trong 200 m trước điểm thi",
+          "p": [
+            "Vào ngày thi Suneung, xe bị hạn chế ra vào từ 200 m trước điểm thi. Số trường được dùng làm điểm thi là 1.312 nơi, thuộc 85 khu vực thi trên cả nước, nên gần chỗ ở của bạn tại Seoul cũng có thể có điểm thi. Khi đó, taxi có thể không đến được tận cổng trường và thả bạn xuống cách đó một đoạn.",
+            "Xe buýt và tàu đi ngang quanh điểm thi được đề nghị chạy chậm và hạn chế bấm còi. Các công trường và địa điểm tổ chức sự kiện cũng được đề nghị giảm tiếng ồn. Khi đi bộ gần đó, bạn hạ giọng xuống một chút sẽ rất tốt."
+          ],
+          "photo": "streets",
+          "caption": "Con đường trước một trường học ở Seoul"
+        },
+        {
+          "h": "Tăng chuyến tàu điện ngầm từ 6 giờ sáng đến 8:10",
+          "p": [
+            "Từ 6 giờ sáng đến 8:10, khi thí sinh di chuyển, số chuyến tàu điện ngầm ở khu vực thủ đô được tăng lên. Xe khẩn cấp của các cơ quan hành chính như đồn cảnh sát cũng được bố trí trên các tuyến đường thí sinh đi qua. Một số ga có nhiều học sinh mặc đồng phục và người nhà đến cổ vũ, nên khi mang hành lý lớn, bạn hãy chừa thêm chút thời gian.",
+            "Với thí sinh thông thường, kỳ thi bắt đầu lúc 8:40 và kết thúc lúc 17:45. Từ buổi tối, khi kỳ thi kết thúc, đường phố lại đông lên bởi các học sinh vừa thi xong. Nếu bạn có hẹn ăn tối, hãy nhớ rằng các nhà hàng ở khu sầm uất có thể đông hơn bình thường."
+          ],
+          "photo": "transit",
+          "caption": "Tàu điện ngầm băng qua sông Hàn"
+        }
+      ],
+      "box": [
+        {
+          "k": "Khi nào",
+          "v": [
+            "Thứ Năm, 19/11/2026 · thi 08:40~17:45 (thí sinh thông thường)"
+          ]
+        },
+        {
+          "k": "Máy bay",
+          "v": [
+            "13:10~13:35 điều chỉnh giờ cất và hạ cánh của máy bay, trực thăng trên toàn quốc"
+          ]
+        },
+        {
+          "k": "Đi làm và giao thông",
+          "v": [
+            "Cơ quan nhà nước và doanh nghiệp được đề nghị đi làm sau 10 giờ (không bắt buộc)",
+            "Tăng chuyến tàu điện ngầm khu vực thủ đô 06:00~08:10"
+          ]
+        },
+        {
+          "k": "Quanh điểm thi",
+          "v": [
+            "Hạn chế xe ra vào từ 200 m trước điểm thi · xe buýt và tàu chạy chậm, hạn chế bấm còi"
+          ]
+        },
+        {
+          "k": "Trong Trabbit",
+          "v": [
+            "Hãy lên kế hoạch di chuyển hôm đó bằng 「Sơ đồ tàu điện ngầm」 và 「Đến sân bay」. Cả hai đều miễn phí."
+          ]
+        }
+      ],
+      "outro": "Khi đi du lịch vào ngày thi Suneung, bạn chỉ cần nhớ chuyến bay quanh 1 giờ chiều và giờ đi làm lúc 10 giờ sáng là sẽ thuận tiện.",
+      "sources": [
+        "Bộ Giáo dục, 「Biện pháp hỗ trợ tổ chức kỳ thi ổn định vào ngày thi Kỳ thi Năng lực Học thuật Đại học năm học 2027」 (báo cáo tại phiên họp Chính phủ ngày 20/10/2026, Cổng thông tin chính sách Hàn Quốc, kiểm tra ngày 8/11/2026)",
+        "Viện Chương trình giảng dạy và Đánh giá Hàn Quốc, 「Kế hoạch cơ bản tổ chức Kỳ thi Năng lực Học thuật Đại học năm học 2027」 (31/3/2026)"
+      ],
+      "credit": "Ảnh: Korea Tourism Organization"
+    },
+    "zh_cn": {
+      "title": "11月19日韩国修能考试日，13:10起的25分钟连飞机起降也要调整时间",
+      "summary": "韩国大学入学考试“大学修学能力考试（修能）”当天，旅行者值得提前了解的事：航班起降调整、延后上班、考场周边管制、早高峰地铁加开班次。",
+      "hero_caption": "晨光洒进首尔地铁站的台阶",
+      "lead": [
+        "11月19日（周四）是韩国的大学修学能力考试，简称“修能”。这是即将高中毕业的学生为升入大学而参加的考试，今年共有551,864人报名。这一天，整个国家都会为考生稍稍放慢脚步。",
+        "这对旅行者也有影响。飞机起降时间会被调整，上班时间会延后，考场附近的道路禁止车辆驶入。如果那一周您在韩国，可以根据教育部10月20日向国务会议汇报的今年的应对措施，提前安排好当天的行程。"
+      ],
+      "sections": [
+        {
+          "h": "英语听力的25分钟，飞机起降会调整时间",
+          "p": [
+            "第3节英语听力考试从13:10进行到13:35，这25分钟里，全国的飞机和直升机起降时间都会调整。炮击、坦克移动等会产生噪音的军事训练，在这段时间也会暂停。听力考试是听扬声器播放的英语来答题，所以连很小的噪音都要避免。",
+            "如果您乘坐当天13:00前后起飞或抵达的航班，请再向航空公司确认一次时间。提前了解预订的时间是否不变，如果有变动，最晚需要几点到机场，心里会更踏实。前往机场的时间也最好比平时留得更充裕一些。"
+          ],
+          "photo": "flights",
+          "caption": "仁川国际机场"
+        },
+        {
+          "h": "上班时间推迟到上午10点以后",
+          "p": [
+            "为了让考生不迟到，政府请求政府机关和企业把上班时间推迟到上午10点以后。这不是强制要求，所以也有公司和商店照常营业。",
+            "因此清晨比平时安静，从10点左右起，上班的人流可能会变得拥挤。如果一早乘地铁去宫殿或市场，反而可以在较为清静的时段出行；但如果在9点30分到10点之间出发，可能会赶上人流集中的时间。要去机场或火车站的那天，记住这个规律会很有帮助。"
+          ],
+          "photo": "offices",
+          "caption": "地铁检票口"
+        },
+        {
+          "h": "考场前200m起，车辆禁止驶入",
+          "p": [
+            "修能当天，考场前200m起会管制车辆进入。作为考场的学校在全国85个考区共有1,312所，所以首尔市内您住处附近也可能有考场。这种情况下，出租车可能无法开到校门口，只能把您放在稍远一点的地方。",
+            "经过考场周边的公交车和列车，被要求缓慢行驶并尽量不鸣笛。工地和活动场所也被要求降低噪音。在附近步行时，如果您能把说话声音放低一些，会很受欢迎。"
+          ],
+          "photo": "streets",
+          "caption": "首尔学校门前的街道"
+        },
+        {
+          "h": "早上6点到8点10分，地铁加开班次",
+          "p": [
+            "在考生出行的上午6点到8点10分，首都圈地铁会增加运行班次。警察局等行政机关的应急运输车辆也会部署在考生经过的道路上。有些车站会有很多穿校服的学生和前来加油的家人，所以带着大件行李乘车时，请多留一点时间。",
+            "对普通考生来说，考试于上午8点40分开始，下午5点45分结束。从考试结束的傍晚起，街上又会挤满考完试的学生。如果晚上有聚餐安排，可以预想到热闹街区的餐厅会比平时人多。"
+          ],
+          "photo": "transit",
+          "caption": "驶过汉江的地铁"
+        }
+      ],
+      "box": [
+        {
+          "k": "时间",
+          "v": [
+            "2026年11月19日（周四）· 考试 08:40～17:45（普通考生）"
+          ]
+        },
+        {
+          "k": "飞机",
+          "v": [
+            "13:10～13:35 全国航班、直升机起降时间调整"
+          ]
+        },
+        {
+          "k": "上班·交通",
+          "v": [
+            "请求政府机关、企业10点以后上班（非强制）",
+            "首都圈地铁 06:00～08:10 加开班次"
+          ]
+        },
+        {
+          "k": "考场周边",
+          "v": [
+            "200m前起管制车辆进入 · 公交车、列车缓行，尽量不鸣笛"
+          ]
+        },
+        {
+          "k": "在Trabbit中",
+          "v": [
+            "请用“地铁线路图”和“机场到达”提前安排当天的出行。两者都是免费的。"
+          ]
+        }
+      ],
+      "outro": "修能当天出行，只要记住13:00前后的航班和上午10点的上班高峰，就会轻松很多。",
+      "sources": [
+        "教育部《为2027学年度大学修学能力考试当天稳定实施考试的支援对策》（2026年10月20日国务会议汇报，大韩民国政策简报，2026年11月8日确认）",
+        "韩国课程评价院《2027学年度大学修学能力考试实施基本计划》（2026年3月31日）"
+      ],
+      "credit": "照片：韩国观光公社"
+    },
+    "zh_tw": {
+      "title": "11月19日大學修學能力考試（修能）日，13:10起的25分鐘連飛機起降也要調整時間",
+      "summary": "韓國大學入學考試「大學修學能力考試（修能）」當天，旅客值得事先了解的事：航班起降調整、延後上班、考場周邊管制、早晨地鐵加開班次。",
+      "hero_caption": "晨光灑進首爾地鐵站的階梯",
+      "lead": [
+        "11月19日（週四）是韓國的大學修學能力考試，簡稱「修能」。這是即將高中畢業的學生為了升上大學而參加的考試，今年共有551,864人報名。這一天，整個國家都會為考生稍微放慢腳步。",
+        "這對旅客也有影響。飛機起降時間會被調整，上班時間會延後，考場附近的道路禁止車輛駛入。如果那一週您人在韓國，可以根據教育部10月20日向國務會議報告的今年因應措施，事先安排好當天的行程。"
+      ],
+      "sections": [
+        {
+          "h": "英語聽力的25分鐘，飛機起降會調整時間",
+          "p": [
+            "第3節英語聽力考試從13:10進行到13:35，這25分鐘內，全國的飛機和直升機起降時間都會調整。砲擊、戰車移動等會產生噪音的軍事訓練，在這段時間也會暫停。聽力考試是聽喇叭播放的英語來作答，所以連很小的噪音都要避免。",
+            "如果您搭乘當天13:00前後起飛或抵達的班機，請再向航空公司確認一次時間。事先了解預訂的時間是否不變，如果有變動，最晚需要幾點到機場，心裡會比較踏實。前往機場的時間也最好比平常預留得更充裕一些。"
+          ],
+          "photo": "flights",
+          "caption": "仁川國際機場"
+        },
+        {
+          "h": "上班時間延後到上午10點以後",
+          "p": [
+            "為了讓考生不遲到，政府請求政府機關和企業把上班時間延後到上午10點以後。這不是強制要求，所以也有公司和商店照常營業。",
+            "因此清晨比平常安靜，從10點左右起，上班的人潮可能會變得擁擠。如果一大早搭地鐵去宮殿或市場，反而可以在較為清靜的時段移動；但如果在9點30分到10點之間出發，可能會碰上人潮集中的時間。要去機場或火車站的那天，記住這個規律會很有幫助。"
+          ],
+          "photo": "offices",
+          "caption": "地鐵剪票口"
+        },
+        {
+          "h": "考場前200m起，車輛禁止駛入",
+          "p": [
+            "修能當天，考場前200m起會管制車輛進入。作為考場的學校在全國85個考區共有1,312所，所以首爾市內您住處附近也可能有考場。這種情況下，計程車可能無法開到校門口，只能把您放在稍遠一點的地方。",
+            "經過考場周邊的公車和列車，被要求緩慢行駛並盡量不按喇叭。工地和活動場地也被要求降低噪音。在附近步行時，如果您能把說話聲音放低一些，會很受歡迎。"
+          ],
+          "photo": "streets",
+          "caption": "首爾學校門前的街道"
+        },
+        {
+          "h": "早上6點到8點10分，地鐵加開班次",
+          "p": [
+            "在考生移動的上午6點到8點10分，首都圈地鐵會增加行駛班次。警察局等行政機關的緊急運輸車輛也會部署在考生經過的道路上。有些車站會有許多穿制服的學生和前來加油的家人，所以帶著大件行李搭車時，請多留一點時間。",
+            "對一般考生來說，考試於上午8點40分開始，下午5點45分結束。從考試結束的傍晚起，街上又會擠滿考完試的學生。如果晚上有聚餐安排，可以預想到熱鬧街區的餐廳會比平常人多。"
+          ],
+          "photo": "transit",
+          "caption": "駛過漢江的地鐵"
+        }
+      ],
+      "box": [
+        {
+          "k": "時間",
+          "v": [
+            "2026年11月19日（週四）· 考試 08:40～17:45（一般考生）"
+          ]
+        },
+        {
+          "k": "飛機",
+          "v": [
+            "13:10～13:35 全國航班、直升機起降時間調整"
+          ]
+        },
+        {
+          "k": "上班·交通",
+          "v": [
+            "請求政府機關、企業10點以後上班（非強制）",
+            "首都圈地鐵 06:00～08:10 加開班次"
+          ]
+        },
+        {
+          "k": "考場周邊",
+          "v": [
+            "200m前起管制車輛進入 · 公車、列車緩行，盡量不按喇叭"
+          ]
+        },
+        {
+          "k": "在Trabbit中",
+          "v": [
+            "請用「地鐵路線圖」和「機場抵達」事先安排當天的行程。兩者都是免費的。"
+          ]
+        }
+      ],
+      "outro": "修能當天出遊，只要記住13:00前後的班機和上午10點的上班尖峰，就會輕鬆許多。",
+      "sources": [
+        "教育部《為2027學年度大學修學能力考試當天穩定實施考試的支援對策》（2026年10月20日國務會議報告，大韓民國政策簡報，2026年11月8日確認）",
+        "韓國課程評價院《2027學年度大學修學能力考試實施基本計畫》（2026年3月31日）"
+      ],
+      "credit": "照片：韓國觀光公社"
+    }
+  }
+}
