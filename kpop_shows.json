@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261110",
+  "fetched": "20261111",
   "source": "KOPIS",
   "shows": [
     {
@@ -1203,6 +1203,17 @@
           "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013449"
         }
       ]
+    },
+    {
+      "id": "PF305950",
+      "name": "KIM JONGHYEON FAN CONCERT: HAPPY CEREMONY (Mapo Winter Edition)",
+      "venue": "마포아트센터",
+      "venue_en": "Mapo Art Center",
+      "from": "2026.12.13",
+      "to": "2026.12.13",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305950_261110_125152.jpg",
+      "state": "공연예정",
+      "seats": 1004
     },
     {
       "id": "PF305899",
