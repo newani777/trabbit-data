@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261111",
+  "fetched": "20261112",
   "source": "KOPIS",
   "shows": [
     {
@@ -489,31 +489,6 @@
         {
           "n": "예스24",
           "u": "https://ticket.yes24.com/Perf/60530"
-        }
-      ]
-    },
-    {
-      "id": "PF295591",
-      "name": "SJF at the Theater, Kings of Convenience",
-      "venue": "세종문화회관",
-      "venue_en": "Sejong Center",
-      "from": "2026.11.18",
-      "to": "2026.11.18",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295591_260708_125621.png",
-      "state": "공연예정",
-      "seats": 3022,
-      "book": [
-        {
-          "n": "멜론티켓",
-          "u": "https://ticket.melon.com/performance/index.htm?prodId=213500"
-        },
-        {
-          "n": "세종문화회관",
-          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37400&menuNo=200320#none"
-        },
-        {
-          "n": "예스24",
-          "u": "https://ticket.yes24.com/Perf/59136"
         }
       ]
     },
@@ -1213,7 +1188,13 @@
       "to": "2026.12.13",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305950_261110_125152.jpg",
       "state": "공연예정",
-      "seats": 1004
+      "seats": 1004,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/61014"
+        }
+      ]
     },
     {
       "id": "PF305899",
@@ -1640,6 +1621,23 @@
         {
           "n": "세종문화회관",
           "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37777&menuNo=200320"
+        }
+      ]
+    },
+    {
+      "id": "PF306065",
+      "name": "Tiffany Young: Edge of Calm Tour",
+      "venue": "이화여자대학교 대강당",
+      "venue_en": "",
+      "from": "2026.12.27",
+      "to": "2026.12.27",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306065_261111_130214.png",
+      "state": "공연예정",
+      "seats": 2900,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66778"
         }
       ]
     },
