@@ -756,5 +756,51 @@
    "n": "NHN티켓링크",
    "u": "http://www.ticketlink.co.kr/product/66778"
   }
+ ],
+ "PF306212": [
+  {
+   "n": "멜론티켓",
+   "u": "https://ticket.melon.com/performance/index.htm?prodId=214241"
+  },
+  {
+   "n": "세종문화회관",
+   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37829&menuNo=200320"
+  }
+ ],
+ "PF306216": [
+  {
+   "n": "멜론티켓",
+   "u": "https://ticket.melon.com/performance/index.htm?prodId=214246"
+  },
+  {
+   "n": "세종문화회관",
+   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37828&menuNo=200320#none"
+  }
+ ],
+ "PF306240": [
+  {
+   "n": "NHN티켓링크",
+   "u": "http://www.ticketlink.co.kr/product/66808"
+  }
+ ],
+ "PF306246": [
+  {
+   "n": "멜론티켓",
+   "u": "https://ticket.melon.com/performance/index.htm?prodId=214238"
+  },
+  {
+   "n": "세종문화회관",
+   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37826&menuNo=200320"
+  }
+ ],
+ "PF306258": [
+  {
+   "n": "멜론티켓",
+   "u": "https://ticket.melon.com/performance/index.htm?prodId=214244"
+  },
+  {
+   "n": "세종문화회관",
+   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37827&menuNo=200320"
+  }
  ]
 }
