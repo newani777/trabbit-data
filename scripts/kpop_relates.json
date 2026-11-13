@@ -29,20 +29,6 @@
    "u": "https://ticket.yes24.com/Perf/59533"
   }
  ],
- "PF297759": [
-  {
-   "n": "멜론티켓",
-   "u": "https://ticket.melon.com/performance/index.htm?prodId=213652"
-  },
-  {
-   "n": "세종문화회관",
-   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37477&menuNo=200320"
-  },
-  {
-   "n": "예스24",
-   "u": "https://ticket.yes24.com/Perf/59429"
-  }
- ],
  "PF298220": [
   {
    "n": "예스24",
@@ -801,6 +787,12 @@
   {
    "n": "세종문화회관",
    "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37827&menuNo=200320"
+  }
+ ],
+ "PF306417": [
+  {
+   "n": "멜론티켓",
+   "u": "https://ticket.melon.com/performance/index.htm?prodId=214226"
   }
  ]
 }
