@@ -2,6 +2,51 @@
   "version": 1,
   "articles": [
     {
+      "id": "2026-11-16_ski_season",
+      "no": 5,
+      "kind": "seasonal",
+      "published": "2026-11-16",
+      "week": "2026-11-16",
+      "fresh_until": "2026-12-31",
+      "issue_id": "set49_ski_season",
+      "hero": {
+        "file": "hero.webp",
+        "w": 1080,
+        "h": 720
+      },
+      "title": {
+        "ko": "서울 근교 스키장, 11월 하순부터 하나둘 문을 열어요",
+        "en": "Ski resorts near Seoul start opening in late November",
+        "ja": "ソウル近郊のスキー場が、11月下旬から順に開きます",
+        "de": "Skigebiete nahe Seoul öffnen ab Ende November nach und nach",
+        "es": "Las estaciones de esquí cerca de Seúl empiezan a abrir desde finales de noviembre",
+        "fr": "Les stations de ski près de Séoul ouvrent peu à peu à partir de fin novembre",
+        "id": "Resor ski dekat Seoul mulai buka satu per satu dari akhir November",
+        "pt_br": "As estações de esqui perto de Seul começam a abrir a partir do fim de novembro",
+        "ru": "Лыжные курорты у Сеула начинают открываться с конца ноября",
+        "th": "สกีรีสอร์ตใกล้โซลทยอยเปิดตั้งแต่ปลายเดือนพฤศจิกายน",
+        "vi": "Các khu trượt tuyết gần Seoul lần lượt mở cửa từ cuối tháng 11",
+        "zh_cn": "首尔近郊的滑雪场，11月下旬起陆续开放",
+        "zh_tw": "首爾近郊的滑雪場，11月下旬起陸續開放"
+      },
+      "summary": {
+        "ko": "서울에서 몇 시간 거리의 큰 스키 리조트는 보통 11월 하순부터 문을 열어요. 개장일 확인, 차 없이 가는 법, 장비·옷 대여, 가는 날 아침 확인할 것.",
+        "en": "Big ski resorts a few hours from Seoul usually open from late November. How to check the opening day, reach the slopes without a car, rent gear and clothes, and what to check on the morning you go.",
+        "ja": "ソウルから数時間の大型スキーリゾートは、たいてい11月下旬から開きます。開業日の確認方法、車なしで行く方法、道具やウェアのレンタル、当日の朝に確認したいことをまとめました。",
+        "de": "Große Skiresorts, einige Stunden von Seoul entfernt, öffnen meist ab Ende November. Eröffnungstag prüfen, ohne Auto hinkommen, Ausrüstung und Kleidung leihen, und was Sie am Morgen der Fahrt kontrollieren sollten.",
+        "es": "Las grandes estaciones de esquí a pocas horas de Seúl suelen abrir desde finales de noviembre. Cómo comprobar el día de apertura, llegar sin coche, alquilar equipo y ropa, y qué revisar la mañana de la salida.",
+        "fr": "Les grandes stations de ski à quelques heures de Séoul ouvrent généralement à partir de fin novembre. Vérifier la date d'ouverture, y aller sans voiture, louer matériel et vêtements, et ce qu'il faut contrôler le matin du départ.",
+        "id": "Resor ski besar yang berjarak beberapa jam dari Seoul biasanya buka mulai akhir November. Cara memeriksa hari pembukaan, pergi tanpa mobil, menyewa perlengkapan dan pakaian, serta hal yang perlu dicek pada pagi hari keberangkatan.",
+        "pt_br": "As grandes estações de esqui a poucas horas de Seul costumam abrir a partir do fim de novembro. Como conferir o dia de abertura, ir sem carro, alugar equipamento e roupas, e o que verificar na manhã da ida.",
+        "ru": "Большие лыжные курорты в нескольких часах от Сеула обычно открываются с конца ноября. Как проверить день открытия, добраться без машины, взять напрокат снаряжение и одежду и что проверить утром в день поездки.",
+        "th": "สกีรีสอร์ตขนาดใหญ่ที่อยู่ห่างจากโซลไม่กี่ชั่วโมงมักเปิดตั้งแต่ปลายเดือนพฤศจิกายน วิธีเช็กวันเปิด วิธีไปโดยไม่ต้องใช้รถ การเช่าอุปกรณ์และเสื้อผ้า และสิ่งที่ควรเช็กในเช้าวันเดินทาง",
+        "vi": "Các khu nghỉ dưỡng trượt tuyết lớn cách Seoul vài giờ thường mở cửa từ cuối tháng 11. Cách kiểm tra ngày khai trương, cách đến mà không cần xe, thuê dụng cụ và quần áo, và những điều cần kiểm tra vào sáng ngày đi.",
+        "zh_cn": "距首尔几小时车程的大型滑雪度假村，通常从11月下旬开始营业。本文整理了开放日的确认方法、不开车的前往方式、雪具和滑雪服租赁，以及出发当天早上要确认的事项。",
+        "zh_tw": "距首爾幾小時車程的大型滑雪度假村，通常從11月下旬開始營業。本文整理了開放日的確認方法、不開車的前往方式、雪具和滑雪服租借，以及出發當天早上要確認的事項。"
+      },
+      "bytes": 356404
+    },
+    {
       "id": "2026-11-09_suneung_day",
       "no": 4,
       "kind": "seasonal",
@@ -182,5 +227,5 @@
       "bytes": 928745
     }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-16"
 }

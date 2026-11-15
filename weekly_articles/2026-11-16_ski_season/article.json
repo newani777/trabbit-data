@@ -1,0 +1,1184 @@
+{
+  "id": "2026-11-16_ski_season",
+  "no": 5,
+  "kind": "seasonal",
+  "published": "2026-11-16",
+  "week": "2026-11-16",
+  "fresh_until": "2026-12-31",
+  "issue_id": "set49_ski_season",
+  "photos": {
+    "hero": {
+      "file": "hero.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "when": {
+      "file": "when.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "getting-there": {
+      "file": "getting-there.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "gear": {
+      "file": "gear.webp",
+      "w": 853,
+      "h": 853,
+      "credit": "kto"
+    },
+    "check": {
+      "file": "check.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.hankooki.com/news/articleView.html?idxno=347964",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://view.asiae.co.kr/article/2025111917102847425",
+      "date": "2026-11-09"
+    }
+  ],
+  "langs": {
+    "ko": {
+      "title": "서울 근교 스키장, 11월 하순부터 하나둘 문을 열어요",
+      "summary": "서울에서 몇 시간 거리의 큰 스키 리조트는 보통 11월 하순부터 문을 열어요. 개장일 확인, 차 없이 가는 법, 장비·옷 대여, 가는 날 아침 확인할 것.",
+      "hero_caption": "평창의 스키장 슬로프",
+      "lead": [
+        "한국의 겨울 여행에서 스키는 생각보다 가까워요. 서울에서 몇 시간이면 닿는 큰 스키 리조트들이 보통 11월 하순부터 슬로프를 하나둘 열고, 12월이 되면 대부분 시즌에 들어가요. 지난 시즌에도 많은 곳이 11월 말에서 12월 중순 사이에 문을 열었어요.",
+        "다만 첫날이 정확히 언제인지는 해마다 달라요. 날씨와 눈 만들기 사정에 따라 정해지기 때문이에요. 이번 주부터 12월 사이에 한국에 있다면, 떠나기 전에 확인하면 좋은 네 가지를 정리했어요."
+      ],
+      "sections": [
+        {
+          "h": "개장은 11월 하순부터, 날짜는 리조트 공지로",
+          "p": [
+            "한국 언론 보도에 따르면 강원도의 큰 리조트 여러 곳이 11월 말 개장을 목표로 하고 있고, 12월에 여는 곳도 있어요. 서울에서 가까운 곤지암리조트는 12월 둘째 주를 목표로 한다고 전해졌어요. 다만 이 날짜들은 리조트가 직접 발표한 것이 아니라 보도된 계획이에요.",
+            "한국 스키장은 인공 눈을 만들어 슬로프를 덮은 뒤 문을 열어요. 기온이 충분히 내려가야 눈을 만들 수 있어서, 날씨에 따라 개장이 당겨지거나 미뤄지기도 해요. 리프트권이나 숙소를 예약하기 전에 가려는 리조트의 공식 누리집에서 개장 공지를 꼭 확인하세요."
+          ],
+          "photo": "when",
+          "caption": "슬로프 옆의 제설기와 리프트"
+        },
+        {
+          "h": "차 없이 슬로프까지",
+          "p": [
+            "곤지암은 서울에서 가까운 큰 리조트 가운데 하나라 당일로 다녀오기 좋아요. 평창이나 정선처럼 강원도 깊숙한 곳의 리조트는 거리가 더 멀어서, 차가 없다면 이동 방법부터 정해 두는 게 좋아요.",
+            "서울에서 출발하는 셔틀버스가 있는지, 노선과 예약 방법은 어떤지는 리조트와 시즌마다 달라요. 가려는 리조트에 서울 셔틀이 있는지, 어떻게 예약하는지 미리 물어보세요. 교통과 리프트권, 장비 대여를 한데 묶은 당일 스키 상품을 고르는 것도 방법이에요."
+          ],
+          "photo": "getting-there",
+          "caption": "곤돌라 승강장 앞 광장"
+        },
+        {
+          "h": "장비부터 스키복까지 빌릴 수 있어요",
+          "p": [
+            "대부분의 리조트에는 대여 센터가 있어서 스키와 보드, 부츠는 물론 스키복까지 빌릴 수 있어요. 여행 가방에 스키 장비를 챙겨 오지 않아도 괜찮아요. 따뜻한 속옷과 겹쳐 입을 옷, 장갑 정도만 준비하면 되는 경우가 많아요.",
+            "대여 요금과 외국어 강습이 있는지는 리조트마다 달라요. 처음 타 본다면 강습을 함께 신청할 수 있는지, 영어로 진행하는지 리조트 누리집에서 먼저 확인하세요. 주말에는 대여 센터가 붐빌 수 있으니 아침 일찍 도착하면 기다리는 시간이 줄어요."
+          ],
+          "photo": "gear",
+          "caption": "슬로프를 내려오는 스키어"
+        },
+        {
+          "h": "가는 날 아침에 한 번 더",
+          "p": [
+            "개장 첫날부터 모든 슬로프가 열리는 건 아니에요. 처음에는 몇 개 슬로프만 열고, 눈이 쌓이는 대로 하나씩 늘려 가요. 운영 시간도 날씨에 따라 바뀔 수 있어요.",
+            "그래서 가는 날 아침에 리조트의 운영 일정을 한 번 더 확인하는 게 좋아요. 일정에 여유가 있다면 하루나 이틀을 비워 두세요. 날씨 때문에 계획이 바뀌어도 다른 날로 옮길 수 있어요."
+          ],
+          "photo": "check",
+          "caption": "리프트를 타고 오르는 사람들"
+        }
+      ],
+      "box": [
+        {
+          "k": "언제",
+          "v": [
+            "보통 11월 하순부터 차례로 개장(2026년 11월 언론 보도 기준, 리조트마다 다름)"
+          ]
+        },
+        {
+          "k": "가는 법",
+          "v": [
+            "서울 근교 곤지암은 당일로 다녀오기 좋음",
+            "강원도 리조트는 서울 셔틀·교통 포함 상품을 리조트에 확인"
+          ]
+        },
+        {
+          "k": "빌리기",
+          "v": [
+            "스키·보드·부츠·스키복 대여, 요금과 외국어 강습은 리조트마다 다름"
+          ]
+        },
+        {
+          "k": "요금·시간",
+          "v": [
+            "리조트 공식 누리집에서 확인(이 기사에는 싣지 않음)"
+          ]
+        },
+        {
+          "k": "트래빗에서",
+          "v": [
+            "「날씨와 옷차림」으로 한국 겨울 옷을 챙기고, 「지하철 노선도」로 출발역까지 길을 찾아보세요. 둘 다 무료예요."
+          ]
+        }
+      ],
+      "outro": "개장일은 리조트 공지로, 옷은 겹겹이. 이 두 가지만 챙기면 한국의 첫 겨울 슬로프를 편하게 만날 수 있어요.",
+      "sources": [
+        "한국일보 스키장 개장 준비 보도(2026년 11월 7일, 2026년 11월 9일 확인)",
+        "아시아경제 2025-26 시즌 개장 보도(2025년 11월 19일)",
+        "각 리조트 공식 누리집(개장 공지는 아직 확인하지 못함, 2026년 11월 15일)"
+      ],
+      "credit": "사진: 한국관광공사"
+    },
+    "en": {
+      "title": "Ski resorts near Seoul start opening in late November",
+      "summary": "Big ski resorts a few hours from Seoul usually open from late November. How to check the opening day, reach the slopes without a car, rent gear and clothes, and what to check on the morning you go.",
+      "hero_caption": "A ski slope in Pyeongchang",
+      "lead": [
+        "Skiing in Korea is closer than many travellers think. Big ski resorts a few hours from Seoul usually start opening their slopes in late November, and by December most are in season. Last season, many opened between late November and mid-December.",
+        "The exact first day changes every year, because it depends on the weather and on making snow. If you're in Korea between this week and December, here are four things to check before you go."
+      ],
+      "sections": [
+        {
+          "h": "Openings from late November; dates from the resort",
+          "p": [
+            "Korean press reports say several large resorts in Gangwon aim to open in late November, and some in December. Gonjiam Resort, close to Seoul, is reported to aim for the second week of December. These are reported plans, not announcements from the resorts themselves.",
+            "Korean ski resorts cover the slopes with man-made snow before opening. Snow can only be made when it's cold enough, so openings can move earlier or later with the weather. Before booking lift tickets or a room, check the opening notice on the resort's official website."
+          ],
+          "photo": "when",
+          "caption": "A snow gun and chairlifts beside the slope"
+        },
+        {
+          "h": "Reaching the slopes without a car",
+          "p": [
+            "Gonjiam is one of the large resorts closest to Seoul, so it works well as a day trip. Resorts deeper in Gangwon, such as in Pyeongchang or Jeongseon, are farther away, so if you don't have a car, sort out transport first.",
+            "Whether there's a shuttle bus from Seoul, and how its routes and booking work, differs by resort and by season. Ask the resort whether it has a Seoul shuttle and how to book it. A ski-day package that bundles transport, lift ticket and rental is another option."
+          ],
+          "photo": "getting-there",
+          "caption": "The plaza in front of a gondola station"
+        },
+        {
+          "h": "Rent everything, down to the ski wear",
+          "p": [
+            "Most resorts have rental centres where you can rent skis, boards and boots, and ski wear too. You don't need to pack ski gear in your suitcase. Often, warm base layers, clothes to layer and gloves are all you need.",
+            "Rental prices and lessons in other languages differ by resort. If it's your first time, check on the resort's website whether you can book a lesson and whether it's in English. Rental centres can get busy at weekends, so arriving early cuts the wait."
+          ],
+          "photo": "gear",
+          "caption": "A skier coming down the slope"
+        },
+        {
+          "h": "Check again on the morning you go",
+          "p": [
+            "Not every slope opens on the first day. Resorts open a few slopes first and add more as the snow builds up. Operating hours can also change with the weather.",
+            "So check the resort's operating schedule again on the morning you go. If your plans allow, keep a day or two free. If the weather changes your plan, you can move to another day."
+          ],
+          "photo": "check",
+          "caption": "Riding the chairlift up"
+        }
+      ],
+      "box": [
+        {
+          "k": "When",
+          "v": [
+            "Resorts usually open one by one from late November (Korean press reports, November 2026; varies by resort)"
+          ]
+        },
+        {
+          "k": "Getting there",
+          "v": [
+            "Gonjiam, near Seoul, works as a day trip",
+            "For Gangwon resorts, ask the resort about a Seoul shuttle or packages with transport"
+          ]
+        },
+        {
+          "k": "Rentals",
+          "v": [
+            "Skis, boards, boots and ski wear for rent; prices and lessons in other languages differ by resort"
+          ]
+        },
+        {
+          "k": "Prices and hours",
+          "v": [
+            "Check the resort's official website (not listed in this article)"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Pack for a Korean winter with Weather and What to Wear, and find your way to the station with the Subway Map. Both are free."
+          ]
+        }
+      ],
+      "outro": "Opening day from the resort's notice, clothes in layers. With those two, Korea's first winter slopes are easy to enjoy.",
+      "sources": [
+        "Hankook Ilbo report on ski resort openings (7 November 2026, checked 9 November 2026)",
+        "Asia Economy report on the 2025-26 season openings (19 November 2025)",
+        "Resort official websites (opening notices not yet confirmed, 15 November 2026)"
+      ],
+      "credit": "Photos: Korea Tourism Organization"
+    },
+    "ja": {
+      "title": "ソウル近郊のスキー場が、11月下旬から順に開きます",
+      "summary": "ソウルから数時間の大型スキーリゾートは、たいてい11月下旬から開きます。開業日の確認方法、車なしで行く方法、道具やウェアのレンタル、当日の朝に確認したいことをまとめました。",
+      "hero_caption": "平昌のスキー場のゲレンデ",
+      "lead": [
+        "韓国の冬の旅で、スキーは思ったより身近です。ソウルから数時間で行ける大型スキーリゾートは、たいてい11月下旬からゲレンデを順に開き、12月になるとほとんどがシーズンに入ります。昨シーズンも、多くのスキー場が11月末から12月中旬の間にオープンしました。",
+        "ただ、初日がいつになるかは毎年変わります。天気と人工雪づくりの状況で決まるためです。今週から12月の間に韓国にいらっしゃるなら、出発前に確認したい4つのことをまとめました。"
+      ],
+      "sections": [
+        {
+          "h": "開業は11月下旬から、日付はリゾートの告知で",
+          "p": [
+            "韓国メディアの報道によると、江原道の大型リゾートの多くが11月末のオープンを目指しており、12月に開くところもあります。ソウルから近い昆池岩（コンジアム）リゾートは、12月の第2週を目指していると伝えられています。ただし、これらの日付はリゾート自身の発表ではなく、報じられた計画です。",
+            "韓国のスキー場は、人工雪でゲレンデを覆ってから営業を始めます。雪をつくるには気温が十分に下がる必要があるため、天気によってオープンが早まったり遅れたりします。リフト券や宿を予約する前に、行きたいリゾートの公式サイトでオープンの告知を必ず確認してください。"
+          ],
+          "caption": "ゲレンデ脇の造雪機とリフト",
+          "photo": "when"
+        },
+        {
+          "h": "車がなくてもゲレンデへ",
+          "p": [
+            "昆池岩（コンジアム）はソウルから近い大型リゾートの一つなので、日帰りに向いています。平昌（ピョンチャン）や旌善（チョンソン）のように江原道の奥にあるリゾートは距離が遠いため、車がない場合は、まず移動手段を決めておくのがおすすめです。",
+            "ソウル発のシャトルバスがあるか、路線や予約方法はどうなっているかは、リゾートやシーズンごとに異なります。行きたいリゾートにソウル発のシャトルがあるか、どう予約するかを事前に問い合わせてみてください。交通とリフト券、道具のレンタルをまとめた日帰りスキーのプランを選ぶのも一つの方法です。"
+          ],
+          "caption": "ゴンドラ乗り場前の広場",
+          "photo": "getting-there"
+        },
+        {
+          "h": "道具からスキーウェアまで借りられます",
+          "p": [
+            "ほとんどのリゾートにはレンタルセンターがあり、スキーやボード、ブーツはもちろん、スキーウェアまで借りられます。スーツケースにスキー用品を詰めて来なくても大丈夫です。暖かい下着と重ね着できる服、手袋くらいを用意すれば足りることが多いです。",
+            "レンタル料金や外国語のレッスンの有無は、リゾートごとに異なります。初めて滑るなら、レッスンを一緒に申し込めるか、英語で行われるかを、リゾートのサイトで先に確認しましょう。週末はレンタルセンターが混み合うことがあるので、朝早く着くと待ち時間が短くなります。"
+          ],
+          "caption": "ゲレンデを滑り降りるスキーヤー",
+          "photo": "gear"
+        },
+        {
+          "h": "行く日の朝にもう一度確認を",
+          "p": [
+            "オープン初日から、すべてのゲレンデが開くわけではありません。最初は数本のゲレンデだけを開き、雪が積もるにつれて一つずつ増やしていきます。営業時間も天気によって変わることがあります。",
+            "そのため、行く日の朝に、リゾートの営業スケジュールをもう一度確認するのがおすすめです。日程に余裕があるなら、1日か2日あけておきましょう。天気で予定が変わっても、別の日に移せます。"
+          ],
+          "caption": "リフトで上っていく人たち",
+          "photo": "check"
+        }
+      ],
+      "box": [
+        {
+          "k": "いつ",
+          "v": [
+            "たいてい11月下旬から順次オープン（2026年11月の報道に基づく、リゾートごとに異なります）"
+          ]
+        },
+        {
+          "k": "行き方",
+          "v": [
+            "ソウル近郊の昆池岩（コンジアム）は日帰りに向いています",
+            "江原道のリゾートは、ソウル発シャトルや交通込みのプランをリゾートに確認"
+          ]
+        },
+        {
+          "k": "レンタル",
+          "v": [
+            "スキー・ボード・ブーツ・スキーウェアをレンタル。料金や外国語レッスンはリゾートごとに異なります"
+          ]
+        },
+        {
+          "k": "料金・時間",
+          "v": [
+            "リゾートの公式サイトで確認（この記事には載せていません）"
+          ]
+        },
+        {
+          "k": "トラビットで",
+          "v": [
+            "「天気と服装」で韓国の冬の服を準備し、「地下鉄路線図」で出発駅までの道を調べてみてください。どちらも無料です。"
+          ]
+        }
+      ],
+      "outro": "開業日はリゾートの告知で、服は重ね着で。この2つを押さえれば、韓国の初冬のゲレンデを気軽に楽しめます。",
+      "sources": [
+        "韓国日報 スキー場オープン準備の報道（2026年11月7日、2026年11月9日確認）",
+        "アジア経済 2025-26シーズンのオープン報道（2025年11月19日）",
+        "各リゾートの公式サイト（オープンの告知はまだ確認できていません、2026年11月15日）"
+      ],
+      "credit": "写真：韓国観光公社"
+    },
+    "de": {
+      "title": "Skigebiete nahe Seoul öffnen ab Ende November nach und nach",
+      "summary": "Große Skiresorts, einige Stunden von Seoul entfernt, öffnen meist ab Ende November. Eröffnungstag prüfen, ohne Auto hinkommen, Ausrüstung und Kleidung leihen, und was Sie am Morgen der Fahrt kontrollieren sollten.",
+      "hero_caption": "Eine Skipiste in Pyeongchang",
+      "lead": [
+        "Skifahren ist auf einer Winterreise in Korea näher, als man denkt. Große Skiresorts, die von Seoul aus in wenigen Stunden erreichbar sind, öffnen ihre Pisten meist ab Ende November nach und nach, und im Dezember sind die meisten in der Saison. Auch in der vergangenen Saison öffneten viele Resorts zwischen Ende November und Mitte Dezember.",
+        "Der genaue erste Tag ist allerdings jedes Jahr anders, denn er hängt vom Wetter und von der Schneeerzeugung ab. Wenn Sie zwischen dieser Woche und Dezember in Korea sind, finden Sie hier vier Dinge, die Sie vor der Abreise prüfen sollten."
+      ],
+      "sections": [
+        {
+          "h": "Eröffnung ab Ende November, das Datum laut Mitteilung des Resorts",
+          "p": [
+            "Nach Berichten koreanischer Medien peilen mehrere große Resorts in Gangwon-do eine Eröffnung Ende November an, manche öffnen im Dezember. Für das Gonjiam Resort nahe Seoul hieß es, es peile die zweite Dezemberwoche an. Diese Termine hat das Resort jedoch nicht selbst bekannt gegeben, es sind berichtete Pläne.",
+            "Koreanische Skigebiete bedecken die Pisten vor der Eröffnung mit Kunstschnee. Schnee lässt sich nur herstellen, wenn es kalt genug ist, deshalb kann sich die Eröffnung je nach Wetter vorziehen oder verschieben. Bevor Sie Liftkarten oder eine Unterkunft buchen, prüfen Sie unbedingt die Eröffnungsmitteilung auf der offiziellen Website des Resorts."
+          ],
+          "photo": "when",
+          "caption": "Schneekanone und Lifte neben der Piste"
+        },
+        {
+          "h": "Ohne Auto zur Piste",
+          "p": [
+            "Gonjiam gehört zu den großen Resorts nahe Seoul und eignet sich gut für einen Tagesausflug. Resorts tiefer in Gangwon-do, etwa in Pyeongchang oder Jeongseon, sind weiter entfernt; ohne Auto klären Sie am besten zuerst, wie Sie hinkommen.",
+            "Ob es einen Shuttlebus ab Seoul gibt und wie Strecken und Buchung aussehen, unterscheidet sich je nach Resort und Saison. Fragen Sie vorab beim Resort nach, ob es einen Seoul-Shuttle gibt und wie man ihn bucht. Ein Skitag-Paket, das Transport, Liftkarte und Ausrüstungsverleih bündelt, ist ebenfalls eine Möglichkeit."
+          ],
+          "photo": "getting-there",
+          "caption": "Der Platz vor einer Gondelstation"
+        },
+        {
+          "h": "Vom Equipment bis zur Skikleidung alles zu leihen",
+          "p": [
+            "Die meisten Resorts haben einen Verleih, bei dem Sie Ski, Snowboard und Skischuhe und sogar Skikleidung ausleihen können. Skiausrüstung müssen Sie nicht im Reisekoffer mitbringen. Oft genügen warme Unterwäsche, Kleidung zum Schichten und Handschuhe.",
+            "Leihgebühren und fremdsprachige Kurse unterscheiden sich von Resort zu Resort. Wenn Sie zum ersten Mal fahren, prüfen Sie zuerst auf der Website des Resorts, ob Sie einen Kurs dazubuchen können und ob er auf Englisch stattfindet. Am Wochenende kann der Verleih voll sein; wer früh am Morgen ankommt, wartet weniger."
+          ],
+          "photo": "gear",
+          "caption": "Ein Skifahrer fährt die Piste hinab"
+        },
+        {
+          "h": "Am Morgen der Fahrt noch einmal prüfen",
+          "p": [
+            "Am ersten Tag sind nicht alle Pisten geöffnet. Anfangs öffnen nur einige Pisten, und mit dem Schnee kommen nach und nach weitere hinzu. Auch die Betriebszeiten können sich je nach Wetter ändern.",
+            "Prüfen Sie deshalb am Morgen der Fahrt noch einmal den Betriebsplan des Resorts. Wenn Ihr Zeitplan es zulässt, halten Sie ein oder zwei Tage frei. Ändert das Wetter Ihre Pläne, können Sie auf einen anderen Tag ausweichen."
+          ],
+          "photo": "check",
+          "caption": "Menschen fahren mit dem Lift nach oben"
+        }
+      ],
+      "box": [
+        {
+          "k": "Wann",
+          "v": [
+            "Meist ab Ende November nacheinander geöffnet (nach Medienberichten vom November 2026, je nach Resort unterschiedlich)"
+          ]
+        },
+        {
+          "k": "Anreise",
+          "v": [
+            "Gonjiam nahe Seoul eignet sich gut für einen Tagesausflug",
+            "Bei Resorts in Gangwon-do beim Resort nach Seoul-Shuttle und Paketen mit Transport fragen"
+          ]
+        },
+        {
+          "k": "Leihen",
+          "v": [
+            "Ski, Snowboard, Skischuhe und Skikleidung zu leihen; Preise und fremdsprachige Kurse je nach Resort unterschiedlich"
+          ]
+        },
+        {
+          "k": "Preise und Zeiten",
+          "v": [
+            "Auf der offiziellen Website des Resorts prüfen (in diesem Artikel nicht angegeben)"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Packen Sie für den koreanischen Winter mit „Wetter & Kleidung“ und finden Sie mit dem „U-Bahn-Netzplan“ den Weg zur Starthaltestelle. Beides ist kostenlos."
+          ]
+        }
+      ],
+      "outro": "Den Eröffnungstag laut Mitteilung des Resorts prüfen, die Kleidung in Schichten wählen. Mit diesen zwei Dingen begegnen Sie Koreas ersten Winterpisten ganz entspannt.",
+      "sources": [
+        "Bericht der Hankook Ilbo über die Vorbereitungen der Skigebiete auf die Eröffnung (7. November 2026, abgerufen am 9. November 2026)",
+        "Bericht der Asia Economy über die Eröffnungen der Saison 2025-26 (19. November 2025)",
+        "Offizielle Websites der Resorts (Eröffnungsmitteilungen noch nicht bestätigt, 15. November 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "es": {
+      "title": "Las estaciones de esquí cerca de Seúl empiezan a abrir desde finales de noviembre",
+      "summary": "Las grandes estaciones de esquí a pocas horas de Seúl suelen abrir desde finales de noviembre. Cómo comprobar el día de apertura, llegar sin coche, alquilar equipo y ropa, y qué revisar la mañana de la salida.",
+      "hero_caption": "Una pista de esquí en Pyeongchang",
+      "lead": [
+        "El esquí está más cerca de lo que se piensa en un viaje de invierno por Corea. Las grandes estaciones, a pocas horas de Seúl, suelen ir abriendo sus pistas una a una desde finales de noviembre, y en diciembre la mayoría ya está en temporada. La temporada pasada, muchas también abrieron entre finales de noviembre y mediados de diciembre.",
+        "Eso sí, el primer día exacto cambia cada año, porque depende del tiempo y de la producción de nieve. Si está en Corea entre esta semana y diciembre, aquí tiene cuatro cosas que conviene comprobar antes de salir."
+      ],
+      "sections": [
+        {
+          "h": "Aperturas desde finales de noviembre, la fecha según el aviso de la estación",
+          "p": [
+            "Según informan los medios coreanos, varias grandes estaciones de Gangwon-do aspiran a abrir a finales de noviembre, y algunas lo harán en diciembre. Se dice que Gonjiam Resort, cerca de Seúl, apunta a la segunda semana de diciembre. Sin embargo, estas fechas no las ha anunciado la propia estación: son planes difundidos por la prensa.",
+            "Las estaciones de esquí coreanas cubren las pistas con nieve artificial antes de abrir. La nieve solo se puede fabricar cuando hace suficiente frío, así que la apertura puede adelantarse o retrasarse según el tiempo. Antes de reservar forfaits o alojamiento, consulte sin falta el aviso de apertura en el sitio web oficial de la estación."
+          ],
+          "photo": "when",
+          "caption": "Un cañón de nieve y remontes junto a la pista"
+        },
+        {
+          "h": "Hasta las pistas sin coche",
+          "p": [
+            "Gonjiam es una de las grandes estaciones cercanas a Seúl, por lo que resulta cómoda para una excursión de un día. Las estaciones más adentradas en Gangwon-do, como las de Pyeongchang o Jeongseon, están más lejos; si no tiene coche, lo mejor es decidir primero cómo llegar.",
+            "Si hay autobús lanzadera desde Seúl, y cómo son sus rutas y su reserva, varía según la estación y la temporada. Pregunte de antemano a la estación si tiene lanzadera desde Seúl y cómo se reserva. Elegir un paquete de esquí de un día que incluya transporte, forfait y alquiler de equipo también es una opción."
+          ],
+          "photo": "getting-there",
+          "caption": "La plaza frente a una estación de góndola"
+        },
+        {
+          "h": "Se alquila todo, hasta la ropa de esquí",
+          "p": [
+            "La mayoría de las estaciones tienen un centro de alquiler donde se pueden alquilar esquís, tablas y botas, e incluso la ropa de esquí. No hace falta traer el equipo de esquí en la maleta. A menudo basta con llevar ropa interior térmica, prendas para llevar por capas y guantes.",
+            "Los precios de alquiler y las clases en otros idiomas varían según la estación. Si es su primera vez, compruebe primero en el sitio web de la estación si puede reservar una clase y si se imparte en inglés. Los fines de semana el centro de alquiler puede estar lleno; si llega temprano por la mañana, esperará menos."
+          ],
+          "photo": "gear",
+          "caption": "Un esquiador bajando por la pista"
+        },
+        {
+          "h": "Una comprobación más la mañana de la salida",
+          "p": [
+            "No todas las pistas abren desde el primer día. Al principio solo abren unas pocas, y se van sumando más a medida que se acumula la nieve. El horario de funcionamiento también puede cambiar según el tiempo.",
+            "Por eso conviene volver a consultar el calendario de funcionamiento de la estación la mañana de la salida. Si su agenda lo permite, deje uno o dos días libres. Si el tiempo cambia sus planes, podrá pasarlo a otro día."
+          ],
+          "photo": "check",
+          "caption": "Gente subiendo en el telesilla"
+        }
+      ],
+      "box": [
+        {
+          "k": "Cuándo",
+          "v": [
+            "Suelen abrir una tras otra desde finales de noviembre (según la prensa de noviembre de 2026; varía según la estación)"
+          ]
+        },
+        {
+          "k": "Cómo llegar",
+          "v": [
+            "Gonjiam, cerca de Seúl, es cómoda para una excursión de un día",
+            "Para las estaciones de Gangwon-do, consulte con la estación la lanzadera desde Seúl o los paquetes con transporte"
+          ]
+        },
+        {
+          "k": "Alquiler",
+          "v": [
+            "Alquiler de esquís, tablas, botas y ropa de esquí; precios y clases en otros idiomas varían según la estación"
+          ]
+        },
+        {
+          "k": "Precios y horarios",
+          "v": [
+            "Consúltelos en el sitio web oficial de la estación (no figuran en este artículo)"
+          ]
+        },
+        {
+          "k": "En Trabbit",
+          "v": [
+            "Prepare su ropa para el invierno coreano con «Clima y ropa» y encuentre el camino hasta la estación de salida con el «Mapa del metro». Ambos son gratis."
+          ]
+        }
+      ],
+      "outro": "La fecha de apertura, según el aviso de la estación; la ropa, por capas. Con estas dos cosas, disfrutará sin problemas de las primeras pistas de invierno de Corea.",
+      "sources": [
+        "Reportaje del Hankook Ilbo sobre los preparativos de apertura de las estaciones de esquí (7 de noviembre de 2026, consultado el 9 de noviembre de 2026)",
+        "Reportaje de Asia Economy sobre las aperturas de la temporada 2025-26 (19 de noviembre de 2025)",
+        "Sitios web oficiales de las estaciones (avisos de apertura aún sin confirmar, 15 de noviembre de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "fr": {
+      "title": "Les stations de ski près de Séoul ouvrent peu à peu à partir de fin novembre",
+      "summary": "Les grandes stations de ski à quelques heures de Séoul ouvrent généralement à partir de fin novembre. Vérifier la date d'ouverture, y aller sans voiture, louer matériel et vêtements, et ce qu'il faut contrôler le matin du départ.",
+      "hero_caption": "Une piste de ski à Pyeongchang",
+      "lead": [
+        "Le ski est plus proche qu'on ne le croit lors d'un voyage d'hiver en Corée. Les grandes stations, à quelques heures de Séoul, ouvrent généralement leurs pistes une à une à partir de fin novembre, et en décembre la plupart sont en pleine saison. La saison dernière aussi, beaucoup ont ouvert entre fin novembre et la mi-décembre.",
+        "Le premier jour exact change toutefois chaque année, car il dépend de la météo et de la fabrication de neige. Si vous êtes en Corée entre cette semaine et décembre, voici quatre points à vérifier avant de partir."
+      ],
+      "sections": [
+        {
+          "h": "Ouvertures à partir de fin novembre, la date selon l'annonce de la station",
+          "p": [
+            "Selon la presse coréenne, plusieurs grandes stations de Gangwon-do visent une ouverture fin novembre, et certaines en décembre. Le Gonjiam Resort, proche de Séoul, viserait la deuxième semaine de décembre. Ces dates n'ont toutefois pas été annoncées par la station elle-même : ce sont des projets rapportés par la presse.",
+            "Les stations coréennes recouvrent les pistes de neige artificielle avant d'ouvrir. On ne peut fabriquer de la neige que s'il fait assez froid, donc l'ouverture peut être avancée ou repoussée selon la météo. Avant de réserver des forfaits de remontées ou un hébergement, consultez absolument l'annonce d'ouverture sur le site officiel de la station."
+          ],
+          "photo": "when",
+          "caption": "Un canon à neige et des remontées au bord de la piste"
+        },
+        {
+          "h": "Rejoindre les pistes sans voiture",
+          "p": [
+            "Gonjiam fait partie des grandes stations proches de Séoul, idéale pour une excursion à la journée. Les stations plus profondes dans le Gangwon-do, comme à Pyeongchang ou Jeongseon, sont plus éloignées ; sans voiture, mieux vaut d'abord décider comment s'y rendre.",
+            "L'existence d'une navette au départ de Séoul, ses itinéraires et son mode de réservation varient selon la station et la saison. Demandez à l'avance à la station si elle propose une navette depuis Séoul et comment la réserver. Choisir une formule ski à la journée qui regroupe transport, forfait de remontées et location de matériel est aussi une option."
+          ],
+          "photo": "getting-there",
+          "caption": "La place devant une gare de télécabine"
+        },
+        {
+          "h": "Tout se loue, du matériel jusqu'à la tenue de ski",
+          "p": [
+            "La plupart des stations ont un centre de location où l'on peut louer skis, snowboards et chaussures, et même la tenue de ski. Inutile d'emporter votre matériel de ski dans vos valises. Souvent, il suffit de prévoir des sous-vêtements chauds, des vêtements à superposer et des gants.",
+            "Les tarifs de location et les cours dans d'autres langues varient d'une station à l'autre. Si c'est votre première fois, vérifiez d'abord sur le site de la station si vous pouvez réserver un cours et s'il est donné en anglais. Le week-end, le centre de location peut être bondé ; en arrivant tôt le matin, vous attendrez moins."
+          ],
+          "photo": "gear",
+          "caption": "Un skieur descend la piste"
+        },
+        {
+          "h": "Revérifier le matin du départ",
+          "p": [
+            "Toutes les pistes n'ouvrent pas dès le premier jour. Au début, seules quelques pistes ouvrent, puis d'autres s'ajoutent au fur et à mesure que la neige s'accumule. Les horaires d'exploitation peuvent aussi changer selon la météo.",
+            "Il vaut donc mieux revérifier le programme d'exploitation de la station le matin du départ. Si votre emploi du temps le permet, gardez un ou deux jours de libres. Si la météo bouleverse vos plans, vous pourrez reporter à un autre jour."
+          ],
+          "photo": "check",
+          "caption": "Des gens montent en remontée mécanique"
+        }
+      ],
+      "box": [
+        {
+          "k": "Quand",
+          "v": [
+            "Généralement ouverture échelonnée à partir de fin novembre (d'après la presse de novembre 2026, variable selon la station)"
+          ]
+        },
+        {
+          "k": "Comment y aller",
+          "v": [
+            "Gonjiam, près de Séoul, convient pour une excursion à la journée",
+            "Pour les stations du Gangwon-do, se renseigner auprès de la station sur la navette depuis Séoul ou les formules incluant le transport"
+          ]
+        },
+        {
+          "k": "Location",
+          "v": [
+            "Location de skis, snowboards, chaussures et tenue de ski ; tarifs et cours en langues étrangères variables selon la station"
+          ]
+        },
+        {
+          "k": "Tarifs et horaires",
+          "v": [
+            "À vérifier sur le site officiel de la station (non indiqués dans cet article)"
+          ]
+        },
+        {
+          "k": "Dans Trabbit",
+          "v": [
+            "Préparez vos vêtements pour l'hiver coréen avec « Météo et tenues » et trouvez votre chemin jusqu'à la station de départ avec le « Plan du métro ». Les deux sont gratuits."
+          ]
+        }
+      ],
+      "outro": "La date d'ouverture selon l'annonce de la station, les vêtements en plusieurs couches. Avec ces deux points, vous profiterez sans souci des premières pistes d'hiver en Corée.",
+      "sources": [
+        "Article du Hankook Ilbo sur les préparatifs d'ouverture des stations de ski (7 novembre 2026, consulté le 9 novembre 2026)",
+        "Article de l'Asia Economy sur les ouvertures de la saison 2025-26 (19 novembre 2025)",
+        "Sites officiels des stations (annonces d'ouverture pas encore confirmées, 15 novembre 2026)"
+      ],
+      "credit": "Photos : Korea Tourism Organization"
+    },
+    "id": {
+      "title": "Resor ski dekat Seoul mulai buka satu per satu dari akhir November",
+      "summary": "Resor ski besar yang berjarak beberapa jam dari Seoul biasanya buka mulai akhir November. Cara memeriksa hari pembukaan, pergi tanpa mobil, menyewa perlengkapan dan pakaian, serta hal yang perlu dicek pada pagi hari keberangkatan.",
+      "hero_caption": "Lereng ski di Pyeongchang",
+      "lead": [
+        "Ski di Korea lebih dekat daripada yang dibayangkan banyak orang. Resor ski besar yang berjarak beberapa jam dari Seoul biasanya mulai membuka lerengnya satu per satu dari akhir November, dan memasuki Desember sebagian besar sudah memasuki musim. Pada musim lalu pun, banyak resor yang buka antara akhir November dan pertengahan Desember.",
+        "Namun hari pertama yang tepat berbeda setiap tahun, karena ditentukan oleh cuaca dan kondisi pembuatan salju. Jika Anda berada di Korea antara minggu ini dan Desember, berikut empat hal yang sebaiknya diperiksa sebelum berangkat."
+      ],
+      "sections": [
+        {
+          "h": "Pembukaan mulai akhir November, tanggal lihat pengumuman resor",
+          "p": [
+            "Menurut pemberitaan media Korea, beberapa resor besar di Provinsi Gangwon menargetkan pembukaan pada akhir November, dan ada pula yang membuka pada Desember. Resor Gonjiam yang dekat dari Seoul dikabarkan menargetkan minggu kedua Desember. Namun tanggal-tanggal ini bukan diumumkan langsung oleh resor, melainkan rencana yang diberitakan.",
+            "Resor ski di Korea membuka lerengnya setelah menutupinya dengan salju buatan. Salju hanya dapat dibuat jika suhu cukup dingin, sehingga pembukaan bisa lebih awal atau mundur tergantung cuaca. Sebelum memesan tiket lift atau penginapan, pastikan memeriksa pengumuman pembukaan di situs web resmi resor yang akan Anda tuju."
+          ],
+          "photo": "when",
+          "caption": "Mesin salju dan lift di samping lereng"
+        },
+        {
+          "h": "Menuju lereng tanpa mobil",
+          "p": [
+            "Gonjiam adalah salah satu resor besar yang paling dekat dari Seoul, sehingga cocok untuk perjalanan sehari. Resor di pedalaman Gangwon seperti Pyeongchang atau Jeongseon jaraknya lebih jauh, jadi jika tidak punya mobil, tentukan dulu cara bepergiannya.",
+            "Apakah ada bus antar-jemput dari Seoul, bagaimana rutenya, dan cara pemesanannya berbeda-beda menurut resor dan musim. Tanyakan lebih dulu kepada resor apakah ada shuttle dari Seoul dan bagaimana cara memesannya. Memilih paket ski sehari yang menggabungkan transportasi, tiket lift, dan penyewaan perlengkapan juga bisa menjadi pilihan."
+          ],
+          "photo": "getting-there",
+          "caption": "Plaza di depan stasiun gondola"
+        },
+        {
+          "h": "Dari perlengkapan hingga pakaian ski bisa disewa",
+          "p": [
+            "Sebagian besar resor memiliki pusat penyewaan tempat Anda dapat menyewa ski, papan seluncur, sepatu bot, bahkan pakaian ski. Anda tidak perlu membawa perlengkapan ski di koper. Sering kali yang perlu disiapkan hanya pakaian dalam hangat, pakaian untuk dilapis, dan sarung tangan.",
+            "Tarif sewa dan ada tidaknya kelas dalam bahasa asing berbeda-beda di setiap resor. Jika baru pertama kali bermain ski, periksa dulu di situs web resor apakah Anda bisa mendaftar kelas dan apakah kelas diadakan dalam bahasa Inggris. Pada akhir pekan pusat penyewaan bisa ramai, jadi datang pagi-pagi akan mengurangi waktu menunggu."
+          ],
+          "photo": "gear",
+          "caption": "Pemain ski meluncur menuruni lereng"
+        },
+        {
+          "h": "Periksa sekali lagi pada pagi hari keberangkatan",
+          "p": [
+            "Tidak semua lereng dibuka sejak hari pertama. Pada awalnya hanya beberapa lereng yang dibuka, lalu ditambah satu per satu seiring salju menumpuk. Jam operasional juga bisa berubah sesuai cuaca.",
+            "Karena itu, sebaiknya periksa kembali jadwal operasional resor pada pagi hari keberangkatan. Jika jadwal Anda longgar, sisakan satu atau dua hari kosong. Jika rencana berubah karena cuaca, Anda bisa memindahkannya ke hari lain."
+          ],
+          "photo": "check",
+          "caption": "Orang-orang naik lift ke atas"
+        }
+      ],
+      "box": [
+        {
+          "k": "Kapan",
+          "v": [
+            "Biasanya buka satu per satu mulai akhir November (berdasarkan pemberitaan media November 2026; berbeda di tiap resor)"
+          ]
+        },
+        {
+          "k": "Cara ke sana",
+          "v": [
+            "Gonjiam dekat Seoul cocok untuk perjalanan sehari",
+            "Untuk resor di Gangwon, tanyakan kepada resor tentang shuttle dari Seoul atau paket yang sudah termasuk transportasi"
+          ]
+        },
+        {
+          "k": "Menyewa",
+          "v": [
+            "Tersedia sewa ski, papan seluncur, sepatu bot, dan pakaian ski; tarif dan kelas dalam bahasa asing berbeda di tiap resor"
+          ]
+        },
+        {
+          "k": "Tarif dan jam",
+          "v": [
+            "Periksa di situs web resmi resor (tidak dicantumkan dalam artikel ini)"
+          ]
+        },
+        {
+          "k": "Di Trabbit",
+          "v": [
+            "Siapkan pakaian untuk musim dingin Korea dengan 「Cuaca & Pakaian」, dan cari rute ke stasiun keberangkatan dengan 「Peta Kereta Bawah Tanah」. Keduanya gratis."
+          ]
+        }
+      ],
+      "outro": "Hari pembukaan dari pengumuman resor, pakaian berlapis-lapis. Dengan dua hal ini, Anda bisa menikmati lereng musim dingin pertama di Korea dengan nyaman.",
+      "sources": [
+        "Hankook Ilbo, pemberitaan persiapan pembukaan resor ski (7 November 2026, diperiksa 9 November 2026)",
+        "Asia Economy, pemberitaan pembukaan musim 2025-26 (19 November 2025)",
+        "Situs web resmi masing-masing resor (pengumuman pembukaan belum dapat dipastikan, 15 November 2026)"
+      ],
+      "credit": "Foto: Korea Tourism Organization"
+    },
+    "pt_br": {
+      "title": "As estações de esqui perto de Seul começam a abrir a partir do fim de novembro",
+      "summary": "As grandes estações de esqui a poucas horas de Seul costumam abrir a partir do fim de novembro. Como conferir o dia de abertura, ir sem carro, alugar equipamento e roupas, e o que verificar na manhã da ida.",
+      "hero_caption": "Uma pista de esqui em Pyeongchang",
+      "lead": [
+        "O esqui é mais perto do que parece numa viagem de inverno à Coreia. As grandes estações, a poucas horas de Seul, costumam ir abrindo suas pistas uma a uma a partir do fim de novembro, e em dezembro a maioria já está em temporada. Na temporada passada, muitas também abriram entre o fim de novembro e meados de dezembro.",
+        "Mas o primeiro dia exato muda a cada ano, porque depende do clima e da produção de neve. Se você estiver na Coreia entre esta semana e dezembro, aqui estão quatro coisas que vale conferir antes de ir."
+      ],
+      "sections": [
+        {
+          "h": "Aberturas a partir do fim de novembro, a data pelo aviso da estação",
+          "p": [
+            "Segundo a imprensa coreana, várias grandes estações de Gangwon-do pretendem abrir no fim de novembro, e algumas em dezembro. Disse-se que o Gonjiam Resort, perto de Seul, tem como meta a segunda semana de dezembro. No entanto, essas datas não foram anunciadas pela própria estação: são planos divulgados pela imprensa.",
+            "As estações de esqui coreanas cobrem as pistas com neve artificial antes de abrir. A neve só pode ser produzida quando está frio o suficiente, então a abertura pode ser antecipada ou adiada conforme o clima. Antes de reservar ingressos de teleférico ou hospedagem, confira sem falta o aviso de abertura no site oficial da estação."
+          ],
+          "photo": "when",
+          "caption": "Um canhão de neve e teleféricos ao lado da pista"
+        },
+        {
+          "h": "Até as pistas sem carro",
+          "p": [
+            "Gonjiam é uma das grandes estações próximas de Seul, por isso é boa para um bate-volta. As estações mais para o interior de Gangwon-do, como as de Pyeongchang ou Jeongseon, ficam mais longe; se você não tem carro, é melhor definir primeiro como chegar.",
+            "Se há ônibus de translado saindo de Seul, e como são as rotas e a reserva, varia conforme a estação e a temporada. Pergunte antes à estação se ela tem translado de Seul e como reservá-lo. Escolher um pacote de esqui de um dia que reúna transporte, ingresso de teleférico e aluguel de equipamento também é uma opção."
+          ],
+          "photo": "getting-there",
+          "caption": "A praça em frente a uma estação de gôndola"
+        },
+        {
+          "h": "Dá para alugar tudo, do equipamento à roupa de esqui",
+          "p": [
+            "A maioria das estações tem um centro de aluguel onde dá para alugar esquis, pranchas e botas, e até a roupa de esqui. Não é preciso trazer equipamento de esqui na mala. Muitas vezes basta levar roupa íntima térmica, peças para usar em camadas e luvas.",
+            "Os preços do aluguel e as aulas em outros idiomas variam de estação para estação. Se for a sua primeira vez, confira antes no site da estação se dá para reservar uma aula e se ela é em inglês. Nos fins de semana o centro de aluguel pode ficar lotado; chegando cedo pela manhã, você espera menos."
+          ],
+          "photo": "gear",
+          "caption": "Um esquiador descendo a pista"
+        },
+        {
+          "h": "Conferir de novo na manhã da ida",
+          "p": [
+            "Nem todas as pistas abrem no primeiro dia. No começo abrem só algumas, e vão sendo acrescentadas outras conforme a neve se acumula. O horário de funcionamento também pode mudar conforme o clima.",
+            "Por isso, vale conferir mais uma vez a programação de funcionamento da estação na manhã da ida. Se a sua agenda permitir, deixe um ou dois dias livres. Se o clima mudar seus planos, você pode passar para outro dia."
+          ],
+          "photo": "check",
+          "caption": "Pessoas subindo no teleférico"
+        }
+      ],
+      "box": [
+        {
+          "k": "Quando",
+          "v": [
+            "Em geral abrem uma após a outra a partir do fim de novembro (segundo a imprensa de novembro de 2026; varia conforme a estação)"
+          ]
+        },
+        {
+          "k": "Como chegar",
+          "v": [
+            "Gonjiam, perto de Seul, é boa para um bate-volta",
+            "Para as estações de Gangwon-do, consulte a estação sobre translado de Seul ou pacotes com transporte"
+          ]
+        },
+        {
+          "k": "Aluguel",
+          "v": [
+            "Aluguel de esquis, pranchas, botas e roupa de esqui; preços e aulas em outros idiomas variam conforme a estação"
+          ]
+        },
+        {
+          "k": "Preços e horários",
+          "v": [
+            "Confira no site oficial da estação (não constam neste artigo)"
+          ]
+        },
+        {
+          "k": "No Trabbit",
+          "v": [
+            "Prepare suas roupas para o inverno coreano com «Clima e roupas» e descubra o caminho até a estação de partida com o «Mapa do metrô». Os dois são gratuitos."
+          ]
+        }
+      ],
+      "outro": "A data de abertura pelo aviso da estação, as roupas em camadas. Com essas duas coisas, você curte numa boa as primeiras pistas de inverno da Coreia.",
+      "sources": [
+        "Reportagem do Hankook Ilbo sobre os preparativos de abertura das estações de esqui (7 de novembro de 2026, consultada em 9 de novembro de 2026)",
+        "Reportagem da Asia Economy sobre as aberturas da temporada 2025-26 (19 de novembro de 2025)",
+        "Sites oficiais das estações (avisos de abertura ainda não confirmados, 15 de novembro de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "ru": {
+      "title": "Лыжные курорты у Сеула начинают открываться с конца ноября",
+      "summary": "Большие лыжные курорты в нескольких часах от Сеула обычно открываются с конца ноября. Как проверить день открытия, добраться без машины, взять напрокат снаряжение и одежду и что проверить утром в день поездки.",
+      "hero_caption": "Склон лыжного курорта в Пхёнчхане",
+      "lead": [
+        "Лыжи в Корее ближе, чем многие думают. Большие лыжные курорты в нескольких часах от Сеула обычно начинают открывать склоны с конца ноября, а с наступлением декабря большинство из них уже работает. В прошлом сезоне многие открылись между концом ноября и серединой декабря.",
+        "Однако точный день первого катания меняется каждый год: он зависит от погоды и условий для производства снега. Если Вы будете в Корее в период с этой недели до декабря, мы собрали четыре вещи, которые стоит проверить перед отъездом."
+      ],
+      "sections": [
+        {
+          "h": "Открытие с конца ноября, а дату смотрите в объявлении курорта",
+          "p": [
+            "По сообщениям корейских СМИ, несколько крупных курортов провинции Канвондо планируют открыться в конце ноября, а некоторые — в декабре. Расположенный недалеко от Сеула курорт Конджиам, как сообщается, планирует открытие на второй неделе декабря. Однако эти даты — не объявления самих курортов, а планы, о которых сообщили СМИ.",
+            "Корейские лыжные курорты открываются после того, как склоны покрыты искусственным снегом. Снег можно делать только при достаточно низкой температуре, поэтому открытие может сдвинуться раньше или позже в зависимости от погоды. Перед бронированием ски-пасса или жилья обязательно проверьте объявление об открытии на официальном сайте нужного курорта."
+          ],
+          "photo": "when",
+          "caption": "Снежная пушка и подъёмники рядом со склоном"
+        },
+        {
+          "h": "До склонов без машины",
+          "p": [
+            "Конджиам — один из крупных курортов, ближайших к Сеулу, поэтому туда удобно съездить на один день. Курорты в глубине провинции Канвондо, например в Пхёнчхане или Чонсоне, находятся дальше, и если машины нет, лучше сначала решить, как добираться.",
+            "Есть ли шаттл из Сеула, каковы его маршруты и как его бронировать, зависит от курорта и сезона. Заранее спросите у курорта, есть ли сеульский шаттл и как его заказать. Ещё один вариант — однодневный лыжный тур, в который включены транспорт, ски-пасс и прокат снаряжения."
+          ],
+          "photo": "getting-there",
+          "caption": "Площадь перед станцией гондольного подъёмника"
+        },
+        {
+          "h": "Можно взять напрокат всё, вплоть до лыжного костюма",
+          "p": [
+            "В большинстве курортов есть пункты проката, где можно взять лыжи, сноуборд и ботинки, а также лыжный костюм. Лыжное снаряжение в чемодан брать не нужно. Часто достаточно взять тёплое бельё, одежду для многослойности и перчатки.",
+            "Цены на прокат и наличие занятий на иностранных языках зависят от курорта. Если Вы встаёте на лыжи впервые, сначала проверьте на сайте курорта, можно ли записаться на занятия и проходят ли они на английском. В выходные пункты проката бывают переполнены, поэтому, если приехать пораньше, ждать придётся меньше."
+          ],
+          "photo": "gear",
+          "caption": "Лыжник на спуске"
+        },
+        {
+          "h": "Проверьте ещё раз утром в день поездки",
+          "p": [
+            "Не все склоны открываются в первый же день. Сначала курорты открывают несколько склонов и по мере накопления снега добавляют новые. Часы работы тоже могут меняться в зависимости от погоды.",
+            "Поэтому утром в день поездки ещё раз проверьте график работы курорта. Если расписание позволяет, оставьте в запасе один-два дня. Если из-за погоды планы изменятся, поездку можно перенести на другой день."
+          ],
+          "photo": "check",
+          "caption": "Люди поднимаются на подъёмнике"
+        }
+      ],
+      "box": [
+        {
+          "k": "Когда",
+          "v": [
+            "Обычно открываются по очереди с конца ноября (по сообщениям СМИ в ноябре 2026 г.; зависит от курорта)"
+          ]
+        },
+        {
+          "k": "Как добраться",
+          "v": [
+            "Конджиам рядом с Сеулом удобен для поездки на один день",
+            "Для курортов Канвондо уточните у курорта шаттл из Сеула или туры с транспортом"
+          ]
+        },
+        {
+          "k": "Прокат",
+          "v": [
+            "Напрокат можно взять лыжи, сноуборд, ботинки и лыжный костюм; цены и занятия на иностранных языках зависят от курорта"
+          ]
+        },
+        {
+          "k": "Цены и часы работы",
+          "v": [
+            "Смотрите на официальном сайте курорта (в этой статье не указаны)"
+          ]
+        },
+        {
+          "k": "В Trabbit",
+          "v": [
+            "Собрать одежду для корейской зимы поможет раздел 「Погода и одежда」, а найти путь до станции отправления — 「Схема метро」. Оба бесплатны."
+          ]
+        }
+      ],
+      "outro": "Дату открытия смотрите в объявлении курорта, одевайтесь в несколько слоёв. С этими двумя вещами первые зимние склоны Кореи доставят только удовольствие.",
+      "sources": [
+        "Hankook Ilbo, репортаж о подготовке лыжных курортов к открытию (7 ноября 2026 г., проверено 9 ноября 2026 г.)",
+        "Asia Economy, репортаж об открытии сезона 2025-26 (19 ноября 2025 г.)",
+        "Официальные сайты курортов (объявления об открытии пока не найдены, 15 ноября 2026 г.)"
+      ],
+      "credit": "Фото: Korea Tourism Organization"
+    },
+    "th": {
+      "title": "สกีรีสอร์ตใกล้โซลทยอยเปิดตั้งแต่ปลายเดือนพฤศจิกายน",
+      "summary": "สกีรีสอร์ตขนาดใหญ่ที่อยู่ห่างจากโซลไม่กี่ชั่วโมงมักเปิดตั้งแต่ปลายเดือนพฤศจิกายน วิธีเช็กวันเปิด วิธีไปโดยไม่ต้องใช้รถ การเช่าอุปกรณ์และเสื้อผ้า และสิ่งที่ควรเช็กในเช้าวันเดินทาง",
+      "hero_caption": "ลานสกีที่พยองชาง",
+      "lead": [
+        "การเล่นสกีในเกาหลีอยู่ใกล้กว่าที่หลายคนคิด สกีรีสอร์ตขนาดใหญ่ที่อยู่ห่างจากโซลไม่กี่ชั่วโมงมักทยอยเปิดลานสกีตั้งแต่ปลายเดือนพฤศจิกายน และพอถึงเดือนธันวาคมส่วนใหญ่ก็เข้าสู่ฤดูกาลแล้ว ในฤดูกาลที่ผ่านมาก็มีหลายแห่งเปิดระหว่างปลายเดือนพฤศจิกายนถึงกลางเดือนธันวาคม",
+        "อย่างไรก็ตาม วันแรกที่แน่ชัดจะต่างกันไปในแต่ละปี เพราะขึ้นอยู่กับสภาพอากาศและสภาพการทำหิมะ หากคุณอยู่ในเกาหลีระหว่างสัปดาห์นี้ถึงเดือนธันวาคม เราได้สรุปสี่เรื่องที่ควรเช็กก่อนออกเดินทาง"
+      ],
+      "sections": [
+        {
+          "h": "เปิดตั้งแต่ปลายเดือนพฤศจิกายน ส่วนวันที่ให้ดูจากประกาศของรีสอร์ต",
+          "p": [
+            "ตามรายงานของสื่อเกาหลี รีสอร์ตขนาดใหญ่หลายแห่งในจังหวัดคังวอนตั้งเป้าเปิดในช่วงปลายเดือนพฤศจิกายน และบางแห่งเปิดในเดือนธันวาคม มีรายงานว่ากอนจีอัมรีสอร์ตซึ่งอยู่ใกล้โซลตั้งเป้าไว้ที่สัปดาห์ที่สองของเดือนธันวาคม แต่วันที่เหล่านี้ไม่ใช่สิ่งที่รีสอร์ตประกาศเอง เป็นแผนที่สื่อรายงาน",
+            "สกีรีสอร์ตในเกาหลีเปิดหลังจากทำหิมะเทียมปกคลุมลานสกีแล้ว การทำหิมะทำได้ก็ต่อเมื่ออุณหภูมิต่ำพอ วันเปิดจึงอาจเร็วขึ้นหรือเลื่อนออกไปตามสภาพอากาศ ก่อนจองตั๋วลิฟต์หรือที่พัก อย่าลืมเช็กประกาศวันเปิดบนเว็บไซต์ทางการของรีสอร์ตที่จะไป"
+          ],
+          "photo": "when",
+          "caption": "เครื่องทำหิมะและลิฟต์ข้างลานสกี"
+        },
+        {
+          "h": "ไปถึงลานสกีโดยไม่ต้องใช้รถ",
+          "p": [
+            "กอนจีอัมเป็นหนึ่งในรีสอร์ตขนาดใหญ่ที่อยู่ใกล้โซล จึงเหมาะกับการไปกลับในวันเดียว ส่วนรีสอร์ตที่อยู่ลึกเข้าไปในคังวอน เช่น พยองชางหรือจองซอน อยู่ไกลกว่า ถ้าไม่มีรถ ควรตัดสินใจเรื่องการเดินทางก่อน",
+            "ว่ามีรถชัตเทิลจากโซลหรือไม่ เส้นทางและวิธีจองเป็นอย่างไร จะต่างกันไปตามรีสอร์ตและฤดูกาล ลองสอบถามล่วงหน้ากับรีสอร์ตที่จะไปว่ามีชัตเทิลจากโซลไหม และจองอย่างไร การเลือกแพ็กเกจเล่นสกีแบบวันเดียวที่รวมการเดินทาง ตั๋วลิฟต์ และการเช่าอุปกรณ์ไว้ด้วยกันก็เป็นอีกทางเลือกหนึ่ง"
+          ],
+          "photo": "getting-there",
+          "caption": "ลานกว้างหน้าสถานีกอนโดลา"
+        },
+        {
+          "h": "เช่าได้ตั้งแต่อุปกรณ์ไปจนถึงชุดสกี",
+          "p": [
+            "รีสอร์ตส่วนใหญ่มีศูนย์เช่า ซึ่งเช่าได้ทั้งสกี สโนว์บอร์ด รองเท้าบูต ไปจนถึงชุดสกี คุณไม่ต้องแบกอุปกรณ์สกีมาในกระเป๋าเดินทาง หลายครั้งแค่เตรียมชุดชั้นในกันหนาว เสื้อผ้าสำหรับใส่ซ้อนกันหลายชั้น และถุงมือก็พอ",
+            "ค่าเช่าและการมีคลาสเรียนเป็นภาษาต่างประเทศหรือไม่ต่างกันไปตามรีสอร์ต หากเล่นสกีครั้งแรก ให้เช็กบนเว็บไซต์ของรีสอร์ตก่อนว่าสมัครคลาสเรียนได้ไหมและสอนเป็นภาษาอังกฤษหรือไม่ วันหยุดสุดสัปดาห์ศูนย์เช่าอาจคนแน่น ถ้าไปถึงแต่เช้าก็จะรอน้อยลง"
+          ],
+          "photo": "gear",
+          "caption": "นักสกีไถลลงมาตามลานสกี"
+        },
+        {
+          "h": "เช็กอีกครั้งในเช้าวันเดินทาง",
+          "p": [
+            "ไม่ใช่ว่าลานสกีทุกลานจะเปิดตั้งแต่วันแรก ช่วงแรกจะเปิดเพียงไม่กี่ลาน แล้วค่อยเพิ่มทีละลานเมื่อหิมะสะสมมากขึ้น เวลาให้บริการก็อาจเปลี่ยนไปตามสภาพอากาศได้เช่นกัน",
+            "ดังนั้นควรเช็กตารางให้บริการของรีสอร์ตอีกครั้งในเช้าวันเดินทาง หากตารางเวลาของคุณพอมีที่ว่าง ให้เว้นไว้สักหนึ่งหรือสองวัน หากแผนเปลี่ยนเพราะสภาพอากาศ ก็ย้ายไปวันอื่นได้"
+          ],
+          "photo": "check",
+          "caption": "ผู้คนนั่งลิฟต์ขึ้นไป"
+        }
+      ],
+      "box": [
+        {
+          "k": "เมื่อไร",
+          "v": [
+            "โดยทั่วไปทยอยเปิดตั้งแต่ปลายเดือนพฤศจิกายน (ตามรายงานของสื่อเดือนพฤศจิกายน 2026 ต่างกันไปตามรีสอร์ต)"
+          ]
+        },
+        {
+          "k": "วิธีไป",
+          "v": [
+            "กอนจีอัมใกล้โซล เหมาะกับการไปกลับในวันเดียว",
+            "สำหรับรีสอร์ตในคังวอน ให้สอบถามรีสอร์ตเรื่องชัตเทิลจากโซลหรือแพ็กเกจที่รวมการเดินทาง"
+          ]
+        },
+        {
+          "k": "การเช่า",
+          "v": [
+            "เช่าสกี สโนว์บอร์ด รองเท้าบูต และชุดสกีได้ ค่าเช่าและคลาสเรียนภาษาต่างประเทศต่างกันไปตามรีสอร์ต"
+          ]
+        },
+        {
+          "k": "ค่าบริการและเวลา",
+          "v": [
+            "เช็กได้จากเว็บไซต์ทางการของรีสอร์ต (ไม่ได้ระบุไว้ในบทความนี้)"
+          ]
+        },
+        {
+          "k": "ใน Trabbit",
+          "v": [
+            "เตรียมเสื้อผ้าสำหรับฤดูหนาวของเกาหลีด้วย「สภาพอากาศและการแต่งกาย」และหาเส้นทางไปยังสถานีต้นทางด้วย「แผนที่รถไฟใต้ดิน」ทั้งสองอย่างใช้ได้ฟรี"
+          ]
+        }
+      ],
+      "outro": "วันเปิดดูจากประกาศของรีสอร์ต เสื้อผ้าใส่ซ้อนกันหลายชั้น แค่เตรียมสองอย่างนี้ คุณก็พบกับลานสกีแรกของฤดูหนาวเกาหลีได้อย่างสบาย",
+      "sources": [
+        "Hankook Ilbo รายงานการเตรียมเปิดสกีรีสอร์ต (7 พฤศจิกายน 2026 ตรวจสอบเมื่อวันที่ 9 พฤศจิกายน 2026)",
+        "Asia Economy รายงานการเปิดฤดูกาล 2025-26 (19 พฤศจิกายน 2025)",
+        "เว็บไซต์ทางการของแต่ละรีสอร์ต (ยังไม่พบประกาศวันเปิด 15 พฤศจิกายน 2026)"
+      ],
+      "credit": "ภาพ: องค์การการท่องเที่ยวเกาหลี"
+    },
+    "vi": {
+      "title": "Các khu trượt tuyết gần Seoul lần lượt mở cửa từ cuối tháng 11",
+      "summary": "Các khu nghỉ dưỡng trượt tuyết lớn cách Seoul vài giờ thường mở cửa từ cuối tháng 11. Cách kiểm tra ngày khai trương, cách đến mà không cần xe, thuê dụng cụ và quần áo, và những điều cần kiểm tra vào sáng ngày đi.",
+      "hero_caption": "Đường trượt tuyết ở Pyeongchang",
+      "lead": [
+        "Trượt tuyết ở Hàn Quốc gần hơn bạn nghĩ. Các khu nghỉ dưỡng trượt tuyết lớn cách Seoul vài giờ thường lần lượt mở các đường trượt từ cuối tháng 11, và sang tháng 12 phần lớn đã vào mùa. Mùa trước cũng có nhiều nơi mở cửa trong khoảng từ cuối tháng 11 đến giữa tháng 12.",
+        "Tuy nhiên, ngày đầu tiên chính xác thay đổi theo từng năm, vì phụ thuộc vào thời tiết và điều kiện làm tuyết. Nếu bạn ở Hàn Quốc trong khoảng từ tuần này đến tháng 12, đây là bốn điều nên kiểm tra trước khi lên đường."
+      ],
+      "sections": [
+        {
+          "h": "Khai trương từ cuối tháng 11, ngày cụ thể xem thông báo của khu nghỉ dưỡng",
+          "p": [
+            "Theo báo chí Hàn Quốc, nhiều khu nghỉ dưỡng lớn ở tỉnh Gangwon đặt mục tiêu mở cửa vào cuối tháng 11, một số nơi mở vào tháng 12. Khu nghỉ dưỡng Gonjiam gần Seoul được cho là đặt mục tiêu vào tuần thứ hai của tháng 12. Tuy nhiên, những ngày này không phải do khu nghỉ dưỡng trực tiếp công bố mà là kế hoạch do báo chí đưa tin.",
+            "Các khu trượt tuyết ở Hàn Quốc phủ tuyết nhân tạo lên đường trượt rồi mới mở cửa. Chỉ có thể làm tuyết khi nhiệt độ đủ thấp, nên việc khai trương có thể sớm hơn hoặc muộn hơn tùy thời tiết. Trước khi đặt vé cáp treo hoặc chỗ ở, hãy nhớ kiểm tra thông báo khai trương trên trang web chính thức của khu nghỉ dưỡng bạn muốn đến."
+          ],
+          "photo": "when",
+          "caption": "Máy phun tuyết và cáp treo bên cạnh đường trượt"
+        },
+        {
+          "h": "Đến đường trượt mà không cần xe",
+          "p": [
+            "Gonjiam là một trong những khu nghỉ dưỡng lớn gần Seoul nhất nên rất thích hợp để đi về trong ngày. Các khu nghỉ dưỡng sâu trong Gangwon như Pyeongchang hay Jeongseon ở xa hơn, nên nếu không có xe, bạn nên quyết định cách di chuyển trước.",
+            "Có xe đưa đón từ Seoul hay không, tuyến đường và cách đặt chỗ ra sao đều khác nhau tùy khu nghỉ dưỡng và từng mùa. Hãy hỏi trước khu nghỉ dưỡng bạn định đến xem có xe đưa đón từ Seoul không và đặt như thế nào. Chọn gói trượt tuyết trong ngày gồm cả di chuyển, vé cáp treo và thuê dụng cụ cũng là một cách."
+          ],
+          "photo": "getting-there",
+          "caption": "Quảng trường trước ga cáp treo gondola"
+        },
+        {
+          "h": "Từ dụng cụ đến đồ trượt tuyết đều có thể thuê",
+          "p": [
+            "Hầu hết các khu nghỉ dưỡng đều có trung tâm cho thuê, nơi bạn có thể thuê ván trượt, ván tuyết, giày và cả quần áo trượt tuyết. Bạn không cần mang dụng cụ trượt tuyết trong vali. Thường chỉ cần chuẩn bị đồ lót giữ ấm, quần áo để mặc nhiều lớp và găng tay.",
+            "Giá thuê và việc có lớp học bằng ngoại ngữ hay không khác nhau tùy khu nghỉ dưỡng. Nếu lần đầu trượt tuyết, hãy kiểm tra trên trang web của khu nghỉ dưỡng xem có đăng ký được lớp học không và lớp có dạy bằng tiếng Anh không. Cuối tuần trung tâm cho thuê có thể đông, nên đến sớm vào buổi sáng sẽ giúp bạn đỡ phải chờ."
+          ],
+          "photo": "gear",
+          "caption": "Người trượt tuyết lao xuống đường trượt"
+        },
+        {
+          "h": "Kiểm tra thêm một lần vào sáng ngày đi",
+          "p": [
+            "Không phải ngay từ ngày khai trương đã mở tất cả đường trượt. Ban đầu chỉ mở vài đường trượt, rồi tăng dần từng đường khi tuyết dày lên. Giờ hoạt động cũng có thể thay đổi theo thời tiết.",
+            "Vì vậy, bạn nên kiểm tra lại lịch hoạt động của khu nghỉ dưỡng vào sáng ngày đi. Nếu lịch trình cho phép, hãy để trống một hai ngày. Nếu kế hoạch thay đổi vì thời tiết, bạn có thể dời sang ngày khác."
+          ],
+          "photo": "check",
+          "caption": "Mọi người đi cáp treo lên cao"
+        }
+      ],
+      "box": [
+        {
+          "k": "Khi nào",
+          "v": [
+            "Thường lần lượt mở cửa từ cuối tháng 11 (theo báo chí tháng 11/2026; tùy từng khu nghỉ dưỡng)"
+          ]
+        },
+        {
+          "k": "Cách đi",
+          "v": [
+            "Gonjiam gần Seoul thích hợp để đi về trong ngày",
+            "Với các khu nghỉ dưỡng ở Gangwon, hãy hỏi khu nghỉ dưỡng về xe đưa đón từ Seoul hoặc gói có bao gồm di chuyển"
+          ]
+        },
+        {
+          "k": "Thuê đồ",
+          "v": [
+            "Có thể thuê ván trượt, ván tuyết, giày và đồ trượt tuyết; giá thuê và lớp học bằng ngoại ngữ khác nhau tùy khu nghỉ dưỡng"
+          ]
+        },
+        {
+          "k": "Giá và giờ",
+          "v": [
+            "Kiểm tra trên trang web chính thức của khu nghỉ dưỡng (không đăng trong bài này)"
+          ]
+        },
+        {
+          "k": "Trong Trabbit",
+          "v": [
+            "Hãy chuẩn bị quần áo cho mùa đông Hàn Quốc bằng 「Thời tiết & Trang phục」, và tìm đường đến ga xuất phát bằng 「Sơ đồ tàu điện ngầm」. Cả hai đều miễn phí."
+          ]
+        }
+      ],
+      "outro": "Ngày khai trương xem thông báo của khu nghỉ dưỡng, quần áo mặc nhiều lớp. Chỉ cần lưu ý hai điều này, bạn sẽ thoải mái đón những đường trượt mùa đông đầu tiên ở Hàn Quốc.",
+      "sources": [
+        "Hankook Ilbo, bài viết về việc chuẩn bị khai trương các khu trượt tuyết (7/11/2026, kiểm tra ngày 9/11/2026)",
+        "Asia Economy, bài viết về việc khai trương mùa 2025-26 (19/11/2025)",
+        "Trang web chính thức của các khu nghỉ dưỡng (chưa xác nhận được thông báo khai trương, 15/11/2026)"
+      ],
+      "credit": "Ảnh: Korea Tourism Organization"
+    },
+    "zh_cn": {
+      "title": "首尔近郊的滑雪场，11月下旬起陆续开放",
+      "summary": "距首尔几小时车程的大型滑雪度假村，通常从11月下旬开始营业。本文整理了开放日的确认方法、不开车的前往方式、雪具和滑雪服租赁，以及出发当天早上要确认的事项。",
+      "hero_caption": "平昌滑雪场的雪道",
+      "lead": [
+        "在韩国的冬季旅行中，滑雪比想象中更近。距首尔几小时车程的大型滑雪度假村，通常从11月下旬起陆续开放雪道，到了12月，大部分都已进入雪季。上一个雪季，也有许多滑雪场在11月底到12月中旬之间开放。",
+        "不过，第一天具体是哪天，每年都不一样，因为要看天气和造雪的情况。如果您从本周到12月之间在韩国，这里整理了出发前值得确认的四件事。"
+      ],
+      "sections": [
+        {
+          "h": "11月下旬起开放，日期以度假村公告为准",
+          "p": [
+            "据韩国媒体报道，江原道的多家大型度假村以11月底开放为目标，也有一些在12月开放。离首尔较近的昆池岩度假村，据说目标是12月第二周。不过，这些日期并非度假村自己的发布，而是媒体报道的计划。",
+            "韩国的滑雪场会先用人工雪覆盖雪道，再开始营业。只有气温降得足够低才能造雪，所以开放时间可能因天气而提前或推迟。在预订缆车票或住宿之前，请务必在想去的度假村官方网站上确认开放公告。"
+          ],
+          "caption": "雪道旁的造雪机和缆车",
+          "photo": "when"
+        },
+        {
+          "h": "不开车也能到雪道",
+          "p": [
+            "昆池岩是离首尔较近的大型度假村之一，很适合当天往返。而像平昌、旌善这样位于江原道深处的度假村，距离更远，如果没有车，最好先确定交通方式。",
+            "是否有从首尔出发的接驳巴士，路线和预订方式如何，每个度假村、每个雪季都不一样。请提前询问想去的度假村有没有首尔出发的接驳巴士，以及如何预订。选择把交通、缆车票和雪具租赁打包在一起的一日滑雪套餐，也是一个办法。"
+          ],
+          "caption": "观光缆车乘车处前的广场",
+          "photo": "getting-there"
+        },
+        {
+          "h": "从雪具到滑雪服都可以租",
+          "p": [
+            "大多数度假村都设有租赁中心，滑雪板、单板、雪靴，甚至滑雪服都可以租。不必把滑雪装备塞进行李箱。很多时候，只需准备保暖内衣、可以叠穿的衣服和手套就够了。",
+            "租赁价格以及有没有外语课程，每个度假村都不同。如果是第一次滑雪，请先在度假村网站上确认能否同时报名课程，以及是否用英语授课。周末租赁中心可能会很拥挤，早点到可以减少等待时间。"
+          ],
+          "caption": "沿雪道滑下的滑雪者",
+          "photo": "gear"
+        },
+        {
+          "h": "出发当天早上再确认一次",
+          "p": [
+            "开放的第一天，并不是所有雪道都会开。起初只开几条雪道，随着积雪增加再逐条增开。营业时间也可能随天气变化。",
+            "所以，出发当天早上最好再确认一次度假村的营业安排。如果行程宽裕，可以空出一两天。即使天气让计划有变，也可以改到别的日子。"
+          ],
+          "caption": "乘缆车上山的人们",
+          "photo": "check"
+        }
+      ],
+      "box": [
+        {
+          "k": "时间",
+          "v": [
+            "通常从11月下旬起依次开放（依据2026年11月的媒体报道，各度假村不同）"
+          ]
+        },
+        {
+          "k": "前往方式",
+          "v": [
+            "首尔近郊的昆池岩适合当天往返",
+            "江原道的度假村，请向度假村确认首尔出发的接驳巴士和含交通的套餐"
+          ]
+        },
+        {
+          "k": "租赁",
+          "v": [
+            "可租滑雪板、单板、雪靴和滑雪服；价格和外语课程各度假村不同"
+          ]
+        },
+        {
+          "k": "费用·时间",
+          "v": [
+            "请在度假村官方网站确认（本文未收录）"
+          ]
+        },
+        {
+          "k": "在Trabbit中",
+          "v": [
+            "用“天气与穿搭”准备韩国冬季的衣物，用“地铁线路图”查找前往出发站的路线。两者都是免费的。"
+          ]
+        }
+      ],
+      "outro": "开放日以度假村公告为准，衣服要多层穿搭。只要记住这两点，就能轻松迎接韩国初冬的雪道。",
+      "sources": [
+        "韩国日报 滑雪场开放准备报道（2026年11月7日，2026年11月9日确认）",
+        "亚洲经济 2025-26雪季开放报道（2025年11月19日）",
+        "各度假村官方网站（尚未确认到开放公告，2026年11月15日）"
+      ],
+      "credit": "照片：韩国观光公社"
+    },
+    "zh_tw": {
+      "title": "首爾近郊的滑雪場，11月下旬起陸續開放",
+      "summary": "距首爾幾小時車程的大型滑雪度假村，通常從11月下旬開始營業。本文整理了開放日的確認方法、不開車的前往方式、雪具和滑雪服租借，以及出發當天早上要確認的事項。",
+      "hero_caption": "平昌滑雪場的雪道",
+      "lead": [
+        "在韓國的冬季旅行中，滑雪比想像中更近。距首爾幾小時車程的大型滑雪度假村，通常從11月下旬起陸續開放雪道，到了12月，大部分都已進入雪季。上一個雪季，也有許多滑雪場在11月底到12月中旬之間開放。",
+        "不過，第一天具體是哪天，每年都不一樣，因為要看天氣和造雪的情況。如果您從本週到12月之間在韓國，這裡整理了出發前值得確認的四件事。"
+      ],
+      "sections": [
+        {
+          "h": "11月下旬起開放，日期以度假村公告為準",
+          "p": [
+            "據韓國媒體報導，江原道的多家大型度假村以11月底開放為目標，也有一些在12月開放。離首爾較近的昆池岩度假村，據說目標是12月第二週。不過，這些日期並非度假村自己的發布，而是媒體報導的計畫。",
+            "韓國的滑雪場會先用人工雪覆蓋雪道，再開始營業。只有氣溫降得足夠低才能造雪，所以開放時間可能因天氣而提前或延後。在預訂纜車票或住宿之前，請務必在想去的度假村官方網站上確認開放公告。"
+          ],
+          "caption": "雪道旁的造雪機和纜車",
+          "photo": "when"
+        },
+        {
+          "h": "不開車也能到雪道",
+          "p": [
+            "昆池岩是離首爾較近的大型度假村之一，很適合當天往返。而像平昌、旌善這樣位於江原道深處的度假村，距離更遠，如果沒有車，最好先確定交通方式。",
+            "是否有從首爾出發的接駁巴士，路線和預訂方式如何，每個度假村、每個雪季都不一樣。請提前詢問想去的度假村有沒有首爾出發的接駁巴士，以及如何預訂。選擇把交通、纜車票和雪具租借打包在一起的一日滑雪套裝行程，也是一個辦法。"
+          ],
+          "caption": "觀光纜車乘車處前的廣場",
+          "photo": "getting-there"
+        },
+        {
+          "h": "從雪具到滑雪服都可以租",
+          "p": [
+            "大多數度假村都設有租借中心，滑雪板、單板、雪靴，甚至滑雪服都可以租。不必把滑雪裝備塞進行李箱。很多時候，只需準備保暖內衣、可以疊穿的衣服和手套就夠了。",
+            "租借價格以及有沒有外語課程，每個度假村都不同。如果是第一次滑雪，請先在度假村網站上確認能否同時報名課程，以及是否用英語授課。週末租借中心可能會很擁擠，早點到可以減少等待時間。"
+          ],
+          "caption": "沿雪道滑下的滑雪者",
+          "photo": "gear"
+        },
+        {
+          "h": "出發當天早上再確認一次",
+          "p": [
+            "開放的第一天，並不是所有雪道都會開。起初只開幾條雪道，隨著積雪增加再逐條增開。營業時間也可能隨天氣變化。",
+            "所以，出發當天早上最好再確認一次度假村的營業安排。如果行程寬裕，可以空出一兩天。即使天氣讓計畫有變，也可以改到別的日子。"
+          ],
+          "caption": "搭纜車上山的人們",
+          "photo": "check"
+        }
+      ],
+      "box": [
+        {
+          "k": "時間",
+          "v": [
+            "通常從11月下旬起依序開放（依據2026年11月的媒體報導，各度假村不同）"
+          ]
+        },
+        {
+          "k": "前往方式",
+          "v": [
+            "首爾近郊的昆池岩適合當天往返",
+            "江原道的度假村，請向度假村確認首爾出發的接駁巴士和含交通的套裝行程"
+          ]
+        },
+        {
+          "k": "租借",
+          "v": [
+            "可租滑雪板、單板、雪靴和滑雪服；價格和外語課程各度假村不同"
+          ]
+        },
+        {
+          "k": "費用·時間",
+          "v": [
+            "請在度假村官方網站確認（本文未收錄）"
+          ]
+        },
+        {
+          "k": "在Trabbit中",
+          "v": [
+            "用「天氣與穿搭」準備韓國冬季的衣物，用「地鐵路線圖」查找前往出發站的路線。兩者都是免費的。"
+          ]
+        }
+      ],
+      "outro": "開放日以度假村公告為準，衣服要多層穿搭。只要記住這兩點，就能輕鬆迎接韓國初冬的雪道。",
+      "sources": [
+        "韓國日報 滑雪場開放準備報導（2026年11月7日，2026年11月9日確認）",
+        "亞洲經濟 2025-26雪季開放報導（2025年11月19日）",
+        "各度假村官方網站（尚未確認到開放公告，2026年11月15日）"
+      ],
+      "credit": "照片：韓國觀光公社"
+    }
+  }
+}
