@@ -1,7 +1,183 @@
 {
   "version": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "issues": [
+    {
+      "id": "set51_departure_morning",
+      "no": 35,
+      "series": "TRABBIT WEEKLY",
+      "title": "Your last morning in Korea",
+      "summary": "Four small things that save time on the way to Incheon: the first train, the airport bus, leftover T-money and tax refunds.",
+      "published": "2026-11-16",
+      "footer": "Sources: AREX · Airport Limousine · Incheon Airport · Photos: KTO",
+      "cards": [
+        {
+          "file": "set51_departure_morning/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 122630,
+          "alt": "Your last morning in Korea"
+        },
+        {
+          "file": "set51_departure_morning/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 126004,
+          "alt": "Leave earlier than you think"
+        },
+        {
+          "file": "set51_departure_morning/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 121456,
+          "alt": "First train 5:20 from Seoul Station"
+        },
+        {
+          "file": "set51_departure_morning/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 115006,
+          "alt": "No booking, tap a T-money card"
+        },
+        {
+          "file": "set51_departure_morning/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 116744,
+          "alt": "Money back, before immigration"
+        },
+        {
+          "file": "set51_departure_morning/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 62402,
+          "alt": "Leave time for the leftovers"
+        }
+      ],
+      "bytes_total": 664242,
+      "weekly": {
+        "no": 10,
+        "week": "Week of November 16, 2026"
+      }
+    },
+    {
+      "id": "set50_pohang_fireworks",
+      "no": 34,
+      "series": "TRABBIT WEEKLY",
+      "title": "Fireworks over Yeongildae",
+      "summary": "The Pohang International Fireworks Festival moves to November this year, with the big show on Saturday the 21st.",
+      "published": "2026-11-16",
+      "footer": "Sources: Korea Tourism Organization · Pohang City · Photos: KTO",
+      "cards": [
+        {
+          "file": "set50_pohang_fireworks/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 279752,
+          "alt": "Fireworks over Yeongildae"
+        },
+        {
+          "file": "set50_pohang_fireworks/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 138532,
+          "alt": "Songdo first, then Yeongildae"
+        },
+        {
+          "file": "set50_pohang_fireworks/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 172312,
+          "alt": "Saturday night, about 8pm"
+        },
+        {
+          "file": "set50_pohang_fireworks/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 95132,
+          "alt": "Seoul to Pohang by KTX"
+        },
+        {
+          "file": "set50_pohang_fireworks/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 120858,
+          "alt": "Expect a big crowd"
+        },
+        {
+          "file": "set50_pohang_fireworks/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 53756,
+          "alt": "Catch the finale"
+        }
+      ],
+      "bytes_total": 860342,
+      "weekly": {
+        "no": 10,
+        "week": "Week of November 16, 2026"
+      },
+      "ends": "2026-11-21"
+    },
+    {
+      "id": "set49_ski_season",
+      "no": 33,
+      "series": "TRABBIT WEEKLY",
+      "title": "Ski season is about to start",
+      "summary": "Big resorts within a few hours of Seoul usually open their first slopes in late November. Here's what to check before you go.",
+      "published": "2026-11-16",
+      "footer": "Sources: Korean press reports · Resort websites · Photos: KTO",
+      "cards": [
+        {
+          "file": "set49_ski_season/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 119584,
+          "alt": "Ski season is about to start"
+        },
+        {
+          "file": "set49_ski_season/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 155040,
+          "alt": "Late November onward"
+        },
+        {
+          "file": "set49_ski_season/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 140780,
+          "alt": "Reach the slopes without a car"
+        },
+        {
+          "file": "set49_ski_season/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 99460,
+          "alt": "Rent the whole outfit"
+        },
+        {
+          "file": "set49_ski_season/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 87728,
+          "alt": "Check the day you go"
+        },
+        {
+          "file": "set49_ski_season/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 58076,
+          "alt": "Dress for the snow"
+        }
+      ],
+      "bytes_total": 660668,
+      "weekly": {
+        "no": 10,
+        "week": "Week of November 16, 2026"
+      },
+      "ends": "2026-12-31"
+    },
     {
       "id": "set47_arrival_card_keta",
       "no": 32,
@@ -468,123 +644,6 @@
         "no": 7,
         "week": "Week of October 26, 2026"
       }
-    },
-    {
-      "id": "set38_no_korean_number",
-      "no": 23,
-      "series": "TRABBIT WEEKLY",
-      "title": "No Korean number?",
-      "summary": "A foreign passport now works on Naver Map. Here's what else works, and what doesn't yet.",
-      "published": "2026-10-19",
-      "footer": "Sources: Naver · Kakao Mobility · Korail · Photos: KTO",
-      "cards": [
-        {
-          "file": "set38_no_korean_number/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 196460,
-          "alt": "No Korean number?"
-        },
-        {
-          "file": "set38_no_korean_number/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 186532,
-          "alt": "Verify with your passport"
-        },
-        {
-          "file": "set38_no_korean_number/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 126114,
-          "alt": "k.ride and Uber"
-        },
-        {
-          "file": "set38_no_korean_number/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 122430,
-          "alt": "KTX tickets two months ahead"
-        },
-        {
-          "file": "set38_no_korean_number/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 152860,
-          "alt": "Fan-club presales and some waitlists"
-        },
-        {
-          "file": "set38_no_korean_number/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 51740,
-          "alt": "Set it up before you land"
-        }
-      ],
-      "bytes_total": 836136,
-      "weekly": {
-        "no": 6,
-        "week": "Week of October 19, 2026"
-      }
-    },
-    {
-      "id": "set36_seoul_leaves",
-      "no": 21,
-      "series": "TRABBIT WEEKLY",
-      "title": "Seoul turns gold this week",
-      "summary": "Ginkgo and maple trees peak around 30–31 October this year. You don't need a mountain: Seoul has 110 official leaf roads.",
-      "published": "2026-10-19",
-      "footer": "Sources: Korea Forest Service · Seoul City · Photos: KTO",
-      "cards": [
-        {
-          "file": "set36_seoul_leaves/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 256418,
-          "alt": "Seoul turns gold this week"
-        },
-        {
-          "file": "set36_seoul_leaves/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 247858,
-          "alt": "Peak around 30 October"
-        },
-        {
-          "file": "set36_seoul_leaves/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 260972,
-          "alt": "Deoksugung and Hyoja-ro"
-        },
-        {
-          "file": "set36_seoul_leaves/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 257338,
-          "alt": "Samcheong-dong and Namsan"
-        },
-        {
-          "file": "set36_seoul_leaves/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 230804,
-          "alt": "Seoul Forest"
-        },
-        {
-          "file": "set36_seoul_leaves/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 57938,
-          "alt": "Go before the leaves fall"
-        }
-      ],
-      "bytes_total": 1311328,
-      "weekly": {
-        "no": 6,
-        "week": "Week of October 19, 2026"
-      },
-      "ends": "2026-11-15"
     }
   ]
 }
