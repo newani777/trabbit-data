@@ -41,12 +41,6 @@
    "u": "https://ticket.yes24.com/Perf/59669"
   }
  ],
- "PF299607": [
-  {
-   "n": "멜론티켓",
-   "u": "https://ticket.melon.com/performance/index.htm?prodId=213773"
-  }
- ],
  "PF299778": [
   {
    "n": "NHN티켓링크",
@@ -65,12 +59,6 @@
   {
    "n": "예스24",
    "u": "https://ticket.yes24.com/Perf/59886"
-  }
- ],
- "PF299935": [
-  {
-   "n": "예스24",
-   "u": "https://ticket.yes24.com/Perf/59771"
   }
  ],
  "PF300132": [
@@ -765,6 +753,16 @@
   {
    "n": "멜론티켓",
    "u": "https://ticket.melon.com/performance/index.htm?prodId=214226"
+  }
+ ],
+ "PF306729": [
+  {
+   "n": "멜론티켓",
+   "u": "https://ticket.melon.com/performance/index.htm?prodId=214292"
+  },
+  {
+   "n": "예스24",
+   "u": "https://ticket.yes24.com/Perf/61101"
   }
  ]
 }

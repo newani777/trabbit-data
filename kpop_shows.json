@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261117",
+  "fetched": "20261118",
   "source": "KOPIS",
   "shows": [
     {
@@ -161,23 +161,6 @@
         {
           "n": "예스24",
           "u": "https://ticket.yes24.com/Perf/59888"
-        }
-      ]
-    },
-    {
-      "id": "PF299607",
-      "name": "EXO PLANET #6, EXhOrizon [dot]",
-      "venue": "올림픽공원",
-      "venue_en": "Olympic Park",
-      "from": "2026.11.06",
-      "to": "2026.11.08",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299607_260828_130100.jpg",
-      "state": "공연완료",
-      "seats": 15000,
-      "book": [
-        {
-          "n": "멜론티켓",
-          "u": "https://ticket.melon.com/performance/index.htm?prodId=213773"
         }
       ]
     },
@@ -734,23 +717,6 @@
       ]
     },
     {
-      "id": "PF299935",
-      "name": "ELLEGARDEN, Bad For Education Tour Ⅱ",
-      "venue": "예스24 라이브홀 (구. 악스코리아)",
-      "venue_en": "YES24 Live Hall",
-      "from": "2026.11.28",
-      "to": "2026.11.29",
-      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299935_260902_151618.jpg",
-      "state": "공연예정",
-      "seats": 1051,
-      "book": [
-        {
-          "n": "예스24",
-          "u": "https://ticket.yes24.com/Perf/59771"
-        }
-      ]
-    },
-    {
       "id": "PF303596",
       "name": "블루노트 도쿄 올스타 재즈 오케스트라 with LISA ONO 내한공연",
       "venue": "롯데콘서트홀",
@@ -1042,6 +1008,27 @@
         {
           "n": "네이버N예약",
           "u": "https://booking.naver.com/booking/12/bizes/1751882"
+        }
+      ]
+    },
+    {
+      "id": "PF306729",
+      "name": "ONEWE SEASON LIVE, 冬花: ONE moment WE bloom",
+      "venue": "예스24 라이브홀 (구. 악스코리아)",
+      "venue_en": "YES24 Live Hall",
+      "from": "2026.12.12",
+      "to": "2026.12.13",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306729_261117_145818.jpg",
+      "state": "공연예정",
+      "seats": 1051,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214292"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/61101"
         }
       ]
     },
