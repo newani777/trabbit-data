@@ -61,16 +61,6 @@
    "u": "https://ticket.yes24.com/Perf/59886"
   }
  ],
- "PF300132": [
-  {
-   "n": "놀유니버스",
-   "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004813"
-  },
-  {
-   "n": "세종문화회관",
-   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37570&menuNo=200320#none"
-  }
- ],
  "PF300186": [
   {
    "n": "NHN티켓링크",
@@ -101,18 +91,6 @@
   {
    "n": "멜론티켓",
    "u": "https://ticket.melon.com/performance/index.htm?prodId=213822"
-  }
- ],
- "PF300493": [
-  {
-   "n": "세종문화회관",
-   "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37577&menuNo=200320"
-  }
- ],
- "PF300499": [
-  {
-   "n": "놀유니버스",
-   "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012668"
   }
  ],
  "PF300627": [
@@ -763,6 +741,18 @@
   {
    "n": "예스24",
    "u": "https://ticket.yes24.com/Perf/61101"
+  }
+ ],
+ "PF306800": [
+  {
+   "n": "NHN티켓링크",
+   "u": "http://www.ticketlink.co.kr/product/67101"
+  }
+ ],
+ "PF306868": [
+  {
+   "n": "놀유니버스",
+   "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016489"
   }
  ]
 }
