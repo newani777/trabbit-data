@@ -41,83 +41,6 @@
   ],
   "hourly": [
     {
-      "t": "2026-11-20T10:00",
-      "tmp": -1,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T11:00",
-      "tmp": 0,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T12:00",
-      "tmp": 1,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T13:00",
-      "tmp": 2,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T14:00",
-      "tmp": 2,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T15:00",
-      "tmp": 3,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T16:00",
-      "tmp": 2,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T17:00",
-      "tmp": 1,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T18:00",
-      "tmp": -1,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T19:00",
-      "tmp": -1,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-20T20:00",
-      "tmp": -2,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
       "t": "2026-11-20T21:00",
       "tmp": -2,
       "sky": "clear",
@@ -126,49 +49,49 @@
     },
     {
       "t": "2026-11-20T22:00",
-      "tmp": -3,
+      "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-20T23:00",
-      "tmp": -3,
+      "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T00:00",
-      "tmp": -3,
+      "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T01:00",
-      "tmp": -3,
+      "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T02:00",
-      "tmp": -4,
+      "tmp": -3,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T03:00",
-      "tmp": -4,
+      "tmp": -3,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T04:00",
-      "tmp": -4,
+      "tmp": -3,
       "sky": "clear",
       "rain": "none",
       "pop": 0
@@ -182,49 +105,49 @@
     },
     {
       "t": "2026-11-21T06:00",
-      "tmp": -5,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-21T07:00",
-      "tmp": -5,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-21T08:00",
-      "tmp": -5,
-      "sky": "clear",
-      "rain": "none",
-      "pop": 0
-    },
-    {
-      "t": "2026-11-21T09:00",
       "tmp": -4,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
-      "t": "2026-11-21T10:00",
+      "t": "2026-11-21T07:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-21T08:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-21T09:00",
       "tmp": -3,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
-      "t": "2026-11-21T11:00",
+      "t": "2026-11-21T10:00",
       "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
-      "t": "2026-11-21T12:00",
+      "t": "2026-11-21T11:00",
       "tmp": -1,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-21T12:00",
+      "tmp": 0,
       "sky": "clear",
       "rain": "none",
       "pop": 0
@@ -238,7 +161,7 @@
     },
     {
       "t": "2026-11-21T14:00",
-      "tmp": 1,
+      "tmp": 2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
@@ -259,21 +182,21 @@
     },
     {
       "t": "2026-11-21T17:00",
-      "tmp": -1,
+      "tmp": 0,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T18:00",
-      "tmp": -2,
+      "tmp": -1,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     },
     {
       "t": "2026-11-21T19:00",
-      "tmp": -3,
+      "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
@@ -294,13 +217,90 @@
     },
     {
       "t": "2026-11-21T22:00",
+      "tmp": -3,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-21T23:00",
       "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T00:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T01:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T02:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T03:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T04:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T05:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T06:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T07:00",
+      "tmp": -5,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T08:00",
+      "tmp": -4,
+      "sky": "clear",
+      "rain": "none",
+      "pop": 0
+    },
+    {
+      "t": "2026-11-22T09:00",
+      "tmp": -2,
       "sky": "clear",
       "rain": "none",
       "pop": 0
     }
   ],
-  "hourly_base": "202611200800",
+  "hourly_base": "202611202000",
   "air": {
     "source": "AirKorea",
     "days": [
@@ -313,8 +313,13 @@
         "date": "2026-11-21",
         "pm10": "good",
         "pm25": "good"
+      },
+      {
+        "date": "2026-11-22",
+        "pm10": "good",
+        "pm25": "moderate"
       }
     ]
   },
-  "fetched_at": "2026-11-20T10:56"
+  "fetched_at": "2026-11-20T21:25"
 }
