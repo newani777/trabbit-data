@@ -1,7 +1,183 @@
 {
   "version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "issues": [
+    {
+      "id": "set54_transit_card_stuck",
+      "no": 38,
+      "series": "TRABBIT WEEKLY",
+      "title": "When your transit card stops working",
+      "summary": "Four common snags in Seoul, and the quickest way out of each.",
+      "published": "2026-11-23",
+      "footer": "Sources: Seoul Metropolitan Government · Visit Korea · Photos: KTO",
+      "cards": [
+        {
+          "file": "set54_transit_card_stuck/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 79724,
+          "alt": "When your transit card stops working"
+        },
+        {
+          "file": "set54_transit_card_stuck/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 179688,
+          "alt": "Forgot to tap when you got off?"
+        },
+        {
+          "file": "set54_transit_card_stuck/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 97350,
+          "alt": "Top up with cash, up to 500,000 won"
+        },
+        {
+          "file": "set54_transit_card_stuck/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 78352,
+          "alt": "Foreign cards at the new machines"
+        },
+        {
+          "file": "set54_transit_card_stuck/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 106242,
+          "alt": "Ask at the station office"
+        },
+        {
+          "file": "set54_transit_card_stuck/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 64470,
+          "alt": "Keep some won for the machines"
+        }
+      ],
+      "bytes_total": 605826,
+      "weekly": {
+        "no": 11,
+        "week": "Week of November 23, 2026"
+      }
+    },
+    {
+      "id": "set53_year_end_lights",
+      "no": 37,
+      "series": "TRABBIT WEEKLY",
+      "title": "Seoul's winter lights open 11 December",
+      "summary": "Three light spots, a short walk apart.",
+      "published": "2026-11-23",
+      "footer": "Sources: Seoul Winter Festival · KTO · Photos: KTO",
+      "cards": [
+        {
+          "file": "set53_year_end_lights/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 234586,
+          "alt": "Seoul's winter lights open 11 December"
+        },
+        {
+          "file": "set53_year_end_lights/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 192756,
+          "alt": "Gwanghwamun Market 11 Dec to 10 Jan"
+        },
+        {
+          "file": "set53_year_end_lights/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 105282,
+          "alt": "Seoul Light, 6 to 11pm"
+        },
+        {
+          "file": "set53_year_end_lights/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 295030,
+          "alt": "Seoul Lantern Festival 11 Dec to 31 Jan"
+        },
+        {
+          "file": "set53_year_end_lights/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 256628,
+          "alt": "One walk, three lights"
+        },
+        {
+          "file": "set53_year_end_lights/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 58836,
+          "alt": "Mark 11 December"
+        }
+      ],
+      "bytes_total": 1143118,
+      "weekly": {
+        "no": 11,
+        "week": "Week of November 23, 2026"
+      },
+      "ends": "2026-12-10"
+    },
+    {
+      "id": "set52_december_weather",
+      "no": 36,
+      "series": "TRABBIT WEEKLY",
+      "title": "December in Seoul hovers around freezing",
+      "summary": "Afternoons near 4°C, nights below zero, and how to dress for it.",
+      "published": "2026-11-23",
+      "footer": "Sources: KMA · KASI · Photos: KTO",
+      "cards": [
+        {
+          "file": "set52_december_weather/card1.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 231182,
+          "alt": "December in Seoul hovers around freezing"
+        },
+        {
+          "file": "set52_december_weather/card2.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 131480,
+          "alt": "4°C days, −3°C nights"
+        },
+        {
+          "file": "set52_december_weather/card3.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 118252,
+          "alt": "Dark by about 5:15pm"
+        },
+        {
+          "file": "set52_december_weather/card4.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 196360,
+          "alt": "Watch for cold snaps"
+        },
+        {
+          "file": "set52_december_weather/card5.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 109140,
+          "alt": "Layers, because indoors run warm"
+        },
+        {
+          "file": "set52_december_weather/card6.webp",
+          "w": 1080,
+          "h": 1350,
+          "bytes": 62276,
+          "alt": "Pack for the walk, not the room"
+        }
+      ],
+      "bytes_total": 848690,
+      "weekly": {
+        "no": 11,
+        "week": "Week of November 23, 2026"
+      },
+      "ends": "2026-12-31"
+    },
     {
       "id": "set51_departure_morning",
       "no": 35,
@@ -352,180 +528,6 @@
         "week": "Week of November 2, 2026"
       },
       "ends": "2026-11-30"
-    },
-    {
-      "id": "set41_taxi_fares",
-      "no": 26,
-      "series": "TRABBIT WEEKLY",
-      "title": "What the taxi meter should say",
-      "summary": "Seoul sets its taxi fares by the minute and the metre. Know three numbers and you'll know when a fare is off.",
-      "published": "2026-10-26",
-      "footer": "Sources: Seoul City · Visit Seoul · Photos: KTO",
-      "cards": [
-        {
-          "file": "set41_taxi_fares/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 287398,
-          "alt": "What the taxi meter should say"
-        },
-        {
-          "file": "set41_taxi_fares/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 122326,
-          "alt": "4,800 won to start"
-        },
-        {
-          "file": "set41_taxi_fares/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 239090,
-          "alt": "Up to 40% more after 11pm"
-        },
-        {
-          "file": "set41_taxi_fares/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 134378,
-          "alt": "Flat fares for tourist taxis"
-        },
-        {
-          "file": "set41_taxi_fares/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 218304,
-          "alt": "Pay the meter, nothing else"
-        },
-        {
-          "file": "set41_taxi_fares/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 56342,
-          "alt": "Know the three numbers"
-        }
-      ],
-      "bytes_total": 1057838,
-      "weekly": {
-        "no": 7,
-        "week": "Week of October 26, 2026"
-      }
-    },
-    {
-      "id": "set40_palaces_after_dark",
-      "no": 25,
-      "series": "TRABBIT WEEKLY",
-      "title": "Two palaces stay open till 9pm",
-      "summary": "No booking, no special ticket. Deoksugung and Changgyeonggung keep their gates open into the evening, every day except Monday.",
-      "published": "2026-10-26",
-      "footer": "Sources: Korea Heritage Service · Photos: KTO",
-      "cards": [
-        {
-          "file": "set40_palaces_after_dark/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 174496,
-          "alt": "Two palaces stay open till 9pm"
-        },
-        {
-          "file": "set40_palaces_after_dark/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 106616,
-          "alt": "Right by City Hall"
-        },
-        {
-          "file": "set40_palaces_after_dark/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 173864,
-          "alt": "The glasshouse and the pond"
-        },
-        {
-          "file": "set40_palaces_after_dark/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 234052,
-          "alt": "Closed on Mondays"
-        },
-        {
-          "file": "set40_palaces_after_dark/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 173892,
-          "alt": "Gyeongbokgung closes at 5 or 6"
-        },
-        {
-          "file": "set40_palaces_after_dark/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 52778,
-          "alt": "Go after dinner"
-        }
-      ],
-      "bytes_total": 915698,
-      "weekly": {
-        "no": 7,
-        "week": "Week of October 26, 2026"
-      }
-    },
-    {
-      "id": "set39_last_train",
-      "no": 24,
-      "series": "TRABBIT WEEKLY",
-      "title": "Saturday's last train leaves an hour early",
-      "summary": "Weekends and holidays: about an hour earlier than weekdays.",
-      "published": "2026-10-26",
-      "footer": "Sources: Seoul Open Data · Seoul City · Photos: KTO",
-      "cards": [
-        {
-          "file": "set39_last_train/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 117630,
-          "alt": "Saturday's last train leaves an hour early"
-        },
-        {
-          "file": "set39_last_train/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 156882,
-          "alt": "00:49 or 23:49"
-        },
-        {
-          "file": "set39_last_train/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 74370,
-          "alt": "Not every train goes to the end"
-        },
-        {
-          "file": "set39_last_train/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 238758,
-          "alt": "Owl buses, 2,500 won"
-        },
-        {
-          "file": "set39_last_train/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 217122,
-          "alt": "The meter runs 40% higher"
-        },
-        {
-          "file": "set39_last_train/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 60330,
-          "alt": "Check tonight's last train"
-        }
-      ],
-      "bytes_total": 865092,
-      "weekly": {
-        "no": 7,
-        "week": "Week of October 26, 2026"
-      }
     }
   ]
 }
