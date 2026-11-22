@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-22",
   "issues": [
     {
       "id": "set51_departure_morning",
@@ -59,65 +59,6 @@
         "no": 10,
         "week": "Week of November 16, 2026"
       }
-    },
-    {
-      "id": "set50_pohang_fireworks",
-      "no": 34,
-      "series": "TRABBIT WEEKLY",
-      "title": "Fireworks over Yeongildae",
-      "summary": "The Pohang International Fireworks Festival moves to November this year, with the big show on Saturday the 21st.",
-      "published": "2026-11-16",
-      "footer": "Sources: Korea Tourism Organization · Pohang City · Photos: KTO",
-      "cards": [
-        {
-          "file": "set50_pohang_fireworks/card1.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 279752,
-          "alt": "Fireworks over Yeongildae"
-        },
-        {
-          "file": "set50_pohang_fireworks/card2.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 138532,
-          "alt": "Songdo first, then Yeongildae"
-        },
-        {
-          "file": "set50_pohang_fireworks/card3.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 172312,
-          "alt": "Saturday night, about 8pm"
-        },
-        {
-          "file": "set50_pohang_fireworks/card4.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 95132,
-          "alt": "Seoul to Pohang by KTX"
-        },
-        {
-          "file": "set50_pohang_fireworks/card5.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 120858,
-          "alt": "Expect a big crowd"
-        },
-        {
-          "file": "set50_pohang_fireworks/card6.webp",
-          "w": 1080,
-          "h": 1350,
-          "bytes": 53756,
-          "alt": "Catch the finale"
-        }
-      ],
-      "bytes_total": 860342,
-      "weekly": {
-        "no": 10,
-        "week": "Week of November 16, 2026"
-      },
-      "ends": "2026-11-21"
     },
     {
       "id": "set49_ski_season",
