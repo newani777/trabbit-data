@@ -2,6 +2,51 @@
   "version": 1,
   "articles": [
     {
+      "id": "2026-11-23_december_weather",
+      "no": 6,
+      "kind": "seasonal",
+      "published": "2026-11-23",
+      "week": "2026-11-23",
+      "fresh_until": "2026-12-31",
+      "issue_id": "set52_december_weather",
+      "hero": {
+        "file": "hero.webp",
+        "w": 1080,
+        "h": 720
+      },
+      "title": {
+        "ko": "12월 서울은 0도 안팎, 겹쳐 입기로 준비하세요",
+        "en": "December in Seoul hovers around freezing: plan to dress in layers",
+        "ja": "12月のソウルは0度前後、重ね着で備えましょう",
+        "de": "Seoul im Dezember um den Gefrierpunkt: Kleiden Sie sich in Schichten",
+        "es": "Seúl en diciembre ronda los 0 °C: prepárese con ropa por capas",
+        "fr": "Séoul en décembre, autour de 0 °C : habillez-vous en plusieurs couches",
+        "id": "Desember di Seoul berkisar di sekitar titik beku, siapkan pakaian berlapis",
+        "pt_br": "Seul em dezembro fica perto de 0 °C: prepare-se com roupas em camadas",
+        "ru": "Декабрь в Сеуле держится около нуля: одевайтесь в несколько слоёв",
+        "th": "เดือนธันวาคมที่โซลอยู่ที่ราว 0 องศา เตรียมแต่งตัวแบบซ้อนหลายชั้น",
+        "vi": "Tháng 12 ở Seoul quanh mức đóng băng: hãy chuẩn bị mặc nhiều lớp",
+        "zh_cn": "12月的首尔气温在0度上下，请用多层穿搭来应对",
+        "zh_tw": "12月的首爾氣溫在0度上下，請用多層穿搭來應對"
+      },
+      "summary": {
+        "ko": "기상청 평년값으로 본 12월 서울의 낮과 밤 기온, 해 지는 시각, 한파주의보 기준, 옷 챙기는 법.",
+        "en": "Seoul's December day and night temperatures from Korea's official climate normals, sunset times, the cold-wave advisory threshold, and what to pack.",
+        "ja": "韓国気象庁の平年値でみる12月のソウルの昼と夜の気温、日没の時刻、寒波注意報の基準、服の準備のしかたをまとめました。",
+        "de": "Tages- und Nachttemperaturen in Seoul im Dezember nach den offiziellen Klimanormalwerten, Zeiten des Sonnenuntergangs, die Schwelle für die Kältewarnung und was Sie einpacken sollten.",
+        "es": "Temperaturas de día y de noche en Seúl en diciembre según los valores climáticos normales oficiales, hora de la puesta de sol, el umbral del aviso por ola de frío y qué llevar en la maleta.",
+        "fr": "Les températures de jour et de nuit à Séoul en décembre d'après les normales climatiques officielles, l'heure du coucher du soleil, le seuil de l'alerte vague de froid et que mettre dans sa valise.",
+        "id": "Suhu siang dan malam Seoul pada bulan Desember berdasarkan nilai normal iklim resmi Korea, waktu matahari terbenam, batas peringatan gelombang dingin, serta apa saja yang perlu dibawa.",
+        "pt_br": "As temperaturas de dia e de noite em Seul em dezembro pelas normais climatológicas oficiais, o horário do pôr do sol, o critério do aviso de onda de frio e o que levar na mala.",
+        "ru": "Дневная и ночная температура в Сеуле в декабре по официальным климатическим нормам Кореи, время заката, порог предупреждения о холодной волне и что взять с собой.",
+        "th": "อุณหภูมิกลางวันและกลางคืนของโซลในเดือนธันวาคมจากค่าปกติภูมิอากาศอย่างเป็นทางการของเกาหลี เวลาพระอาทิตย์ตก เกณฑ์การเตือนคลื่นความเย็น และสิ่งที่ควรเตรียมไป",
+        "vi": "Nhiệt độ ban ngày và ban đêm ở Seoul trong tháng 12 theo giá trị khí hậu bình thường chính thức của Hàn Quốc, giờ mặt trời lặn, ngưỡng cảnh báo đợt lạnh và những thứ nên mang theo.",
+        "zh_cn": "依据韩国气象厅平年值，整理12月首尔的白天和夜间气温、日落时间、寒潮预警标准，以及该带什么衣物。",
+        "zh_tw": "依據韓國氣象廳平年值，整理12月首爾的白天和夜間氣溫、日落時間、寒流注意報標準，以及該帶什麼衣物。"
+      },
+      "bytes": 510896
+    },
+    {
       "id": "2026-11-16_ski_season",
       "no": 5,
       "kind": "seasonal",
@@ -227,5 +272,5 @@
       "bytes": 928745
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-23"
 }

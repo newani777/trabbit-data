@@ -1,0 +1,1227 @@
+{
+  "id": "2026-11-23_december_weather",
+  "no": 6,
+  "kind": "seasonal",
+  "published": "2026-11-23",
+  "week": "2026-11-23",
+  "fresh_until": "2026-12-31",
+  "issue_id": "set52_december_weather",
+  "photos": {
+    "hero": {
+      "file": "hero.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "day-night": {
+      "file": "day-night.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "short-days": {
+      "file": "short-days.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    },
+    "cold-snaps": {
+      "file": "cold-snaps.webp",
+      "w": 1080,
+      "h": 721,
+      "credit": "kto"
+    },
+    "pack": {
+      "file": "pack.webp",
+      "w": 1080,
+      "h": 720,
+      "credit": "kto"
+    }
+  },
+  "sources": [
+    {
+      "url": "https://www.kma.go.kr/kma/flexer/html/press/2021/03/25/ATC202103250932093_863521e7-fd31-4f26-bfce-04a9e14ffb33.hwp.files/Sections1.html",
+      "date": "2026-11-09"
+    },
+    {
+      "url": "https://astro.kasi.re.kr/life/pageView/6",
+      "date": "2026-11-22"
+    },
+    {
+      "url": "https://www.weather.go.kr/w/forecast/guide/standard.do",
+      "date": "2026-11-22"
+    }
+  ],
+  "langs": {
+    "ko": {
+      "title": "12월 서울은 0도 안팎, 겹쳐 입기로 준비하세요",
+      "summary": "기상청 평년값으로 본 12월 서울의 낮과 밤 기온, 해 지는 시각, 한파주의보 기준, 옷 챙기는 법.",
+      "hero_caption": "눈 내린 경복궁과 서울 도심",
+      "lead": [
+        "12월의 서울은 생각보다 춥지만, 준비만 하면 걷기 좋은 달이에요. 기상청이 1991년부터 2020년까지의 기록으로 낸 평년값을 보면 서울의 12월 낮 최고기온은 평균 4.2도, 밤 최저기온은 영하 3.4도예요. 한 달 평균은 0.2도로, 0도 안팎을 오가는 셈이에요.",
+        "여기에 해가 짧고, 가끔은 아주 추운 아침이 찾아와요. 12월에 서울을 찾는다면 알아 두면 좋은 숫자와 옷차림을 정리했어요."
+      ],
+      "sections": [
+        {
+          "h": "낮 4도, 밤 영하 3도",
+          "p": [
+            "서울의 12월 평년 최고기온은 4.2도, 최저기온은 영하 3.4도예요. 낮에 햇볕을 받으며 걸을 때는 견딜 만하지만, 해가 지면 금세 영하로 내려가요. 하루 안에서도 7도 넘게 차이가 나니, 낮 기온만 보고 옷을 고르면 저녁에 춥게 느껴질 수 있어요.",
+            "11월과 비교하면 변화가 더 잘 보여요. 서울의 11월 평년 최고기온은 11.9도, 최저기온은 3.5도였어요. 한 달 사이에 낮 기온이 7도 넘게 떨어지고, 밤은 영하로 들어서는 거예요. 11월 말에 도착해 12월까지 머문다면 여행 도중에 날씨가 바뀐다고 생각하고 짐을 꾸리세요.",
+            "1월은 더 추워요. 서울의 1월 평년 최저기온은 영하 5.5도, 한 달 평균은 영하 1.9도예요. 연말연시를 끼고 여행한다면 12월보다 조금 더 두툼하게 준비하세요."
+          ],
+          "photo": "day-night",
+          "caption": "눈 덮인 덕수궁"
+        },
+        {
+          "h": "오후 5시 15분쯤이면 어두워져요",
+          "p": [
+            "한국천문연구원 자료를 보면 2026년 12월 서울의 해는 오후 5시 13분에서 5시 23분 사이에 져요. 가장 이르게 지는 때는 12월 초순이고, 연말로 갈수록 조금씩 늦어져요. 해 뜨는 시각은 아침 7시 28분에서 7시 47분 사이예요.",
+            "해 뜨는 시각과 지는 시각을 맞춰 보면, 12월 서울의 낮은 10시간이 채 안 돼요. 아침 일찍 숙소를 나서도 바깥은 아직 어둑할 수 있으니, 첫 일정은 해가 뜬 뒤로 잡는 편이 걷기에 편해요.",
+            "낮이 짧으니 궁궐이나 시장처럼 밖을 걷는 일정은 오후로 묶고, 해가 진 뒤에는 실내에서 보내는 계획을 세우면 좋아요. 노을 사진을 찍고 싶다면 그날 해 지는 시각을 미리 보고 움직이세요."
+          ],
+          "photo": "short-days",
+          "caption": "해 질 녘 한강과 여의도"
+        },
+        {
+          "h": "아주 추운 아침도 있어요",
+          "p": [
+            "평년값은 평균이라 어떤 날은 훨씬 추워요. 기상청은 아침 최저기온이 영하 12도 이하인 날이 이틀 이상 이어질 것으로 보일 때 한파주의보를 낼 수 있어요. 여행 중 한파 특보가 나오면 그날은 실내 일정 위주로 바꾸는 것도 방법이에요.",
+            "12월은 건조한 달이기도 해요. 서울의 12월 평년 강수량은 22.6밀리미터로, 11월(51.1밀리미터)의 절반이 안 돼요. 비나 눈 걱정은 적은 편이지만 공기가 마르니 입술 보호제나 보습제를 챙기면 좋아요."
+          ],
+          "photo": "cold-snaps",
+          "caption": "눈 덮인 인왕산에서 본 서울"
+        },
+        {
+          "h": "두꺼운 한 벌보다 겹쳐 입기",
+          "p": [
+            "따뜻한 코트나 패딩에, 벗었다 입었다 하기 쉬운 스웨터나 플리스를 받쳐 입으세요. 목도리와 장갑도 챙기면 좋아요. 서울의 지하철과 카페, 가게는 난방이 잘 되어 있어서 밖에서는 춥다가도 안에 들어가면 금방 더워져요.",
+            "그래서 아주 두꺼운 옷 한 벌보다 여러 겹으로 입고 실내에서 하나씩 벗는 편이 편해요. 바깥을 오래 걷는 날에는 모자처럼 작게 챙길 수 있는 것을 더해 보세요.",
+            "눈이 내린 다음 날에는 그늘진 길이나 계단에 얼음이 남아 있을 수 있어요. 바닥이 미끄럽지 않은 신발을 신고, 궁궐처럼 돌길이 많은 곳에서는 천천히 걸으세요."
+          ],
+          "photo": "pack",
+          "caption": "눈 내린 경복궁을 걷는 여행자"
+        }
+      ],
+      "box": [
+        {
+          "k": "기온",
+          "v": [
+            "12월 낮 최고 4.2℃ · 밤 최저 -3.4℃ · 월평균 0.2℃",
+            "1월 최저 -5.5℃ (기상청 서울 평년값, 1991~2020년)"
+          ]
+        },
+        {
+          "k": "해",
+          "v": [
+            "일몰 오후 5:13~5:23 · 일출 오전 7:28~7:47 (2026년 12월 서울)"
+          ]
+        },
+        {
+          "k": "비·눈",
+          "v": [
+            "12월 평년 강수량 22.6mm, 11월의 절반이 안 됨"
+          ]
+        },
+        {
+          "k": "한파",
+          "v": [
+            "아침 최저 -12℃ 이하가 이틀 이상 예상되면 한파주의보가 나올 수 있음"
+          ]
+        },
+        {
+          "k": "트래빗에서",
+          "v": [
+            "「날씨와 옷차림」에서 계절별 기온과 옷차림을 보고, 「지하철 노선도」로 따뜻한 실내 이동 길을 찾아보세요. 둘 다 무료예요."
+          ]
+        }
+      ],
+      "outro": "낮에는 걷고 해가 지면 실내로, 옷은 겹겹이. 12월 서울은 이렇게 준비하면 충분해요.",
+      "sources": [
+        "기상청 「신(新)기후평년값」 보도자료 월별 표(2021년 3월 25일, 2026년 11월 9일 확인)",
+        "한국천문연구원 월별 해 출몰 시각, 서울 2026년 12월(2026년 11월 22일 확인)",
+        "기상청 날씨누리 기상특보 발표기준(2026년 11월 22일 확인)"
+      ],
+      "credit": "사진: 한국관광공사"
+    },
+    "en": {
+      "title": "December in Seoul hovers around freezing: plan to dress in layers",
+      "summary": "Seoul's December day and night temperatures from Korea's official climate normals, sunset times, the cold-wave advisory threshold, and what to pack.",
+      "hero_caption": "Gyeongbokgung Palace and central Seoul under snow",
+      "lead": [
+        "December in Seoul is colder than many visitors expect, but it's a good month for walking if you come prepared. The Korea Meteorological Administration's normals, based on records from 1991 to 2020, put Seoul's average December high at 4.2°C and the average low at −3.4°C. The monthly mean is 0.2°C, so the city spends the month hovering around freezing.",
+        "The days are also short, and now and then a much colder morning arrives. If Seoul is on your December calendar, here are the numbers worth knowing and how to dress for them."
+      ],
+      "sections": [
+        {
+          "h": "4°C by day, −3°C at night",
+          "p": [
+            "Seoul's normal December high is 4.2°C and the normal low is −3.4°C. Walking in the afternoon sun feels manageable, but once the sun goes down the temperature drops below zero quickly. With a gap of more than 7 degrees within a single day, dressing for the afternoon alone can leave you cold by evening.",
+            "Comparing with November makes the change clearer. Seoul's normal November high is 11.9°C and the normal low is 3.5°C. Within a month, daytime temperatures drop by more than 7 degrees and nights fall below zero. If you arrive in late November and stay into December, pack as if the weather will change partway through your trip.",
+            "January is colder still. Seoul's normal January low is −5.5°C, with a monthly mean of −1.9°C. If your trip runs over the New Year, pack a little warmer than you would for December."
+          ],
+          "photo": "day-night",
+          "caption": "Deoksugung Palace under snow"
+        },
+        {
+          "h": "Dark by about 5:15pm",
+          "p": [
+            "According to the Korea Astronomy and Space Science Institute, the sun sets in Seoul between 5:13pm and 5:23pm in December 2026. The earliest sunsets come in early December, and they move a little later toward the end of the month. Sunrise falls between 7:28am and 7:47am.",
+            "Put sunrise and sunset together and Seoul's December daylight lasts less than 10 hours. If you leave your hotel early, it may still be dim outside, so starting your first stop after sunrise makes for easier walking.",
+            "With short days, group your outdoor plans, such as palaces and markets, into the afternoon, and plan to spend the evening indoors. If you want sunset photos, check that day's sunset time before you set out."
+          ],
+          "photo": "short-days",
+          "caption": "The Han River and Yeouido at sunset"
+        },
+        {
+          "h": "Some mornings are much colder",
+          "p": [
+            "Normals are averages, so some days are far colder. Korea's weather agency can issue a cold-wave advisory when morning lows of −12°C or below are expected to last two days or more. If an advisory is issued during your trip, it can be a good day to switch to indoor plans.",
+            "December is also a dry month. Seoul's normal December precipitation is 22.6 mm, less than half of November's 51.1 mm. Rain and snow are less of a worry, but the air is dry, so lip balm and moisturiser are worth packing."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Seoul seen from snowy Inwangsan"
+        },
+        {
+          "h": "Layers beat one thick piece",
+          "p": [
+            "Wear a warm coat or down jacket over a sweater or fleece you can easily take off, and bring a scarf and gloves. Seoul's subways, cafes and shops are well heated, so you can go from cold outside to warm within minutes of stepping in.",
+            "That's why several layers you can peel off indoors work better than one very thick outfit. On days with a lot of outdoor walking, add something small to carry, such as a hat.",
+            "The day after snow, ice can linger on shaded paths and stairs. Wear shoes with grippy soles, and take your time on stone paths such as those in the palaces."
+          ],
+          "photo": "pack",
+          "caption": "Travellers walking through snowy Gyeongbokgung"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperature",
+          "v": [
+            "December high 4.2°C · low −3.4°C · monthly mean 0.2°C",
+            "January low −5.5°C (KMA Seoul normals, 1991–2020)"
+          ]
+        },
+        {
+          "k": "Daylight",
+          "v": [
+            "Sunset 5:13–5:23pm · sunrise 7:28–7:47am (Seoul, December 2026)"
+          ]
+        },
+        {
+          "k": "Rain and snow",
+          "v": [
+            "Normal December precipitation 22.6 mm, less than half of November's"
+          ]
+        },
+        {
+          "k": "Cold waves",
+          "v": [
+            "A cold-wave advisory may be issued when morning lows of −12°C or below are expected for two days or more"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Check seasonal temperatures and clothing in Weather and What to Wear, and use the Subway Map to travel between warm indoor stops. Both are free."
+          ]
+        }
+      ],
+      "outro": "Walk by day, head indoors after dark, and dress in layers. That's all December in Seoul asks of you.",
+      "sources": [
+        "Korea Meteorological Administration, new climate normals press release, monthly table (25 March 2021, checked 9 November 2026)",
+        "Korea Astronomy and Space Science Institute, monthly sunrise and sunset times, Seoul, December 2026 (checked 22 November 2026)",
+        "Korea Meteorological Administration Weather Nuri, weather warning criteria (checked 22 November 2026)"
+      ],
+      "credit": "Photos: Korea Tourism Organization"
+    },
+    "ja": {
+      "title": "12月のソウルは0度前後、重ね着で備えましょう",
+      "summary": "韓国気象庁の平年値でみる12月のソウルの昼と夜の気温、日没の時刻、寒波注意報の基準、服の準備のしかたをまとめました。",
+      "hero_caption": "雪の景福宮（キョンボックン）とソウル都心",
+      "lead": [
+        "12月のソウルは思ったより寒いものの、準備さえすれば歩きやすい月です。韓国気象庁が1991年から2020年までの記録でまとめた平年値によると、ソウルの12月の日中の最高気温は平均4.2度、夜の最低気温はマイナス3.4度です。月の平均は0.2度で、0度前後を行き来することになります。",
+        "さらに日が短く、ときどきとても冷え込む朝もやってきます。12月にソウルを訪れるなら知っておきたい数字と服装をまとめました。"
+      ],
+      "sections": [
+        {
+          "h": "昼は4度、夜はマイナス3度",
+          "p": [
+            "ソウルの12月の平年の最高気温は4.2度、最低気温はマイナス3.4度です。昼間に日差しを浴びながら歩くぶんには耐えられますが、日が沈むとすぐに氷点下まで下がります。1日のうちに7度以上の差があるため、昼の気温だけを見て服を選ぶと、夕方に寒く感じるかもしれません。",
+            "11月と比べると変化がよくわかります。ソウルの11月の平年の最高気温は11.9度、最低気温は3.5度でした。ひと月のうちに昼の気温が7度以上下がり、夜は氷点下に入ります。11月末に到着して12月まで滞在するなら、旅行の途中で天気が変わるものと考えて荷造りしてください。",
+            "1月はさらに寒くなります。ソウルの1月の平年の最低気温はマイナス5.5度、月の平均はマイナス1.9度です。年末年始にかけて旅行するなら、12月よりもう少し厚めに準備しましょう。"
+          ],
+          "photo": "day-night",
+          "caption": "雪をかぶった徳寿宮（トクスグン）"
+        },
+        {
+          "h": "午後5時15分ごろには暗くなります",
+          "p": [
+            "韓国天文研究院の資料によると、2026年12月のソウルの日没は17時13分から17時23分の間です。いちばん早く沈むのは12月上旬で、年末に向かって少しずつ遅くなります。日の出は朝7時28分から7時47分の間です。",
+            "日の出と日没の時刻を合わせてみると、12月のソウルの昼は10時間に満たません。朝早く宿を出ても外はまだ薄暗いことがあるので、最初の予定は日が昇ったあとにすると歩きやすいです。",
+            "昼が短いため、宮殿や市場のように外を歩く予定は午後にまとめ、日が沈んだあとは室内で過ごす計画を立てるとよいでしょう。夕焼けの写真を撮りたいなら、その日の日没時刻をあらかじめ確認して動いてください。"
+          ],
+          "photo": "short-days",
+          "caption": "夕暮れの漢江（ハンガン）と汝矣島（ヨイド）"
+        },
+        {
+          "h": "とても寒い朝もあります",
+          "p": [
+            "平年値は平均なので、ずっと寒くなる日もあります。韓国気象庁は、朝の最低気温がマイナス12度以下の日が2日以上続くと予想されるときに、寒波注意報を出すことがあります。旅行中に寒波の特報が出たら、その日は室内中心の予定に変えるのも一つの方法です。",
+            "12月は乾燥する月でもあります。ソウルの12月の平年の降水量は22.6ミリメートルで、11月（51.1ミリメートル）の半分に満たません。雨や雪の心配は少なめですが、空気が乾くので、リップクリームや保湿剤を持っていくと安心です。"
+          ],
+          "photo": "cold-snaps",
+          "caption": "雪をかぶった仁王山（インワンサン）から見たソウル"
+        },
+        {
+          "h": "厚手の1枚より重ね着を",
+          "p": [
+            "暖かいコートやダウンの下に、脱ぎ着しやすいセーターやフリースを合わせましょう。マフラーと手袋も持っておくと安心です。ソウルの地下鉄やカフェ、お店は暖房がよく効いているため、外では寒くても、中に入るとすぐに暑くなります。",
+            "そのため、とても厚い服を1枚着るより、何枚か重ねて、室内で1枚ずつ脱ぐほうが楽です。外を長く歩く日は、帽子のように小さく持ち運べるものを足してみてください。",
+            "雪が降った翌日は、日陰の道や階段に氷が残っていることがあります。底が滑りにくい靴をはき、宮殿のように石畳の多い場所ではゆっくり歩きましょう。"
+          ],
+          "photo": "pack",
+          "caption": "雪の景福宮（キョンボックン）を歩く旅行者"
+        }
+      ],
+      "box": [
+        {
+          "k": "気温",
+          "v": [
+            "12月 日中の最高4.2℃ · 夜の最低-3.4℃ · 月平均0.2℃",
+            "1月の最低-5.5℃（韓国気象庁 ソウルの平年値、1991〜2020年）"
+          ]
+        },
+        {
+          "k": "日の出・日没",
+          "v": [
+            "日没17時13分〜17時23分 · 日の出7時28分〜7時47分（2026年12月 ソウル）"
+          ]
+        },
+        {
+          "k": "雨・雪",
+          "v": [
+            "12月の平年の降水量22.6mm、11月の半分に満たない"
+          ]
+        },
+        {
+          "k": "寒波",
+          "v": [
+            "朝の最低-12℃以下が2日以上続くと予想されると、寒波注意報が出ることがあります"
+          ]
+        },
+        {
+          "k": "トラビットで",
+          "v": [
+            "「天気と服装」で季節ごとの気温と服装を確認し、「地下鉄路線図」で暖かい屋内の移動ルートを探してみてください。どちらも無料です。"
+          ]
+        }
+      ],
+      "outro": "昼は歩き、日が沈んだら室内へ、服は重ね着で。12月のソウルは、このように準備すれば十分です。",
+      "sources": [
+        "韓国気象庁「新気候平年値」報道資料 月別表（2021年3月25日、2026年11月9日確認）",
+        "韓国天文研究院 月別の日の出・日の入り時刻、ソウル2026年12月（2026年11月22日確認）",
+        "韓国気象庁 気象特報の発表基準（2026年11月22日確認）"
+      ],
+      "credit": "写真：韓国観光公社"
+    },
+    "de": {
+      "title": "Seoul im Dezember um den Gefrierpunkt: Kleiden Sie sich in Schichten",
+      "summary": "Tages- und Nachttemperaturen in Seoul im Dezember nach den offiziellen Klimanormalwerten, Zeiten des Sonnenuntergangs, die Schwelle für die Kältewarnung und was Sie einpacken sollten.",
+      "hero_caption": "Der Gyeongbokgung und die Innenstadt von Seoul unter Schnee",
+      "lead": [
+        "Seoul ist im Dezember kälter, als man denkt, doch mit guter Vorbereitung ist es ein schöner Monat zum Spazierengehen. Nach den Klimanormalwerten der Korea Meteorological Administration, die auf Aufzeichnungen von 1991 bis 2020 beruhen, liegt das durchschnittliche Tagesmaximum in Seoul im Dezember bei 4,2 °C und das durchschnittliche Nachtminimum bei −3,4 °C. Das Monatsmittel beträgt 0,2 °C, die Temperaturen bewegen sich also um den Gefrierpunkt.",
+        "Hinzu kommen kurze Tage und gelegentlich ein sehr kalter Morgen. Wenn Sie im Dezember nach Seoul reisen, finden Sie hier die Zahlen, die Sie kennen sollten, und Hinweise zur passenden Kleidung."
+      ],
+      "sections": [
+        {
+          "h": "Tagsüber 4 °C, nachts −3 °C",
+          "p": [
+            "Das normale Tagesmaximum in Seoul liegt im Dezember bei 4,2 °C, das normale Nachtminimum bei −3,4 °C. In der Nachmittagssonne lässt es sich gut aushalten, doch nach Sonnenuntergang fällt die Temperatur schnell unter null. Da der Unterschied innerhalb eines Tages mehr als 7 Grad beträgt, kann es Ihnen am Abend kalt werden, wenn Sie sich nur nach der Tagestemperatur kleiden.",
+            "Im Vergleich mit dem November wird die Veränderung deutlicher. Das normale Tagesmaximum in Seoul beträgt im November 11,9 °C, das normale Nachtminimum 3,5 °C. Innerhalb eines Monats sinken die Tagestemperaturen um mehr als 7 Grad, und die Nächte rutschen unter null. Wenn Sie Ende November ankommen und bis in den Dezember bleiben, packen Sie so, als würde sich das Wetter mitten auf Ihrer Reise ändern.",
+            "Der Januar ist noch kälter. Das normale Nachtminimum in Seoul liegt im Januar bei −5,5 °C, das Monatsmittel bei −1,9 °C. Wenn Ihre Reise über den Jahreswechsel geht, packen Sie etwas wärmer als für den Dezember."
+          ],
+          "photo": "day-night",
+          "caption": "Der Deoksugung unter Schnee"
+        },
+        {
+          "h": "Gegen 17:15 Uhr wird es dunkel",
+          "p": [
+            "Nach Angaben des Korea Astronomy and Space Science Institute geht die Sonne in Seoul im Dezember 2026 zwischen 17:13 Uhr und 17:23 Uhr unter. Am frühesten geht sie Anfang Dezember unter, zum Jahresende hin wird es etwas später. Der Sonnenaufgang liegt zwischen 7:28 Uhr und 7:47 Uhr.",
+            "Rechnet man Sonnenaufgang und Sonnenuntergang zusammen, dauert der Tag in Seoul im Dezember weniger als 10 Stunden. Wenn Sie früh am Morgen Ihre Unterkunft verlassen, kann es draußen noch dämmrig sein. Legen Sie deshalb den ersten Programmpunkt auf die Zeit nach Sonnenaufgang, dann gehen Sie bequemer.",
+            "Weil die Tage kurz sind, bündeln Sie Programmpunkte im Freien wie Paläste oder Märkte am besten auf den Nachmittag und planen Sie den Abend drinnen. Wenn Sie Fotos vom Sonnenuntergang machen möchten, sehen Sie vorher nach, wann die Sonne an diesem Tag untergeht."
+          ],
+          "photo": "short-days",
+          "caption": "Der Han und Yeouido bei Sonnenuntergang"
+        },
+        {
+          "h": "Manche Morgen sind sehr kalt",
+          "p": [
+            "Normalwerte sind Durchschnittswerte, an manchen Tagen ist es deutlich kälter. Die koreanische Wetterbehörde kann eine Kältewarnung ausgeben, wenn Morgentemperaturen von −12 °C oder weniger an zwei oder mehr Tagen erwartet werden. Wird während Ihrer Reise eine Warnung ausgegeben, ist es eine Möglichkeit, das Programm an diesem Tag auf Aktivitäten in Innenräumen umzustellen.",
+            "Der Dezember ist außerdem ein trockener Monat. Der normale Niederschlag in Seoul beträgt im Dezember 22,6 mm und damit weniger als die Hälfte der 51,1 mm im November. Regen und Schnee sind seltener ein Problem, doch die Luft ist trocken, deshalb lohnt es sich, Lippenpflege und Feuchtigkeitscreme einzupacken."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Seoul, gesehen vom verschneiten Inwangsan"
+        },
+        {
+          "h": "Schichten statt eines dicken Teils",
+          "p": [
+            "Tragen Sie einen warmen Mantel oder eine Daunenjacke über einem Pullover oder Fleece, den Sie leicht an- und ausziehen können, und nehmen Sie Schal und Handschuhe mit. Die U-Bahnen, Cafés und Geschäfte in Seoul sind gut geheizt, sodass es Ihnen draußen kalt ist und nach wenigen Minuten drinnen schon warm.",
+            "Deshalb sind mehrere Schichten, von denen Sie drinnen eine nach der anderen ablegen, praktischer als ein einziges sehr dickes Kleidungsstück. An Tagen mit viel Gehen im Freien nehmen Sie etwas Kleines zum Mitführen dazu, zum Beispiel eine Mütze.",
+            "Am Tag nach einem Schneefall kann auf schattigen Wegen und Treppen noch Eis liegen. Tragen Sie Schuhe mit rutschfester Sohle und gehen Sie auf Steinwegen wie in den Palästen langsam."
+          ],
+          "photo": "pack",
+          "caption": "Reisende im verschneiten Gyeongbokgung"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperatur",
+          "v": [
+            "Dezember: Tagesmaximum 4,2 °C · Nachtminimum −3,4 °C · Monatsmittel 0,2 °C",
+            "Januar: Minimum −5,5 °C (Normalwerte der KMA für Seoul, 1991–2020)"
+          ]
+        },
+        {
+          "k": "Sonne",
+          "v": [
+            "Sonnenuntergang 17:13–17:23 Uhr · Sonnenaufgang 7:28–7:47 Uhr (Seoul, Dezember 2026)"
+          ]
+        },
+        {
+          "k": "Regen und Schnee",
+          "v": [
+            "Normaler Niederschlag im Dezember 22,6 mm, weniger als die Hälfte des Novembers"
+          ]
+        },
+        {
+          "k": "Kältewelle",
+          "v": [
+            "Eine Kältewarnung kann ausgegeben werden, wenn Morgentemperaturen von −12 °C oder weniger an zwei oder mehr Tagen erwartet werden"
+          ]
+        },
+        {
+          "k": "In Trabbit",
+          "v": [
+            "Sehen Sie sich mit „Wetter & Kleidung“ die Temperaturen und die passende Kleidung je Jahreszeit an und finden Sie mit dem „U-Bahn-Netzplan“ warme Wege durch Innenräume. Beides ist kostenlos."
+          ]
+        }
+      ],
+      "outro": "Tagsüber laufen, nach Sonnenuntergang nach drinnen, die Kleidung in Schichten. Mit dieser Vorbereitung sind Sie für Seoul im Dezember gut gerüstet.",
+      "sources": [
+        "Pressemitteilung der Korea Meteorological Administration zu den neuen Klimanormalwerten, Monatstabelle (25. März 2021, abgerufen am 9. November 2026)",
+        "Korea Astronomy and Space Science Institute, monatliche Zeiten von Sonnenaufgang und Sonnenuntergang, Seoul, Dezember 2026 (abgerufen am 22. November 2026)",
+        "Korea Meteorological Administration, Weather Nuri, Kriterien für Wetterwarnungen (abgerufen am 22. November 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "es": {
+      "title": "Seúl en diciembre ronda los 0 °C: prepárese con ropa por capas",
+      "summary": "Temperaturas de día y de noche en Seúl en diciembre según los valores climáticos normales oficiales, hora de la puesta de sol, el umbral del aviso por ola de frío y qué llevar en la maleta.",
+      "hero_caption": "El palacio Gyeongbokgung y el centro de Seúl bajo la nieve",
+      "lead": [
+        "Seúl es más fría en diciembre de lo que mucha gente espera, pero con una buena preparación es un mes estupendo para caminar. Según los valores normales de la Korea Meteorological Administration, basados en registros de 1991 a 2020, la máxima media de Seúl en diciembre es de 4,2 °C y la mínima media de −3,4 °C. La media mensual es de 0,2 °C, así que la ciudad oscila en torno a cero.",
+        "A esto se suman los días cortos y, de vez en cuando, una mañana mucho más fría. Si Seúl figura en su calendario de diciembre, aquí tiene las cifras que conviene conocer y cómo vestirse."
+      ],
+      "sections": [
+        {
+          "h": "4 °C de día, −3 °C de noche",
+          "p": [
+            "En Seúl, la máxima normal de diciembre es de 4,2 °C y la mínima normal de −3,4 °C. Caminar al sol por la tarde se lleva bien, pero cuando se pone el sol la temperatura baja enseguida de cero. Con una diferencia de más de 7 grados en un mismo día, si se viste solo según la temperatura de la tarde puede pasar frío por la noche.",
+            "Compararlo con noviembre muestra mejor el cambio. En Seúl, la máxima normal de noviembre es de 11,9 °C y la mínima normal de 3,5 °C. En un mes, las temperaturas diurnas bajan más de 7 grados y las noches caen por debajo de cero. Si llega a finales de noviembre y se queda hasta diciembre, haga la maleta pensando que el tiempo cambiará durante el viaje.",
+            "Enero es todavía más frío. En Seúl, la mínima normal de enero es de −5,5 °C y la media mensual de −1,9 °C. Si su viaje abarca el cambio de año, lleve algo más de abrigo que en diciembre."
+          ],
+          "photo": "day-night",
+          "caption": "El palacio Deoksugung bajo la nieve"
+        },
+        {
+          "h": "Oscurece hacia las 17:15",
+          "p": [
+            "Según el Korea Astronomy and Space Science Institute, en diciembre de 2026 el sol se pone en Seúl entre las 17:13 y las 17:23. Las puestas más tempranas llegan a principios de diciembre y se van retrasando poco a poco hacia final de mes. La salida del sol cae entre las 7:28 y las 7:47.",
+            "Si se suman salida y puesta del sol, la luz del día en Seúl en diciembre dura menos de 10 horas. Si sale temprano del alojamiento, puede que aún esté oscuro fuera, así que conviene fijar la primera visita después de la salida del sol para caminar con más comodidad.",
+            "Como los días son cortos, agrupe por la tarde las visitas al aire libre, como los palacios o los mercados, y planee pasar la noche en interiores. Si quiere fotografiar el atardecer, consulte antes la hora de la puesta de sol de ese día."
+          ],
+          "photo": "short-days",
+          "caption": "El río Han y Yeouido al atardecer"
+        },
+        {
+          "h": "Algunas mañanas son muy frías",
+          "p": [
+            "Los valores normales son medias, y algunos días hace mucho más frío. La agencia meteorológica coreana puede emitir un aviso por ola de frío cuando se prevén mínimas matinales de −12 °C o menos durante dos días o más. Si se emite un aviso durante su viaje, puede ser buena idea cambiar ese día a planes en interiores.",
+            "Diciembre es además un mes seco. En Seúl, la precipitación normal de diciembre es de 22,6 mm, menos de la mitad de los 51,1 mm de noviembre. La lluvia y la nieve preocupan menos, pero el aire es seco, así que conviene llevar bálsamo labial y crema hidratante."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Seúl vista desde el Inwangsan nevado"
+        },
+        {
+          "h": "Mejor varias capas que una sola prenda gruesa",
+          "p": [
+            "Póngase un abrigo o plumífero caliente sobre un jersey o un forro polar que pueda quitarse y ponerse con facilidad, y lleve bufanda y guantes. El metro, las cafeterías y las tiendas de Seúl están bien calefactados, así que se pasa del frío de la calle al calor en cuanto se entra.",
+            "Por eso resulta más cómodo llevar varias capas y quitarse una por una en el interior que una sola prenda muy gruesa. Los días en que camine mucho al aire libre, añada algo pequeño y fácil de llevar, como un gorro.",
+            "Al día siguiente de una nevada puede quedar hielo en caminos sombríos y escaleras. Use calzado con suela antideslizante y camine despacio por los caminos de piedra, como los de los palacios."
+          ],
+          "photo": "pack",
+          "caption": "Viajeros caminando por el Gyeongbokgung nevado"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperatura",
+          "v": [
+            "Diciembre: máxima 4,2 °C · mínima −3,4 °C · media mensual 0,2 °C",
+            "Enero: mínima −5,5 °C (valores normales de la KMA para Seúl, 1991-2020)"
+          ]
+        },
+        {
+          "k": "Sol",
+          "v": [
+            "Puesta del sol 17:13-17:23 · salida del sol 7:28-7:47 (Seúl, diciembre de 2026)"
+          ]
+        },
+        {
+          "k": "Lluvia y nieve",
+          "v": [
+            "Precipitación normal de diciembre: 22,6 mm, menos de la mitad que en noviembre"
+          ]
+        },
+        {
+          "k": "Ola de frío",
+          "v": [
+            "Puede emitirse un aviso por ola de frío cuando se prevén mínimas matinales de −12 °C o menos durante dos días o más"
+          ]
+        },
+        {
+          "k": "En Trabbit",
+          "v": [
+            "Consulte las temperaturas y la ropa según la estación en «Clima y ropa» y encuentre recorridos cálidos por el interior con el «Mapa del metro». Ambos son gratis."
+          ]
+        }
+      ],
+      "outro": "Caminar de día, resguardarse en interiores al anochecer y vestirse por capas. Con esta preparación, Seúl en diciembre se disfruta sin problemas.",
+      "sources": [
+        "Nota de prensa de la Korea Meteorological Administration sobre los nuevos valores climáticos normales, tabla mensual (25 de marzo de 2021, consultada el 9 de noviembre de 2026)",
+        "Korea Astronomy and Space Science Institute, horas mensuales de salida y puesta del sol, Seúl, diciembre de 2026 (consultado el 22 de noviembre de 2026)",
+        "Korea Meteorological Administration, Weather Nuri, criterios de emisión de avisos meteorológicos (consultado el 22 de noviembre de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "fr": {
+      "title": "Séoul en décembre, autour de 0 °C : habillez-vous en plusieurs couches",
+      "summary": "Les températures de jour et de nuit à Séoul en décembre d'après les normales climatiques officielles, l'heure du coucher du soleil, le seuil de l'alerte vague de froid et que mettre dans sa valise.",
+      "hero_caption": "Le palais Gyeongbokgung et le centre de Séoul sous la neige",
+      "lead": [
+        "Séoul est plus froide en décembre qu'on ne l'imagine, mais c'est un bon mois pour marcher si l'on s'y prépare. D'après les normales de la Korea Meteorological Administration, établies sur les relevés de 1991 à 2020, la température maximale moyenne de Séoul en décembre est de 4,2 °C et la minimale moyenne de −3,4 °C. La moyenne mensuelle est de 0,2 °C : la ville oscille donc autour de zéro.",
+        "S'ajoutent des journées courtes et, de temps à autre, un matin très froid. Si Séoul figure dans votre programme de décembre, voici les chiffres utiles à connaître et comment vous habiller."
+      ],
+      "sections": [
+        {
+          "h": "4 °C le jour, −3 °C la nuit",
+          "p": [
+            "À Séoul, la maximale normale de décembre est de 4,2 °C et la minimale normale de −3,4 °C. Marcher au soleil l'après-midi reste supportable, mais dès que le soleil se couche, la température passe vite sous zéro. Avec plus de 7 degrés d'écart au cours d'une même journée, vous risquez d'avoir froid le soir si vous vous habillez uniquement d'après la température de l'après-midi.",
+            "La comparaison avec novembre rend le changement plus net. À Séoul, la maximale normale de novembre est de 11,9 °C et la minimale normale de 3,5 °C. En un mois, les températures de jour baissent de plus de 7 degrés et les nuits passent sous zéro. Si vous arrivez fin novembre et restez jusqu'en décembre, faites votre valise en pensant que le temps va changer pendant votre voyage.",
+            "Janvier est encore plus froid. À Séoul, la minimale normale de janvier est de −5,5 °C et la moyenne mensuelle de −1,9 °C. Si votre voyage couvre le passage à la nouvelle année, prévoyez un peu plus chaud qu'en décembre."
+          ],
+          "photo": "day-night",
+          "caption": "Le palais Deoksugung sous la neige"
+        },
+        {
+          "h": "Il fait nuit vers 17 h 15",
+          "p": [
+            "Selon le Korea Astronomy and Space Science Institute, le soleil se couche à Séoul entre 17 h 13 et 17 h 23 en décembre 2026. Le coucher le plus précoce a lieu début décembre, puis il retarde peu à peu vers la fin de l'année. Le lever du soleil se situe entre 7 h 28 et 7 h 47.",
+            "En additionnant lever et coucher, le jour dure moins de 10 heures à Séoul en décembre. Si vous quittez votre hébergement tôt le matin, il peut encore faire sombre dehors ; mieux vaut donc fixer la première visite après le lever du soleil pour marcher plus confortablement.",
+            "Les journées étant courtes, regroupez l'après-midi les visites en extérieur, comme les palais ou les marchés, et prévoyez de passer la soirée à l'intérieur. Si vous voulez photographier le coucher du soleil, consultez l'heure du coucher du jour avant de partir."
+          ],
+          "photo": "short-days",
+          "caption": "Le fleuve Han et Yeouido au coucher du soleil"
+        },
+        {
+          "h": "Certains matins sont très froids",
+          "p": [
+            "Les normales sont des moyennes, et certains jours sont bien plus froids. L'agence météorologique coréenne peut émettre une alerte vague de froid lorsque des minimales matinales de −12 °C ou moins sont attendues pendant deux jours ou plus. Si une alerte est émise pendant votre séjour, vous pouvez réorganiser la journée autour d'activités en intérieur.",
+            "Décembre est aussi un mois sec. À Séoul, les précipitations normales de décembre s'élèvent à 22,6 mm, soit moins de la moitié des 51,1 mm de novembre. La pluie et la neige sont moins à craindre, mais l'air est sec : pensez à emporter un baume à lèvres et une crème hydratante."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Séoul vue depuis l'Inwangsan enneigé"
+        },
+        {
+          "h": "Plusieurs couches plutôt qu'un seul gros vêtement",
+          "p": [
+            "Portez un manteau chaud ou une doudoune par-dessus un pull ou une polaire faciles à enlever et à remettre, et emportez écharpe et gants. Le métro, les cafés et les boutiques de Séoul sont bien chauffés : après le froid du dehors, on a vite chaud une fois à l'intérieur.",
+            "C'est pourquoi plusieurs couches que l'on retire une à une à l'intérieur sont plus pratiques qu'un seul vêtement très épais. Les jours où vous marchez longtemps dehors, ajoutez un petit accessoire facile à emporter, comme un bonnet.",
+            "Le lendemain d'une chute de neige, de la glace peut subsister sur les chemins à l'ombre et dans les escaliers. Portez des chaussures antidérapantes et marchez lentement sur les chemins de pierre, comme dans les palais."
+          ],
+          "photo": "pack",
+          "caption": "Des voyageurs dans le Gyeongbokgung enneigé"
+        }
+      ],
+      "box": [
+        {
+          "k": "Températures",
+          "v": [
+            "Décembre : maximale 4,2 °C · minimale −3,4 °C · moyenne mensuelle 0,2 °C",
+            "Janvier : minimale −5,5 °C (normales de la KMA pour Séoul, 1991-2020)"
+          ]
+        },
+        {
+          "k": "Soleil",
+          "v": [
+            "Coucher 17 h 13-17 h 23 · lever 7 h 28-7 h 47 (Séoul, décembre 2026)"
+          ]
+        },
+        {
+          "k": "Pluie et neige",
+          "v": [
+            "Précipitations normales de décembre : 22,6 mm, moins de la moitié de novembre"
+          ]
+        },
+        {
+          "k": "Vague de froid",
+          "v": [
+            "Une alerte vague de froid peut être émise lorsque des minimales matinales de −12 °C ou moins sont attendues pendant deux jours ou plus"
+          ]
+        },
+        {
+          "k": "Dans Trabbit",
+          "v": [
+            "Consultez les températures et les tenues selon la saison avec « Météo et tenues », et trouvez des trajets au chaud en intérieur avec le « Plan du métro ». Les deux sont gratuits."
+          ]
+        }
+      ],
+      "outro": "Marcher le jour, rentrer à l'intérieur à la nuit tombée, s'habiller en plusieurs couches. Avec cette préparation, vous serez bien équipé pour Séoul en décembre.",
+      "sources": [
+        "Communiqué de la Korea Meteorological Administration sur les nouvelles normales climatiques, tableau mensuel (25 mars 2021, consulté le 9 novembre 2026)",
+        "Korea Astronomy and Space Science Institute, heures mensuelles de lever et de coucher du soleil, Séoul, décembre 2026 (consulté le 22 novembre 2026)",
+        "Korea Meteorological Administration, Weather Nuri, critères d'émission des alertes météo (consulté le 22 novembre 2026)"
+      ],
+      "credit": "Photos : Korea Tourism Organization"
+    },
+    "id": {
+      "title": "Desember di Seoul berkisar di sekitar titik beku, siapkan pakaian berlapis",
+      "summary": "Suhu siang dan malam Seoul pada bulan Desember berdasarkan nilai normal iklim resmi Korea, waktu matahari terbenam, batas peringatan gelombang dingin, serta apa saja yang perlu dibawa.",
+      "hero_caption": "Istana Gyeongbokgung dan pusat kota Seoul di bawah salju",
+      "lead": [
+        "Desember di Seoul lebih dingin daripada yang dibayangkan banyak pengunjung, tetapi bulan ini tetap enak untuk berjalan kaki jika Anda sudah bersiap. Nilai normal Badan Meteorologi Korea (Korea Meteorological Administration) berdasarkan data tahun 1991 hingga 2020 menunjukkan suhu tertinggi rata-rata Seoul pada bulan Desember adalah 4,2 °C dan suhu terendah rata-rata −3,4 °C. Rata-rata bulanannya 0,2 °C, sehingga sepanjang bulan kota ini berada di sekitar titik beku.",
+        "Siang harinya juga pendek, dan sesekali datang pagi yang jauh lebih dingin. Jika Seoul ada dalam rencana Desember Anda, berikut angka-angka yang perlu diketahui dan cara berpakaian untuk menghadapinya."
+      ],
+      "sections": [
+        {
+          "h": "4 °C pada siang hari, −3 °C pada malam hari",
+          "p": [
+            "Suhu tertinggi normal Seoul pada bulan Desember adalah 4,2 °C dan suhu terendah normal −3,4 °C. Berjalan di bawah matahari siang masih terasa tertahankan, tetapi begitu matahari terbenam suhu cepat turun di bawah nol. Dengan selisih lebih dari 7 derajat dalam satu hari, jika Anda berpakaian hanya untuk siang hari, Anda bisa kedinginan pada malam hari.",
+            "Perbandingan dengan November membuat perubahannya lebih jelas. Suhu tertinggi normal Seoul pada bulan November adalah 11,9 °C dan suhu terendah normal 3,5 °C. Dalam sebulan, suhu siang hari turun lebih dari 7 derajat dan malam hari jatuh di bawah nol. Jika Anda tiba pada akhir November dan tinggal hingga Desember, bawalah pakaian dengan perkiraan bahwa cuaca akan berubah di tengah perjalanan.",
+            "Januari lebih dingin lagi. Suhu terendah normal Seoul pada bulan Januari adalah −5,5 °C, dengan rata-rata bulanan −1,9 °C. Jika perjalanan Anda melewati Tahun Baru, bawalah pakaian yang sedikit lebih hangat daripada untuk Desember."
+          ],
+          "photo": "day-night",
+          "caption": "Istana Deoksugung di bawah salju"
+        },
+        {
+          "h": "Gelap sekitar pukul 17.15",
+          "p": [
+            "Menurut Institut Astronomi dan Ilmu Antariksa Korea (Korea Astronomy and Space Science Institute), matahari terbenam di Seoul antara pukul 17.13 dan 17.23 pada bulan Desember 2026. Matahari terbenam paling awal terjadi pada awal Desember, lalu bergeser sedikit lebih lambat menjelang akhir bulan. Matahari terbit antara pukul 7.28 dan 7.47.",
+            "Jika waktu terbit dan terbenam digabungkan, siang hari di Seoul pada bulan Desember kurang dari 10 jam. Jika Anda meninggalkan hotel pagi-pagi sekali, di luar mungkin masih remang-remang, jadi memulai tujuan pertama setelah matahari terbit akan membuat berjalan kaki lebih nyaman.",
+            "Karena siangnya pendek, kelompokkan rencana di luar ruangan, seperti istana dan pasar, pada sore hari, dan rencanakan untuk menghabiskan malam di dalam ruangan. Jika Anda ingin memotret matahari terbenam, periksa waktu matahari terbenam pada hari itu sebelum berangkat."
+          ],
+          "photo": "short-days",
+          "caption": "Sungai Han dan Yeouido saat matahari terbenam"
+        },
+        {
+          "h": "Ada pagi yang jauh lebih dingin",
+          "p": [
+            "Nilai normal adalah angka rata-rata, jadi ada hari-hari yang jauh lebih dingin. Badan cuaca Korea dapat mengeluarkan peringatan gelombang dingin ketika suhu terendah pagi hari −12 °C atau lebih rendah diperkirakan berlangsung dua hari atau lebih. Jika peringatan dikeluarkan selama perjalanan Anda, itu bisa menjadi hari yang tepat untuk beralih ke rencana di dalam ruangan.",
+            "Desember juga bulan yang kering. Curah hujan normal Seoul pada bulan Desember adalah 22,6 mm, kurang dari separuh curah hujan November yang mencapai 51,1 mm. Hujan dan salju tidak terlalu merepotkan, tetapi udaranya kering, jadi pelembap bibir dan pelembap kulit sebaiknya dibawa."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Seoul dilihat dari Inwangsan yang bersalju"
+        },
+        {
+          "h": "Berlapis lebih baik daripada satu pakaian tebal",
+          "p": [
+            "Kenakan mantel hangat atau jaket bulu angsa di atas sweter atau fleece yang mudah dilepas, dan bawalah syal serta sarung tangan. Kereta bawah tanah, kafe, dan toko di Seoul dipanaskan dengan baik, sehingga Anda bisa beralih dari dingin di luar menjadi hangat dalam hitungan menit setelah masuk.",
+            "Karena itu, beberapa lapis pakaian yang bisa dilepas di dalam ruangan lebih praktis daripada satu setelan yang sangat tebal. Pada hari dengan banyak berjalan kaki di luar, tambahkan sesuatu yang kecil dan mudah dibawa, seperti topi.",
+            "Sehari setelah salju turun, es bisa bertahan di jalan setapak dan tangga yang teduh. Kenakan sepatu dengan sol yang kuat cengkeramannya, dan berjalanlah perlahan di jalan batu seperti yang ada di istana-istana."
+          ],
+          "photo": "pack",
+          "caption": "Wisatawan berjalan di Gyeongbokgung yang bersalju"
+        }
+      ],
+      "box": [
+        {
+          "k": "Suhu",
+          "v": [
+            "Desember: tertinggi 4,2 °C · terendah −3,4 °C · rata-rata bulanan 0,2 °C",
+            "Januari: terendah −5,5 °C (nilai normal Seoul menurut Badan Meteorologi Korea, 1991–2020)"
+          ]
+        },
+        {
+          "k": "Cahaya siang",
+          "v": [
+            "Matahari terbenam 17.13–17.23 · matahari terbit 7.28–7.47 (Seoul, Desember 2026)"
+          ]
+        },
+        {
+          "k": "Hujan dan salju",
+          "v": [
+            "Curah hujan normal Desember 22,6 mm, kurang dari separuh curah hujan November"
+          ]
+        },
+        {
+          "k": "Gelombang dingin",
+          "v": [
+            "Peringatan gelombang dingin dapat dikeluarkan jika suhu terendah pagi hari −12 °C atau lebih rendah diperkirakan berlangsung dua hari atau lebih"
+          ]
+        },
+        {
+          "k": "Di Trabbit",
+          "v": [
+            "Periksa suhu dan pakaian per musim di 「Cuaca & Pakaian」, dan gunakan 「Peta Kereta Bawah Tanah」 untuk berpindah antartempat tujuan di dalam ruangan yang hangat. Keduanya gratis."
+          ]
+        }
+      ],
+      "outro": "Berjalan di siang hari, masuk ke dalam ruangan setelah gelap, dan berpakaian berlapis. Hanya itu yang diminta Desember di Seoul dari Anda.",
+      "sources": [
+        "Badan Meteorologi Korea, siaran pers nilai normal iklim baru, tabel bulanan (25 Maret 2021, diperiksa 9 November 2026)",
+        "Institut Astronomi dan Ilmu Antariksa Korea, waktu matahari terbit dan terbenam bulanan, Seoul, Desember 2026 (diperiksa 22 November 2026)",
+        "Weather Nuri Badan Meteorologi Korea, kriteria peringatan cuaca (diperiksa 22 November 2026)"
+      ],
+      "credit": "Foto: Korea Tourism Organization"
+    },
+    "pt_br": {
+      "title": "Seul em dezembro fica perto de 0 °C: prepare-se com roupas em camadas",
+      "summary": "As temperaturas de dia e de noite em Seul em dezembro pelas normais climatológicas oficiais, o horário do pôr do sol, o critério do aviso de onda de frio e o que levar na mala.",
+      "hero_caption": "O Palácio Gyeongbokgung e o centro de Seul sob a neve",
+      "lead": [
+        "Seul é mais fria em dezembro do que se imagina, mas, com preparo, é um ótimo mês para caminhar. Pelas normais da Korea Meteorological Administration, calculadas com registros de 1991 a 2020, a máxima média de Seul em dezembro é de 4,2 °C e a mínima média, de −3,4 °C. A média mensal é de 0,2 °C, ou seja, a cidade oscila em torno de zero.",
+        "Somam-se a isso os dias curtos e, de vez em quando, uma manhã muito mais fria. Se Seul está no seu roteiro de dezembro, aqui estão os números que vale conhecer e como se vestir."
+      ],
+      "sections": [
+        {
+          "h": "4 °C de dia, −3 °C à noite",
+          "p": [
+            "Em Seul, a máxima normal de dezembro é de 4,2 °C e a mínima normal, de −3,4 °C. Caminhar ao sol da tarde é suportável, mas, quando o sol se põe, a temperatura cai logo para abaixo de zero. Com uma diferença de mais de 7 graus em um mesmo dia, se você se vestir só pela temperatura da tarde, pode sentir frio à noite.",
+            "Comparar com novembro deixa a mudança mais clara. Em Seul, a máxima normal de novembro é de 11,9 °C e a mínima normal, de 3,5 °C. Em um mês, as temperaturas diurnas caem mais de 7 graus e as noites passam a ficar abaixo de zero. Se você chega no fim de novembro e fica até dezembro, faça a mala pensando que o tempo vai mudar no meio da viagem.",
+            "Janeiro é ainda mais frio. Em Seul, a mínima normal de janeiro é de −5,5 °C e a média mensal, de −1,9 °C. Se sua viagem atravessa a virada do ano, leve um pouco mais de agasalho do que para dezembro."
+          ],
+          "photo": "day-night",
+          "caption": "O Palácio Deoksugung sob a neve"
+        },
+        {
+          "h": "Escurece por volta das 17h15",
+          "p": [
+            "Segundo o Korea Astronomy and Space Science Institute, em dezembro de 2026 o sol se põe em Seul entre 17h13 e 17h23. Os pores do sol mais cedo ocorrem no início de dezembro e vão ficando um pouco mais tarde até o fim do ano. O nascer do sol fica entre 7h28 e 7h47.",
+            "Somando nascer e pôr do sol, a luz do dia em Seul em dezembro dura menos de 10 horas. Se você sair cedo do hotel, ainda pode estar escuro lá fora, então marcar o primeiro passeio para depois do nascer do sol deixa a caminhada mais confortável.",
+            "Como os dias são curtos, concentre à tarde os passeios ao ar livre, como palácios e mercados, e planeje passar o fim do dia em lugares fechados. Se quiser fotografar o pôr do sol, confira antes o horário do pôr do sol daquele dia."
+          ],
+          "photo": "short-days",
+          "caption": "O Rio Han e Yeouido ao pôr do sol"
+        },
+        {
+          "h": "Algumas manhãs são muito frias",
+          "p": [
+            "As normais são médias, e alguns dias são bem mais frios. A agência meteorológica coreana pode emitir um aviso de onda de frio quando se espera que mínimas matinais de −12 °C ou menos durem dois dias ou mais. Se um aviso for emitido durante a sua viagem, uma opção é trocar o programa daquele dia por atividades em locais fechados.",
+            "Dezembro também é um mês seco. Em Seul, a precipitação normal de dezembro é de 22,6 mm, menos da metade dos 51,1 mm de novembro. Chuva e neve preocupam menos, mas o ar é seco, então vale levar protetor labial e hidratante."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Seul vista do Inwangsan coberto de neve"
+        },
+        {
+          "h": "Camadas em vez de uma peça grossa",
+          "p": [
+            "Use um casaco quente ou uma jaqueta de pluma sobre um suéter ou uma blusa de fleece fáceis de tirar e pôr, e leve cachecol e luvas. O metrô, os cafés e as lojas de Seul são bem aquecidos, então você passa do frio da rua ao calor logo que entra.",
+            "Por isso, várias camadas que você tira uma a uma em ambientes fechados são mais práticas do que uma única peça muito grossa. Nos dias de longas caminhadas ao ar livre, acrescente algo pequeno de levar, como um gorro.",
+            "No dia seguinte a uma nevasca, ainda pode haver gelo em caminhos sombreados e escadas. Use calçados com solado antiderrapante e ande devagar em caminhos de pedra, como os dos palácios."
+          ],
+          "photo": "pack",
+          "caption": "Viajantes caminhando pelo Gyeongbokgung coberto de neve"
+        }
+      ],
+      "box": [
+        {
+          "k": "Temperatura",
+          "v": [
+            "Dezembro: máxima 4,2 °C · mínima −3,4 °C · média mensal 0,2 °C",
+            "Janeiro: mínima −5,5 °C (normais da KMA para Seul, 1991–2020)"
+          ]
+        },
+        {
+          "k": "Sol",
+          "v": [
+            "Pôr do sol 17h13–17h23 · nascer do sol 7h28–7h47 (Seul, dezembro de 2026)"
+          ]
+        },
+        {
+          "k": "Chuva e neve",
+          "v": [
+            "Precipitação normal de dezembro: 22,6 mm, menos da metade de novembro"
+          ]
+        },
+        {
+          "k": "Onda de frio",
+          "v": [
+            "Um aviso de onda de frio pode ser emitido quando se esperam mínimas matinais de −12 °C ou menos por dois dias ou mais"
+          ]
+        },
+        {
+          "k": "No Trabbit",
+          "v": [
+            "Veja as temperaturas e as roupas de cada estação em «Clima e roupas» e descubra caminhos aquecidos por dentro com o «Mapa do metrô». Os dois são gratuitos."
+          ]
+        }
+      ],
+      "outro": "Caminhar de dia, ir para um lugar fechado quando escurece e se vestir em camadas. Com esse preparo, dá para curtir Seul em dezembro numa boa.",
+      "sources": [
+        "Comunicado da Korea Meteorological Administration sobre as novas normais climatológicas, tabela mensal (25 de março de 2021, consultado em 9 de novembro de 2026)",
+        "Korea Astronomy and Space Science Institute, horários mensais de nascer e pôr do sol, Seul, dezembro de 2026 (consultado em 22 de novembro de 2026)",
+        "Korea Meteorological Administration, Weather Nuri, critérios de emissão de avisos meteorológicos (consultado em 22 de novembro de 2026)"
+      ],
+      "credit": "Fotos: Korea Tourism Organization"
+    },
+    "ru": {
+      "title": "Декабрь в Сеуле держится около нуля: одевайтесь в несколько слоёв",
+      "summary": "Дневная и ночная температура в Сеуле в декабре по официальным климатическим нормам Кореи, время заката, порог предупреждения о холодной волне и что взять с собой.",
+      "hero_caption": "Дворец Кёнбоккун и центр Сеула под снегом",
+      "lead": [
+        "Декабрь в Сеуле холоднее, чем ожидают многие путешественники, но при хорошей подготовке это отличный месяц для прогулок. По климатическим нормам Корейского метеорологического управления (Korea Meteorological Administration) за 1991–2020 годы средний дневной максимум в Сеуле в декабре составляет 4,2 °C, а средний ночной минимум — −3,4 °C. Среднемесячная температура равна 0,2 °C, так что весь месяц город держится около нуля.",
+        "Дни при этом короткие, а время от времени приходят заметно более холодные утра. Если Сеул есть в ваших планах на декабрь, вот цифры, которые стоит знать, и подсказки, как одеться."
+      ],
+      "sections": [
+        {
+          "h": "4 °C днём, −3 °C ночью",
+          "p": [
+            "Нормальный дневной максимум в Сеуле в декабре — 4,2 °C, нормальный ночной минимум — −3,4 °C. Гулять под дневным солнцем вполне терпимо, но после заката температура быстро опускается ниже нуля. Когда разница в течение одних суток превышает 7 градусов, одежда, подобранная только на день, к вечеру может не согреть.",
+            "Сравнение с ноябрём делает перемену заметнее. Нормальный дневной максимум в Сеуле в ноябре — 11,9 °C, нормальный ночной минимум — 3,5 °C. За месяц дневная температура падает более чем на 7 градусов, а ночи уходят ниже нуля. Если вы приезжаете в конце ноября и остаётесь на декабрь, собирайте вещи с расчётом, что погода изменится прямо в ходе поездки.",
+            "Январь ещё холоднее. Нормальный ночной минимум в Сеуле в январе — −5,5 °C, среднемесячная температура — −1,9 °C. Если ваша поездка захватывает Новый год, возьмите одежду чуть теплее, чем для декабря."
+          ],
+          "photo": "day-night",
+          "caption": "Дворец Токсугун под снегом"
+        },
+        {
+          "h": "Темнеет примерно в 17:15",
+          "p": [
+            "По данным Корейского института астрономии и космических наук (Korea Astronomy and Space Science Institute), в декабре 2026 года солнце в Сеуле садится между 17:13 и 17:23. Самые ранние закаты приходятся на начало декабря, к концу месяца они понемногу сдвигаются позже. Восход происходит между 7:28 и 7:47.",
+            "Если сложить восход и закат, световой день в Сеуле в декабре длится меньше 10 часов. Если вы выйдете из отеля рано утром, на улице может быть ещё сумрачно, поэтому первую точку маршрута удобнее начинать после восхода.",
+            "Из-за коротких дней сгруппируйте уличные планы, например дворцы и рынки, на вторую половину дня, а вечер проведите в помещении. Если хотите снять закат, заранее проверьте время заката на нужный день."
+          ],
+          "photo": "short-days",
+          "caption": "Река Хан и Ёыйдо на закате"
+        },
+        {
+          "h": "Некоторые утра заметно холоднее",
+          "p": [
+            "Нормы — это средние значения, поэтому бывают дни намного холоднее. Метеорологическая служба Кореи может объявить предупреждение о холодной волне, если ожидается, что утренний минимум −12 °C и ниже продержится два дня и больше. Если предупреждение объявят во время вашей поездки, это хороший повод перейти на планы в помещении.",
+            "Декабрь к тому же сухой месяц. Нормальное количество осадков в Сеуле в декабре — 22,6 мм, это меньше половины ноябрьских 51,1 мм. Дождь и снег беспокоят меньше, но воздух сухой, поэтому гигиеническая помада и увлажняющий крем пригодятся."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Сеул со снежной горы Инвансан"
+        },
+        {
+          "h": "Несколько слоёв лучше одной толстой вещи",
+          "p": [
+            "Надевайте тёплое пальто или пуховик поверх свитера или флиса, который легко снять, и возьмите шарф и перчатки. В сеульском метро, кафе и магазинах хорошо топят, поэтому из холода на улице вы окажетесь в тепле через несколько минут после входа.",
+            "Именно поэтому несколько слоёв, которые можно снять в помещении, удобнее одного очень толстого наряда. В дни, когда вы много ходите на улице, добавьте что-нибудь небольшое, например шапку.",
+            "На следующий день после снега в тени на дорожках и лестницах может держаться лёд. Обувайте ботинки с хорошим сцеплением и идите не спеша по каменным дорожкам, например во дворцах."
+          ],
+          "photo": "pack",
+          "caption": "Путешественники идут по заснеженному дворцу Кёнбоккун"
+        }
+      ],
+      "box": [
+        {
+          "k": "Температура",
+          "v": [
+            "Декабрь: максимум 4,2 °C · минимум −3,4 °C · среднемесячная 0,2 °C",
+            "Январь: минимум −5,5 °C (нормы по Сеулу, Корейское метеорологическое управление, 1991–2020)"
+          ]
+        },
+        {
+          "k": "Световой день",
+          "v": [
+            "Закат 17:13–17:23 · восход 7:28–7:47 (Сеул, декабрь 2026 г.)"
+          ]
+        },
+        {
+          "k": "Дождь и снег",
+          "v": [
+            "Нормальное количество осадков в декабре 22,6 мм, меньше половины ноябрьского"
+          ]
+        },
+        {
+          "k": "Холодные волны",
+          "v": [
+            "Предупреждение о холодной волне может быть объявлено, если ожидается, что утренний минимум −12 °C и ниже продержится два дня и больше"
+          ]
+        },
+        {
+          "k": "В Trabbit",
+          "v": [
+            "Узнайте сезонную температуру и подходящую одежду в разделе 「Погода и одежда」, а между тёплыми местами в помещении перемещайтесь по 「Схеме метро」. Оба бесплатны."
+          ]
+        }
+      ],
+      "outro": "Гуляйте днём, после темноты уходите в помещение и одевайтесь в несколько слоёв. Только это и нужно от вас декабрю в Сеуле.",
+      "sources": [
+        "Корейское метеорологическое управление, пресс-релиз о новых климатических нормах, помесячная таблица (25 марта 2021 г., проверено 9 ноября 2026 г.)",
+        "Корейский институт астрономии и космических наук, время восхода и заката по месяцам, Сеул, декабрь 2026 г. (проверено 22 ноября 2026 г.)",
+        "Корейское метеорологическое управление, «Погодное Нури», критерии объявления штормовых предупреждений (проверено 22 ноября 2026 г.)"
+      ],
+      "credit": "Фото: Korea Tourism Organization"
+    },
+    "th": {
+      "title": "เดือนธันวาคมที่โซลอยู่ที่ราว 0 องศา เตรียมแต่งตัวแบบซ้อนหลายชั้น",
+      "summary": "อุณหภูมิกลางวันและกลางคืนของโซลในเดือนธันวาคมจากค่าปกติภูมิอากาศอย่างเป็นทางการของเกาหลี เวลาพระอาทิตย์ตก เกณฑ์การเตือนคลื่นความเย็น และสิ่งที่ควรเตรียมไป",
+      "hero_caption": "พระราชวังคยองบกกุงและใจกลางกรุงโซลท่ามกลางหิมะ",
+      "lead": [
+        "เดือนธันวาคมที่โซลหนาวกว่าที่นักท่องเที่ยวหลายคนคาดไว้ แต่ก็เป็นเดือนที่เหมาะกับการเดินเที่ยวหากเตรียมตัวมาดี ค่าปกติของสำนักงานอุตุนิยมวิทยาเกาหลี (Korea Meteorological Administration) จากข้อมูลปี 1991 ถึง 2020 ระบุว่าอุณหภูมิสูงสุดเฉลี่ยของโซลในเดือนธันวาคมอยู่ที่ 4.2 °C และต่ำสุดเฉลี่ย −3.4 °C ค่าเฉลี่ยรายเดือนอยู่ที่ 0.2 °C ตลอดทั้งเดือนเมืองนี้จึงอยู่ที่ราว 0 องศา",
+        "กลางวันก็สั้น และบางครั้งจะมีเช้าที่หนาวกว่านี้มาก หากโซลอยู่ในแผนเดือนธันวาคมของคุณ ต่อไปนี้คือตัวเลขที่ควรรู้และวิธีแต่งตัวให้เหมาะสม"
+      ],
+      "sections": [
+        {
+          "h": "กลางวัน 4 °C กลางคืน −3 °C",
+          "p": [
+            "อุณหภูมิสูงสุดปกติของโซลในเดือนธันวาคมคือ 4.2 °C และต่ำสุดปกติคือ −3.4 °C การเดินท่ามกลางแดดช่วงบ่ายยังพอรับไหว แต่เมื่อดวงอาทิตย์ตกอุณหภูมิจะลดลงต่ำกว่าศูนย์อย่างรวดเร็ว ในหนึ่งวันมีอุณหภูมิต่างกันเกิน 7 องศา หากแต่งตัวให้พอดีกับช่วงบ่ายเพียงอย่างเดียว พอตกเย็นก็อาจหนาวได้",
+            "เมื่อเทียบกับเดือนพฤศจิกายนจะเห็นการเปลี่ยนแปลงชัดขึ้น อุณหภูมิสูงสุดปกติของโซลในเดือนพฤศจิกายนคือ 11.9 °C และต่ำสุดปกติคือ 3.5 °C ภายในหนึ่งเดือน อุณหภูมิกลางวันลดลงมากกว่า 7 องศา และกลางคืนลดลงต่ำกว่าศูนย์ หากคุณมาถึงช่วงปลายเดือนพฤศจิกายนและพักต่อไปจนถึงเดือนธันวาคม ให้เตรียมของโดยคิดไว้ว่าอากาศจะเปลี่ยนไปกลางทริป",
+            "เดือนมกราคมหนาวยิ่งกว่า อุณหภูมิต่ำสุดปกติของโซลในเดือนมกราคมคือ −5.5 °C และค่าเฉลี่ยรายเดือนคือ −1.9 °C หากการเดินทางของคุณคาบเกี่ยวช่วงปีใหม่ ให้เตรียมเสื้อผ้าที่อุ่นกว่าสำหรับเดือนธันวาคมอีกเล็กน้อย"
+          ],
+          "photo": "day-night",
+          "caption": "พระราชวังทอกซูกุงท่ามกลางหิมะ"
+        },
+        {
+          "h": "มืดตั้งแต่ราว 17.15 น.",
+          "p": [
+            "จากข้อมูลของสถาบันดาราศาสตร์และอวกาศเกาหลี (Korea Astronomy and Space Science Institute) ในเดือนธันวาคม 2026 ดวงอาทิตย์ตกที่โซลระหว่างเวลา 17.13 น. ถึง 17.23 น. พระอาทิตย์ตกเร็วที่สุดอยู่ในช่วงต้นเดือนธันวาคม และค่อยๆ ช้าลงเล็กน้อยเมื่อใกล้สิ้นเดือน ส่วนพระอาทิตย์ขึ้นอยู่ระหว่างเวลา 7.28 น. ถึง 7.47 น.",
+            "เมื่อรวมเวลาขึ้นและตก ช่วงกลางวันของโซลในเดือนธันวาคมสั้นกว่า 10 ชั่วโมง หากออกจากโรงแรมแต่เช้า ข้างนอกอาจยังสลัว การเริ่มจุดหมายแรกหลังพระอาทิตย์ขึ้นจะทำให้เดินได้สบายกว่า",
+            "เพราะกลางวันสั้น ให้รวมแผนกลางแจ้ง เช่น พระราชวังและตลาด ไว้ในช่วงบ่าย และวางแผนใช้เวลาช่วงเย็นในอาคาร หากต้องการถ่ายภาพพระอาทิตย์ตก ให้ตรวจเวลาพระอาทิตย์ตกของวันนั้นก่อนออกเดินทาง"
+          ],
+          "photo": "short-days",
+          "caption": "แม่น้ำฮันและยออีโดยามพระอาทิตย์ตก"
+        },
+        {
+          "h": "บางเช้าหนาวกว่านี้มาก",
+          "p": [
+            "ค่าปกติเป็นค่าเฉลี่ย จึงมีบางวันที่หนาวกว่านี้มาก หน่วยงานอุตุนิยมวิทยาของเกาหลีอาจออกประกาศเตือนคลื่นความเย็นเมื่อคาดว่าอุณหภูมิต่ำสุดตอนเช้าตั้งแต่ −12 °C ลงไปจะคงอยู่สองวันขึ้นไป หากมีประกาศเตือนระหว่างทริป อาจเป็นวันที่เหมาะกับการเปลี่ยนไปทำกิจกรรมในอาคาร",
+            "เดือนธันวาคมยังเป็นเดือนที่แห้งด้วย ปริมาณน้ำฝนปกติของโซลในเดือนธันวาคมอยู่ที่ 22.6 มม. น้อยกว่าครึ่งหนึ่งของเดือนพฤศจิกายนที่ 51.1 มม. ฝนและหิมะจึงน่ากังวลน้อยลง แต่อากาศแห้ง ควรพกลิปบาล์มและครีมบำรุงผิวไปด้วย"
+          ],
+          "photo": "cold-snaps",
+          "caption": "โซลมองจากภูเขาอินวางซานที่ปกคลุมด้วยหิมะ"
+        },
+        {
+          "h": "ใส่ซ้อนหลายชั้นดีกว่าชิ้นหนาชิ้นเดียว",
+          "p": [
+            "สวมโค้ตอุ่นหรือแจ็กเก็ตดาวน์ทับสเวตเตอร์หรือเสื้อฟลีซที่ถอดง่าย และพกผ้าพันคอกับถุงมือไปด้วย รถไฟใต้ดิน คาเฟ่ และร้านค้าในโซลเปิดเครื่องทำความร้อนอย่างดี จากอากาศหนาวข้างนอกจึงเปลี่ยนเป็นอบอุ่นได้ภายในไม่กี่นาทีหลังก้าวเข้าไป",
+            "นั่นคือเหตุผลที่เสื้อผ้าหลายชั้นที่ถอดออกได้เมื่ออยู่ในอาคารใช้งานได้ดีกว่าชุดหนามากชุดเดียว ในวันที่ต้องเดินกลางแจ้งมาก ให้เพิ่มของชิ้นเล็กที่พกง่าย เช่น หมวก",
+            "วันถัดจากหิมะตก น้ำแข็งอาจยังเกาะอยู่บนทางเดินและบันไดที่อยู่ในร่มเงา ควรสวมรองเท้าที่พื้นยึดเกาะดี และเดินช้าๆ บนทางเดินหิน เช่นที่พบในพระราชวัง"
+          ],
+          "photo": "pack",
+          "caption": "นักท่องเที่ยวเดินในพระราชวังคยองบกกุงที่เต็มไปด้วยหิมะ"
+        }
+      ],
+      "box": [
+        {
+          "k": "อุณหภูมิ",
+          "v": [
+            "เดือนธันวาคม สูงสุด 4.2 °C · ต่ำสุด −3.4 °C · ค่าเฉลี่ยรายเดือน 0.2 °C",
+            "เดือนมกราคม ต่ำสุด −5.5 °C (ค่าปกติของโซล สำนักงานอุตุนิยมวิทยาเกาหลี ปี 1991–2020)"
+          ]
+        },
+        {
+          "k": "แสงตอนกลางวัน",
+          "v": [
+            "พระอาทิตย์ตก 17.13–17.23 น. · พระอาทิตย์ขึ้น 7.28–7.47 น. (โซล ธันวาคม 2026)"
+          ]
+        },
+        {
+          "k": "ฝนและหิมะ",
+          "v": [
+            "ปริมาณน้ำฝนปกติเดือนธันวาคม 22.6 มม. น้อยกว่าครึ่งหนึ่งของเดือนพฤศจิกายน"
+          ]
+        },
+        {
+          "k": "คลื่นความเย็น",
+          "v": [
+            "อาจมีประกาศเตือนคลื่นความเย็นเมื่อคาดว่าอุณหภูมิต่ำสุดตอนเช้าตั้งแต่ −12 °C ลงไปจะคงอยู่สองวันขึ้นไป"
+          ]
+        },
+        {
+          "k": "ใน Trabbit",
+          "v": [
+            "ดูอุณหภูมิตามฤดูกาลและการแต่งกายได้ที่「สภาพอากาศและการแต่งกาย」และใช้「แผนที่รถไฟใต้ดิน」เพื่อเดินทางระหว่างจุดในอาคารที่อบอุ่น ทั้งสองอย่างใช้ได้ฟรี"
+          ]
+        }
+      ],
+      "outro": "เดินเที่ยวตอนกลางวัน เข้าอาคารเมื่อฟ้ามืด และแต่งตัวซ้อนหลายชั้น เดือนธันวาคมที่โซลขอจากคุณเพียงเท่านี้",
+      "sources": [
+        "สำนักงานอุตุนิยมวิทยาเกาหลี เอกสารเผยแพร่ค่าปกติภูมิอากาศชุดใหม่ ตารางรายเดือน (25 มีนาคม 2021 ตรวจสอบเมื่อวันที่ 9 พฤศจิกายน 2026)",
+        "สถาบันดาราศาสตร์และอวกาศเกาหลี เวลาพระอาทิตย์ขึ้นและตกรายเดือน โซล ธันวาคม 2026 (ตรวจสอบเมื่อวันที่ 22 พฤศจิกายน 2026)",
+        "สำนักงานอุตุนิยมวิทยาเกาหลี Weather Nuri เกณฑ์การออกประกาศเตือนภัยสภาพอากาศ (ตรวจสอบเมื่อวันที่ 22 พฤศจิกายน 2026)"
+      ],
+      "credit": "ภาพ: องค์การการท่องเที่ยวเกาหลี"
+    },
+    "vi": {
+      "title": "Tháng 12 ở Seoul quanh mức đóng băng: hãy chuẩn bị mặc nhiều lớp",
+      "summary": "Nhiệt độ ban ngày và ban đêm ở Seoul trong tháng 12 theo giá trị khí hậu bình thường chính thức của Hàn Quốc, giờ mặt trời lặn, ngưỡng cảnh báo đợt lạnh và những thứ nên mang theo.",
+      "hero_caption": "Cung Gyeongbokgung và trung tâm Seoul dưới tuyết",
+      "lead": [
+        "Tháng 12 ở Seoul lạnh hơn nhiều du khách tưởng, nhưng vẫn là tháng đẹp để đi bộ nếu bạn chuẩn bị kỹ. Giá trị bình thường của Cơ quan Khí tượng Hàn Quốc (Korea Meteorological Administration), dựa trên số liệu từ năm 1991 đến 2020, cho thấy nhiệt độ cao nhất trung bình của Seoul trong tháng 12 là 4,2 °C và thấp nhất trung bình là −3,4 °C. Trung bình cả tháng là 0,2 °C, nên suốt tháng thành phố ở quanh mức đóng băng.",
+        "Ngày cũng ngắn, và thỉnh thoảng có những buổi sáng lạnh hơn nhiều. Nếu Seoul nằm trong lịch trình tháng 12 của bạn, đây là những con số đáng biết và cách ăn mặc phù hợp."
+      ],
+      "sections": [
+        {
+          "h": "4 °C ban ngày, −3 °C ban đêm",
+          "p": [
+            "Nhiệt độ cao nhất bình thường của Seoul trong tháng 12 là 4,2 °C và thấp nhất bình thường là −3,4 °C. Đi bộ dưới nắng buổi chiều vẫn còn chịu được, nhưng khi mặt trời lặn nhiệt độ nhanh chóng xuống dưới 0. Với chênh lệch hơn 7 độ trong một ngày, nếu chỉ mặc cho buổi chiều thì đến tối bạn có thể bị lạnh.",
+            "So với tháng 11, sự thay đổi càng rõ hơn. Nhiệt độ cao nhất bình thường của Seoul trong tháng 11 là 11,9 °C và thấp nhất bình thường là 3,5 °C. Trong vòng một tháng, nhiệt độ ban ngày giảm hơn 7 độ và ban đêm xuống dưới 0. Nếu bạn đến vào cuối tháng 11 và ở lại sang tháng 12, hãy chuẩn bị đồ với dự tính thời tiết sẽ thay đổi giữa chuyến đi.",
+            "Tháng 1 còn lạnh hơn. Nhiệt độ thấp nhất bình thường của Seoul trong tháng 1 là −5,5 °C, với trung bình cả tháng là −1,9 °C. Nếu chuyến đi của bạn kéo dài qua dịp Năm Mới, hãy mang đồ ấm hơn một chút so với tháng 12."
+          ],
+          "photo": "day-night",
+          "caption": "Cung Deoksugung dưới tuyết"
+        },
+        {
+          "h": "Trời tối vào khoảng 17:15",
+          "p": [
+            "Theo Viện Thiên văn và Khoa học Vũ trụ Hàn Quốc (Korea Astronomy and Space Science Institute), mặt trời lặn ở Seoul trong khoảng từ 17:13 đến 17:23 vào tháng 12/2026. Mặt trời lặn sớm nhất vào đầu tháng 12, rồi dần muộn hơn một chút về cuối tháng. Mặt trời mọc trong khoảng từ 7:28 đến 7:47.",
+            "Cộng giờ mọc và lặn lại, ban ngày ở Seoul trong tháng 12 kéo dài chưa đầy 10 giờ. Nếu bạn rời khách sạn từ sớm, bên ngoài có thể vẫn còn mờ tối, nên bắt đầu điểm đến đầu tiên sau khi mặt trời mọc sẽ giúp việc đi bộ dễ chịu hơn.",
+            "Vì ngày ngắn, hãy gom các kế hoạch ngoài trời như cung điện và chợ vào buổi chiều, và dự định dành buổi tối trong nhà. Nếu muốn chụp ảnh hoàng hôn, hãy kiểm tra giờ mặt trời lặn của ngày hôm đó trước khi ra ngoài."
+          ],
+          "photo": "short-days",
+          "caption": "Sông Hàn và Yeouido lúc hoàng hôn"
+        },
+        {
+          "h": "Có những buổi sáng lạnh hơn nhiều",
+          "p": [
+            "Giá trị bình thường là số trung bình, nên có những ngày lạnh hơn nhiều. Cơ quan khí tượng Hàn Quốc có thể ban hành cảnh báo đợt lạnh khi nhiệt độ thấp nhất buổi sáng từ −12 °C trở xuống được dự báo kéo dài từ hai ngày trở lên. Nếu có cảnh báo trong chuyến đi, đó có thể là ngày thích hợp để chuyển sang kế hoạch trong nhà.",
+            "Tháng 12 cũng là tháng khô. Lượng mưa bình thường của Seoul trong tháng 12 là 22,6 mm, chưa bằng một nửa lượng 51,1 mm của tháng 11. Mưa và tuyết đỡ đáng lo hơn, nhưng không khí khô, nên đáng mang theo son dưỡng môi và kem dưỡng ẩm."
+          ],
+          "photo": "cold-snaps",
+          "caption": "Seoul nhìn từ núi Inwangsan phủ tuyết"
+        },
+        {
+          "h": "Nhiều lớp tốt hơn một chiếc áo dày",
+          "p": [
+            "Hãy mặc áo khoác ấm hoặc áo phao bên ngoài áo len hoặc áo nỉ dễ cởi, và mang theo khăn quàng cùng găng tay. Tàu điện ngầm, quán cà phê và cửa hàng ở Seoul đều sưởi ấm tốt, nên bạn có thể đi từ cái lạnh bên ngoài sang ấm áp chỉ vài phút sau khi bước vào.",
+            "Vì vậy, nhiều lớp áo có thể cởi bớt khi vào trong nhà hiệu quả hơn một bộ rất dày. Vào những ngày đi bộ ngoài trời nhiều, hãy thêm một món nhỏ gọn dễ mang như mũ.",
+            "Ngày sau khi tuyết rơi, băng có thể còn đọng trên các lối đi và cầu thang trong bóng râm. Hãy đi giày có đế bám tốt, và đi chậm trên những lối đi lát đá như trong các cung điện."
+          ],
+          "photo": "pack",
+          "caption": "Du khách đi bộ trong cung Gyeongbokgung phủ tuyết"
+        }
+      ],
+      "box": [
+        {
+          "k": "Nhiệt độ",
+          "v": [
+            "Tháng 12: cao nhất 4,2 °C · thấp nhất −3,4 °C · trung bình tháng 0,2 °C",
+            "Tháng 1: thấp nhất −5,5 °C (giá trị bình thường của Seoul, Cơ quan Khí tượng Hàn Quốc, 1991–2020)"
+          ]
+        },
+        {
+          "k": "Ánh sáng ban ngày",
+          "v": [
+            "Mặt trời lặn 17:13–17:23 · mặt trời mọc 7:28–7:47 (Seoul, tháng 12/2026)"
+          ]
+        },
+        {
+          "k": "Mưa và tuyết",
+          "v": [
+            "Lượng mưa bình thường tháng 12 là 22,6 mm, chưa bằng một nửa tháng 11"
+          ]
+        },
+        {
+          "k": "Đợt lạnh",
+          "v": [
+            "Có thể ban hành cảnh báo đợt lạnh khi nhiệt độ thấp nhất buổi sáng từ −12 °C trở xuống được dự báo kéo dài từ hai ngày trở lên"
+          ]
+        },
+        {
+          "k": "Trong Trabbit",
+          "v": [
+            "Kiểm tra nhiệt độ theo mùa và trang phục trong 「Thời tiết & Trang phục」, và dùng 「Sơ đồ tàu điện ngầm」 để di chuyển giữa các điểm trong nhà ấm áp. Cả hai đều miễn phí."
+          ]
+        }
+      ],
+      "outro": "Đi bộ ban ngày, vào trong nhà khi trời tối, và mặc nhiều lớp. Tháng 12 ở Seoul chỉ đòi hỏi bạn bấy nhiêu thôi.",
+      "sources": [
+        "Cơ quan Khí tượng Hàn Quốc, thông cáo báo chí về giá trị khí hậu bình thường mới, bảng theo tháng (25/3/2021, kiểm tra ngày 9/11/2026)",
+        "Viện Thiên văn và Khoa học Vũ trụ Hàn Quốc, giờ mặt trời mọc và lặn theo tháng, Seoul, tháng 12/2026 (kiểm tra ngày 22/11/2026)",
+        "Weather Nuri của Cơ quan Khí tượng Hàn Quốc, tiêu chí ban hành cảnh báo thời tiết (kiểm tra ngày 22/11/2026)"
+      ],
+      "credit": "Ảnh: Korea Tourism Organization"
+    },
+    "zh_cn": {
+      "title": "12月的首尔气温在0度上下，请用多层穿搭来应对",
+      "summary": "依据韩国气象厅平年值，整理12月首尔的白天和夜间气温、日落时间、寒潮预警标准，以及该带什么衣物。",
+      "hero_caption": "积雪的景福宫与首尔市中心",
+      "lead": [
+        "12月的首尔比想象中更冷，但只要做好准备，仍然是适合散步的月份。根据韩国气象厅以1991年至2020年记录整理的平年值，首尔12月白天最高气温平均为4.2度，夜间最低气温为零下3.4度。整月平均为0.2度，也就是在0度上下徘徊。",
+        "此外，白天很短，偶尔还会遇到特别冷的早晨。如果您12月要来首尔，这里整理了值得了解的数字和穿搭建议。"
+      ],
+      "sections": [
+        {
+          "h": "白天4度，夜晚零下3度",
+          "p": [
+            "首尔12月的平年最高气温是4.2度，最低气温是零下3.4度。白天在阳光下走路还能忍受，但太阳一落山，很快就降到零度以下。一天之内温差超过7度，如果只看白天的气温来挑衣服，到了傍晚可能会觉得冷。",
+            "和11月比较，变化更明显。首尔11月的平年最高气温是11.9度，最低气温是3.5度。一个月之内，白天气温下降超过7度，夜晚进入零下。如果您11月底抵达、一直待到12月，请按旅途中天气会变化来打包行李。",
+            "1月会更冷。首尔1月的平年最低气温是零下5.5度，整月平均是零下1.9度。如果您跨年旅行，请准备得比12月再厚一些。"
+          ],
+          "photo": "day-night",
+          "caption": "积雪的德寿宫"
+        },
+        {
+          "h": "下午5点15分左右天就黑了",
+          "p": [
+            "根据韩国天文研究院的资料，2026年12月首尔的日落时间在下午5点13分到5点23分之间。最早日落是在12月上旬，越接近年底越是一点一点推迟。日出时间在早上7点28分到7点47分之间。",
+            "把日出和日落时间对照来看，12月首尔的白天不足10个小时。即使一大早离开住处，外面可能还是昏暗的，所以把第一个行程安排在日出之后会更方便步行。",
+            "白天很短，所以像宫殿、市场这样要在户外走的行程最好集中安排在下午，日落之后则安排室内活动。如果想拍晚霞，请事先查好当天的日落时间再行动。"
+          ],
+          "photo": "short-days",
+          "caption": "黄昏时分的汉江与汝矣岛"
+        },
+        {
+          "h": "也会有特别冷的早晨",
+          "p": [
+            "平年值是平均值，所以有些日子会冷得多。当预计早晨最低气温在零下12度以下的日子持续两天以上时，韩国气象厅可能会发布寒潮预警。如果旅行期间发布了寒潮特报，当天把行程改为以室内为主，也是一个办法。",
+            "12月也是干燥的月份。首尔12月的平年降水量是22.6毫米，不到11月（51.1毫米）的一半。虽然不太需要担心下雨或下雪，但空气干燥，带上润唇膏或保湿霜会比较好。"
+          ],
+          "photo": "cold-snaps",
+          "caption": "从积雪的仁王山望见的首尔"
+        },
+        {
+          "h": "与其穿一件厚衣服，不如多层穿搭",
+          "p": [
+            "请在保暖的大衣或羽绒服里面，搭配容易穿脱的毛衣或抓绒衣。围巾和手套也建议带上。首尔的地铁、咖啡馆和商店暖气都很足，在外面觉得冷，一进室内很快就会觉得热。",
+            "所以与其穿一件很厚的衣服，不如穿好几层，进入室内后一件一件脱掉会更舒服。要在外面走很久的日子，可以再加上帽子这类可以小巧收纳的物品。",
+            "下雪后的第二天，背阴的路和楼梯上可能还留有冰。请穿鞋底防滑的鞋，在宫殿这类石板路很多的地方请慢慢走。"
+          ],
+          "photo": "pack",
+          "caption": "在积雪的景福宫中漫步的游客"
+        }
+      ],
+      "box": [
+        {
+          "k": "气温",
+          "v": [
+            "12月 白天最高4.2℃ · 夜间最低-3.4℃ · 月平均0.2℃",
+            "1月最低-5.5℃（韩国气象厅首尔平年值，1991～2020年）"
+          ]
+        },
+        {
+          "k": "太阳",
+          "v": [
+            "日落下午5:13～5:23 · 日出上午7:28～7:47（2026年12月 首尔）"
+          ]
+        },
+        {
+          "k": "雨·雪",
+          "v": [
+            "12月平年降水量22.6mm，不到11月的一半"
+          ]
+        },
+        {
+          "k": "寒潮",
+          "v": [
+            "预计早晨最低气温-12℃以下持续两天以上时，可能发布寒潮预警"
+          ]
+        },
+        {
+          "k": "在Trabbit中",
+          "v": [
+            "在“天气与穿搭”中查看各季节的气温和穿搭，用“地铁线路图”查找温暖的室内换乘路线。两者都是免费的。"
+          ]
+        }
+      ],
+      "outro": "白天走路，日落后进室内，衣服多层穿。12月的首尔，这样准备就足够了。",
+      "sources": [
+        "韩国气象厅《新气候平年值》新闻稿 月度表（2021年3月25日，2026年11月9日确认）",
+        "韩国天文研究院 月度日出日落时间，首尔2026年12月（2026年11月22日确认）",
+        "韩国气象厅 天气网 气象特报发布标准（2026年11月22日确认）"
+      ],
+      "credit": "照片：韩国观光公社"
+    },
+    "zh_tw": {
+      "title": "12月的首爾氣溫在0度上下，請用多層穿搭來應對",
+      "summary": "依據韓國氣象廳平年值，整理12月首爾的白天和夜間氣溫、日落時間、寒流注意報標準，以及該帶什麼衣物。",
+      "hero_caption": "積雪的景福宮與首爾市中心",
+      "lead": [
+        "12月的首爾比想像中更冷，但只要做好準備，仍然是適合散步的月份。根據韓國氣象廳以1991年至2020年紀錄整理的平年值，首爾12月白天最高氣溫平均為4.2度，夜間最低氣溫為零下3.4度。整月平均為0.2度，也就是在0度上下徘徊。",
+        "此外，白天很短，偶爾還會遇到特別冷的早晨。如果您12月要來首爾，這裡整理了值得了解的數字和穿搭建議。"
+      ],
+      "sections": [
+        {
+          "h": "白天4度，夜晚零下3度",
+          "p": [
+            "首爾12月的平年最高氣溫是4.2度，最低氣溫是零下3.4度。白天在陽光下走路還能忍受，但太陽一落山，很快就降到零度以下。一天之內溫差超過7度，如果只看白天的氣溫來挑衣服，到了傍晚可能會覺得冷。",
+            "和11月比較，變化更明顯。首爾11月的平年最高氣溫是11.9度，最低氣溫是3.5度。一個月之內，白天氣溫下降超過7度，夜晚進入零下。如果您11月底抵達、一直待到12月，請按旅途中天氣會變化來打包行李。",
+            "1月會更冷。首爾1月的平年最低氣溫是零下5.5度，整月平均是零下1.9度。如果您跨年旅行，請準備得比12月再厚一些。"
+          ],
+          "photo": "day-night",
+          "caption": "積雪的德壽宮"
+        },
+        {
+          "h": "下午5點15分左右天就黑了",
+          "p": [
+            "根據韓國天文研究院的資料，2026年12月首爾的日落時間在下午5點13分到5點23分之間。最早日落是在12月上旬，越接近年底越是一點一點延後。日出時間在早上7點28分到7點47分之間。",
+            "把日出和日落時間對照來看，12月首爾的白天不足10個小時。即使一大早離開住處，外面可能還是昏暗的，所以把第一個行程安排在日出之後會更方便步行。",
+            "白天很短，所以像宮殿、市場這樣要在戶外走的行程最好集中安排在下午，日落之後則安排室內活動。如果想拍晚霞，請事先查好當天的日落時間再行動。"
+          ],
+          "photo": "short-days",
+          "caption": "黃昏時分的漢江與汝矣島"
+        },
+        {
+          "h": "也會有特別冷的早晨",
+          "p": [
+            "平年值是平均值，所以有些日子會冷得多。當預計早晨最低氣溫在零下12度以下的日子持續兩天以上時，韓國氣象廳可能會發布寒流注意報。如果旅行期間發布了寒流特報，當天把行程改為以室內為主，也是一個辦法。",
+            "12月也是乾燥的月份。首爾12月的平年降水量是22.6毫米，不到11月（51.1毫米）的一半。雖然不太需要擔心下雨或下雪，但空氣乾燥，帶上護唇膏或保濕乳會比較好。"
+          ],
+          "photo": "cold-snaps",
+          "caption": "從積雪的仁王山望見的首爾"
+        },
+        {
+          "h": "與其穿一件厚衣服，不如多層穿搭",
+          "p": [
+            "請在保暖的大衣或羽絨外套裡面，搭配容易穿脫的毛衣或刷毛衣。圍巾和手套也建議帶上。首爾的地鐵、咖啡廳和商店暖氣都很足，在外面覺得冷，一進室內很快就會覺得熱。",
+            "所以與其穿一件很厚的衣服，不如穿好幾層，進入室內後一件一件脫掉會更舒服。要在外面走很久的日子，可以再加上帽子這類可以小巧收納的物品。",
+            "下雪後的隔天，背陰的路和樓梯上可能還留有結冰。請穿鞋底防滑的鞋，在宮殿這類石板路很多的地方請慢慢走。"
+          ],
+          "photo": "pack",
+          "caption": "在積雪的景福宮中漫步的旅客"
+        }
+      ],
+      "box": [
+        {
+          "k": "氣溫",
+          "v": [
+            "12月 白天最高4.2℃ · 夜間最低-3.4℃ · 月平均0.2℃",
+            "1月最低-5.5℃（韓國氣象廳首爾平年值，1991～2020年）"
+          ]
+        },
+        {
+          "k": "太陽",
+          "v": [
+            "日落下午5:13～5:23 · 日出上午7:28～7:47（2026年12月 首爾）"
+          ]
+        },
+        {
+          "k": "雨·雪",
+          "v": [
+            "12月平年降水量22.6mm，不到11月的一半"
+          ]
+        },
+        {
+          "k": "寒流",
+          "v": [
+            "預計早晨最低氣溫-12℃以下持續兩天以上時，可能發布寒流注意報"
+          ]
+        },
+        {
+          "k": "在Trabbit中",
+          "v": [
+            "在「天氣與穿搭」中查看各季節的氣溫和穿搭，用「地鐵路線圖」查找溫暖的室內轉乘路線。兩者都是免費的。"
+          ]
+        }
+      ],
+      "outro": "白天走路，日落後進室內，衣服多層穿。12月的首爾，這樣準備就足夠了。",
+      "sources": [
+        "韓國氣象廳《新氣候平年值》新聞稿 月度表（2021年3月25日，2026年11月9日確認）",
+        "韓國天文研究院 月度日出日落時間，首爾2026年12月（2026年11月22日確認）",
+        "韓國氣象廳 天氣網 氣象特報發布標準（2026年11月22日確認）"
+      ],
+      "credit": "照片：韓國觀光公社"
+    }
+  }
+}
