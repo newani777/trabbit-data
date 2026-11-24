@@ -52,6 +52,9 @@ for _s in (sys.stdout, sys.stderr):
         pass
 
 API = "http://kopis.or.kr/openApi/restful/pblprfr"
+# 2026-11-20부터 KOPIS 방화벽이 파이썬 기본 머리말(Python-urllib)을 「Request Blocked」(400)로 막는다.
+# 같은 요청도 이름을 달면 정상(11-24 확인) → 모든 KOPIS 호출에 붙인다.
+HEADERS = {"User-Agent": "TrabbitDataBot/1.0 (+https://github.com/newani777/trabbit-data)"}
 SEOUL = "11"
 GENRE_NAME = "대중음악"
 OUT = os.path.join("assets", "data", "kpop_shows.json")
@@ -115,8 +118,8 @@ def venue_ids(key):
     out = {}
     for page in range(1, 30):
         q = {"service": key, "cpage": page, "rows": ROWS, "signgucode": SEOUL}
-        with urllib.request.urlopen(
-                PLC_LIST + "?" + urllib.parse.urlencode(q), timeout=20) as r:
+        with urllib.request.urlopen(urllib.request.Request(
+                PLC_LIST + "?" + urllib.parse.urlencode(q), headers=HEADERS), timeout=20) as r:
             got = parse(r.read().decode("utf-8"))
         for g in got:
             if g.get("fcltynm") and g.get("mt10id"):
@@ -131,7 +134,7 @@ def venue_seats(key, mt10id):
     작은 홀 여러 개를 합쳐 1,000석이 넘는 복합 공연장이 큰 공연장으로
     둔갑하는 것을 막으려는 것이다."""
     url = f"{PLC_LIST}/{mt10id}?service={key}"
-    with urllib.request.urlopen(url, timeout=20) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=20) as r:
         root = ET.fromstring(r.read().decode("utf-8"))
     best = 0
     for el in root.iter("mt13"):
@@ -164,7 +167,7 @@ def show_relates(key, mt20id):
     """공연 상세의 예매처 [{"n": 이름, "u": 주소}]. 앱은 첫 번째를 바깥 브라우저로 연다
     (그래서 http 주소도 그대로 둔다 — 평문 차단은 앱 안 통신에만 걸린다)."""
     url = f"{API}/{mt20id}?service={key}"
-    with urllib.request.urlopen(url, timeout=20) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=20) as r:
         root = ET.fromstring(r.read().decode("utf-8"))
     out = []
     for rel in root.iter("relate"):
@@ -183,7 +186,7 @@ def fetch_page(key, stdate, eddate, page, genre=None):
     if genre:
         q["shcate"] = genre
     url = API + "?" + urllib.parse.urlencode(q)
-    with urllib.request.urlopen(url, timeout=20) as r:
+    with urllib.request.urlopen(urllib.request.Request(url, headers=HEADERS), timeout=20) as r:
         return r.read().decode("utf-8")
 
 
