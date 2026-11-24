@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261124",
+  "fetched": "20261125",
   "source": "KOPIS",
   "shows": [
     {
@@ -408,7 +408,7 @@
       "from": "2026.11.24",
       "to": "2026.11.24",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304690_261028_133312.jpg",
-      "state": "공연중",
+      "state": "공연완료",
       "seats": 1051,
       "book": [
         {
@@ -1126,7 +1126,25 @@
       "to": "2026.12.20",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306995_261119_145833.jpg",
       "state": "공연예정",
-      "seats": 2222
+      "seats": 2222,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/67120"
+        },
+        {
+          "n": "네이버N예약",
+          "u": "https://booking.naver.com/booking/12/bizes/1782585"
+        },
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26016677"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/61200"
+        }
+      ]
     },
     {
       "id": "PF298903",
@@ -1340,6 +1358,23 @@
         {
           "n": "놀유니버스",
           "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010350"
+        }
+      ]
+    },
+    {
+      "id": "PF307364",
+      "name": "CRUSH CONCERT: CRUSH H♥UR",
+      "venue": "올림픽공원",
+      "venue_en": "Olympic Park",
+      "from": "2026.12.25",
+      "to": "2026.12.27",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF307364_261124_144943.jpg",
+      "state": "공연예정",
+      "seats": 15000,
+      "book": [
+        {
+          "n": "NHN티켓링크",
+          "u": "http://www.ticketlink.co.kr/product/66999"
         }
       ]
     },
