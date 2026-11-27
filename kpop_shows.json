@@ -4,7 +4,7 @@
     "202611",
     "202612"
   ],
-  "fetched": "20261127",
+  "fetched": "20261128",
   "source": "KOPIS",
   "shows": [
     {
@@ -417,7 +417,7 @@
       "from": "2026.11.28",
       "to": "2026.11.28",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304768_261028_165300.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 4507,
       "book": [
         {
@@ -434,7 +434,7 @@
       "from": "2026.11.28",
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304113_261022_104747.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 1766,
       "book": [
         {
@@ -451,7 +451,7 @@
       "from": "2026.11.28",
       "to": "2026.11.29",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303810_261019_155712.jpg",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 2222,
       "book": [
         {
@@ -468,7 +468,7 @@
       "from": "2026.11.28",
       "to": "2026.11.28",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302147_260930_144321.gif",
-      "state": "공연예정",
+      "state": "공연중",
       "seats": 2505,
       "book": [
         {
@@ -916,7 +916,13 @@
       "to": "2026.12.15",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF307593_261126_162718.png",
       "state": "공연예정",
-      "seats": 1627
+      "seats": 1627,
+      "book": [
+        {
+          "n": "공기",
+          "u": "https://dash.gongki.com/reserve?eventId=1795573316"
+        }
+      ]
     },
     {
       "id": "PF307107",
@@ -1621,15 +1627,46 @@
       ]
     },
     {
+      "id": "PF307620",
+      "name": "Hey: Day COUNTDOWN PARTY",
+      "venue": "문화비축기지",
+      "venue_en": "Oil Tank Culture Park",
+      "from": "2026.12.31",
+      "to": "2027.01.01",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF307620_261127_095345.jpg",
+      "state": "공연예정",
+      "seats": 10000,
+      "book": [
+        {
+          "n": "멜론티켓",
+          "u": "https://ticket.melon.com/performance/index.htm?prodId=214426"
+        }
+      ]
+    },
+    {
       "id": "PF307588",
-      "name": "원미연 송년 콘서트: Happy New Year!",
+      "name": "원미연의 송년 콘서트: Happy New Year!",
       "venue": "세종문화회관",
       "venue_en": "Sejong Center",
       "from": "2026.12.31",
       "to": "2026.12.31",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF307588_261126_161457.png",
       "state": "공연예정",
-      "seats": 3022
+      "seats": 3022,
+      "book": [
+        {
+          "n": "놀유니버스",
+          "u": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004951"
+        },
+        {
+          "n": "세종문화회관",
+          "u": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37889&menuNo=200320"
+        },
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/61303"
+        }
+      ]
     },
     {
       "id": "PF307532",
@@ -1640,7 +1677,13 @@
       "to": "2027.01.01",
       "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF307532_261126_133004.jpg",
       "state": "공연예정",
-      "seats": 1051
+      "seats": 1051,
+      "book": [
+        {
+          "n": "예스24",
+          "u": "https://ticket.yes24.com/Perf/60860"
+        }
+      ]
     },
     {
       "id": "PF306868",
